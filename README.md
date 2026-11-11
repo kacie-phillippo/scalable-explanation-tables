@@ -1,6 +1,6 @@
 # Scalable and Hierarchy-Aware Explanation Tables
 
-This repository contains the MINE_FWUIS implementation and prepared datasets for the paper *Scalable and Hierarchy-Aware Explanation Tables*, submitted to the 43rd IEEE International Conference on Data Engineering (ICDE), Research track.
+This repository contains the MINE_FWUIS implementation and prepared datasets for the solution described in the paper *Scalable and Hierarchy-Aware Explanation Tables*.
 
 Explanation tables describe differences in an outcome through a compact collection of patterns and their subgroup statistics. A pattern specifies a value or the wildcard symbol `*` for each dimension attribute; a wildcard matches all values of its attribute. Each pattern is associated with its aggregate value and support (how many records it covers).
 
