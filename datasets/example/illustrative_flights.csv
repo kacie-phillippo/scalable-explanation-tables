@@ -1,0 +1,16 @@
+ID,DayOfWeek,Destination,DepartureTime,Distance,True,Predicted,Error
+1,Monday,Austin,12:50,1447,1,0,1
+2,Saturday,Phoenix,23:15,2454,1,0,1
+3,Saturday,Austin,17:57,1242,0,1,1
+4,Monday,Boston,18:16,1592,1,1,0
+5,Sunday,Austin,22:35,2052,1,0,1
+6,Friday,Phoenix,07:00,2463,0,0,0
+7,Friday,Boston,18:10,1211,1,1,0
+8,Saturday,Phoenix,12:43,2288,1,1,0
+9,Sunday,Austin,09:59,1283,0,1,1
+10,Monday,Boston,10:10,1363,1,1,0
+11,Sunday,Phoenix,23:04,2218,1,0,1
+12,Friday,Boston,22:43,1911,0,0,0
+13,Friday,Austin,18:45,1489,1,1,0
+14,Friday,Phoenix,22:20,370,0,1,1
+15,Sunday,Austin,19:45,630,0,0,0

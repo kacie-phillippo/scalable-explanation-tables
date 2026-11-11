@@ -1,0 +1,3 @@
+feature,node,parent,members,lower,upper,closed
+Ethnic_Code_Text,White,,"[""Caucasian""]",,,
+Ethnic_Code_Text,Not White,,"[""African-American"", ""Asian"", ""Hispanic"", ""Native American"", ""Other""]",,,

@@ -1,0 +1,3265 @@
+DayOfWeek,Operating_Airline,Dest,DestCityName,CRSDepTime,AirTime,Distance,Delayed
+Thursday,AS,SEA,"Seattle, WA",19:47,141.00,954.00,0.00
+Saturday,OO,SFO,"San Francisco, CA",16:06,53.00,337.00,1.00
+Sunday,UA,IAH,"Houston, TX",15:20,170.00,1379.00,0.00
+Monday,OO,SEA,"Seattle, WA",12:45,126.00,954.00,1.00
+Wednesday,UA,LAS,"Las Vegas, NV",10:50,44.00,236.00,0.00
+Wednesday,OO,BOI,"Boise, ID",19:57,97.00,674.00,0.00
+Friday,WN,MDW,"Chicago, IL",16:45,208.00,1751.00,0.00
+Sunday,DL,SEA,"Seattle, WA",14:05,127.00,954.00,0.00
+Tuesday,WN,SFO,"San Francisco, CA",06:20,57.00,337.00,0.00
+Saturday,AA,ORD,"Chicago, IL",06:04,201.00,1744.00,0.00
+Friday,QX,GEG,"Spokane, WA",12:48,129.00,945.00,1.00
+Thursday,OO,BOI,"Boise, ID",19:45,99.00,674.00,0.00
+Thursday,QX,SFO,"San Francisco, CA",06:13,54.00,337.00,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",07:35,94.00,590.00,0.00
+Saturday,DL,ATL,"Atlanta, GA",08:15,232.00,1947.00,0.00
+Saturday,DL,DFW,"Dallas/Fort Worth, TX",18:55,148.00,1235.00,0.00
+Wednesday,OO,SFO,"San Francisco, CA",11:31,61.00,337.00,1.00
+Wednesday,WN,ELP,"El Paso, TX",11:30,91.00,715.00,0.00
+Monday,AA,PHL,"Philadelphia, PA",10:36,288.00,2402.00,0.00
+Thursday,WN,LAS,"Las Vegas, NV",17:05,41.00,236.00,1.00
+Saturday,UA,IAH,"Houston, TX",06:47,173.00,1379.00,0.00
+Tuesday,F9,SFO,"San Francisco, CA",18:04,57.00,337.00,0.00
+Thursday,DL,SFO,"San Francisco, CA",21:00,55.00,337.00,0.00
+Saturday,DL,DEN,"Denver, CO",19:59,112.00,862.00,0.00
+Tuesday,DL,PDX,"Portland, OR",20:39,106.00,833.00,0.00
+Saturday,AA,MCO,"Orlando, FL",21:41,263.00,2218.00,0.00
+Friday,DL,MSP,"Minneapolis, MN",08:25,185.00,1535.00,1.00
+Saturday,UA,IAD,"Washington, DC",23:20,265.00,2288.00,0.00
+Saturday,QX,MFR,"Medford, OR",12:51,85.00,630.00,0.00
+Wednesday,WN,BWI,"Baltimore, MD",11:45,249.00,2329.00,1.00
+Wednesday,OO,OKC,"Oklahoma City, OK",17:22,144.00,1187.00,0.00
+Thursday,UA,EWR,"Newark, NJ",23:15,263.00,2454.00,1.00
+Wednesday,OO,ABQ,"Albuquerque, NM",14:34,91.00,677.00,0.00
+Sunday,AA,PHX,"Phoenix, AZ",16:40,59.00,370.00,0.00
+Saturday,OO,RDM,"Bend/Redmond, OR",20:20,102.00,726.00,0.00
+Wednesday,DL,DFW,"Dallas/Fort Worth, TX",08:50,156.00,1235.00,0.00
+Wednesday,DL,PDX,"Portland, OR",20:39,116.00,833.00,0.00
+Thursday,DL,SEA,"Seattle, WA",19:59,148.00,954.00,1.00
+Friday,OO,ABQ,"Albuquerque, NM",14:34,94.00,677.00,0.00
+Sunday,DL,TPA,"Tampa, FL",10:30,242.00,2158.00,0.00
+Thursday,OO,RNO,"Reno, NV",21:59,61.00,390.00,0.00
+Saturday,AS,OGG,"Kahului, HI",10:02,292.00,2485.00,0.00
+Friday,UA,HNL,"Honolulu, HI",17:00,318.00,2556.00,0.00
+Thursday,B6,JFK,"New York, NY",23:59,289.00,2475.00,1.00
+Monday,AA,CLT,"Charlotte, NC",22:00,253.00,2125.00,0.00
+Monday,B6,JFK,"New York, NY",08:06,298.00,2475.00,0.00
+Monday,WN,AUS,"Austin, TX",11:15,158.00,1242.00,0.00
+Monday,WN,AUS,"Austin, TX",11:15,148.00,1242.00,1.00
+Saturday,F9,PDX,"Portland, OR",09:20,115.00,833.00,0.00
+Saturday,UA,SFO,"San Francisco, CA",20:22,55.00,337.00,0.00
+Thursday,AA,LAS,"Las Vegas, NV",20:19,44.00,236.00,0.00
+Tuesday,DL,SEA,"Seattle, WA",17:32,144.00,954.00,0.00
+Tuesday,DL,MSY,"New Orleans, LA",13:00,197.00,1671.00,1.00
+Tuesday,OO,SJC,"San Jose, CA",07:58,54.00,308.00,0.00
+Friday,OO,DEN,"Denver, CO",14:19,113.00,862.00,0.00
+Sunday,OO,MFR,"Medford, OR",21:48,89.00,630.00,0.00
+Thursday,QX,MFR,"Medford, OR",10:04,88.00,630.00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",09:30,54.00,337.00,1.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",11:10,165.00,1235.00,1.00
+Sunday,WN,SFO,"San Francisco, CA",13:25,53.00,337.00,0.00
+Sunday,UA,DEN,"Denver, CO",18:32,107.00,862.00,0.00
+Sunday,UA,SMF,"Sacramento, CA",19:09,59.00,373.00,0.00
+Friday,QX,GEG,"Spokane, WA",12:48,132.00,945.00,0.00
+Monday,UA,MCO,"Orlando, FL",23:04,284.00,2218.00,0.00
+Sunday,UA,IAH,"Houston, TX",10:18,162.00,1379.00,0.00
+Wednesday,OO,STS,"Santa Rosa, CA",09:25,73.00,399.00,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",13:02,268.00,2343.00,0.00
+Tuesday,UA,DEN,"Denver, CO",16:10,102.00,862.00,1.00
+Sunday,UA,BWI,"Baltimore, MD",09:00,261.00,2329.00,0.00
+Wednesday,DL,BOS,"Boston, MA",15:35,287.00,2611.00,0.00
+Sunday,F9,ATL,"Atlanta, GA",13:52,214.00,1947.00,0.00
+Sunday,AA,JFK,"New York, NY",15:35,285.00,2475.00,0.00
+Friday,WN,DAL,"Dallas, TX",10:45,149.00,1246.00,1.00
+Tuesday,OO,STS,"Santa Rosa, CA",22:13,63.00,399.00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",16:40,164.00,1235.00,0.00
+Friday,WN,MDW,"Chicago, IL",23:55,208.00,1751.00,0.00
+Friday,WN,OAK,"Oakland, CA",09:15,55.00,337.00,1.00
+Thursday,DL,DTW,"Detroit, MI",22:35,237.00,1979.00,0.00
+Tuesday,OO,DEN,"Denver, CO",14:30,116.00,862.00,0.00
+Thursday,UA,LIH,"Lihue, HI",08:33,321.00,2615.00,0.00
+Monday,AA,OGG,"Kahului, HI",17:19,315.00,2485.00,0.00
+Tuesday,DL,PDX,"Portland, OR",17:00,103.00,833.00,0.00
+Friday,B6,BOS,"Boston, MA",07:00,297.00,2611.00,0.00
+Wednesday,UA,ORD,"Chicago, IL",08:15,211.00,1744.00,0.00
+Tuesday,AA,BOS,"Boston, MA",12:10,301.00,2611.00,0.00
+Friday,OO,BOI,"Boise, ID",18:57,99.00,674.00,0.00
+Wednesday,OO,SBA,"Santa Barbara, CA",12:40,22.00,89.00,0.00
+Sunday,OO,SFO,"San Francisco, CA",11:31,55.00,337.00,1.00
+Thursday,AA,MIA,"Miami, FL",13:50,262.00,2342.00,0.00
+Sunday,AA,BNA,"Nashville, TN",10:38,201.00,1798.00,1.00
+Monday,WN,DAL,"Dallas, TX",18:30,162.00,1246.00,1.00
+Sunday,AS,PDX,"Portland, OR",14:17,125.00,833.00,0.00
+Saturday,AA,PHX,"Phoenix, AZ",18:46,64.00,370.00,0.00
+Sunday,F9,DEN,"Denver, CO",20:59,106.00,862.00,0.00
+Tuesday,OO,SBA,"Santa Barbara, CA",22:45,28.00,89.00,0.00
+Monday,WN,DEN,"Denver, CO",15:45,111.00,862.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",16:35,63.00,370.00,0.00
+Wednesday,OO,SFO,"San Francisco, CA",17:45,74.00,337.00,0.00
+Saturday,AA,LAS,"Las Vegas, NV",20:19,46.00,236.00,0.00
+Sunday,DL,DEN,"Denver, CO",14:09,106.00,862.00,0.00
+Monday,DL,PDX,"Portland, OR",07:35,118.00,833.00,0.00
+Monday,AA,LAS,"Las Vegas, NV",12:55,45.00,236.00,0.00
+Friday,F9,ORD,"Chicago, IL",00:26,205.00,1744.00,0.00
+Monday,OO,XNA,"Fayetteville, AR",17:49,179.00,1371.00,1.00
+Tuesday,DL,SLC,"Salt Lake City, UT",13:16,83.00,590.00,0.00
+Sunday,UA,FAT,"Fresno, CA",16:48,39.00,209.00,0.00
+Sunday,OO,SMF,"Sacramento, CA",20:45,64.00,373.00,0.00
+Friday,OO,MRY,"Monterey, CA",10:27,47.00,266.00,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",12:15,150.00,1235.00,0.00
+Tuesday,AS,SEA,"Seattle, WA",19:47,129.00,954.00,0.00
+Saturday,OO,ELP,"El Paso, TX",20:05,93.00,715.00,0.00
+Wednesday,AS,SEA,"Seattle, WA",08:00,147.00,954.00,0.00
+Wednesday,AA,MCO,"Orlando, FL",10:56,265.00,2218.00,1.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",23:59,150.00,1235.00,1.00
+Monday,AA,IND,"Indianapolis, IN",10:35,222.00,1814.00,0.00
+Wednesday,F9,IAH,"Houston, TX",09:45,171.00,1379.00,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",06:00,161.00,1235.00,0.00
+Tuesday,WN,SJC,"San Jose, CA",06:15,50.00,308.00,0.00
+Friday,DL,MSP,"Minneapolis, MN",08:25,184.00,1535.00,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",09:55,85.00,590.00,0.00
+Friday,UA,IAD,"Washington, DC",06:00,280.00,2288.00,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",07:35,79.00,590.00,0.00
+Saturday,OO,SEA,"Seattle, WA",20:00,129.00,954.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",23:59,146.00,1235.00,0.00
+Thursday,DL,MSY,"New Orleans, LA",11:10,199.00,1671.00,1.00
+Sunday,DL,SLC,"Salt Lake City, UT",09:55,79.00,590.00,0.00
+Friday,DL,FLL,"Fort Lauderdale, FL",22:40,255.00,2343.00,0.00
+Monday,DL,BOS,"Boston, MA",10:45,302.00,2611.00,0.00
+Thursday,WN,BNA,"Nashville, TN",07:10,211.00,1798.00,0.00
+Wednesday,UA,IAH,"Houston, TX",06:47,168.00,1379.00,0.00
+Wednesday,OO,TUS,"Tucson, AZ",15:05,72.00,451.00,0.00
+Tuesday,UA,MCO,"Orlando, FL",23:04,264.00,2218.00,0.00
+Tuesday,AA,HNL,"Honolulu, HI",18:52,315.00,2556.00,0.00
+Saturday,OO,SMF,"Sacramento, CA",18:30,61.00,373.00,0.00
+Saturday,DL,MSP,"Minneapolis, MN",11:26,188.00,1535.00,1.00
+Friday,AA,JFK,"New York, NY",06:00,297.00,2475.00,0.00
+Saturday,DL,AUS,"Austin, TX",07:35,151.00,1242.00,0.00
+Thursday,OO,EUG,"Eugene, OR",17:43,106.00,748.00,0.00
+Friday,OO,SMF,"Sacramento, CA",09:10,61.00,373.00,0.00
+Wednesday,DL,MSP,"Minneapolis, MN",23:59,178.00,1535.00,0.00
+Thursday,UA,DEN,"Denver, CO",05:00,118.00,862.00,0.00
+Sunday,OO,SUN,"Sun Valley/Hailey/Ketchum, ID",10:02,106.00,696.00,0.00
+Sunday,OO,DEN,"Denver, CO",07:30,120.00,862.00,0.00
+Wednesday,UA,SMF,"Sacramento, CA",19:09,66.00,373.00,0.00
+Sunday,DL,BOS,"Boston, MA",15:25,298.00,2611.00,0.00
+Friday,F9,DEN,"Denver, CO",20:59,117.00,862.00,0.00
+Wednesday,AA,ORD,"Chicago, IL",01:01,199.00,1744.00,0.00
+Thursday,AA,PHX,"Phoenix, AZ",19:44,64.00,370.00,1.00
+Thursday,DL,SLC,"Salt Lake City, UT",05:50,88.00,590.00,0.00
+Tuesday,AA,JFK,"New York, NY",12:30,293.00,2475.00,0.00
+Thursday,WN,PHX,"Phoenix, AZ",17:30,62.00,370.00,1.00
+Wednesday,DL,DTW,"Detroit, MI",21:35,225.00,1979.00,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",10:30,161.00,1235.00,0.00
+Monday,DL,MSP,"Minneapolis, MN",15:00,167.00,1535.00,1.00
+Sunday,OO,PHX,"Phoenix, AZ",13:41,61.00,370.00,0.00
+Tuesday,WN,OAK,"Oakland, CA",16:55,53.00,337.00,1.00
+Wednesday,DL,IND,"Indianapolis, IN",08:30,199.00,1814.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",21:00,268.00,2454.00,0.00
+Saturday,WN,TPA,"Tampa, FL",10:30,254.00,2158.00,0.00
+Friday,AA,ORD,"Chicago, IL",09:31,208.00,1744.00,0.00
+Sunday,AS,SEA,"Seattle, WA",19:47,132.00,954.00,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",12:40,185.00,1535.00,0.00
+Sunday,OO,TUS,"Tucson, AZ",19:25,71.00,451.00,0.00
+Saturday,AA,ORD,"Chicago, IL",08:00,238.00,1744.00,0.00
+Sunday,WN,LAS,"Las Vegas, NV",11:10,45.00,236.00,0.00
+Tuesday,OO,SBA,"Santa Barbara, CA",12:40,25.00,89.00,1.00
+Friday,WN,LAS,"Las Vegas, NV",21:40,43.00,236.00,1.00
+Saturday,UA,IAD,"Washington, DC",22:10,269.00,2288.00,0.00
+Sunday,WN,SMF,"Sacramento, CA",05:15,66.00,373.00,0.00
+Monday,OO,SJC,"San Jose, CA",20:45,49.00,308.00,0.00
+Friday,F9,DEN,"Denver, CO",06:30,109.00,862.00,0.00
+Tuesday,DL,JFK,"New York, NY",06:00,270.00,2475.00,0.00
+Saturday,AA,PHX,"Phoenix, AZ",16:32,60.00,370.00,0.00
+Sunday,AS,HNL,"Honolulu, HI",07:00,326.00,2556.00,0.00
+Saturday,AS,HNL,"Honolulu, HI",10:00,304.00,2556.00,1.00
+Sunday,AS,LIH,"Lihue, HI",09:46,322.00,2615.00,0.00
+Tuesday,UA,SFO,"San Francisco, CA",10:15,60.00,337.00,1.00
+Wednesday,WN,AUS,"Austin, TX",12:55,147.00,1242.00,1.00
+Friday,DL,BOS,"Boston, MA",10:50,288.00,2611.00,0.00
+Saturday,AA,MIA,"Miami, FL",23:59,257.00,2342.00,1.00
+Saturday,UA,IAH,"Houston, TX",08:15,168.00,1379.00,0.00
+Friday,WN,LAS,"Las Vegas, NV",21:40,48.00,236.00,0.00
+Sunday,UA,ORD,"Chicago, IL",10:52,203.00,1744.00,0.00
+Sunday,WN,LAS,"Las Vegas, NV",11:10,41.00,236.00,0.00
+Friday,WN,LAS,"Las Vegas, NV",09:50,45.00,236.00,0.00
+Wednesday,DL,ATL,"Atlanta, GA",13:20,229.00,1947.00,0.00
+Thursday,WN,PHX,"Phoenix, AZ",17:30,61.00,370.00,0.00
+Friday,WN,SJC,"San Jose, CA",17:00,49.00,308.00,1.00
+Wednesday,OO,FAT,"Fresno, CA",21:31,41.00,209.00,0.00
+Sunday,UA,ORD,"Chicago, IL",07:00,220.00,1744.00,0.00
+Saturday,AS,SEA,"Seattle, WA",12:54,120.00,954.00,0.00
+Sunday,UA,ORD,"Chicago, IL",10:45,200.00,1744.00,1.00
+Thursday,WN,BWI,"Baltimore, MD",21:50,268.00,2329.00,1.00
+Saturday,AA,BNA,"Nashville, TN",10:51,210.00,1798.00,0.00
+Friday,OO,RNO,"Reno, NV",12:56,65.00,390.00,0.00
+Monday,OO,SMF,"Sacramento, CA",14:00,59.00,373.00,1.00
+Saturday,OO,RNO,"Reno, NV",21:25,65.00,390.00,0.00
+Tuesday,B6,JFK,"New York, NY",15:30,276.00,2475.00,0.00
+Sunday,WN,HOU,"Houston, TX",23:50,165.00,1390.00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",06:00,159.00,1235.00,0.00
+Sunday,OO,SAT,"San Antonio, TX",09:30,159.00,1211.00,0.00
+Friday,OO,PDX,"Portland, OR",19:06,127.00,833.00,1.00
+Wednesday,F9,ORD,"Chicago, IL",00:31,200.00,1744.00,1.00
+Friday,UA,SFO,"San Francisco, CA",17:27,59.00,337.00,0.00
+Saturday,OO,GEG,"Spokane, WA",12:54,123.00,945.00,0.00
+Friday,DL,SFO,"San Francisco, CA",16:00,61.00,337.00,0.00
+Monday,OO,SJC,"San Jose, CA",14:05,49.00,308.00,0.00
+Monday,B6,JFK,"New York, NY",12:30,287.00,2475.00,0.00
+Tuesday,OO,PHX,"Phoenix, AZ",22:20,58.00,370.00,0.00
+Saturday,OO,RDD,"Redding, CA",20:00,73.00,501.00,0.00
+Thursday,WN,MCI,"Kansas City, MO",08:10,172.00,1363.00,1.00
+Friday,OO,SJC,"San Jose, CA",14:19,50.00,308.00,1.00
+Friday,DL,CVG,"Cincinnati, OH",22:46,217.00,1900.00,1.00
+Monday,WN,PHX,"Phoenix, AZ",21:35,61.00,370.00,1.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",06:00,160.00,1235.00,0.00
+Friday,UA,KOA,"Kona, HI",09:10,319.00,2504.00,0.00
+Friday,WN,LAS,"Las Vegas, NV",17:05,45.00,236.00,1.00
+Sunday,DL,PDX,"Portland, OR",07:35,113.00,833.00,0.00
+Monday,OO,BOI,"Boise, ID",18:57,92.00,674.00,0.00
+Monday,DL,LAS,"Las Vegas, NV",19:55,44.00,236.00,0.00
+Monday,B6,BOS,"Boston, MA",10:50,302.00,2611.00,0.00
+Monday,OO,GEG,"Spokane, WA",14:45,127.00,945.00,0.00
+Friday,DL,JFK,"New York, NY",06:25,283.00,2475.00,0.00
+Thursday,OO,RNO,"Reno, NV",08:20,61.00,390.00,0.00
+Tuesday,OO,ACV,"Arcata/Eureka, CA",12:45,97.00,577.00,0.00
+Wednesday,UA,SLC,"Salt Lake City, UT",12:55,88.00,590.00,0.00
+Wednesday,WN,HNL,"Honolulu, HI",07:00,325.00,2556.00,0.00
+Saturday,AA,JFK,"New York, NY",22:25,294.00,2475.00,0.00
+Thursday,AA,JFK,"New York, NY",06:00,293.00,2475.00,1.00
+Friday,UA,CLE,"Cleveland, OH",22:53,241.00,2052.00,1.00
+Friday,AS,DCA,"Washington, DC",11:54,278.00,2311.00,0.00
+Friday,DL,SJC,"San Jose, CA",20:59,50.00,308.00,0.00
+Friday,UA,AUS,"Austin, TX",16:38,152.00,1242.00,0.00
+Sunday,DL,IND,"Indianapolis, IN",08:40,208.00,1814.00,0.00
+Wednesday,OO,SBA,"Santa Barbara, CA",12:40,20.00,89.00,0.00
+Friday,AA,ORD,"Chicago, IL",17:50,208.00,1744.00,0.00
+Thursday,UA,IAH,"Houston, TX",13:10,161.00,1379.00,1.00
+Friday,DL,JFK,"New York, NY",06:00,269.00,2475.00,0.00
+Saturday,AA,CLT,"Charlotte, NC",09:24,253.00,2125.00,1.00
+Monday,AS,HNL,"Honolulu, HI",08:30,317.00,2556.00,0.00
+Wednesday,DL,DTW,"Detroit, MI",05:35,234.00,1979.00,0.00
+Monday,WN,HOU,"Houston, TX",18:15,168.00,1390.00,1.00
+Thursday,B6,JFK,"New York, NY",15:30,308.00,2475.00,0.00
+Wednesday,OO,RNO,"Reno, NV",08:20,66.00,390.00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",06:20,55.00,337.00,0.00
+Wednesday,DL,JFK,"New York, NY",21:15,275.00,2475.00,0.00
+Thursday,UA,ORD,"Chicago, IL",05:10,212.00,1744.00,0.00
+Sunday,F9,LAS,"Las Vegas, NV",22:07,44.00,236.00,1.00
+Friday,UA,SFO,"San Francisco, CA",19:04,54.00,337.00,1.00
+Sunday,OO,ABQ,"Albuquerque, NM",14:34,85.00,677.00,0.00
+Monday,WN,PHX,"Phoenix, AZ",19:50,64.00,370.00,0.00
+Friday,WN,LAS,"Las Vegas, NV",11:15,45.00,236.00,0.00
+Sunday,AA,JFK,"New York, NY",10:32,289.00,2475.00,0.00
+Thursday,AS,OGG,"Kahului, HI",10:02,306.00,2485.00,0.00
+Thursday,UA,CLE,"Cleveland, OH",09:00,235.00,2052.00,0.00
+Wednesday,WN,DAL,"Dallas, TX",13:45,149.00,1246.00,1.00
+Thursday,DL,BOS,"Boston, MA",15:25,304.00,2611.00,0.00
+Wednesday,UA,IAH,"Houston, TX",00:51,164.00,1379.00,0.00
+Friday,WN,AUS,"Austin, TX",06:45,143.00,1242.00,0.00
+Sunday,DL,MIA,"Miami, FL",22:55,281.00,2342.00,0.00
+Thursday,OO,PHX,"Phoenix, AZ",21:22,62.00,370.00,0.00
+Monday,DL,SFO,"San Francisco, CA",21:45,56.00,337.00,0.00
+Monday,WN,MSY,"New Orleans, LA",08:35,174.00,1671.00,0.00
+Monday,UA,DEN,"Denver, CO",18:32,113.00,862.00,0.00
+Thursday,AA,ORD,"Chicago, IL",15:10,216.00,1744.00,0.00
+Sunday,UA,DEN,"Denver, CO",14:20,118.00,862.00,0.00
+Thursday,UA,ORD,"Chicago, IL",23:30,220.00,1744.00,0.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",10:39,259.00,2343.00,0.00
+Monday,WN,MCI,"Kansas City, MO",08:10,160.00,1363.00,0.00
+Monday,OO,SMF,"Sacramento, CA",18:30,64.00,373.00,0.00
+Friday,UA,RNO,"Reno, NV",20:18,60.00,390.00,0.00
+Sunday,F9,ATL,"Atlanta, GA",15:28,226.00,1947.00,0.00
+Saturday,DL,AUS,"Austin, TX",07:35,148.00,1242.00,0.00
+Thursday,UA,DEN,"Denver, CO",20:07,113.00,862.00,0.00
+Thursday,UA,IAD,"Washington, DC",22:36,259.00,2288.00,1.00
+Tuesday,OO,ABQ,"Albuquerque, NM",09:00,83.00,677.00,0.00
+Thursday,WN,SFO,"San Francisco, CA",06:00,56.00,337.00,0.00
+Tuesday,AS,HNL,"Honolulu, HI",17:55,311.00,2556.00,1.00
+Saturday,OO,SAT,"San Antonio, TX",10:31,152.00,1211.00,0.00
+Monday,UA,BZN,"Bozeman, MT",12:55,123.00,902.00,0.00
+Tuesday,AA,JFK,"New York, NY",13:29,284.00,2475.00,0.00
+Monday,WN,LAS,"Las Vegas, NV",21:40,46.00,236.00,1.00
+Monday,UA,IAH,"Houston, TX",18:45,156.00,1379.00,0.00
+Friday,NK,LAS,"Las Vegas, NV",08:30,43.00,236.00,0.00
+Monday,OO,SAN,"San Diego, CA",22:20,27.00,109.00,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",06:10,55.00,370.00,0.00
+Saturday,DL,ATL,"Atlanta, GA",22:55,219.00,1947.00,0.00
+Wednesday,AA,ORD,"Chicago, IL",11:25,211.00,1744.00,0.00
+Friday,UA,SFO,"San Francisco, CA",07:30,60.00,337.00,0.00
+Sunday,AS,PDX,"Portland, OR",21:12,112.00,833.00,0.00
+Wednesday,DL,DCA,"Washington, DC",07:40,268.00,2311.00,0.00
+Wednesday,DL,MSP,"Minneapolis, MN",08:25,176.00,1535.00,0.00
+Friday,AA,PHL,"Philadelphia, PA",06:35,284.00,2402.00,1.00
+Friday,UA,SFO,"San Francisco, CA",09:15,60.00,337.00,0.00
+Thursday,DL,OGG,"Kahului, HI",08:05,297.00,2485.00,0.00
+Saturday,WN,OAK,"Oakland, CA",10:50,56.00,337.00,0.00
+Wednesday,AA,ORD,"Chicago, IL",11:25,202.00,1744.00,0.00
+Monday,UA,EWR,"Newark, NJ",08:50,273.00,2454.00,0.00
+Sunday,OO,STS,"Santa Rosa, CA",09:25,72.00,399.00,0.00
+Sunday,DL,DTW,"Detroit, MI",12:00,229.00,1979.00,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",11:40,84.00,590.00,0.00
+Monday,DL,KOA,"Kona, HI",16:45,290.00,2504.00,0.00
+Friday,UA,EWR,"Newark, NJ",12:15,291.00,2454.00,0.00
+Wednesday,DL,AUS,"Austin, TX",10:04,148.00,1242.00,0.00
+Monday,AA,PHL,"Philadelphia, PA",08:05,281.00,2402.00,0.00
+Thursday,F9,ORD,"Chicago, IL",00:31,215.00,1744.00,1.00
+Friday,UA,IAH,"Houston, TX",05:45,175.00,1379.00,0.00
+Friday,AS,HNL,"Honolulu, HI",10:00,304.00,2556.00,1.00
+Wednesday,AA,CLE,"Cleveland, OH",09:50,238.00,2052.00,0.00
+Saturday,DL,TPA,"Tampa, FL",10:30,270.00,2158.00,0.00
+Sunday,AA,CLT,"Charlotte, NC",00:17,250.00,2125.00,0.00
+Wednesday,UA,EWR,"Newark, NJ",16:30,259.00,2454.00,0.00
+Saturday,WN,LAS,"Las Vegas, NV",15:20,40.00,236.00,0.00
+Friday,OO,FCA,"Kalispell, MT",08:28,159.00,1015.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",10:15,274.00,2454.00,0.00
+Tuesday,AS,EWR,"Newark, NJ",07:00,286.00,2454.00,0.00
+Sunday,UA,DEN,"Denver, CO",20:07,116.00,862.00,0.00
+Wednesday,WN,AUS,"Austin, TX",18:05,150.00,1242.00,0.00
+Sunday,AA,DFW,"Dallas/Fort Worth, TX",23:55,153.00,1235.00,0.00
+Monday,OO,GEG,"Spokane, WA",12:54,126.00,945.00,0.00
+Tuesday,WN,HOU,"Houston, TX",13:00,171.00,1390.00,1.00
+Thursday,DL,KOA,"Kona, HI",16:45,304.00,2504.00,0.00
+Thursday,OO,SAN,"San Diego, CA",18:50,28.00,109.00,0.00
+Monday,DL,MSY,"New Orleans, LA",11:10,197.00,1671.00,0.00
+Tuesday,WN,HNL,"Honolulu, HI",07:00,313.00,2556.00,0.00
+Saturday,UA,ORD,"Chicago, IL",07:00,208.00,1744.00,0.00
+Friday,AS,EWR,"Newark, NJ",07:00,281.00,2454.00,0.00
+Thursday,OO,SFO,"San Francisco, CA",09:22,60.00,337.00,1.00
+Monday,AA,ORD,"Chicago, IL",17:59,240.00,1744.00,1.00
+Wednesday,OO,ELP,"El Paso, TX",08:00,94.00,715.00,0.00
+Tuesday,UA,MCO,"Orlando, FL",23:04,257.00,2218.00,0.00
+Wednesday,DL,SFO,"San Francisco, CA",17:59,55.00,337.00,0.00
+Tuesday,WN,DEN,"Denver, CO",19:30,104.00,862.00,1.00
+Wednesday,OO,TUS,"Tucson, AZ",09:35,62.00,451.00,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",06:00,286.00,2402.00,0.00
+Sunday,DL,OGG,"Kahului, HI",16:50,325.00,2485.00,1.00
+Tuesday,WN,LAS,"Las Vegas, NV",21:40,49.00,236.00,1.00
+Thursday,UA,LAS,"Las Vegas, NV",18:59,48.00,236.00,0.00
+Saturday,AA,ATL,"Atlanta, GA",09:29,233.00,1947.00,0.00
+Wednesday,WN,SFO,"San Francisco, CA",06:20,51.00,337.00,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",08:25,88.00,677.00,0.00
+Saturday,DL,MSP,"Minneapolis, MN",11:26,185.00,1535.00,1.00
+Wednesday,AS,OGG,"Kahului, HI",08:30,302.00,2485.00,0.00
+Monday,UA,PHX,"Phoenix, AZ",08:37,62.00,370.00,0.00
+Saturday,AA,CMH,"Columbus, OH",09:18,244.00,1995.00,0.00
+Saturday,UA,KOA,"Kona, HI",09:10,312.00,2504.00,0.00
+Friday,AA,RDU,"Raleigh/Durham, NC",08:47,266.00,2239.00,0.00
+Thursday,F9,ATL,"Atlanta, GA",23:20,242.00,1947.00,0.00
+Sunday,AA,CMH,"Columbus, OH",10:00,233.00,1995.00,0.00
+Tuesday,WN,PHX,"Phoenix, AZ",10:45,54.00,370.00,1.00
+Thursday,OO,PHX,"Phoenix, AZ",08:18,60.00,370.00,0.00
+Monday,AA,PHL,"Philadelphia, PA",23:05,277.00,2402.00,0.00
+Thursday,DL,MSY,"New Orleans, LA",18:29,191.00,1671.00,1.00
+Friday,WN,LAS,"Las Vegas, NV",17:05,42.00,236.00,1.00
+Saturday,F9,DEN,"Denver, CO",16:31,109.00,862.00,0.00
+Friday,OO,SAN,"San Diego, CA",14:05,33.00,109.00,0.00
+Friday,DL,LAS,"Las Vegas, NV",19:55,46.00,236.00,0.00
+Saturday,AS,SFO,"San Francisco, CA",13:45,52.00,337.00,0.00
+Thursday,DL,ATL,"Atlanta, GA",13:20,216.00,1947.00,1.00
+Saturday,AS,SEA,"Seattle, WA",12:31,133.00,954.00,0.00
+Wednesday,OO,BOI,"Boise, ID",18:57,94.00,674.00,0.00
+Wednesday,WN,SMF,"Sacramento, CA",11:05,60.00,373.00,0.00
+Wednesday,UA,IAH,"Houston, TX",00:55,164.00,1379.00,0.00
+Friday,DL,MIA,"Miami, FL",09:05,263.00,2342.00,0.00
+Tuesday,OO,TUS,"Tucson, AZ",14:38,65.00,451.00,0.00
+Friday,AA,MIA,"Miami, FL",23:59,255.00,2342.00,1.00
+Tuesday,WN,DEN,"Denver, CO",06:35,107.00,862.00,0.00
+Saturday,DL,ATL,"Atlanta, GA",07:00,236.00,1947.00,0.00
+Friday,OO,JAC,"Jackson, WY",09:02,107.00,784.00,0.00
+Saturday,WN,PHX,"Phoenix, AZ",10:30,61.00,370.00,0.00
+Friday,DL,SEA,"Seattle, WA",07:00,134.00,954.00,0.00
+Tuesday,DL,JFK,"New York, NY",07:30,285.00,2475.00,0.00
+Thursday,UA,LAS,"Las Vegas, NV",19:26,47.00,236.00,0.00
+Tuesday,UA,DEN,"Denver, CO",20:07,105.00,862.00,0.00
+Sunday,UA,ORD,"Chicago, IL",10:45,206.00,1744.00,1.00
+Monday,WN,SJC,"San Jose, CA",12:10,48.00,308.00,1.00
+Thursday,OO,IAH,"Houston, TX",14:11,168.00,1379.00,0.00
+Friday,WN,HOU,"Houston, TX",08:30,167.00,1390.00,0.00
+Wednesday,AA,KOA,"Kona, HI",09:06,312.00,2504.00,0.00
+Wednesday,OO,SFO,"San Francisco, CA",22:18,58.00,337.00,0.00
+Sunday,OO,EUG,"Eugene, OR",09:31,117.00,748.00,0.00
+Friday,UA,SFO,"San Francisco, CA",07:30,68.00,337.00,0.00
+Saturday,UA,LAS,"Las Vegas, NV",10:50,40.00,236.00,0.00
+Friday,WN,TPA,"Tampa, FL",11:45,240.00,2158.00,0.00
+Sunday,DL,SEA,"Seattle, WA",07:00,123.00,954.00,0.00
+Friday,DL,BOS,"Boston, MA",15:25,297.00,2611.00,0.00
+Wednesday,WN,OAK,"Oakland, CA",16:55,54.00,337.00,0.00
+Friday,OO,SMF,"Sacramento, CA",16:18,69.00,373.00,0.00
+Thursday,OO,OKC,"Oklahoma City, OK",17:31,160.00,1187.00,0.00
+Sunday,DL,SJC,"San Jose, CA",15:45,49.00,308.00,0.00
+Sunday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:35,114.00,851.00,0.00
+Sunday,QX,MFR,"Medford, OR",12:51,88.00,630.00,0.00
+Friday,OO,SFO,"San Francisco, CA",17:45,58.00,337.00,0.00
+Wednesday,OO,BOI,"Boise, ID",12:00,101.00,674.00,0.00
+Friday,AA,JFK,"New York, NY",10:28,296.00,2475.00,0.00
+Friday,DL,ATL,"Atlanta, GA",06:00,214.00,1947.00,0.00
+Tuesday,OO,SAN,"San Diego, CA",09:25,31.00,109.00,0.00
+Friday,WN,SFO,"San Francisco, CA",15:35,71.00,337.00,0.00
+Monday,UA,BOS,"Boston, MA",08:35,290.00,2611.00,1.00
+Sunday,DL,ATL,"Atlanta, GA",09:30,243.00,1947.00,0.00
+Tuesday,DL,BOS,"Boston, MA",10:50,285.00,2611.00,0.00
+Thursday,AA,ATL,"Atlanta, GA",09:36,225.00,1947.00,1.00
+Wednesday,AS,SEA,"Seattle, WA",18:10,157.00,954.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",00:40,152.00,1235.00,0.00
+Monday,OO,PHX,"Phoenix, AZ",22:20,59.00,370.00,0.00
+Sunday,AA,MIA,"Miami, FL",20:56,271.00,2342.00,0.00
+Tuesday,AA,CLT,"Charlotte, NC",09:20,256.00,2125.00,0.00
+Sunday,OO,BOI,"Boise, ID",19:45,92.00,674.00,0.00
+Thursday,OO,GEG,"Spokane, WA",12:54,143.00,945.00,0.00
+Thursday,OO,PHX,"Phoenix, AZ",08:18,60.00,370.00,1.00
+Sunday,F9,ORD,"Chicago, IL",23:59,209.00,1744.00,0.00
+Thursday,OO,SAF,"Santa Fe, NM",15:02,102.00,710.00,0.00
+Sunday,WN,MDW,"Chicago, IL",23:55,213.00,1751.00,1.00
+Thursday,DL,MIA,"Miami, FL",22:55,261.00,2342.00,0.00
+Wednesday,UA,SMF,"Sacramento, CA",19:09,62.00,373.00,0.00
+Saturday,UA,EWR,"Newark, NJ",10:15,294.00,2454.00,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",14:34,95.00,677.00,0.00
+Wednesday,AA,PHX,"Phoenix, AZ",12:50,62.00,370.00,1.00
+Monday,DL,MSP,"Minneapolis, MN",15:26,182.00,1535.00,0.00
+Tuesday,AA,JFK,"New York, NY",10:28,276.00,2475.00,0.00
+Tuesday,WN,SAT,"San Antonio, TX",09:35,148.00,1211.00,0.00
+Monday,OO,SMF,"Sacramento, CA",16:18,63.00,373.00,0.00
+Friday,B6,JFK,"New York, NY",07:05,294.00,2475.00,0.00
+Friday,DL,ATL,"Atlanta, GA",17:15,239.00,1947.00,1.00
+Monday,DL,SEA,"Seattle, WA",07:59,141.00,954.00,0.00
+Friday,UA,MRY,"Monterey, CA",19:22,49.00,266.00,1.00
+Wednesday,AA,ORD,"Chicago, IL",23:41,217.00,1744.00,0.00
+Sunday,DL,SJC,"San Jose, CA",17:51,50.00,308.00,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",14:35,162.00,1235.00,0.00
+Friday,DL,LAS,"Las Vegas, NV",21:30,46.00,236.00,0.00
+Monday,OO,SAN,"San Diego, CA",09:07,31.00,109.00,0.00
+Thursday,DL,DTW,"Detroit, MI",12:00,234.00,1979.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",21:00,274.00,2454.00,0.00
+Friday,WN,LAS,"Las Vegas, NV",17:05,45.00,236.00,1.00
+Friday,AS,PDX,"Portland, OR",18:05,124.00,833.00,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",17:10,86.00,590.00,0.00
+Tuesday,UA,SFO,"San Francisco, CA",07:15,53.00,337.00,0.00
+Sunday,OO,TUS,"Tucson, AZ",19:00,61.00,451.00,1.00
+Tuesday,DL,AUS,"Austin, TX",18:46,139.00,1242.00,1.00
+Tuesday,UA,LIH,"Lihue, HI",08:35,322.00,2615.00,0.00
+Sunday,AS,SFO,"San Francisco, CA",15:36,65.00,337.00,0.00
+Tuesday,DL,ATL,"Atlanta, GA",12:10,242.00,1947.00,0.00
+Sunday,WN,RNO,"Reno, NV",12:55,62.00,390.00,0.00
+Tuesday,DL,JFK,"New York, NY",15:20,294.00,2475.00,0.00
+Friday,OO,ABQ,"Albuquerque, NM",09:00,86.00,677.00,0.00
+Saturday,UA,DEN,"Denver, CO",07:00,107.00,862.00,1.00
+Saturday,OO,PHX,"Phoenix, AZ",08:15,57.00,370.00,0.00
+Friday,WN,MDW,"Chicago, IL",16:45,205.00,1751.00,1.00
+Friday,WN,HNL,"Honolulu, HI",07:00,317.00,2556.00,0.00
+Tuesday,UA,IAD,"Washington, DC",12:55,270.00,2288.00,0.00
+Sunday,OO,STS,"Santa Rosa, CA",21:15,63.00,399.00,0.00
+Sunday,WN,SMF,"Sacramento, CA",11:15,59.00,373.00,1.00
+Thursday,AA,JFK,"New York, NY",21:54,289.00,2475.00,0.00
+Saturday,AS,PDX,"Portland, OR",18:03,111.00,833.00,0.00
+Wednesday,AA,DCA,"Washington, DC",07:47,236.00,2311.00,0.00
+Friday,WN,OAK,"Oakland, CA",21:25,52.00,337.00,1.00
+Wednesday,AS,SFO,"San Francisco, CA",10:00,56.00,337.00,1.00
+Tuesday,AA,BOS,"Boston, MA",22:30,301.00,2611.00,0.00
+Saturday,WN,LAS,"Las Vegas, NV",20:25,45.00,236.00,1.00
+Thursday,WN,AUS,"Austin, TX",11:15,145.00,1242.00,1.00
+Saturday,DL,SFO,"San Francisco, CA",09:30,56.00,337.00,0.00
+Monday,UA,EWR,"Newark, NJ",21:00,263.00,2454.00,0.00
+Friday,AA,LAS,"Las Vegas, NV",09:40,49.00,236.00,0.00
+Friday,B6,BOS,"Boston, MA",10:50,299.00,2611.00,0.00
+Friday,F9,DEN,"Denver, CO",06:30,118.00,862.00,0.00
+Sunday,WN,MCI,"Kansas City, MO",11:55,158.00,1363.00,0.00
+Friday,DL,BNA,"Nashville, TN",12:15,208.00,1798.00,0.00
+Tuesday,DL,HNL,"Honolulu, HI",18:15,302.00,2556.00,0.00
+Thursday,OO,SBP,"San Luis Obispo, CA",16:23,30.00,155.00,0.00
+Thursday,OO,SMF,"Sacramento, CA",08:00,67.00,373.00,0.00
+Thursday,UA,IAH,"Houston, TX",10:10,178.00,1379.00,0.00
+Saturday,UA,DEN,"Denver, CO",05:00,112.00,862.00,0.00
+Tuesday,OO,SAN,"San Diego, CA",17:11,34.00,109.00,0.00
+Friday,AA,PHX,"Phoenix, AZ",10:13,54.00,370.00,0.00
+Friday,AA,MIA,"Miami, FL",23:17,270.00,2342.00,0.00
+Wednesday,OO,SJC,"San Jose, CA",18:04,50.00,308.00,0.00
+Saturday,DL,SEA,"Seattle, WA",14:05,126.00,954.00,0.00
+Sunday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,142.00,851.00,0.00
+Tuesday,UA,ORD,"Chicago, IL",00:13,214.00,1744.00,0.00
+Friday,WN,AUS,"Austin, TX",06:45,148.00,1242.00,1.00
+Thursday,AA,PHL,"Philadelphia, PA",23:50,278.00,2402.00,0.00
+Saturday,WN,OAK,"Oakland, CA",13:50,54.00,337.00,0.00
+Monday,OO,SBP,"San Luis Obispo, CA",22:43,32.00,155.00,0.00
+Monday,UA,TPA,"Tampa, FL",10:15,252.00,2158.00,0.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",10:42,277.00,2343.00,0.00
+Friday,B6,JFK,"New York, NY",07:05,291.00,2475.00,0.00
+Saturday,AS,SEA,"Seattle, WA",06:00,136.00,954.00,0.00
+Saturday,UA,IAD,"Washington, DC",23:20,264.00,2288.00,0.00
+Thursday,F9,IAH,"Houston, TX",09:46,174.00,1379.00,0.00
+Monday,OO,BOI,"Boise, ID",18:57,108.00,674.00,0.00
+Thursday,AS,PDX,"Portland, OR",14:17,118.00,833.00,0.00
+Sunday,OO,RNO,"Reno, NV",08:56,59.00,390.00,1.00
+Wednesday,WN,DAL,"Dallas, TX",09:35,154.00,1246.00,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",07:35,88.00,590.00,0.00
+Sunday,AA,PHL,"Philadelphia, PA",06:35,272.00,2402.00,0.00
+Saturday,UA,SFO,"San Francisco, CA",11:43,56.00,337.00,0.00
+Monday,AA,JFK,"New York, NY",07:00,291.00,2475.00,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",11:40,84.00,590.00,0.00
+Friday,UA,DEN,"Denver, CO",19:45,116.00,862.00,0.00
+Friday,B6,JFK,"New York, NY",21:03,291.00,2475.00,0.00
+Monday,AA,MIA,"Miami, FL",07:20,266.00,2342.00,0.00
+Thursday,AS,SFO,"San Francisco, CA",21:12,59.00,337.00,1.00
+Monday,OO,AUS,"Austin, TX",08:09,180.00,1242.00,0.00
+Sunday,UA,LAS,"Las Vegas, NV",16:37,43.00,236.00,1.00
+Sunday,F9,MCO,"Orlando, FL",23:21,268.00,2218.00,1.00
+Tuesday,AA,ATL,"Atlanta, GA",09:50,239.00,1947.00,1.00
+Tuesday,AA,ORD,"Chicago, IL",15:10,206.00,1744.00,1.00
+Wednesday,WN,OAK,"Oakland, CA",06:00,54.00,337.00,0.00
+Saturday,UA,EWR,"Newark, NJ",23:15,280.00,2454.00,1.00
+Sunday,UA,SFO,"San Francisco, CA",19:04,55.00,337.00,1.00
+Wednesday,AA,CMH,"Columbus, OH",10:00,231.00,1995.00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",23:55,143.00,1235.00,0.00
+Thursday,UA,ORD,"Chicago, IL",07:00,216.00,1744.00,0.00
+Thursday,AA,PHL,"Philadelphia, PA",10:13,281.00,2402.00,0.00
+Tuesday,OO,EUG,"Eugene, OR",09:31,97.00,748.00,1.00
+Sunday,AA,PHX,"Phoenix, AZ",16:32,64.00,370.00,1.00
+Saturday,B6,JFK,"New York, NY",21:35,293.00,2475.00,0.00
+Saturday,DL,DFW,"Dallas/Fort Worth, TX",10:10,146.00,1235.00,0.00
+Sunday,WN,SMF,"Sacramento, CA",09:00,58.00,373.00,0.00
+Thursday,DL,LIH,"Lihue, HI",14:50,318.00,2615.00,0.00
+Sunday,WN,SJC,"San Jose, CA",09:00,46.00,308.00,1.00
+Sunday,AA,PHX,"Phoenix, AZ",21:08,63.00,370.00,0.00
+Thursday,OO,BOI,"Boise, ID",11:28,110.00,674.00,0.00
+Thursday,UA,SFO,"San Francisco, CA",06:00,62.00,337.00,0.00
+Friday,WN,MCO,"Orlando, FL",23:15,249.00,2218.00,1.00
+Sunday,WN,LAS,"Las Vegas, NV",18:30,43.00,236.00,1.00
+Friday,UA,DEN,"Denver, CO",05:00,111.00,862.00,0.00
+Saturday,WN,HOU,"Houston, TX",23:50,167.00,1390.00,0.00
+Monday,WN,PHX,"Phoenix, AZ",05:10,57.00,370.00,0.00
+Friday,AS,HNL,"Honolulu, HI",07:00,325.00,2556.00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",07:00,65.00,337.00,0.00
+Tuesday,DL,SJC,"San Jose, CA",20:59,53.00,308.00,0.00
+Friday,AA,ORD,"Chicago, IL",15:15,211.00,1744.00,0.00
+Friday,WN,LAS,"Las Vegas, NV",15:25,44.00,236.00,1.00
+Friday,AA,HNL,"Honolulu, HI",19:25,299.00,2556.00,0.00
+Friday,UA,IAD,"Washington, DC",21:30,266.00,2288.00,0.00
+Friday,DL,SLC,"Salt Lake City, UT",07:35,78.00,590.00,0.00
+Monday,AS,SEA,"Seattle, WA",09:00,134.00,954.00,0.00
+Thursday,WN,DAL,"Dallas, TX",07:55,153.00,1246.00,1.00
+Wednesday,AA,JFK,"New York, NY",12:30,306.00,2475.00,1.00
+Saturday,F9,DFW,"Dallas/Fort Worth, TX",05:45,156.00,1235.00,0.00
+Friday,B6,JFK,"New York, NY",09:37,294.00,2475.00,0.00
+Friday,DL,IAH,"Houston, TX",09:54,168.00,1379.00,0.00
+Monday,WN,MSY,"New Orleans, LA",08:35,197.00,1671.00,0.00
+Sunday,AA,IND,"Indianapolis, IN",10:35,212.00,1814.00,1.00
+Tuesday,OO,TUS,"Tucson, AZ",19:14,71.00,451.00,0.00
+Thursday,OO,ABQ,"Albuquerque, NM",20:55,87.00,677.00,0.00
+Monday,OO,SFO,"San Francisco, CA",16:05,59.00,337.00,1.00
+Monday,WN,DAL,"Dallas, TX",07:55,140.00,1246.00,0.00
+Monday,UA,IAH,"Houston, TX",18:45,168.00,1379.00,0.00
+Friday,OO,EUG,"Eugene, OR",17:43,111.00,748.00,0.00
+Friday,AS,SEA,"Seattle, WA",12:31,147.00,954.00,0.00
+Friday,OO,PHX,"Phoenix, AZ",19:53,61.00,370.00,0.00
+Monday,WN,SJC,"San Jose, CA",17:00,50.00,308.00,0.00
+Saturday,OO,SAN,"San Diego, CA",09:25,27.00,109.00,0.00
+Sunday,WN,HNL,"Honolulu, HI",07:00,304.00,2556.00,0.00
+Friday,DL,BOS,"Boston, MA",10:45,294.00,2611.00,0.00
+Saturday,DL,ATL,"Atlanta, GA",10:35,218.00,1947.00,0.00
+Friday,UA,SFO,"San Francisco, CA",20:15,58.00,337.00,0.00
+Wednesday,UA,MCO,"Orlando, FL",10:26,261.00,2218.00,0.00
+Monday,B6,FLL,"Fort Lauderdale, FL",10:42,303.00,2343.00,0.00
+Tuesday,DL,ATL,"Atlanta, GA",07:15,210.00,1947.00,1.00
+Saturday,OO,ELP,"El Paso, TX",20:49,88.00,715.00,0.00
+Saturday,UA,DEN,"Denver, CO",05:00,107.00,862.00,0.00
+Tuesday,AA,ORD,"Chicago, IL",17:59,217.00,1744.00,0.00
+Sunday,OO,SFO,"San Francisco, CA",17:45,59.00,337.00,0.00
+Friday,AA,HNL,"Honolulu, HI",15:48,336.00,2556.00,0.00
+Monday,OO,TUS,"Tucson, AZ",19:00,68.00,451.00,1.00
+Saturday,B6,JFK,"New York, NY",20:36,294.00,2475.00,1.00
+Thursday,DL,MCO,"Orlando, FL",07:40,257.00,2218.00,0.00
+Tuesday,UA,AUS,"Austin, TX",10:55,151.00,1242.00,0.00
+Monday,UA,LAS,"Las Vegas, NV",19:26,50.00,236.00,0.00
+Friday,AA,MCO,"Orlando, FL",10:56,263.00,2218.00,0.00
+Tuesday,DL,AUS,"Austin, TX",07:35,172.00,1242.00,0.00
+Sunday,DL,ATL,"Atlanta, GA",08:15,221.00,1947.00,1.00
+Monday,OO,PDX,"Portland, OR",19:06,121.00,833.00,1.00
+Wednesday,UA,IAH,"Houston, TX",12:03,177.00,1379.00,0.00
+Wednesday,AA,AUS,"Austin, TX",14:30,149.00,1242.00,0.00
+Thursday,AA,PHX,"Phoenix, AZ",10:00,56.00,370.00,0.00
+Tuesday,DL,MCO,"Orlando, FL",07:35,275.00,2218.00,0.00
+Saturday,UA,IAD,"Washington, DC",22:10,262.00,2288.00,0.00
+Friday,UA,BWI,"Baltimore, MD",20:58,270.00,2329.00,0.00
+Wednesday,AA,ORD,"Chicago, IL",17:59,209.00,1744.00,1.00
+Friday,AS,OGG,"Kahului, HI",08:30,320.00,2485.00,0.00
+Saturday,AS,SEA,"Seattle, WA",18:10,130.00,954.00,0.00
+Saturday,UA,DEN,"Denver, CO",14:20,113.00,862.00,0.00
+Friday,WN,ELP,"El Paso, TX",19:45,93.00,715.00,0.00
+Sunday,DL,TPA,"Tampa, FL",10:30,255.00,2158.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",23:15,271.00,2454.00,0.00
+Friday,DL,SFO,"San Francisco, CA",12:15,74.00,337.00,0.00
+Tuesday,AA,JFK,"New York, NY",07:00,292.00,2475.00,0.00
+Friday,AA,PHX,"Phoenix, AZ",19:44,65.00,370.00,0.00
+Saturday,AA,ORD,"Chicago, IL",22:45,205.00,1744.00,0.00
+Thursday,OO,ABQ,"Albuquerque, NM",15:03,100.00,677.00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",01:22,151.00,1235.00,0.00
+Tuesday,DL,LAS,"Las Vegas, NV",21:30,45.00,236.00,0.00
+Saturday,AA,MCO,"Orlando, FL",10:56,266.00,2218.00,0.00
+Thursday,WN,OAK,"Oakland, CA",09:15,61.00,337.00,0.00
+Friday,B6,FLL,"Fort Lauderdale, FL",08:30,265.00,2343.00,0.00
+Friday,OO,SAN,"San Diego, CA",17:11,28.00,109.00,0.00
+Saturday,OO,SJC,"San Jose, CA",12:53,51.00,308.00,0.00
+Tuesday,AS,LIH,"Lihue, HI",09:40,336.00,2615.00,0.00
+Saturday,WN,SMF,"Sacramento, CA",14:40,60.00,373.00,1.00
+Sunday,DL,DCA,"Washington, DC",07:40,258.00,2311.00,0.00
+Wednesday,OO,SAT,"San Antonio, TX",10:26,154.00,1211.00,1.00
+Saturday,AS,SFO,"San Francisco, CA",06:00,62.00,337.00,0.00
+Friday,UA,IAD,"Washington, DC",10:20,273.00,2288.00,0.00
+Monday,OO,SFO,"San Francisco, CA",11:31,66.00,337.00,0.00
+Tuesday,UA,SMF,"Sacramento, CA",19:09,62.00,373.00,0.00
+Tuesday,UA,LAS,"Las Vegas, NV",18:45,49.00,236.00,0.00
+Friday,DL,SLC,"Salt Lake City, UT",07:35,83.00,590.00,0.00
+Friday,UA,FAT,"Fresno, CA",16:55,38.00,209.00,0.00
+Thursday,AA,BOS,"Boston, MA",08:00,298.00,2611.00,0.00
+Monday,OO,SMF,"Sacramento, CA",17:25,75.00,373.00,0.00
+Thursday,DL,AUS,"Austin, TX",07:35,158.00,1242.00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",13:33,150.00,1235.00,1.00
+Sunday,F9,SMF,"Sacramento, CA",17:57,59.00,373.00,1.00
+Thursday,UA,ORD,"Chicago, IL",00:15,215.00,1744.00,0.00
+Tuesday,OO,SAN,"San Diego, CA",16:22,30.00,109.00,0.00
+Friday,OO,DSM,"Des Moines, IA",12:50,180.00,1447.00,1.00
+Tuesday,DL,DTW,"Detroit, MI",22:35,236.00,1979.00,0.00
+Thursday,UA,EWR,"Newark, NJ",12:15,288.00,2454.00,0.00
+Sunday,OO,AUS,"Austin, TX",17:57,173.00,1242.00,1.00
+Friday,AS,SFO,"San Francisco, CA",10:53,63.00,337.00,0.00
+Friday,UA,AUS,"Austin, TX",23:59,144.00,1242.00,1.00
+Sunday,AS,OGG,"Kahului, HI",08:30,306.00,2485.00,0.00
+Sunday,F9,ATL,"Atlanta, GA",15:28,226.00,1947.00,0.00
+Thursday,DL,JFK,"New York, NY",10:05,278.00,2475.00,0.00
+Thursday,WN,STL,"St. Louis, MO",13:20,196.00,1592.00,1.00
+Saturday,UA,MRY,"Monterey, CA",19:22,48.00,266.00,0.00
+Friday,AS,SEA,"Seattle, WA",18:10,138.00,954.00,0.00
+Friday,UA,DEN,"Denver, CO",14:30,111.00,862.00,0.00
+Thursday,UA,BWI,"Baltimore, MD",20:58,264.00,2329.00,0.00
+Sunday,OO,RDM,"Bend/Redmond, OR",21:30,106.00,726.00,1.00
+Saturday,OO,SJC,"San Jose, CA",12:55,51.00,308.00,0.00
+Sunday,OO,RNO,"Reno, NV",16:12,60.00,390.00,1.00
+Monday,WN,SJC,"San Jose, CA",09:15,49.00,308.00,0.00
+Sunday,AA,JFK,"New York, NY",08:00,289.00,2475.00,1.00
+Friday,OO,STS,"Santa Rosa, CA",08:09,66.00,399.00,0.00
+Saturday,UA,LAS,"Las Vegas, NV",10:50,43.00,236.00,0.00
+Thursday,DL,DTW,"Detroit, MI",22:35,229.00,1979.00,0.00
+Sunday,UA,SFO,"San Francisco, CA",19:04,56.00,337.00,1.00
+Sunday,UA,EWR,"Newark, NJ",23:15,269.00,2454.00,0.00
+Monday,OO,SAT,"San Antonio, TX",18:30,156.00,1211.00,1.00
+Monday,WN,PHX,"Phoenix, AZ",21:35,56.00,370.00,0.00
+Monday,DL,OGG,"Kahului, HI",16:55,309.00,2485.00,1.00
+Friday,DL,JFK,"New York, NY",08:35,293.00,2475.00,1.00
+Tuesday,OO,SAN,"San Diego, CA",18:10,29.00,109.00,0.00
+Wednesday,DL,BNA,"Nashville, TN",12:15,213.00,1798.00,0.00
+Saturday,WN,PHX,"Phoenix, AZ",10:30,53.00,370.00,0.00
+Wednesday,OO,SAT,"San Antonio, TX",18:10,150.00,1211.00,1.00
+Saturday,DL,ATL,"Atlanta, GA",12:10,231.00,1947.00,0.00
+Thursday,OO,RNO,"Reno, NV",08:56,68.00,390.00,0.00
+Sunday,B6,FLL,"Fort Lauderdale, FL",08:30,246.00,2343.00,0.00
+Friday,DL,MSY,"New Orleans, LA",18:29,183.00,1671.00,0.00
+Tuesday,UA,MRY,"Monterey, CA",16:43,45.00,266.00,0.00
+Thursday,DL,BOS,"Boston, MA",21:05,294.00,2611.00,0.00
+Sunday,DL,JFK,"New York, NY",13:25,301.00,2475.00,0.00
+Thursday,WN,PHX,"Phoenix, AZ",05:10,57.00,370.00,0.00
+Tuesday,WN,DEN,"Denver, CO",14:05,103.00,862.00,1.00
+Wednesday,DL,MSY,"New Orleans, LA",13:00,198.00,1671.00,0.00
+Friday,DL,AUS,"Austin, TX",18:40,153.00,1242.00,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",06:00,81.00,590.00,0.00
+Saturday,UA,EWR,"Newark, NJ",12:15,302.00,2454.00,0.00
+Tuesday,AA,ORD,"Chicago, IL",11:25,196.00,1744.00,0.00
+Saturday,DL,BNA,"Nashville, TN",15:00,208.00,1798.00,1.00
+Saturday,DL,MSP,"Minneapolis, MN",06:00,198.00,1535.00,0.00
+Saturday,OO,STS,"Santa Rosa, CA",08:09,71.00,399.00,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",13:55,274.00,2343.00,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",07:35,82.00,590.00,0.00
+Wednesday,WN,TUS,"Tucson, AZ",14:20,67.00,451.00,1.00
+Tuesday,OO,SAN,"San Diego, CA",09:25,41.00,109.00,1.00
+Monday,AS,SEA,"Seattle, WA",17:57,125.00,954.00,0.00
+Tuesday,AA,MIA,"Miami, FL",23:59,269.00,2342.00,1.00
+Friday,AA,JFK,"New York, NY",11:45,284.00,2475.00,1.00
+Monday,DL,DTW,"Detroit, MI",23:20,219.00,1979.00,0.00
+Sunday,OO,SAN,"San Diego, CA",17:11,33.00,109.00,0.00
+Wednesday,QX,PAE,"Everett, WA",12:45,152.00,984.00,0.00
+Wednesday,UA,EWR,"Newark, NJ",08:50,284.00,2454.00,0.00
+Thursday,WN,OAK,"Oakland, CA",06:10,52.00,337.00,0.00
+Wednesday,B6,BOS,"Boston, MA",14:10,306.00,2611.00,0.00
+Thursday,AA,ORD,"Chicago, IL",17:59,216.00,1744.00,0.00
+Sunday,OO,DEN,"Denver, CO",08:35,108.00,862.00,0.00
+Saturday,OO,PDX,"Portland, OR",19:57,115.00,833.00,0.00
+Saturday,AA,HNL,"Honolulu, HI",14:59,324.00,2556.00,0.00
+Tuesday,OO,DEN,"Denver, CO",08:35,104.00,862.00,0.00
+Monday,UA,DEN,"Denver, CO",14:20,109.00,862.00,0.00
+Friday,UA,IAH,"Houston, TX",10:18,170.00,1379.00,1.00
+Sunday,DL,LIH,"Lihue, HI",15:45,335.00,2615.00,0.00
+Friday,UA,MRY,"Monterey, CA",16:43,48.00,266.00,0.00
+Sunday,OO,DEN,"Denver, CO",16:34,105.00,862.00,1.00
+Friday,DL,SLC,"Salt Lake City, UT",13:16,80.00,590.00,0.00
+Sunday,UA,IAH,"Houston, TX",23:59,146.00,1379.00,0.00
+Thursday,UA,SFO,"San Francisco, CA",17:27,56.00,337.00,1.00
+Tuesday,OO,SMF,"Sacramento, CA",18:30,69.00,373.00,0.00
+Monday,AA,CMH,"Columbus, OH",10:00,236.00,1995.00,1.00
+Wednesday,UA,EWR,"Newark, NJ",12:15,286.00,2454.00,0.00
+Saturday,DL,SLC,"Salt Lake City, UT",11:40,85.00,590.00,0.00
+Wednesday,AA,MIA,"Miami, FL",21:30,273.00,2342.00,0.00
+Tuesday,AS,SEA,"Seattle, WA",19:50,119.00,954.00,0.00
+Monday,AA,RDU,"Raleigh/Durham, NC",09:05,262.00,2239.00,1.00
+Friday,UA,IAD,"Washington, DC",08:15,277.00,2288.00,0.00
+Monday,DL,SEA,"Seattle, WA",14:05,139.00,954.00,1.00
+Saturday,WN,AUS,"Austin, TX",05:45,143.00,1242.00,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",16:40,58.00,370.00,0.00
+Friday,UA,ORD,"Chicago, IL",07:00,223.00,1744.00,0.00
+Saturday,UA,CLE,"Cleveland, OH",13:20,243.00,2052.00,0.00
+Friday,OO,PHX,"Phoenix, AZ",08:18,59.00,370.00,0.00
+Friday,AS,SEA,"Seattle, WA",14:43,130.00,954.00,0.00
+Monday,UA,LAS,"Las Vegas, NV",19:26,45.00,236.00,0.00
+Friday,UA,IAH,"Houston, TX",05:45,172.00,1379.00,0.00
+Tuesday,UA,IAH,"Houston, TX",13:13,178.00,1379.00,0.00
+Thursday,DL,SEA,"Seattle, WA",14:05,121.00,954.00,0.00
+Sunday,DL,SEA,"Seattle, WA",07:59,165.00,954.00,0.00
+Thursday,DL,TPA,"Tampa, FL",10:30,246.00,2158.00,1.00
+Tuesday,UA,SFO,"San Francisco, CA",18:45,63.00,337.00,1.00
+Sunday,OO,SAN,"San Diego, CA",09:07,34.00,109.00,0.00
+Saturday,DL,MSP,"Minneapolis, MN",15:00,187.00,1535.00,0.00
+Friday,WN,SJC,"San Jose, CA",14:50,48.00,308.00,0.00
+Wednesday,OO,ELP,"El Paso, TX",20:49,96.00,715.00,1.00
+Friday,AA,ATL,"Atlanta, GA",09:36,211.00,1947.00,1.00
+Saturday,AA,MIA,"Miami, FL",08:00,243.00,2342.00,0.00
+Wednesday,AS,PDX,"Portland, OR",14:08,122.00,833.00,0.00
+Saturday,UA,SMF,"Sacramento, CA",19:09,64.00,373.00,1.00
+Monday,DL,DFW,"Dallas/Fort Worth, TX",08:50,160.00,1235.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",00:36,151.00,1235.00,0.00
+Friday,AA,LAS,"Las Vegas, NV",09:42,43.00,236.00,0.00
+Wednesday,DL,ATL,"Atlanta, GA",13:20,231.00,1947.00,1.00
+Tuesday,OO,MCI,"Kansas City, MO",10:04,174.00,1363.00,0.00
+Wednesday,DL,PDX,"Portland, OR",17:00,114.00,833.00,0.00
+Tuesday,AS,PDX,"Portland, OR",18:03,110.00,833.00,0.00
+Friday,UA,ORD,"Chicago, IL",12:50,202.00,1744.00,0.00
+Thursday,AA,MIA,"Miami, FL",06:00,276.00,2342.00,0.00
+Tuesday,OO,BOI,"Boise, ID",18:57,97.00,674.00,0.00
+Thursday,AA,OGG,"Kahului, HI",17:19,301.00,2485.00,0.00
+Thursday,WN,SLC,"Salt Lake City, UT",10:35,91.00,590.00,0.00
+Friday,UA,SFO,"San Francisco, CA",19:04,67.00,337.00,1.00
+Friday,WN,DEN,"Denver, CO",09:05,112.00,862.00,1.00
+Sunday,WN,HOU,"Houston, TX",23:50,146.00,1390.00,0.00
+Sunday,WN,PHX,"Phoenix, AZ",21:15,60.00,370.00,1.00
+Friday,WN,HNL,"Honolulu, HI",18:20,307.00,2556.00,1.00
+Tuesday,OO,TUS,"Tucson, AZ",18:08,67.00,451.00,0.00
+Wednesday,UA,SFO,"San Francisco, CA",15:40,57.00,337.00,1.00
+Sunday,AA,ATL,"Atlanta, GA",09:36,232.00,1947.00,1.00
+Sunday,WN,SMF,"Sacramento, CA",21:45,64.00,373.00,0.00
+Monday,AA,CLT,"Charlotte, NC",23:17,218.00,2125.00,0.00
+Wednesday,DL,SAT,"San Antonio, TX",10:15,144.00,1211.00,0.00
+Friday,AA,MIA,"Miami, FL",13:50,266.00,2342.00,0.00
+Monday,UA,IAD,"Washington, DC",21:35,261.00,2288.00,0.00
+Sunday,OO,MSO,"Missoula, MT",19:00,122.00,923.00,0.00
+Sunday,DL,SEA,"Seattle, WA",09:25,127.00,954.00,0.00
+Monday,OO,PHX,"Phoenix, AZ",16:22,64.00,370.00,0.00
+Tuesday,UA,IAH,"Houston, TX",08:15,198.00,1379.00,0.00
+Wednesday,DL,MSY,"New Orleans, LA",07:05,199.00,1671.00,0.00
+Monday,UA,SLC,"Salt Lake City, UT",19:03,81.00,590.00,0.00
+Wednesday,WN,AUS,"Austin, TX",18:05,143.00,1242.00,0.00
+Sunday,DL,HNL,"Honolulu, HI",08:55,325.00,2556.00,1.00
+Friday,OO,SEA,"Seattle, WA",18:55,146.00,954.00,0.00
+Thursday,OO,FCA,"Kalispell, MT",08:28,136.00,1015.00,0.00
+Tuesday,WN,BWI,"Baltimore, MD",06:00,250.00,2329.00,0.00
+Saturday,DL,RDU,"Raleigh/Durham, NC",10:00,252.00,2239.00,0.00
+Friday,AA,JFK,"New York, NY",10:28,303.00,2475.00,1.00
+Thursday,WN,BNA,"Nashville, TN",13:00,207.00,1798.00,0.00
+Thursday,DL,DFW,"Dallas/Fort Worth, TX",08:50,147.00,1235.00,0.00
+Wednesday,UA,BOS,"Boston, MA",08:15,307.00,2611.00,0.00
+Saturday,OO,PHX,"Phoenix, AZ",08:18,58.00,370.00,0.00
+Sunday,WN,ELP,"El Paso, TX",14:45,93.00,715.00,0.00
+Wednesday,AA,CLT,"Charlotte, NC",06:00,268.00,2125.00,0.00
+Thursday,OO,STS,"Santa Rosa, CA",09:25,66.00,399.00,0.00
+Monday,DL,LAS,"Las Vegas, NV",15:59,46.00,236.00,1.00
+Saturday,OO,ABQ,"Albuquerque, NM",14:34,87.00,677.00,0.00
+Thursday,UA,ORD,"Chicago, IL",17:00,209.00,1744.00,0.00
+Monday,WN,TUS,"Tucson, AZ",21:00,68.00,451.00,0.00
+Wednesday,DL,HNL,"Honolulu, HI",18:15,304.00,2556.00,0.00
+Tuesday,AA,MIA,"Miami, FL",21:41,269.00,2342.00,0.00
+Wednesday,DL,ATL,"Atlanta, GA",12:10,231.00,1947.00,0.00
+Monday,AS,SEA,"Seattle, WA",10:00,141.00,954.00,1.00
+Tuesday,AA,CMH,"Columbus, OH",09:36,229.00,1995.00,0.00
+Friday,WN,SMF,"Sacramento, CA",14:40,64.00,373.00,1.00
+Tuesday,DL,DEN,"Denver, CO",08:50,114.00,862.00,0.00
+Saturday,UA,DEN,"Denver, CO",10:54,111.00,862.00,0.00
+Thursday,AS,EWR,"Newark, NJ",07:00,294.00,2454.00,0.00
+Thursday,DL,SFO,"San Francisco, CA",14:35,61.00,337.00,1.00
+Wednesday,DL,MSY,"New Orleans, LA",07:05,193.00,1671.00,0.00
+Sunday,B6,FLL,"Fort Lauderdale, FL",08:30,269.00,2343.00,0.00
+Monday,DL,ATL,"Atlanta, GA",22:55,204.00,1947.00,0.00
+Saturday,F9,SLC,"Salt Lake City, UT",09:48,86.00,590.00,0.00
+Friday,DL,AUS,"Austin, TX",07:35,140.00,1242.00,0.00
+Thursday,AA,HNL,"Honolulu, HI",18:50,309.00,2556.00,0.00
+Tuesday,AA,LAS,"Las Vegas, NV",09:40,47.00,236.00,0.00
+Monday,DL,MCO,"Orlando, FL",16:10,278.00,2218.00,1.00
+Sunday,UA,HNL,"Honolulu, HI",11:06,314.00,2556.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",17:45,64.00,370.00,0.00
+Thursday,DL,SJC,"San Jose, CA",15:45,51.00,308.00,0.00
+Friday,AA,ORD,"Chicago, IL",23:41,205.00,1744.00,0.00
+Sunday,OO,DEN,"Denver, CO",08:40,104.00,862.00,0.00
+Saturday,UA,ORD,"Chicago, IL",10:52,208.00,1744.00,0.00
+Tuesday,OO,ELP,"El Paso, TX",08:00,105.00,715.00,0.00
+Wednesday,DL,DTW,"Detroit, MI",15:50,226.00,1979.00,0.00
+Monday,AA,PHX,"Phoenix, AZ",19:44,62.00,370.00,1.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",15:00,264.00,2343.00,0.00
+Thursday,WN,DEN,"Denver, CO",06:10,108.00,862.00,0.00
+Friday,DL,BNA,"Nashville, TN",18:40,210.00,1798.00,1.00
+Thursday,DL,JFK,"New York, NY",11:20,290.00,2475.00,0.00
+Thursday,WN,DEN,"Denver, CO",14:20,107.00,862.00,0.00
+Tuesday,DL,DTW,"Detroit, MI",15:50,220.00,1979.00,0.00
+Friday,B6,JFK,"New York, NY",15:20,289.00,2475.00,0.00
+Monday,UA,ORD,"Chicago, IL",07:00,207.00,1744.00,0.00
+Saturday,UA,IAD,"Washington, DC",10:20,265.00,2288.00,0.00
+Sunday,DL,MSP,"Minneapolis, MN",08:25,188.00,1535.00,1.00
+Monday,UA,AUS,"Austin, TX",23:59,137.00,1242.00,0.00
+Tuesday,UA,DEN,"Denver, CO",08:45,112.00,862.00,0.00
+Saturday,AA,DCA,"Washington, DC",07:48,274.00,2311.00,1.00
+Monday,UA,ORD,"Chicago, IL",10:52,209.00,1744.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",16:30,268.00,2454.00,0.00
+Friday,UA,EWR,"Newark, NJ",06:00,284.00,2454.00,0.00
+Saturday,OO,XNA,"Fayetteville, AR",09:41,166.00,1371.00,0.00
+Sunday,OO,OMA,"Omaha, NE",18:33,159.00,1330.00,0.00
+Sunday,DL,DEN,"Denver, CO",19:59,101.00,862.00,1.00
+Sunday,OO,SJC,"San Jose, CA",07:58,54.00,308.00,0.00
+Thursday,DL,DTW,"Detroit, MI",07:15,230.00,1979.00,0.00
+Wednesday,DL,LAS,"Las Vegas, NV",19:55,42.00,236.00,1.00
+Monday,B6,FLL,"Fort Lauderdale, FL",10:39,272.00,2343.00,1.00
+Friday,WN,LAS,"Las Vegas, NV",05:20,48.00,236.00,0.00
+Friday,OO,MCI,"Kansas City, MO",10:04,173.00,1363.00,0.00
+Saturday,F9,ATL,"Atlanta, GA",15:28,224.00,1947.00,0.00
+Wednesday,DL,TPA,"Tampa, FL",22:48,247.00,2158.00,0.00
+Wednesday,OO,TUS,"Tucson, AZ",19:25,62.00,451.00,0.00
+Sunday,UA,SFO,"San Francisco, CA",09:15,62.00,337.00,1.00
+Sunday,DL,JFK,"New York, NY",11:30,274.00,2475.00,1.00
+Monday,DL,SAT,"San Antonio, TX",10:15,150.00,1211.00,0.00
+Thursday,OO,PSP,"Palm Springs, CA",20:20,31.00,110.00,0.00
+Tuesday,F9,SEA,"Seattle, WA",15:15,151.00,954.00,0.00
+Sunday,OO,SMF,"Sacramento, CA",07:00,62.00,373.00,0.00
+Friday,OO,SEA,"Seattle, WA",18:55,141.00,954.00,0.00
+Monday,UA,ORD,"Chicago, IL",08:15,214.00,1744.00,0.00
+Tuesday,OO,GEG,"Spokane, WA",18:59,155.00,945.00,0.00
+Wednesday,DL,ATL,"Atlanta, GA",07:00,225.00,1947.00,0.00
+Monday,OO,TUS,"Tucson, AZ",19:14,71.00,451.00,0.00
+Thursday,AA,RDU,"Raleigh/Durham, NC",08:47,267.00,2239.00,0.00
+Tuesday,DL,HNL,"Honolulu, HI",08:45,317.00,2556.00,1.00
+Wednesday,WN,OAK,"Oakland, CA",16:55,54.00,337.00,0.00
+Sunday,OO,OMA,"Omaha, NE",09:49,184.00,1330.00,0.00
+Wednesday,UA,EWR,"Newark, NJ",16:30,273.00,2454.00,0.00
+Tuesday,OO,TUL,"Tulsa, OK",09:59,144.00,1283.00,0.00
+Saturday,AA,MIA,"Miami, FL",12:25,276.00,2342.00,0.00
+Saturday,AA,JFK,"New York, NY",08:00,301.00,2475.00,0.00
+Thursday,DL,MSP,"Minneapolis, MN",06:15,197.00,1535.00,0.00
+Friday,WN,SMF,"Sacramento, CA",14:40,62.00,373.00,1.00
+Thursday,DL,SEA,"Seattle, WA",12:10,136.00,954.00,0.00
+Wednesday,WN,OAK,"Oakland, CA",13:40,55.00,337.00,1.00
+Friday,DL,SAT,"San Antonio, TX",18:59,140.00,1211.00,0.00
+Thursday,DL,LAS,"Las Vegas, NV",07:35,44.00,236.00,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",07:00,160.00,1235.00,0.00
+Saturday,UA,ORD,"Chicago, IL",22:35,214.00,1744.00,0.00
+Tuesday,WN,AUS,"Austin, TX",12:55,181.00,1242.00,1.00
+Friday,UA,EWR,"Newark, NJ",08:50,275.00,2454.00,1.00
+Wednesday,AA,MIA,"Miami, FL",06:00,273.00,2342.00,0.00
+Wednesday,OO,GEG,"Spokane, WA",12:54,125.00,945.00,0.00
+Wednesday,AA,JFK,"New York, NY",11:45,292.00,2475.00,0.00
+Sunday,DL,SFO,"San Francisco, CA",07:00,50.00,337.00,0.00
+Wednesday,OO,OKC,"Oklahoma City, OK",08:36,152.00,1187.00,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",08:40,44.00,236.00,0.00
+Saturday,DL,DEN,"Denver, CO",14:09,113.00,862.00,0.00
+Saturday,DL,JFK,"New York, NY",07:20,289.00,2475.00,0.00
+Wednesday,DL,LAS,"Las Vegas, NV",11:15,42.00,236.00,0.00
+Saturday,OO,ELP,"El Paso, TX",08:29,96.00,715.00,0.00
+Tuesday,UA,DEN,"Denver, CO",19:45,111.00,862.00,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",20:55,86.00,677.00,0.00
+Monday,DL,SEA,"Seattle, WA",17:32,148.00,954.00,0.00
+Friday,WN,DEN,"Denver, CO",06:10,117.00,862.00,0.00
+Saturday,OO,BOI,"Boise, ID",11:28,99.00,674.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",17:15,60.00,370.00,0.00
+Saturday,UA,EWR,"Newark, NJ",07:15,294.00,2454.00,0.00
+Sunday,B6,JFK,"New York, NY",16:20,287.00,2475.00,0.00
+Friday,WN,DAL,"Dallas, TX",18:30,147.00,1246.00,0.00
+Sunday,AA,PHL,"Philadelphia, PA",08:15,271.00,2402.00,1.00
+Sunday,OO,FCA,"Kalispell, MT",08:28,133.00,1015.00,0.00
+Friday,WN,LAS,"Las Vegas, NV",08:05,46.00,236.00,0.00
+Thursday,OO,SFO,"San Francisco, CA",16:06,57.00,337.00,1.00
+Sunday,WN,MDW,"Chicago, IL",23:55,196.00,1751.00,0.00
+Monday,DL,RDU,"Raleigh/Durham, NC",08:20,238.00,2239.00,0.00
+Friday,AA,JFK,"New York, NY",12:30,293.00,2475.00,1.00
+Tuesday,DL,SEA,"Seattle, WA",14:05,134.00,954.00,0.00
+Saturday,AA,PHX,"Phoenix, AZ",16:40,60.00,370.00,0.00
+Friday,QX,RDM,"Bend/Redmond, OR",20:00,103.00,726.00,0.00
+Thursday,WN,ABQ,"Albuquerque, NM",20:50,81.00,677.00,0.00
+Thursday,UA,HNL,"Honolulu, HI",17:05,305.00,2556.00,0.00
+Friday,UA,EWR,"Newark, NJ",13:25,268.00,2454.00,0.00
+Sunday,F9,SMF,"Sacramento, CA",08:36,58.00,373.00,0.00
+Wednesday,DL,SEA,"Seattle, WA",12:00,141.00,954.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",21:22,61.00,370.00,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",07:00,155.00,1235.00,0.00
+Sunday,AA,CLT,"Charlotte, NC",13:53,250.00,2125.00,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",12:40,170.00,1535.00,0.00
+Sunday,QX,PAE,"Everett, WA",19:06,138.00,984.00,1.00
+Friday,F9,IAH,"Houston, TX",12:46,157.00,1379.00,1.00
+Friday,DL,ATL,"Atlanta, GA",22:55,213.00,1947.00,0.00
+Tuesday,AA,MIA,"Miami, FL",08:00,273.00,2342.00,0.00
+Wednesday,AS,SEA,"Seattle, WA",06:30,143.00,954.00,0.00
+Sunday,UA,SFO,"San Francisco, CA",13:20,69.00,337.00,0.00
+Saturday,WN,SFO,"San Francisco, CA",15:55,52.00,337.00,0.00
+Monday,DL,TPA,"Tampa, FL",22:48,253.00,2158.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",21:45,57.00,370.00,1.00
+Saturday,OO,ELP,"El Paso, TX",08:00,95.00,715.00,0.00
+Sunday,AS,SEA,"Seattle, WA",06:30,125.00,954.00,0.00
+Friday,DL,AUS,"Austin, TX",07:35,149.00,1242.00,0.00
+Tuesday,DL,SAT,"San Antonio, TX",09:45,133.00,1211.00,0.00
+Saturday,DL,SLC,"Salt Lake City, UT",07:35,89.00,590.00,0.00
+Sunday,UA,EWR,"Newark, NJ",07:15,283.00,2454.00,0.00
+Saturday,WN,SFO,"San Francisco, CA",11:10,59.00,337.00,1.00
+Wednesday,AA,ORD,"Chicago, IL",01:01,215.00,1744.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",13:15,267.00,2454.00,0.00
+Saturday,AA,ORD,"Chicago, IL",00:56,216.00,1744.00,0.00
+Saturday,AA,CLT,"Charlotte, NC",07:10,250.00,2125.00,0.00
+Saturday,AS,SEA,"Seattle, WA",12:54,132.00,954.00,1.00
+Thursday,WN,OAK,"Oakland, CA",21:25,54.00,337.00,1.00
+Friday,B6,JFK,"New York, NY",08:00,279.00,2475.00,0.00
+Sunday,AA,JFK,"New York, NY",21:36,287.00,2475.00,0.00
+Thursday,DL,MCI,"Kansas City, MO",18:46,174.00,1363.00,0.00
+Monday,WN,SJC,"San Jose, CA",06:15,46.00,308.00,0.00
+Sunday,AS,SFO,"San Francisco, CA",10:00,61.00,337.00,0.00
+Monday,AS,DCA,"Washington, DC",11:54,279.00,2311.00,0.00
+Saturday,AA,MIA,"Miami, FL",00:30,266.00,2342.00,0.00
+Friday,UA,HNL,"Honolulu, HI",17:00,301.00,2556.00,0.00
+Thursday,AA,JFK,"New York, NY",08:00,297.00,2475.00,0.00
+Friday,AA,MIA,"Miami, FL",13:51,245.00,2342.00,0.00
+Wednesday,AA,KOA,"Kona, HI",09:06,331.00,2504.00,1.00
+Wednesday,DL,DEN,"Denver, CO",08:50,107.00,862.00,0.00
+Thursday,AA,LIH,"Lihue, HI",08:29,327.00,2615.00,0.00
+Wednesday,QX,GEG,"Spokane, WA",12:48,124.00,945.00,1.00
+Sunday,DL,HNL,"Honolulu, HI",18:55,323.00,2556.00,0.00
+Thursday,OO,SJC,"San Jose, CA",12:53,50.00,308.00,0.00
+Saturday,OO,RDM,"Bend/Redmond, OR",20:20,98.00,726.00,0.00
+Sunday,WN,SAT,"San Antonio, TX",13:05,148.00,1211.00,0.00
+Sunday,OO,ASE,"Aspen, CO",16:57,96.00,737.00,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",13:00,179.00,1535.00,0.00
+Saturday,AS,SEA,"Seattle, WA",19:50,121.00,954.00,0.00
+Saturday,DL,SJC,"San Jose, CA",09:30,52.00,308.00,0.00
+Friday,UA,LAS,"Las Vegas, NV",22:58,45.00,236.00,0.00
+Monday,DL,PDX,"Portland, OR",14:00,109.00,833.00,0.00
+Friday,DL,BNA,"Nashville, TN",12:15,214.00,1798.00,0.00
+Friday,WN,AUS,"Austin, TX",06:40,154.00,1242.00,0.00
+Saturday,UA,DEN,"Denver, CO",10:55,112.00,862.00,1.00
+Wednesday,UA,CLE,"Cleveland, OH",22:35,235.00,2052.00,0.00
+Sunday,DL,JFK,"New York, NY",09:40,278.00,2475.00,0.00
+Friday,UA,HNL,"Honolulu, HI",11:06,313.00,2556.00,0.00
+Friday,DL,ATL,"Atlanta, GA",14:40,216.00,1947.00,1.00
+Wednesday,DL,MCO,"Orlando, FL",10:50,235.00,2218.00,0.00
+Wednesday,AS,PDX,"Portland, OR",19:45,120.00,833.00,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",13:41,65.00,370.00,0.00
+Tuesday,WN,SJC,"San Jose, CA",10:55,51.00,308.00,0.00
+Friday,UA,BWI,"Baltimore, MD",20:58,256.00,2329.00,0.00
+Tuesday,UA,ORD,"Chicago, IL",10:52,232.00,1744.00,0.00
+Monday,DL,SFO,"San Francisco, CA",09:30,51.00,337.00,0.00
+Thursday,OO,ACV,"Arcata/Eureka, CA",20:15,88.00,577.00,0.00
+Thursday,OO,OKC,"Oklahoma City, OK",17:31,164.00,1187.00,0.00
+Saturday,AA,JFK,"New York, NY",07:00,289.00,2475.00,1.00
+Friday,AA,PHX,"Phoenix, AZ",10:13,58.00,370.00,0.00
+Thursday,DL,DEN,"Denver, CO",14:09,135.00,862.00,1.00
+Sunday,AA,PHL,"Philadelphia, PA",08:08,279.00,2402.00,0.00
+Monday,DL,SLC,"Salt Lake City, UT",13:25,74.00,590.00,0.00
+Friday,UA,IAH,"Houston, TX",10:18,169.00,1379.00,0.00
+Wednesday,OO,SEA,"Seattle, WA",08:30,145.00,954.00,0.00
+Monday,UA,DEN,"Denver, CO",08:47,118.00,862.00,0.00
+Friday,DL,LAS,"Las Vegas, NV",11:15,44.00,236.00,0.00
+Friday,WN,SMF,"Sacramento, CA",20:40,59.00,373.00,1.00
+Saturday,OO,DSM,"Des Moines, IA",12:50,182.00,1447.00,1.00
+Thursday,OO,SMF,"Sacramento, CA",09:23,68.00,373.00,0.00
+Sunday,DL,JFK,"New York, NY",21:15,269.00,2475.00,0.00
+Tuesday,DL,ATL,"Atlanta, GA",12:10,231.00,1947.00,0.00
+Saturday,DL,JFK,"New York, NY",07:30,275.00,2475.00,0.00
+Wednesday,UA,AUS,"Austin, TX",10:50,153.00,1242.00,0.00
+Monday,DL,DCA,"Washington, DC",07:40,267.00,2311.00,0.00
+Sunday,AA,ORD,"Chicago, IL",10:23,224.00,1744.00,1.00
+Sunday,B6,BOS,"Boston, MA",22:09,303.00,2611.00,0.00
+Friday,WN,DEN,"Denver, CO",19:55,116.00,862.00,1.00
+Saturday,AS,PDX,"Portland, OR",18:03,115.00,833.00,0.00
+Monday,AA,IAD,"Washington, DC",21:45,281.00,2288.00,0.00
+Wednesday,OO,SAN,"San Diego, CA",17:11,33.00,109.00,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",16:40,149.00,1235.00,0.00
+Wednesday,DL,ATL,"Atlanta, GA",12:10,230.00,1947.00,0.00
+Wednesday,OO,SFO,"San Francisco, CA",16:05,57.00,337.00,1.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",13:33,154.00,1235.00,0.00
+Sunday,AS,PDX,"Portland, OR",18:05,118.00,833.00,0.00
+Friday,B6,BOS,"Boston, MA",10:45,287.00,2611.00,0.00
+Tuesday,DL,IAH,"Houston, TX",18:45,173.00,1379.00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",23:55,155.00,1235.00,1.00
+Sunday,OO,XNA,"Fayetteville, AR",09:41,158.00,1371.00,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",19:48,154.00,1235.00,1.00
+Sunday,OO,SAN,"San Diego, CA",18:50,29.00,109.00,1.00
+Thursday,UA,ORD,"Chicago, IL",17:15,209.00,1744.00,0.00
+Sunday,DL,HNL,"Honolulu, HI",13:55,305.00,2556.00,0.00
+Thursday,AS,GEG,"Spokane, WA",20:09,128.00,945.00,0.00
+Thursday,AA,HNL,"Honolulu, HI",15:48,313.00,2556.00,0.00
+Saturday,WN,SAT,"San Antonio, TX",11:50,147.00,1211.00,1.00
+Saturday,DL,MCO,"Orlando, FL",22:15,259.00,2218.00,0.00
+Saturday,UA,SFO,"San Francisco, CA",20:15,57.00,337.00,1.00
+Thursday,DL,SFO,"San Francisco, CA",09:30,61.00,337.00,1.00
+Tuesday,WN,DEN,"Denver, CO",09:15,116.00,862.00,0.00
+Friday,DL,DEN,"Denver, CO",14:09,110.00,862.00,0.00
+Sunday,DL,DTW,"Detroit, MI",23:20,223.00,1979.00,0.00
+Tuesday,DL,JFK,"New York, NY",08:20,287.00,2475.00,0.00
+Thursday,OO,STL,"St. Louis, MO",18:16,196.00,1592.00,0.00
+Tuesday,DL,PDX,"Portland, OR",20:20,122.00,833.00,0.00
+Friday,B6,BOS,"Boston, MA",07:00,307.00,2611.00,0.00
+Friday,OO,ELP,"El Paso, TX",20:49,89.00,715.00,0.00
+Tuesday,AS,ANC,"Anchorage, AK",20:00,321.00,2345.00,0.00
+Thursday,AA,CLT,"Charlotte, NC",13:53,256.00,2125.00,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",19:24,75.00,590.00,0.00
+Monday,OO,OKC,"Oklahoma City, OK",13:43,129.00,1187.00,0.00
+Thursday,OO,STL,"St. Louis, MO",18:16,196.00,1592.00,1.00
+Tuesday,DL,AUS,"Austin, TX",13:16,140.00,1242.00,0.00
+Monday,UA,IAH,"Houston, TX",23:59,153.00,1379.00,0.00
+Tuesday,DL,AUS,"Austin, TX",15:47,160.00,1242.00,0.00
+Friday,UA,CMH,"Columbus, OH",10:45,238.00,1995.00,0.00
+Friday,OO,SFO,"San Francisco, CA",16:05,55.00,337.00,0.00
+Saturday,OO,RDM,"Bend/Redmond, OR",10:15,98.00,726.00,0.00
+Tuesday,AA,JFK,"New York, NY",14:20,299.00,2475.00,0.00
+Friday,DL,JFK,"New York, NY",23:55,279.00,2475.00,0.00
+Tuesday,OO,PRC,"Prescott, AZ",13:25,56.00,346.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",10:15,293.00,2454.00,0.00
+Saturday,WN,BWI,"Baltimore, MD",12:55,268.00,2329.00,1.00
+Thursday,OO,RNO,"Reno, NV",09:17,62.00,390.00,0.00
+Friday,OO,STS,"Santa Rosa, CA",08:09,70.00,399.00,0.00
+Thursday,F9,MCO,"Orlando, FL",23:21,253.00,2218.00,1.00
+Sunday,DL,DTW,"Detroit, MI",22:35,234.00,1979.00,0.00
+Wednesday,AA,JFK,"New York, NY",21:36,273.00,2475.00,0.00
+Sunday,AA,JFK,"New York, NY",08:00,293.00,2475.00,0.00
+Thursday,WN,ABQ,"Albuquerque, NM",07:25,87.00,677.00,0.00
+Thursday,AA,JFK,"New York, NY",07:00,295.00,2475.00,0.00
+Sunday,AA,MIA,"Miami, FL",21:41,277.00,2342.00,0.00
+Thursday,OO,SMF,"Sacramento, CA",16:23,63.00,373.00,0.00
+Tuesday,WN,PHX,"Phoenix, AZ",15:35,62.00,370.00,0.00
+Sunday,AA,JFK,"New York, NY",12:36,277.00,2475.00,0.00
+Sunday,AS,SEA,"Seattle, WA",18:10,144.00,954.00,0.00
+Thursday,UA,IAD,"Washington, DC",10:27,269.00,2288.00,0.00
+Monday,WN,SAT,"San Antonio, TX",08:05,145.00,1211.00,1.00
+Friday,DL,SEA,"Seattle, WA",14:05,138.00,954.00,0.00
+Wednesday,AA,PHX,"Phoenix, AZ",21:08,60.00,370.00,0.00
+Sunday,UA,SEA,"Seattle, WA",19:15,131.00,954.00,0.00
+Sunday,DL,SFO,"San Francisco, CA",17:59,54.00,337.00,0.00
+Wednesday,OO,DEN,"Denver, CO",14:19,128.00,862.00,0.00
+Sunday,B6,BOS,"Boston, MA",21:40,302.00,2611.00,0.00
+Sunday,DL,OGG,"Kahului, HI",08:05,315.00,2485.00,0.00
+Wednesday,AA,ORD,"Chicago, IL",15:10,206.00,1744.00,0.00
+Saturday,DL,SLC,"Salt Lake City, UT",11:00,86.00,590.00,0.00
+Tuesday,B6,JFK,"New York, NY",10:32,304.00,2475.00,0.00
+Monday,AA,PHL,"Philadelphia, PA",07:02,278.00,2402.00,0.00
+Wednesday,OO,DSM,"Des Moines, IA",12:50,184.00,1447.00,0.00
+Sunday,F9,DEN,"Denver, CO",06:30,108.00,862.00,0.00
+Monday,DL,DCA,"Washington, DC",07:35,247.00,2311.00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",00:40,149.00,1235.00,0.00
+Thursday,OO,SFO,"San Francisco, CA",08:45,59.00,337.00,1.00
+Sunday,QX,PAE,"Everett, WA",15:30,166.00,984.00,0.00
+Friday,UA,LAS,"Las Vegas, NV",16:37,45.00,236.00,0.00
+Tuesday,UA,BOS,"Boston, MA",08:15,351.00,2611.00,0.00
+Tuesday,WN,SMF,"Sacramento, CA",07:50,59.00,373.00,0.00
+Wednesday,UA,IAH,"Houston, TX",12:03,177.00,1379.00,0.00
+Tuesday,DL,LAS,"Las Vegas, NV",07:35,39.00,236.00,0.00
+Tuesday,F9,SEA,"Seattle, WA",15:15,138.00,954.00,1.00
+Sunday,OO,SMF,"Sacramento, CA",16:18,59.00,373.00,0.00
+Wednesday,AA,ATL,"Atlanta, GA",09:36,229.00,1947.00,1.00
+Thursday,DL,BNA,"Nashville, TN",06:50,212.00,1798.00,0.00
+Tuesday,DL,ATL,"Atlanta, GA",12:10,239.00,1947.00,0.00
+Friday,AA,ORD,"Chicago, IL",09:31,214.00,1744.00,0.00
+Wednesday,OO,IAH,"Houston, TX",13:46,200.00,1379.00,0.00
+Tuesday,DL,MCO,"Orlando, FL",22:15,275.00,2218.00,0.00
+Wednesday,UA,MRY,"Monterey, CA",16:43,43.00,266.00,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",13:15,61.00,370.00,0.00
+Wednesday,AS,DCA,"Washington, DC",11:54,285.00,2311.00,1.00
+Saturday,DL,JFK,"New York, NY",07:00,292.00,2475.00,0.00
+Saturday,DL,MIA,"Miami, FL",09:05,253.00,2342.00,0.00
+Monday,AA,DCA,"Washington, DC",07:48,270.00,2311.00,0.00
+Sunday,OO,SBA,"Santa Barbara, CA",22:45,35.00,89.00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",17:59,55.00,337.00,1.00
+Tuesday,AA,JFK,"New York, NY",06:00,304.00,2475.00,0.00
+Wednesday,DL,PDX,"Portland, OR",13:15,119.00,833.00,0.00
+Saturday,WN,DEN,"Denver, CO",16:35,116.00,862.00,1.00
+Monday,WN,BWI,"Baltimore, MD",06:05,250.00,2329.00,0.00
+Friday,OO,PDX,"Portland, OR",19:57,116.00,833.00,0.00
+Saturday,WN,HNL,"Honolulu, HI",07:00,308.00,2556.00,0.00
+Sunday,DL,DTW,"Detroit, MI",05:35,232.00,1979.00,0.00
+Sunday,UA,ORD,"Chicago, IL",22:35,210.00,1744.00,0.00
+Friday,UA,LAS,"Las Vegas, NV",18:59,41.00,236.00,0.00
+Friday,WN,OAK,"Oakland, CA",12:00,59.00,337.00,0.00
+Friday,UA,ORD,"Chicago, IL",10:52,215.00,1744.00,0.00
+Tuesday,AA,MCO,"Orlando, FL",21:29,233.00,2218.00,0.00
+Friday,OO,ABQ,"Albuquerque, NM",08:25,93.00,677.00,0.00
+Tuesday,WN,MSY,"New Orleans, LA",11:10,197.00,1671.00,1.00
+Thursday,OO,SMF,"Sacramento, CA",09:10,63.00,373.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",17:45,60.00,370.00,0.00
+Sunday,DL,JFK,"New York, NY",23:55,296.00,2475.00,0.00
+Friday,OO,RDM,"Bend/Redmond, OR",10:15,109.00,726.00,0.00
+Friday,UA,MCO,"Orlando, FL",16:27,246.00,2218.00,0.00
+Thursday,DL,SEA,"Seattle, WA",19:59,131.00,954.00,1.00
+Wednesday,DL,SAT,"San Antonio, TX",10:15,145.00,1211.00,0.00
+Sunday,OO,SMF,"Sacramento, CA",16:23,59.00,373.00,0.00
+Friday,WN,SFO,"San Francisco, CA",06:00,58.00,337.00,0.00
+Tuesday,UA,IAD,"Washington, DC",22:36,269.00,2288.00,0.00
+Friday,UA,DEN,"Denver, CO",07:00,113.00,862.00,0.00
+Thursday,DL,JFK,"New York, NY",21:15,285.00,2475.00,0.00
+Monday,OO,SFO,"San Francisco, CA",22:18,58.00,337.00,1.00
+Saturday,WN,AUS,"Austin, TX",05:45,147.00,1242.00,0.00
+Saturday,AS,HNL,"Honolulu, HI",08:30,321.00,2556.00,0.00
+Sunday,DL,DTW,"Detroit, MI",15:47,240.00,1979.00,0.00
+Wednesday,B6,JFK,"New York, NY",10:40,309.00,2475.00,1.00
+Friday,AA,JFK,"New York, NY",14:20,299.00,2475.00,0.00
+Saturday,AA,PHX,"Phoenix, AZ",06:10,59.00,370.00,0.00
+Sunday,DL,ATL,"Atlanta, GA",13:20,220.00,1947.00,0.00
+Wednesday,OO,RDM,"Bend/Redmond, OR",16:10,123.00,726.00,0.00
+Monday,AA,MIA,"Miami, FL",23:59,242.00,2342.00,0.00
+Saturday,F9,DEN,"Denver, CO",09:40,108.00,862.00,0.00
+Wednesday,DL,PDX,"Portland, OR",09:45,117.00,833.00,0.00
+Tuesday,AA,AUS,"Austin, TX",18:52,154.00,1242.00,1.00
+Thursday,UA,BWI,"Baltimore, MD",20:58,277.00,2329.00,0.00
+Thursday,AA,MIA,"Miami, FL",08:10,276.00,2342.00,0.00
+Monday,UA,IAH,"Houston, TX",15:20,154.00,1379.00,0.00
+Friday,OO,BOI,"Boise, ID",19:45,94.00,674.00,0.00
+Friday,AA,ORD,"Chicago, IL",10:39,216.00,1744.00,0.00
+Monday,OO,SBA,"Santa Barbara, CA",08:15,20.00,89.00,0.00
+Saturday,DL,PDX,"Portland, OR",07:35,117.00,833.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",14:35,146.00,1235.00,0.00
+Thursday,WN,SMF,"Sacramento, CA",10:50,62.00,373.00,0.00
+Saturday,UA,CLE,"Cleveland, OH",22:35,238.00,2052.00,0.00
+Wednesday,AA,DCA,"Washington, DC",12:32,264.00,2311.00,0.00
+Sunday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,119.00,851.00,0.00
+Saturday,UA,IAD,"Washington, DC",12:55,264.00,2288.00,0.00
+Monday,DL,PDX,"Portland, OR",20:20,112.00,833.00,0.00
+Friday,DL,SAT,"San Antonio, TX",10:15,150.00,1211.00,0.00
+Monday,WN,OAK,"Oakland, CA",15:40,54.00,337.00,1.00
+Monday,OO,SJC,"San Jose, CA",18:04,53.00,308.00,0.00
+Thursday,OO,SJC,"San Jose, CA",14:19,54.00,308.00,0.00
+Monday,WN,DEN,"Denver, CO",15:45,106.00,862.00,1.00
+Thursday,OO,TUS,"Tucson, AZ",19:14,68.00,451.00,0.00
+Monday,F9,SJC,"San Jose, CA",10:43,49.00,308.00,0.00
+Monday,WN,MCO,"Orlando, FL",23:15,261.00,2218.00,1.00
+Wednesday,WN,DEN,"Denver, CO",19:30,111.00,862.00,1.00
+Friday,UA,SFO,"San Francisco, CA",06:00,59.00,337.00,0.00
+Saturday,WN,MCO,"Orlando, FL",23:15,254.00,2218.00,0.00
+Monday,WN,DEN,"Denver, CO",14:20,113.00,862.00,0.00
+Sunday,AS,DCA,"Washington, DC",11:52,258.00,2311.00,0.00
+Monday,WN,SFO,"San Francisco, CA",11:10,60.00,337.00,1.00
+Friday,WN,SFO,"San Francisco, CA",11:10,65.00,337.00,1.00
+Thursday,DL,ATL,"Atlanta, GA",21:45,234.00,1947.00,0.00
+Tuesday,OO,TUS,"Tucson, AZ",19:25,69.00,451.00,0.00
+Wednesday,OO,SBP,"San Luis Obispo, CA",16:10,31.00,155.00,0.00
+Tuesday,WN,OAK,"Oakland, CA",19:00,51.00,337.00,0.00
+Wednesday,DL,DEN,"Denver, CO",14:09,115.00,862.00,0.00
+Wednesday,UA,EWR,"Newark, NJ",21:00,250.00,2454.00,0.00
+Thursday,F9,ATL,"Atlanta, GA",23:20,222.00,1947.00,0.00
+Sunday,AA,ORD,"Chicago, IL",08:00,204.00,1744.00,0.00
+Wednesday,AA,CLT,"Charlotte, NC",06:05,254.00,2125.00,0.00
+Friday,F9,SJC,"San Jose, CA",18:02,49.00,308.00,1.00
+Wednesday,AS,HNL,"Honolulu, HI",17:35,298.00,2556.00,1.00
+Saturday,DL,HNL,"Honolulu, HI",13:55,324.00,2556.00,1.00
+Wednesday,WN,SJC,"San Jose, CA",16:10,47.00,308.00,0.00
+Sunday,AS,EUG,"Eugene, OR",19:40,103.00,748.00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",12:15,53.00,337.00,1.00
+Tuesday,OO,PSP,"Palm Springs, CA",20:20,32.00,110.00,0.00
+Friday,DL,DTW,"Detroit, MI",09:35,234.00,1979.00,1.00
+Friday,AA,AUS,"Austin, TX",14:30,143.00,1242.00,1.00
+Tuesday,UA,IAH,"Houston, TX",10:18,173.00,1379.00,0.00
+Saturday,DL,RDU,"Raleigh/Durham, NC",10:00,260.00,2239.00,0.00
+Thursday,WN,DAL,"Dallas, TX",10:45,198.00,1246.00,1.00
+Monday,WN,PHX,"Phoenix, AZ",11:10,55.00,370.00,1.00
+Tuesday,WN,ELP,"El Paso, TX",11:30,90.00,715.00,0.00
+Sunday,AA,DCA,"Washington, DC",08:26,275.00,2311.00,0.00
+Saturday,OO,XNA,"Fayetteville, AR",09:41,168.00,1371.00,0.00
+Sunday,OO,RNO,"Reno, NV",09:17,64.00,390.00,0.00
+Thursday,UA,SFO,"San Francisco, CA",06:00,56.00,337.00,0.00
+Monday,AA,IAD,"Washington, DC",20:50,268.00,2288.00,0.00
+Monday,WN,BNA,"Nashville, TN",23:30,193.00,1798.00,1.00
+Wednesday,DL,MIA,"Miami, FL",09:05,281.00,2342.00,0.00
+Thursday,AS,LIH,"Lihue, HI",09:40,317.00,2615.00,0.00
+Friday,WN,OAK,"Oakland, CA",15:40,56.00,337.00,1.00
+Sunday,AA,ORD,"Chicago, IL",00:56,218.00,1744.00,0.00
+Monday,DL,MCO,"Orlando, FL",22:15,254.00,2218.00,0.00
+Sunday,UA,ORD,"Chicago, IL",17:00,204.00,1744.00,0.00
+Wednesday,UA,ORD,"Chicago, IL",14:20,207.00,1744.00,0.00
+Friday,OO,SEA,"Seattle, WA",08:30,144.00,954.00,0.00
+Friday,OO,SAN,"San Diego, CA",22:20,27.00,109.00,0.00
+Wednesday,AA,RDU,"Raleigh/Durham, NC",09:05,265.00,2239.00,1.00
+Sunday,WN,HOU,"Houston, TX",07:45,166.00,1390.00,0.00
+Sunday,DL,ATL,"Atlanta, GA",07:00,235.00,1947.00,0.00
+Thursday,B6,JFK,"New York, NY",23:59,292.00,2475.00,1.00
+Wednesday,AA,JFK,"New York, NY",22:35,290.00,2475.00,0.00
+Saturday,DL,BNA,"Nashville, TN",06:50,208.00,1798.00,0.00
+Thursday,UA,DEN,"Denver, CO",08:45,112.00,862.00,0.00
+Thursday,DL,MCO,"Orlando, FL",22:15,260.00,2218.00,0.00
+Saturday,WN,STL,"St. Louis, MO",07:35,185.00,1592.00,0.00
+Friday,F9,IAH,"Houston, TX",09:46,167.00,1379.00,0.00
+Tuesday,WN,PHX,"Phoenix, AZ",10:45,58.00,370.00,0.00
+Sunday,AA,PHL,"Philadelphia, PA",12:06,281.00,2402.00,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",09:00,95.00,677.00,0.00
+Friday,WN,MDW,"Chicago, IL",12:00,212.00,1751.00,1.00
+Monday,WN,HNL,"Honolulu, HI",07:00,317.00,2556.00,1.00
+Sunday,UA,JAC,"Jackson, WY",10:28,108.00,784.00,0.00
+Thursday,AA,MCO,"Orlando, FL",09:02,256.00,2218.00,0.00
+Saturday,UA,HNL,"Honolulu, HI",09:05,300.00,2556.00,0.00
+Sunday,UA,AUS,"Austin, TX",10:55,152.00,1242.00,0.00
+Thursday,F9,LAS,"Las Vegas, NV",12:08,44.00,236.00,0.00
+Thursday,UA,DEN,"Denver, CO",07:00,121.00,862.00,0.00
+Sunday,AS,KOA,"Kona, HI",08:30,303.00,2504.00,0.00
+Tuesday,DL,RDU,"Raleigh/Durham, NC",10:00,273.00,2239.00,0.00
+Sunday,OO,ELP,"El Paso, TX",14:04,92.00,715.00,0.00
+Monday,F9,MCO,"Orlando, FL",23:21,272.00,2218.00,1.00
+Thursday,WN,DAL,"Dallas, TX",17:00,151.00,1246.00,1.00
+Thursday,WN,DEN,"Denver, CO",11:00,119.00,862.00,0.00
+Tuesday,DL,JFK,"New York, NY",06:20,299.00,2475.00,0.00
+Friday,AS,OGG,"Kahului, HI",08:30,302.00,2485.00,1.00
+Tuesday,OO,SMF,"Sacramento, CA",16:23,58.00,373.00,1.00
+Friday,UA,DEN,"Denver, CO",10:54,110.00,862.00,0.00
+Tuesday,OO,PHX,"Phoenix, AZ",19:53,60.00,370.00,0.00
+Thursday,OO,PHX,"Phoenix, AZ",10:00,58.00,370.00,1.00
+Monday,DL,ATL,"Atlanta, GA",17:15,238.00,1947.00,0.00
+Thursday,AA,JFK,"New York, NY",06:00,305.00,2475.00,0.00
+Friday,WN,OAK,"Oakland, CA",06:10,54.00,337.00,0.00
+Saturday,AA,LAS,"Las Vegas, NV",12:55,41.00,236.00,1.00
+Sunday,UA,IAD,"Washington, DC",21:35,257.00,2288.00,0.00
+Saturday,OO,SMF,"Sacramento, CA",22:22,65.00,373.00,0.00
+Friday,AA,HNL,"Honolulu, HI",19:25,337.00,2556.00,0.00
+Tuesday,OO,ABQ,"Albuquerque, NM",20:55,92.00,677.00,0.00
+Thursday,WN,SMF,"Sacramento, CA",10:50,60.00,373.00,0.00
+Saturday,OO,PDX,"Portland, OR",19:06,127.00,833.00,1.00
+Sunday,UA,SFO,"San Francisco, CA",15:40,62.00,337.00,0.00
+Wednesday,DL,BOS,"Boston, MA",21:00,297.00,2611.00,0.00
+Tuesday,AA,CLT,"Charlotte, NC",13:53,262.00,2125.00,1.00
+Monday,OO,SBA,"Santa Barbara, CA",22:44,27.00,89.00,0.00
+Sunday,AA,IND,"Indianapolis, IN",10:35,217.00,1814.00,0.00
+Thursday,WN,DEN,"Denver, CO",09:05,121.00,862.00,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",23:35,276.00,2343.00,0.00
+Friday,DL,TPA,"Tampa, FL",10:30,259.00,2158.00,0.00
+Tuesday,OO,OKC,"Oklahoma City, OK",13:43,146.00,1187.00,0.00
+Thursday,UA,EWR,"Newark, NJ",11:15,279.00,2454.00,0.00
+Saturday,UA,DEN,"Denver, CO",08:47,107.00,862.00,0.00
+Tuesday,OO,TUS,"Tucson, AZ",14:38,76.00,451.00,1.00
+Wednesday,DL,DFW,"Dallas/Fort Worth, TX",18:55,146.00,1235.00,0.00
+Monday,AA,BNA,"Nashville, TN",23:59,224.00,1798.00,0.00
+Sunday,AS,GEG,"Spokane, WA",20:09,121.00,945.00,0.00
+Monday,UA,EWR,"Newark, NJ",11:15,285.00,2454.00,1.00
+Sunday,OO,RDD,"Redding, CA",20:00,75.00,501.00,0.00
+Sunday,WN,LAS,"Las Vegas, NV",12:45,44.00,236.00,0.00
+Thursday,DL,IND,"Indianapolis, IN",08:40,212.00,1814.00,0.00
+Friday,WN,DEN,"Denver, CO",11:00,111.00,862.00,0.00
+Saturday,OO,MSO,"Missoula, MT",19:02,134.00,923.00,0.00
+Friday,DL,JFK,"New York, NY",06:20,293.00,2475.00,0.00
+Friday,F9,SFO,"San Francisco, CA",19:22,57.00,337.00,1.00
+Friday,DL,ATL,"Atlanta, GA",23:55,210.00,1947.00,0.00
+Tuesday,AA,MIA,"Miami, FL",07:20,287.00,2342.00,0.00
+Wednesday,F9,SEA,"Seattle, WA",15:15,140.00,954.00,0.00
+Sunday,OO,BOI,"Boise, ID",12:00,90.00,674.00,0.00
+Monday,B6,FLL,"Fort Lauderdale, FL",22:08,269.00,2343.00,0.00
+Tuesday,AA,CLT,"Charlotte, NC",22:00,230.00,2125.00,0.00
+Friday,OO,ABQ,"Albuquerque, NM",08:25,95.00,677.00,0.00
+Wednesday,OO,STS,"Santa Rosa, CA",22:13,62.00,399.00,0.00
+Monday,AA,AUS,"Austin, TX",18:52,176.00,1242.00,0.00
+Sunday,WN,PHX,"Phoenix, AZ",18:35,56.00,370.00,1.00
+Tuesday,AA,MCO,"Orlando, FL",09:02,245.00,2218.00,0.00
+Sunday,UA,LAS,"Las Vegas, NV",22:59,47.00,236.00,0.00
+Saturday,DL,JFK,"New York, NY",13:25,293.00,2475.00,0.00
+Sunday,UA,BZN,"Bozeman, MT",12:55,116.00,902.00,0.00
+Wednesday,B6,JFK,"New York, NY",22:35,282.00,2475.00,0.00
+Thursday,AS,GEG,"Spokane, WA",20:13,123.00,945.00,0.00
+Sunday,OO,XNA,"Fayetteville, AR",09:41,186.00,1371.00,0.00
+Sunday,AS,HNL,"Honolulu, HI",17:35,304.00,2556.00,1.00
+Thursday,WN,AUS,"Austin, TX",16:10,156.00,1242.00,0.00
+Sunday,DL,ATL,"Atlanta, GA",07:15,219.00,1947.00,0.00
+Friday,WN,DAL,"Dallas, TX",18:30,148.00,1246.00,1.00
+Saturday,UA,MRY,"Monterey, CA",16:43,45.00,266.00,0.00
+Monday,UA,IAD,"Washington, DC",08:15,287.00,2288.00,0.00
+Friday,DL,SLC,"Salt Lake City, UT",17:10,86.00,590.00,1.00
+Wednesday,AA,CLT,"Charlotte, NC",06:05,226.00,2125.00,0.00
+Monday,WN,HOU,"Houston, TX",08:30,168.00,1390.00,0.00
+Saturday,DL,HNL,"Honolulu, HI",08:55,320.00,2556.00,0.00
+Thursday,WN,SJC,"San Jose, CA",09:15,48.00,308.00,0.00
+Sunday,DL,SEA,"Seattle, WA",21:05,136.00,954.00,1.00
+Wednesday,UA,IAH,"Houston, TX",13:10,162.00,1379.00,1.00
+Tuesday,OO,PDX,"Portland, OR",19:57,121.00,833.00,0.00
+Thursday,DL,JFK,"New York, NY",23:55,275.00,2475.00,0.00
+Sunday,DL,OGG,"Kahului, HI",16:55,308.00,2485.00,0.00
+Wednesday,UA,KOA,"Kona, HI",09:10,298.00,2504.00,1.00
+Sunday,DL,DTW,"Detroit, MI",07:45,225.00,1979.00,0.00
+Saturday,AS,SEA,"Seattle, WA",14:30,128.00,954.00,0.00
+Saturday,UA,BWI,"Baltimore, MD",23:05,265.00,2329.00,0.00
+Wednesday,DL,PDX,"Portland, OR",16:55,118.00,833.00,0.00
+Sunday,DL,DFW,"Dallas/Fort Worth, TX",18:55,155.00,1235.00,0.00
+Sunday,OO,SAN,"San Diego, CA",19:00,33.00,109.00,0.00
+Tuesday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,131.00,851.00,0.00
+Wednesday,DL,OGG,"Kahului, HI",16:55,305.00,2485.00,0.00
+Friday,AA,LAS,"Las Vegas, NV",20:19,44.00,236.00,0.00
+Tuesday,OO,RNO,"Reno, NV",08:20,61.00,390.00,0.00
+Wednesday,DL,JFK,"New York, NY",11:20,289.00,2475.00,0.00
+Thursday,WN,AUS,"Austin, TX",11:15,153.00,1242.00,0.00
+Monday,OO,SLC,"Salt Lake City, UT",12:55,85.00,590.00,0.00
+Saturday,AA,MIA,"Miami, FL",13:56,254.00,2342.00,1.00
+Sunday,WN,BNA,"Nashville, TN",12:05,223.00,1798.00,0.00
+Thursday,OO,XNA,"Fayetteville, AR",17:49,163.00,1371.00,0.00
+Thursday,AS,HNL,"Honolulu, HI",08:30,308.00,2556.00,0.00
+Sunday,UA,SFO,"San Francisco, CA",15:40,54.00,337.00,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",15:26,171.00,1535.00,0.00
+Sunday,OO,SBP,"San Luis Obispo, CA",22:43,30.00,155.00,0.00
+Saturday,UA,EWR,"Newark, NJ",06:00,287.00,2454.00,0.00
+Saturday,UA,BWI,"Baltimore, MD",12:40,266.00,2329.00,0.00
+Saturday,AA,DCA,"Washington, DC",08:26,286.00,2311.00,0.00
+Wednesday,OO,OMA,"Omaha, NE",09:30,179.00,1330.00,0.00
+Sunday,OO,SBA,"Santa Barbara, CA",08:15,20.00,89.00,0.00
+Sunday,AS,SFO,"San Francisco, CA",08:25,60.00,337.00,1.00
+Saturday,UA,RNO,"Reno, NV",20:09,62.00,390.00,0.00
+Monday,DL,HNL,"Honolulu, HI",13:55,322.00,2556.00,0.00
+Thursday,DL,MIA,"Miami, FL",09:05,264.00,2342.00,0.00
+Saturday,AS,SFO,"San Francisco, CA",13:45,59.00,337.00,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",05:50,92.00,590.00,0.00
+Thursday,DL,LAS,"Las Vegas, NV",15:59,45.00,236.00,1.00
+Thursday,F9,SFO,"San Francisco, CA",19:22,55.00,337.00,0.00
+Saturday,WN,SFO,"San Francisco, CA",15:55,52.00,337.00,0.00
+Tuesday,QX,GEG,"Spokane, WA",12:48,123.00,945.00,0.00
+Monday,UA,SAN,"San Diego, CA",23:01,31.00,109.00,0.00
+Wednesday,OO,RNO,"Reno, NV",21:30,63.00,390.00,0.00
+Sunday,DL,MSP,"Minneapolis, MN",15:00,180.00,1535.00,1.00
+Thursday,UA,BWI,"Baltimore, MD",23:05,282.00,2329.00,0.00
+Sunday,UA,IAH,"Houston, TX",10:18,165.00,1379.00,0.00
+Friday,OO,PDX,"Portland, OR",10:06,119.00,833.00,0.00
+Friday,DL,OGG,"Kahului, HI",08:20,302.00,2485.00,0.00
+Saturday,DL,MCO,"Orlando, FL",10:50,257.00,2218.00,0.00
+Saturday,DL,DTW,"Detroit, MI",22:25,228.00,1979.00,0.00
+Tuesday,UA,KOA,"Kona, HI",09:10,324.00,2504.00,0.00
+Sunday,WN,LAS,"Las Vegas, NV",17:05,47.00,236.00,0.00
+Tuesday,UA,IAH,"Houston, TX",10:18,158.00,1379.00,0.00
+Saturday,AA,ORD,"Chicago, IL",15:15,218.00,1744.00,0.00
+Friday,B6,FLL,"Fort Lauderdale, FL",08:25,276.00,2343.00,0.00
+Wednesday,AS,SEA,"Seattle, WA",06:00,146.00,954.00,0.00
+Friday,DL,ATL,"Atlanta, GA",17:15,236.00,1947.00,1.00
+Monday,AS,HNL,"Honolulu, HI",10:00,305.00,2556.00,0.00
+Tuesday,DL,CVG,"Cincinnati, OH",22:46,226.00,1900.00,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",17:53,145.00,1235.00,0.00
+Tuesday,OO,EUG,"Eugene, OR",17:43,106.00,748.00,0.00
+Saturday,OO,SAN,"San Diego, CA",13:53,32.00,109.00,0.00
+Friday,OO,BOI,"Boise, ID",07:00,101.00,674.00,1.00
+Wednesday,DL,ATL,"Atlanta, GA",21:45,225.00,1947.00,0.00
+Thursday,DL,SEA,"Seattle, WA",07:59,148.00,954.00,0.00
+Sunday,AA,PHL,"Philadelphia, PA",07:02,291.00,2402.00,0.00
+Sunday,DL,SFO,"San Francisco, CA",19:59,55.00,337.00,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",23:59,175.00,1535.00,0.00
+Thursday,UA,DEN,"Denver, CO",14:30,134.00,862.00,0.00
+Wednesday,AS,STS,"Santa Rosa, CA",18:22,66.00,399.00,0.00
+Thursday,OO,PHX,"Phoenix, AZ",17:45,64.00,370.00,0.00
+Tuesday,OO,SFO,"San Francisco, CA",21:30,58.00,337.00,0.00
+Tuesday,OO,PDX,"Portland, OR",19:06,116.00,833.00,1.00
+Monday,DL,DEN,"Denver, CO",08:50,107.00,862.00,0.00
+Monday,OO,PHX,"Phoenix, AZ",19:53,65.00,370.00,0.00
+Tuesday,DL,JFK,"New York, NY",23:55,285.00,2475.00,0.00
+Friday,DL,SEA,"Seattle, WA",19:59,142.00,954.00,0.00
+Thursday,UA,LAS,"Las Vegas, NV",22:59,42.00,236.00,0.00
+Friday,OO,OMA,"Omaha, NE",09:30,171.00,1330.00,0.00
+Thursday,UA,LAS,"Las Vegas, NV",10:50,50.00,236.00,0.00
+Wednesday,UA,DEN,"Denver, CO",07:00,129.00,862.00,0.00
+Friday,OO,BOI,"Boise, ID",19:57,94.00,674.00,0.00
+Monday,AA,PHL,"Philadelphia, PA",21:40,255.00,2402.00,0.00
+Saturday,OO,SEA,"Seattle, WA",15:09,135.00,954.00,0.00
+Sunday,AA,CLT,"Charlotte, NC",23:00,250.00,2125.00,0.00
+Friday,DL,SJC,"San Jose, CA",15:45,49.00,308.00,0.00
+Monday,DL,PDX,"Portland, OR",17:00,109.00,833.00,0.00
+Thursday,DL,MIA,"Miami, FL",09:05,286.00,2342.00,0.00
+Monday,WN,AUS,"Austin, TX",19:55,153.00,1242.00,1.00
+Friday,B6,JFK,"New York, NY",14:20,296.00,2475.00,0.00
+Thursday,AA,HNL,"Honolulu, HI",10:49,320.00,2556.00,0.00
+Monday,OO,TUS,"Tucson, AZ",19:14,72.00,451.00,0.00
+Thursday,OO,SMF,"Sacramento, CA",21:50,67.00,373.00,0.00
+Wednesday,F9,ATL,"Atlanta, GA",23:20,216.00,1947.00,0.00
+Wednesday,AA,ORD,"Chicago, IL",06:04,203.00,1744.00,0.00
+Wednesday,DL,IAH,"Houston, TX",09:54,169.00,1379.00,0.00
+Thursday,DL,IAH,"Houston, TX",18:45,158.00,1379.00,0.00
+Saturday,OO,LAS,"Las Vegas, NV",08:28,45.00,236.00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",13:33,162.00,1235.00,1.00
+Friday,DL,SJC,"San Jose, CA",15:45,51.00,308.00,0.00
+Wednesday,DL,SFO,"San Francisco, CA",14:35,54.00,337.00,1.00
+Friday,AA,PHL,"Philadelphia, PA",08:15,262.00,2402.00,1.00
+Thursday,DL,JFK,"New York, NY",11:20,307.00,2475.00,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",17:10,83.00,590.00,1.00
+Wednesday,DL,MSP,"Minneapolis, MN",23:59,176.00,1535.00,0.00
+Sunday,WN,SMF,"Sacramento, CA",05:15,59.00,373.00,0.00
+Thursday,OO,BOI,"Boise, ID",07:00,107.00,674.00,0.00
+Saturday,DL,HNL,"Honolulu, HI",18:55,321.00,2556.00,0.00
+Saturday,AS,STS,"Santa Rosa, CA",18:29,65.00,399.00,0.00
+Monday,DL,SLC,"Salt Lake City, UT",19:24,80.00,590.00,0.00
+Friday,DL,OGG,"Kahului, HI",16:55,305.00,2485.00,1.00
+Wednesday,DL,MSP,"Minneapolis, MN",08:10,201.00,1535.00,0.00
+Saturday,DL,MIA,"Miami, FL",09:15,294.00,2342.00,0.00
+Saturday,WN,PHX,"Phoenix, AZ",05:35,55.00,370.00,1.00
+Friday,OO,SBA,"Santa Barbara, CA",12:40,28.00,89.00,1.00
+Thursday,WN,MCO,"Orlando, FL",23:15,252.00,2218.00,1.00
+Wednesday,AS,HNL,"Honolulu, HI",20:59,315.00,2556.00,1.00
+Tuesday,AA,JFK,"New York, NY",13:29,300.00,2475.00,1.00
+Sunday,AA,IND,"Indianapolis, IN",09:39,212.00,1814.00,0.00
+Sunday,AA,BOS,"Boston, MA",22:30,294.00,2611.00,0.00
+Saturday,OO,SAN,"San Diego, CA",22:20,26.00,109.00,0.00
+Thursday,OO,SJC,"San Jose, CA",12:53,50.00,308.00,0.00
+Saturday,OO,SFO,"San Francisco, CA",20:35,56.00,337.00,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",00:40,142.00,1235.00,1.00
+Monday,OO,ABQ,"Albuquerque, NM",08:25,95.00,677.00,1.00
+Sunday,F9,DFW,"Dallas/Fort Worth, TX",05:45,149.00,1235.00,0.00
+Friday,UA,SFO,"San Francisco, CA",10:27,68.00,337.00,0.00
+Saturday,OO,SAN,"San Diego, CA",09:07,30.00,109.00,0.00
+Saturday,OO,SFO,"San Francisco, CA",21:30,58.00,337.00,0.00
+Friday,B6,FLL,"Fort Lauderdale, FL",10:39,273.00,2343.00,1.00
+Tuesday,OO,ABQ,"Albuquerque, NM",08:25,89.00,677.00,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",08:25,100.00,677.00,0.00
+Wednesday,UA,IAD,"Washington, DC",22:10,249.00,2288.00,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",13:33,159.00,1235.00,1.00
+Tuesday,DL,AUS,"Austin, TX",10:35,140.00,1242.00,0.00
+Friday,OO,SMF,"Sacramento, CA",16:18,64.00,373.00,0.00
+Sunday,OO,BOI,"Boise, ID",19:55,108.00,674.00,0.00
+Sunday,DL,SJC,"San Jose, CA",15:45,48.00,308.00,0.00
+Sunday,DL,SEA,"Seattle, WA",12:00,126.00,954.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",09:04,152.00,1235.00,0.00
+Sunday,QX,PAE,"Everett, WA",19:06,140.00,984.00,1.00
+Tuesday,DL,MCO,"Orlando, FL",23:15,234.00,2218.00,0.00
+Thursday,AA,KOA,"Kona, HI",14:16,310.00,2504.00,0.00
+Monday,AA,JFK,"New York, NY",21:36,309.00,2475.00,0.00
+Wednesday,WN,MCO,"Orlando, FL",23:15,264.00,2218.00,1.00
+Friday,OO,GEG,"Spokane, WA",14:45,138.00,945.00,0.00
+Sunday,UA,HNL,"Honolulu, HI",13:15,328.00,2556.00,0.00
+Thursday,DL,DTW,"Detroit, MI",09:35,229.00,1979.00,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",15:00,189.00,1535.00,0.00
+Sunday,DL,TPA,"Tampa, FL",10:30,249.00,2158.00,0.00
+Sunday,OO,ELP,"El Paso, TX",08:29,109.00,715.00,0.00
+Sunday,WN,TUS,"Tucson, AZ",21:30,70.00,451.00,1.00
+Monday,WN,DAL,"Dallas, TX",17:00,162.00,1246.00,0.00
+Saturday,OO,SMF,"Sacramento, CA",09:15,60.00,373.00,0.00
+Monday,DL,MCO,"Orlando, FL",07:40,234.00,2218.00,0.00
+Friday,WN,HOU,"Houston, TX",18:15,166.00,1390.00,0.00
+Wednesday,UA,BOS,"Boston, MA",22:43,289.00,2611.00,0.00
+Saturday,F9,LAS,"Las Vegas, NV",12:08,46.00,236.00,0.00
+Tuesday,DL,SLC,"Salt Lake City, UT",13:16,80.00,590.00,0.00
+Monday,F9,SJC,"San Jose, CA",10:43,52.00,308.00,0.00
+Friday,UA,ORD,"Chicago, IL",12:50,197.00,1744.00,0.00
+Monday,DL,JFK,"New York, NY",22:55,276.00,2475.00,0.00
+Saturday,UA,IAD,"Washington, DC",12:55,275.00,2288.00,0.00
+Friday,DL,MSP,"Minneapolis, MN",08:10,196.00,1535.00,0.00
+Friday,WN,BWI,"Baltimore, MD",12:40,280.00,2329.00,0.00
+Thursday,OO,RDM,"Bend/Redmond, OR",10:15,108.00,726.00,0.00
+Sunday,AA,CLT,"Charlotte, NC",22:00,241.00,2125.00,0.00
+Saturday,AA,HNL,"Honolulu, HI",10:49,333.00,2556.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",23:59,144.00,1235.00,0.00
+Thursday,DL,LAS,"Las Vegas, NV",11:15,50.00,236.00,1.00
+Wednesday,UA,IAH,"Houston, TX",11:30,177.00,1379.00,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",15:26,284.00,2402.00,0.00
+Wednesday,DL,OGG,"Kahului, HI",08:05,307.00,2485.00,0.00
+Friday,AA,HNL,"Honolulu, HI",14:59,323.00,2556.00,0.00
+Monday,OO,ABQ,"Albuquerque, NM",08:25,94.00,677.00,0.00
+Friday,DL,DTW,"Detroit, MI",22:35,230.00,1979.00,0.00
+Saturday,WN,HNL,"Honolulu, HI",18:20,315.00,2556.00,0.00
+Sunday,DL,JFK,"New York, NY",13:25,292.00,2475.00,0.00
+Sunday,AA,DCA,"Washington, DC",07:48,273.00,2311.00,0.00
+Thursday,OO,OMA,"Omaha, NE",09:49,162.00,1330.00,0.00
+Saturday,WN,DEN,"Denver, CO",16:35,103.00,862.00,1.00
+Thursday,WN,SJC,"San Jose, CA",17:00,46.00,308.00,1.00
+Sunday,DL,FLL,"Fort Lauderdale, FL",22:40,277.00,2343.00,1.00
+Saturday,UA,ORD,"Chicago, IL",07:00,220.00,1744.00,0.00
+Saturday,AA,DCA,"Washington, DC",12:32,271.00,2311.00,1.00
+Monday,OO,PHX,"Phoenix, AZ",17:45,61.00,370.00,0.00
+Friday,DL,MCO,"Orlando, FL",07:35,266.00,2218.00,0.00
+Thursday,WN,SFO,"San Francisco, CA",15:35,56.00,337.00,1.00
+Saturday,OO,SBP,"San Luis Obispo, CA",16:10,29.00,155.00,0.00
+Monday,UA,IAH,"Houston, TX",05:45,170.00,1379.00,0.00
+Tuesday,UA,IAD,"Washington, DC",08:25,258.00,2288.00,0.00
+Tuesday,DL,TPA,"Tampa, FL",10:50,232.00,2158.00,0.00
+Thursday,AA,CLT,"Charlotte, NC",09:24,251.00,2125.00,1.00
+Wednesday,DL,ATL,"Atlanta, GA",14:40,217.00,1947.00,1.00
+Monday,UA,IAD,"Washington, DC",22:10,235.00,2288.00,0.00
+Monday,DL,JFK,"New York, NY",23:55,281.00,2475.00,0.00
+Thursday,DL,SEA,"Seattle, WA",07:59,129.00,954.00,0.00
+Sunday,UA,CLE,"Cleveland, OH",13:20,233.00,2052.00,0.00
+Friday,OO,PHX,"Phoenix, AZ",08:00,57.00,370.00,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",14:34,96.00,677.00,0.00
+Wednesday,B6,JFK,"New York, NY",23:31,281.00,2475.00,0.00
+Sunday,OO,BOI,"Boise, ID",11:28,99.00,674.00,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",15:20,151.00,1235.00,0.00
+Saturday,OO,DSM,"Des Moines, IA",12:50,169.00,1447.00,0.00
+Friday,OO,SEA,"Seattle, WA",12:45,155.00,954.00,0.00
+Monday,WN,SJC,"San Jose, CA",14:50,51.00,308.00,1.00
+Saturday,OO,ABQ,"Albuquerque, NM",08:25,93.00,677.00,0.00
+Monday,OO,SJC,"San Jose, CA",07:58,49.00,308.00,0.00
+Friday,OO,BOI,"Boise, ID",19:55,93.00,674.00,0.00
+Monday,UA,IAH,"Houston, TX",10:18,173.00,1379.00,0.00
+Friday,DL,SJC,"San Jose, CA",17:51,47.00,308.00,1.00
+Saturday,UA,BOS,"Boston, MA",08:15,310.00,2611.00,0.00
+Friday,OO,SAN,"San Diego, CA",09:25,31.00,109.00,0.00
+Thursday,OO,TUS,"Tucson, AZ",15:21,76.00,451.00,0.00
+Wednesday,OO,SEA,"Seattle, WA",12:45,140.00,954.00,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",08:25,90.00,677.00,0.00
+Thursday,WN,ELP,"El Paso, TX",08:15,93.00,715.00,0.00
+Sunday,DL,TPA,"Tampa, FL",10:30,255.00,2158.00,0.00
+Sunday,DL,SJC,"San Jose, CA",09:30,47.00,308.00,0.00
+Friday,OO,RNO,"Reno, NV",16:12,65.00,390.00,0.00
+Thursday,OO,SLC,"Salt Lake City, UT",12:55,89.00,590.00,0.00
+Monday,OO,ABQ,"Albuquerque, NM",08:23,97.00,677.00,0.00
+Saturday,WN,ABQ,"Albuquerque, NM",17:10,91.00,677.00,0.00
+Sunday,OO,SBP,"San Luis Obispo, CA",19:30,30.00,155.00,0.00
+Monday,AA,LAS,"Las Vegas, NV",09:40,43.00,236.00,0.00
+Monday,DL,RDU,"Raleigh/Durham, NC",10:00,268.00,2239.00,0.00
+Tuesday,DL,BOS,"Boston, MA",10:45,300.00,2611.00,0.00
+Tuesday,DL,ATL,"Atlanta, GA",22:55,224.00,1947.00,1.00
+Wednesday,WN,TPA,"Tampa, FL",07:40,261.00,2158.00,1.00
+Thursday,AS,SFO,"San Francisco, CA",06:00,56.00,337.00,0.00
+Monday,DL,JFK,"New York, NY",12:25,283.00,2475.00,1.00
+Thursday,UA,IAH,"Houston, TX",00:51,174.00,1379.00,0.00
+Wednesday,DL,LIH,"Lihue, HI",14:50,315.00,2615.00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",18:50,160.00,1235.00,1.00
+Saturday,OO,SMF,"Sacramento, CA",07:00,65.00,373.00,0.00
+Sunday,OO,SMF,"Sacramento, CA",09:23,60.00,373.00,0.00
+Sunday,F9,ORD,"Chicago, IL",00:26,223.00,1744.00,0.00
+Wednesday,AA,MIA,"Miami, FL",20:56,274.00,2342.00,0.00
+Wednesday,DL,DFW,"Dallas/Fort Worth, TX",18:55,154.00,1235.00,0.00
+Wednesday,WN,BWI,"Baltimore, MD",06:00,278.00,2329.00,0.00
+Saturday,DL,MCO,"Orlando, FL",10:50,273.00,2218.00,0.00
+Friday,OO,DEN,"Denver, CO",16:34,116.00,862.00,0.00
+Thursday,WN,MDW,"Chicago, IL",23:55,202.00,1751.00,0.00
+Friday,DL,SJC,"San Jose, CA",15:45,49.00,308.00,0.00
+Saturday,DL,MSY,"New Orleans, LA",18:29,186.00,1671.00,0.00
+Thursday,F9,SMF,"Sacramento, CA",17:57,63.00,373.00,0.00
+Sunday,AA,IAD,"Washington, DC",21:45,271.00,2288.00,0.00
+Monday,OO,SMF,"Sacramento, CA",21:21,65.00,373.00,0.00
+Thursday,B6,BOS,"Boston, MA",11:04,297.00,2611.00,0.00
+Saturday,WN,HOU,"Houston, TX",23:50,145.00,1390.00,0.00
+Sunday,DL,BOS,"Boston, MA",10:45,301.00,2611.00,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",01:22,158.00,1235.00,0.00
+Friday,AS,SEA,"Seattle, WA",06:00,143.00,954.00,0.00
+Saturday,F9,IAH,"Houston, TX",09:46,168.00,1379.00,0.00
+Friday,UA,ORD,"Chicago, IL",23:30,210.00,1744.00,1.00
+Friday,DL,AUS,"Austin, TX",07:35,158.00,1242.00,0.00
+Monday,UA,EWR,"Newark, NJ",06:00,294.00,2454.00,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",07:02,290.00,2402.00,0.00
+Wednesday,UA,DEN,"Denver, CO",08:45,113.00,862.00,0.00
+Saturday,F9,PDX,"Portland, OR",09:20,118.00,833.00,0.00
+Monday,AA,MIA,"Miami, FL",13:50,259.00,2342.00,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",05:50,83.00,590.00,0.00
+Friday,WN,DAL,"Dallas, TX",17:00,170.00,1246.00,0.00
+Thursday,B6,JFK,"New York, NY",22:00,302.00,2475.00,0.00
+Friday,OO,SMF,"Sacramento, CA",12:30,65.00,373.00,0.00
+Thursday,AA,ORD,"Chicago, IL",08:00,208.00,1744.00,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",19:24,87.00,590.00,1.00
+Tuesday,OO,SLC,"Salt Lake City, UT",12:55,86.00,590.00,0.00
+Monday,UA,BZN,"Bozeman, MT",08:50,116.00,902.00,0.00
+Sunday,AA,PHX,"Phoenix, AZ",18:46,60.00,370.00,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",16:15,170.00,1235.00,0.00
+Saturday,AA,BOS,"Boston, MA",23:30,298.00,2611.00,0.00
+Thursday,WN,OAK,"Oakland, CA",06:10,61.00,337.00,0.00
+Monday,DL,MSP,"Minneapolis, MN",11:26,187.00,1535.00,0.00
+Monday,DL,BNA,"Nashville, TN",11:20,189.00,1798.00,0.00
+Monday,B6,JFK,"New York, NY",12:11,299.00,2475.00,0.00
+Friday,UA,RNO,"Reno, NV",16:29,60.00,390.00,0.00
+Sunday,DL,ATL,"Atlanta, GA",17:15,221.00,1947.00,0.00
+Thursday,WN,SMF,"Sacramento, CA",14:40,61.00,373.00,0.00
+Tuesday,OO,SJC,"San Jose, CA",14:05,53.00,308.00,0.00
+Thursday,DL,MCI,"Kansas City, MO",09:45,177.00,1363.00,0.00
+Monday,AA,HNL,"Honolulu, HI",15:48,332.00,2556.00,0.00
+Wednesday,UA,SFO,"San Francisco, CA",20:15,58.00,337.00,1.00
+Tuesday,OO,SAF,"Santa Fe, NM",08:18,96.00,710.00,0.00
+Tuesday,OO,AUS,"Austin, TX",17:57,163.00,1242.00,0.00
+Wednesday,AA,JFK,"New York, NY",15:35,301.00,2475.00,0.00
+Saturday,UA,DEN,"Denver, CO",07:00,116.00,862.00,0.00
+Saturday,DL,BOS,"Boston, MA",07:15,322.00,2611.00,0.00
+Saturday,DL,PDX,"Portland, OR",14:00,132.00,833.00,1.00
+Thursday,AS,KOA,"Kona, HI",08:30,299.00,2504.00,0.00
+Sunday,DL,MIA,"Miami, FL",22:00,239.00,2342.00,0.00
+Saturday,OO,SAN,"San Diego, CA",14:05,31.00,109.00,0.00
+Monday,UA,LIH,"Lihue, HI",08:33,332.00,2615.00,0.00
+Monday,OO,GEG,"Spokane, WA",20:40,133.00,945.00,0.00
+Saturday,OO,PDX,"Portland, OR",10:05,111.00,833.00,0.00
+Sunday,UA,SFO,"San Francisco, CA",20:00,55.00,337.00,1.00
+Sunday,OO,SAN,"San Diego, CA",09:07,29.00,109.00,0.00
+Monday,WN,BWI,"Baltimore, MD",12:40,272.00,2329.00,1.00
+Sunday,UA,IAD,"Washington, DC",22:10,253.00,2288.00,1.00
+Sunday,WN,PHX,"Phoenix, AZ",17:00,55.00,370.00,1.00
+Thursday,UA,IAD,"Washington, DC",21:30,272.00,2288.00,1.00
+Thursday,UA,ORD,"Chicago, IL",07:00,219.00,1744.00,0.00
+Saturday,UA,SFO,"San Francisco, CA",09:10,58.00,337.00,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",11:40,87.00,590.00,0.00
+Monday,OO,SMF,"Sacramento, CA",09:23,65.00,373.00,0.00
+Wednesday,UA,HNL,"Honolulu, HI",09:05,304.00,2556.00,0.00
+Wednesday,UA,LAS,"Las Vegas, NV",13:00,56.00,236.00,0.00
+Saturday,DL,ATL,"Atlanta, GA",22:55,222.00,1947.00,0.00
+Saturday,UA,MRY,"Monterey, CA",16:43,51.00,266.00,0.00
+Monday,OO,PDX,"Portland, OR",19:57,115.00,833.00,0.00
+Friday,AA,PHX,"Phoenix, AZ",12:50,58.00,370.00,0.00
+Friday,AS,HNL,"Honolulu, HI",17:35,310.00,2556.00,1.00
+Monday,AA,CLT,"Charlotte, NC",11:00,271.00,2125.00,0.00
+Tuesday,F9,SMF,"Sacramento, CA",17:57,66.00,373.00,0.00
+Tuesday,AA,MIA,"Miami, FL",22:25,284.00,2342.00,0.00
+Friday,DL,MSY,"New Orleans, LA",18:29,194.00,1671.00,0.00
+Saturday,WN,RNO,"Reno, NV",11:05,56.00,390.00,0.00
+Friday,QX,RDM,"Bend/Redmond, OR",21:11,100.00,726.00,0.00
+Friday,AA,IND,"Indianapolis, IN",17:04,212.00,1814.00,1.00
+Friday,AS,SFO,"San Francisco, CA",06:00,78.00,337.00,0.00
+Wednesday,OO,SJC,"San Jose, CA",14:19,52.00,308.00,0.00
+Thursday,F9,PHX,"Phoenix, AZ",22:05,63.00,370.00,1.00
+Wednesday,AA,PHL,"Philadelphia, PA",10:36,256.00,2402.00,0.00
+Friday,AA,OGG,"Kahului, HI",08:53,316.00,2485.00,0.00
+Thursday,AA,PHX,"Phoenix, AZ",19:30,59.00,370.00,0.00
+Saturday,UA,HNL,"Honolulu, HI",09:05,296.00,2556.00,0.00
+Sunday,UA,EWR,"Newark, NJ",13:25,268.00,2454.00,0.00
+Tuesday,AA,CLT,"Charlotte, NC",06:05,269.00,2125.00,1.00
+Sunday,UA,IAH,"Houston, TX",08:10,171.00,1379.00,0.00
+Monday,OO,SEA,"Seattle, WA",15:09,124.00,954.00,1.00
+Thursday,DL,DTW,"Detroit, MI",05:35,225.00,1979.00,0.00
+Sunday,AA,MIA,"Miami, FL",23:59,263.00,2342.00,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",21:40,46.00,236.00,1.00
+Sunday,DL,SJC,"San Jose, CA",18:14,48.00,308.00,0.00
+Tuesday,WN,SMF,"Sacramento, CA",16:50,68.00,373.00,1.00
+Thursday,AA,PHX,"Phoenix, AZ",06:10,60.00,370.00,0.00
+Wednesday,OO,DEN,"Denver, CO",08:35,125.00,862.00,0.00
+Thursday,B6,BOS,"Boston, MA",07:00,311.00,2611.00,0.00
+Sunday,DL,ATL,"Atlanta, GA",12:30,214.00,1947.00,0.00
+Sunday,AA,PHX,"Phoenix, AZ",10:13,59.00,370.00,1.00
+Saturday,DL,ATL,"Atlanta, GA",08:15,234.00,1947.00,1.00
+Sunday,OO,SAF,"Santa Fe, NM",08:18,102.00,710.00,0.00
+Monday,OO,TUL,"Tulsa, OK",09:59,169.00,1283.00,0.00
+Friday,AS,SFO,"San Francisco, CA",10:53,60.00,337.00,0.00
+Tuesday,AA,ORD,"Chicago, IL",17:59,193.00,1744.00,1.00
+Friday,AS,PDX,"Portland, OR",21:14,124.00,833.00,1.00
+Monday,WN,LAS,"Las Vegas, NV",11:15,43.00,236.00,1.00
+Thursday,UA,SFO,"San Francisco, CA",09:10,57.00,337.00,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",08:05,158.00,1235.00,0.00
+Thursday,WN,SMF,"Sacramento, CA",06:35,66.00,373.00,1.00
+Friday,B6,JFK,"New York, NY",21:35,279.00,2475.00,0.00
+Friday,WN,SJC,"San Jose, CA",14:50,47.00,308.00,1.00
+Saturday,DL,MCO,"Orlando, FL",07:35,250.00,2218.00,0.00
+Sunday,AA,HNL,"Honolulu, HI",18:50,302.00,2556.00,1.00
+Saturday,DL,SLC,"Salt Lake City, UT",07:35,84.00,590.00,0.00
+Thursday,DL,CVG,"Cincinnati, OH",22:46,238.00,1900.00,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",12:15,165.00,1235.00,0.00
+Monday,OO,PDX,"Portland, OR",10:06,128.00,833.00,0.00
+Monday,AA,MCO,"Orlando, FL",09:02,277.00,2218.00,0.00
+Tuesday,OO,EUG,"Eugene, OR",17:43,110.00,748.00,0.00
+Sunday,DL,SFO,"San Francisco, CA",10:35,59.00,337.00,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",16:35,69.00,370.00,1.00
+Tuesday,OO,PHX,"Phoenix, AZ",10:40,59.00,370.00,0.00
+Saturday,WN,HNL,"Honolulu, HI",07:00,338.00,2556.00,0.00
+Tuesday,AA,MIA,"Miami, FL",22:59,252.00,2342.00,0.00
+Sunday,UA,EWR,"Newark, NJ",23:15,266.00,2454.00,0.00
+Friday,AA,MIA,"Miami, FL",12:25,265.00,2342.00,1.00
+Sunday,DL,MCI,"Kansas City, MO",09:45,175.00,1363.00,0.00
+Wednesday,DL,SFO,"San Francisco, CA",07:00,54.00,337.00,0.00
+Tuesday,WN,HOU,"Houston, TX",23:50,174.00,1390.00,0.00
+Tuesday,OO,SFO,"San Francisco, CA",07:00,66.00,337.00,0.00
+Thursday,WN,MCI,"Kansas City, MO",08:10,168.00,1363.00,0.00
+Sunday,AA,CMH,"Columbus, OH",09:18,238.00,1995.00,0.00
+Saturday,UA,ORD,"Chicago, IL",12:50,206.00,1744.00,0.00
+Wednesday,AS,SFO,"San Francisco, CA",13:44,59.00,337.00,1.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",09:04,150.00,1235.00,0.00
+Monday,AA,ORD,"Chicago, IL",08:00,222.00,1744.00,0.00
+Saturday,UA,IAD,"Washington, DC",10:25,251.00,2288.00,0.00
+Monday,DL,MSY,"New Orleans, LA",18:29,202.00,1671.00,1.00
+Monday,AA,BOS,"Boston, MA",12:10,304.00,2611.00,0.00
+Friday,OO,SBP,"San Luis Obispo, CA",16:10,31.00,155.00,0.00
+Wednesday,AA,CLE,"Cleveland, OH",08:30,222.00,2052.00,0.00
+Monday,DL,ATL,"Atlanta, GA",09:30,225.00,1947.00,0.00
+Friday,UA,EWR,"Newark, NJ",08:50,269.00,2454.00,0.00
+Sunday,DL,MSP,"Minneapolis, MN",12:40,173.00,1535.00,0.00
+Tuesday,AA,JFK,"New York, NY",15:35,280.00,2475.00,1.00
+Monday,DL,RDU,"Raleigh/Durham, NC",10:00,267.00,2239.00,0.00
+Thursday,AA,MIA,"Miami, FL",07:20,275.00,2342.00,0.00
+Saturday,AA,LAS,"Las Vegas, NV",19:40,45.00,236.00,0.00
+Monday,DL,SFO,"San Francisco, CA",19:59,58.00,337.00,0.00
+Saturday,F9,ATL,"Atlanta, GA",15:28,225.00,1947.00,0.00
+Sunday,DL,AUS,"Austin, TX",10:04,148.00,1242.00,0.00
+Saturday,DL,IAH,"Houston, TX",09:54,171.00,1379.00,0.00
+Thursday,UA,OGG,"Kahului, HI",09:00,306.00,2485.00,0.00
+Friday,OO,AUS,"Austin, TX",16:27,157.00,1242.00,0.00
+Wednesday,DL,DTW,"Detroit, MI",07:15,222.00,1979.00,0.00
+Thursday,DL,JFK,"New York, NY",10:05,275.00,2475.00,1.00
+Monday,UA,DEN,"Denver, CO",08:45,113.00,862.00,0.00
+Thursday,UA,JAC,"Jackson, WY",10:28,106.00,784.00,1.00
+Friday,B6,JFK,"New York, NY",23:59,312.00,2475.00,1.00
+Wednesday,OO,ASE,"Aspen, CO",16:57,94.00,737.00,0.00
+Friday,WN,MCI,"Kansas City, MO",08:10,174.00,1363.00,0.00
+Friday,F9,DEN,"Denver, CO",06:15,115.00,862.00,0.00
+Friday,AA,LAS,"Las Vegas, NV",09:40,44.00,236.00,0.00
+Wednesday,AA,PHL,"Philadelphia, PA",10:36,344.00,2402.00,1.00
+Friday,WN,SFO,"San Francisco, CA",06:00,60.00,337.00,0.00
+Saturday,AS,OGG,"Kahului, HI",10:02,310.00,2485.00,0.00
+Monday,UA,RNO,"Reno, NV",16:29,59.00,390.00,0.00
+Friday,AA,MIA,"Miami, FL",11:03,265.00,2342.00,1.00
+Wednesday,B6,FLL,"Fort Lauderdale, FL",13:02,271.00,2343.00,0.00
+Tuesday,WN,SMF,"Sacramento, CA",19:55,64.00,373.00,0.00
+Saturday,UA,BOS,"Boston, MA",08:35,325.00,2611.00,0.00
+Sunday,UA,IAH,"Houston, TX",18:45,176.00,1379.00,0.00
+Friday,DL,SLC,"Salt Lake City, UT",11:40,82.00,590.00,0.00
+Sunday,OO,SAN,"San Diego, CA",09:25,29.00,109.00,1.00
+Monday,AA,ATL,"Atlanta, GA",09:36,202.00,1947.00,1.00
+Sunday,WN,HNL,"Honolulu, HI",18:20,318.00,2556.00,1.00
+Sunday,OO,TUS,"Tucson, AZ",18:08,60.00,451.00,0.00
+Sunday,OO,SAN,"San Diego, CA",19:00,30.00,109.00,0.00
+Monday,DL,MIA,"Miami, FL",09:05,282.00,2342.00,0.00
+Sunday,UA,SFO,"San Francisco, CA",13:25,52.00,337.00,0.00
+Friday,DL,SLC,"Salt Lake City, UT",13:16,86.00,590.00,0.00
+Wednesday,UA,SFO,"San Francisco, CA",17:27,58.00,337.00,0.00
+Saturday,UA,EWR,"Newark, NJ",08:50,286.00,2454.00,0.00
+Friday,UA,ORD,"Chicago, IL",19:17,216.00,1744.00,1.00
+Friday,OO,DEN,"Denver, CO",16:34,110.00,862.00,1.00
+Monday,AA,JFK,"New York, NY",07:00,278.00,2475.00,0.00
+Wednesday,DL,HNL,"Honolulu, HI",08:55,315.00,2556.00,0.00
+Monday,UA,DEN,"Denver, CO",05:00,115.00,862.00,0.00
+Wednesday,DL,SEA,"Seattle, WA",07:59,131.00,954.00,0.00
+Sunday,UA,EWR,"Newark, NJ",07:00,280.00,2454.00,0.00
+Wednesday,DL,DEN,"Denver, CO",20:19,115.00,862.00,0.00
+Friday,DL,RDU,"Raleigh/Durham, NC",10:00,250.00,2239.00,0.00
+Sunday,DL,DTW,"Detroit, MI",12:00,233.00,1979.00,0.00
+Monday,F9,ORD,"Chicago, IL",00:31,214.00,1744.00,1.00
+Sunday,F9,PHX,"Phoenix, AZ",22:05,58.00,370.00,1.00
+Friday,UA,SFO,"San Francisco, CA",20:22,62.00,337.00,0.00
+Tuesday,OO,AUS,"Austin, TX",09:25,166.00,1242.00,0.00
+Friday,WN,MCI,"Kansas City, MO",17:45,164.00,1363.00,1.00
+Sunday,OO,XNA,"Fayetteville, AR",13:00,162.00,1371.00,0.00
+Tuesday,UA,IAD,"Washington, DC",10:39,276.00,2288.00,0.00
+Monday,WN,STL,"St. Louis, MO",13:20,195.00,1592.00,1.00
+Friday,OO,PSP,"Palm Springs, CA",20:20,36.00,110.00,0.00
+Friday,AS,PDX,"Portland, OR",18:05,125.00,833.00,1.00
+Tuesday,WN,DEN,"Denver, CO",14:05,115.00,862.00,0.00
+Thursday,DL,ATL,"Atlanta, GA",22:55,219.00,1947.00,1.00
+Tuesday,WN,BNA,"Nashville, TN",12:10,217.00,1798.00,1.00
+Monday,DL,JFK,"New York, NY",13:25,317.00,2475.00,1.00
+Monday,OO,BOI,"Boise, ID",19:45,90.00,674.00,0.00
+Friday,UA,OGG,"Kahului, HI",09:00,293.00,2485.00,0.00
+Friday,B6,JFK,"New York, NY",23:05,296.00,2475.00,0.00
+Saturday,WN,OAK,"Oakland, CA",07:30,56.00,337.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",14:30,63.00,370.00,0.00
+Saturday,OO,BOI,"Boise, ID",19:45,105.00,674.00,0.00
+Sunday,OO,BOI,"Boise, ID",07:00,101.00,674.00,0.00
+Sunday,AS,EWR,"Newark, NJ",07:00,277.00,2454.00,0.00
+Friday,AS,EWR,"Newark, NJ",07:00,281.00,2454.00,1.00
+Friday,DL,PDX,"Portland, OR",20:39,119.00,833.00,0.00
+Friday,OO,SFO,"San Francisco, CA",11:31,57.00,337.00,1.00
+Tuesday,B6,JFK,"New York, NY",08:00,296.00,2475.00,0.00
+Friday,AA,CLT,"Charlotte, NC",11:00,249.00,2125.00,1.00
+Saturday,AA,LAS,"Las Vegas, NV",19:40,46.00,236.00,0.00
+Thursday,UA,IAH,"Houston, TX",08:15,167.00,1379.00,0.00
+Friday,AS,SFO,"San Francisco, CA",13:44,56.00,337.00,1.00
+Saturday,AA,LIH,"Lihue, HI",08:29,310.00,2615.00,0.00
+Tuesday,DL,SJC,"San Jose, CA",09:30,58.00,308.00,0.00
+Monday,AA,PHX,"Phoenix, AZ",06:10,57.00,370.00,0.00
+Saturday,DL,DTW,"Detroit, MI",05:35,235.00,1979.00,0.00
+Monday,B6,JFK,"New York, NY",22:35,288.00,2475.00,0.00
+Saturday,DL,CVG,"Cincinnati, OH",22:46,216.00,1900.00,0.00
+Friday,OO,SMF,"Sacramento, CA",16:23,66.00,373.00,0.00
+Sunday,AA,ORD,"Chicago, IL",17:50,204.00,1744.00,1.00
+Wednesday,WN,SAT,"San Antonio, TX",09:35,143.00,1211.00,0.00
+Tuesday,OO,SFO,"San Francisco, CA",11:31,64.00,337.00,1.00
+Tuesday,B6,JFK,"New York, NY",22:35,301.00,2475.00,0.00
+Friday,OO,PRC,"Prescott, AZ",13:35,62.00,346.00,0.00
+Wednesday,UA,IAD,"Washington, DC",08:25,265.00,2288.00,0.00
+Tuesday,AA,CLE,"Cleveland, OH",09:50,247.00,2052.00,0.00
+Thursday,OO,ELP,"El Paso, TX",08:29,98.00,715.00,0.00
+Saturday,DL,OGG,"Kahului, HI",08:05,299.00,2485.00,0.00
+Friday,OO,SFO,"San Francisco, CA",09:22,63.00,337.00,1.00
+Friday,UA,DEN,"Denver, CO",14:20,114.00,862.00,0.00
+Friday,OO,SMF,"Sacramento, CA",09:10,71.00,373.00,0.00
+Tuesday,UA,DEN,"Denver, CO",10:55,114.00,862.00,0.00
+Friday,WN,SMF,"Sacramento, CA",20:40,59.00,373.00,1.00
+Saturday,DL,ATL,"Atlanta, GA",12:10,225.00,1947.00,0.00
+Thursday,DL,FLL,"Fort Lauderdale, FL",22:40,269.00,2343.00,1.00
+Monday,DL,MCO,"Orlando, FL",15:35,234.00,2218.00,1.00
+Monday,OO,EUG,"Eugene, OR",09:31,109.00,748.00,0.00
+Thursday,DL,MSP,"Minneapolis, MN",15:26,192.00,1535.00,1.00
+Thursday,AA,CLT,"Charlotte, NC",06:00,256.00,2125.00,0.00
+Friday,AA,ORD,"Chicago, IL",23:41,216.00,1744.00,1.00
+Wednesday,DL,SJC,"San Jose, CA",15:45,49.00,308.00,0.00
+Sunday,AS,SEA,"Seattle, WA",18:10,136.00,954.00,1.00
+Friday,UA,SMF,"Sacramento, CA",19:09,60.00,373.00,1.00
+Tuesday,OO,SJC,"San Jose, CA",14:19,46.00,308.00,0.00
+Friday,DL,MCO,"Orlando, FL",07:35,264.00,2218.00,0.00
+Wednesday,DL,DTW,"Detroit, MI",22:35,233.00,1979.00,0.00
+Wednesday,OO,OKC,"Oklahoma City, OK",17:31,154.00,1187.00,0.00
+Friday,UA,IAD,"Washington, DC",08:25,253.00,2288.00,0.00
+Thursday,OO,SBA,"Santa Barbara, CA",22:44,27.00,89.00,0.00
+Monday,DL,IAH,"Houston, TX",18:40,154.00,1379.00,1.00
+Saturday,WN,STL,"St. Louis, MO",07:35,189.00,1592.00,0.00
+Monday,DL,JFK,"New York, NY",21:45,263.00,2475.00,0.00
+Sunday,UA,IAH,"Houston, TX",05:45,170.00,1379.00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",21:00,52.00,337.00,0.00
+Monday,UA,MCO,"Orlando, FL",10:26,259.00,2218.00,0.00
+Tuesday,AA,MIA,"Miami, FL",12:25,288.00,2342.00,0.00
+Wednesday,F9,ORD,"Chicago, IL",00:31,207.00,1744.00,0.00
+Monday,AA,RDU,"Raleigh/Durham, NC",09:05,282.00,2239.00,0.00
+Sunday,AA,JFK,"New York, NY",22:30,293.00,2475.00,0.00
+Thursday,AA,PHX,"Phoenix, AZ",10:13,58.00,370.00,0.00
+Sunday,DL,IAH,"Houston, TX",18:45,162.00,1379.00,1.00
+Monday,OO,SAN,"San Diego, CA",21:35,28.00,109.00,1.00
+Wednesday,OO,MRY,"Monterey, CA",10:27,48.00,266.00,0.00
+Wednesday,AA,PHL,"Philadelphia, PA",23:05,271.00,2402.00,0.00
+Sunday,AA,MIA,"Miami, FL",11:03,272.00,2342.00,0.00
+Saturday,AA,JFK,"New York, NY",21:54,291.00,2475.00,0.00
+Saturday,AA,PHL,"Philadelphia, PA",23:05,274.00,2402.00,0.00
+Friday,AA,MCO,"Orlando, FL",15:18,254.00,2218.00,0.00
+Friday,AS,SFO,"San Francisco, CA",18:30,62.00,337.00,1.00
+Tuesday,OO,GEG,"Spokane, WA",12:54,124.00,945.00,0.00
+Sunday,DL,MCI,"Kansas City, MO",09:45,175.00,1363.00,0.00
+Monday,WN,SMF,"Sacramento, CA",06:35,61.00,373.00,0.00
+Saturday,B6,BOS,"Boston, MA",21:40,317.00,2611.00,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",23:45,264.00,2343.00,0.00
+Tuesday,DL,LAS,"Las Vegas, NV",11:59,46.00,236.00,0.00
+Friday,OO,RDM,"Bend/Redmond, OR",10:23,104.00,726.00,1.00
+Monday,AA,DCA,"Washington, DC",07:48,268.00,2311.00,0.00
+Friday,UA,TPA,"Tampa, FL",10:15,243.00,2158.00,0.00
+Monday,B6,BUF,"Buffalo, NY",23:59,265.00,2218.00,0.00
+Wednesday,WN,PHX,"Phoenix, AZ",15:35,65.00,370.00,1.00
+Friday,AA,CLT,"Charlotte, NC",13:53,261.00,2125.00,1.00
+Saturday,OO,SBA,"Santa Barbara, CA",22:45,26.00,89.00,0.00
+Friday,WN,SFO,"San Francisco, CA",15:35,57.00,337.00,1.00
+Thursday,OO,DEN,"Denver, CO",16:34,120.00,862.00,0.00
+Monday,UA,EWR,"Newark, NJ",23:15,269.00,2454.00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",14:35,148.00,1235.00,0.00
+Tuesday,OO,ACV,"Arcata/Eureka, CA",20:15,94.00,577.00,0.00
+Sunday,OO,RNO,"Reno, NV",08:20,61.00,390.00,0.00
+Saturday,AA,AUS,"Austin, TX",18:52,149.00,1242.00,1.00
+Sunday,UA,EWR,"Newark, NJ",10:15,284.00,2454.00,0.00
+Wednesday,UA,ORD,"Chicago, IL",22:35,208.00,1744.00,1.00
+Saturday,DL,MIA,"Miami, FL",09:05,264.00,2342.00,0.00
+Monday,B6,BOS,"Boston, MA",09:12,301.00,2611.00,1.00
+Sunday,WN,SJC,"San Jose, CA",16:05,47.00,308.00,1.00
+Monday,UA,DEN,"Denver, CO",08:45,107.00,862.00,0.00
+Sunday,DL,MCO,"Orlando, FL",10:50,258.00,2218.00,1.00
+Saturday,AA,CLT,"Charlotte, NC",09:20,244.00,2125.00,1.00
+Wednesday,UA,ORD,"Chicago, IL",12:50,198.00,1744.00,0.00
+Thursday,UA,RNO,"Reno, NV",20:09,63.00,390.00,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",00:40,150.00,1235.00,0.00
+Sunday,OO,BOI,"Boise, ID",19:55,90.00,674.00,0.00
+Wednesday,DL,SFO,"San Francisco, CA",07:00,55.00,337.00,0.00
+Sunday,WN,SJC,"San Jose, CA",09:00,49.00,308.00,0.00
+Friday,AA,BNA,"Nashville, TN",10:38,200.00,1798.00,0.00
+Monday,WN,ABQ,"Albuquerque, NM",07:25,87.00,677.00,0.00
+Saturday,WN,DEN,"Denver, CO",09:25,119.00,862.00,1.00
+Sunday,WN,MDW,"Chicago, IL",23:55,201.00,1751.00,0.00
+Thursday,OO,SMF,"Sacramento, CA",21:20,68.00,373.00,0.00
+Wednesday,WN,MDW,"Chicago, IL",05:15,212.00,1751.00,1.00
+Sunday,DL,MIA,"Miami, FL",22:55,262.00,2342.00,1.00
+Monday,DL,BNA,"Nashville, TN",06:50,211.00,1798.00,0.00
+Thursday,AS,ANC,"Anchorage, AK",20:00,297.00,2345.00,0.00
+Monday,WN,BWI,"Baltimore, MD",12:40,273.00,2329.00,0.00
+Thursday,UA,ORD,"Chicago, IL",00:15,217.00,1744.00,0.00
+Friday,OO,RNO,"Reno, NV",17:27,61.00,390.00,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",06:00,164.00,1235.00,0.00
+Thursday,DL,JFK,"New York, NY",15:20,282.00,2475.00,0.00
+Sunday,AA,MIA,"Miami, FL",08:00,259.00,2342.00,0.00
+Monday,AS,PDX,"Portland, OR",07:05,115.00,833.00,0.00
+Sunday,WN,SFO,"San Francisco, CA",15:50,52.00,337.00,1.00
+Tuesday,WN,SJC,"San Jose, CA",06:15,48.00,308.00,0.00
+Friday,DL,CVG,"Cincinnati, OH",22:46,222.00,1900.00,0.00
+Sunday,AS,SFO,"San Francisco, CA",08:00,58.00,337.00,1.00
+Sunday,UA,ORD,"Chicago, IL",15:20,201.00,1744.00,0.00
+Sunday,OO,PDX,"Portland, OR",19:06,130.00,833.00,0.00
+Tuesday,OO,SJC,"San Jose, CA",18:04,48.00,308.00,0.00
+Sunday,OO,SFO,"San Francisco, CA",16:06,62.00,337.00,1.00
+Sunday,UA,DEN,"Denver, CO",16:10,104.00,862.00,0.00
+Monday,WN,MDW,"Chicago, IL",16:45,220.00,1751.00,1.00
+Thursday,OO,FAT,"Fresno, CA",10:30,40.00,209.00,0.00
+Friday,WN,OAK,"Oakland, CA",12:00,55.00,337.00,1.00
+Thursday,AA,IND,"Indianapolis, IN",17:04,216.00,1814.00,1.00
+Thursday,OO,SAN,"San Diego, CA",16:22,30.00,109.00,0.00
+Tuesday,UA,DEN,"Denver, CO",12:46,113.00,862.00,0.00
+Friday,OO,GEG,"Spokane, WA",12:54,129.00,945.00,0.00
+Monday,WN,SMF,"Sacramento, CA",06:35,60.00,373.00,0.00
+Sunday,DL,DTW,"Detroit, MI",12:20,218.00,1979.00,0.00
+Sunday,UA,EWR,"Newark, NJ",08:50,275.00,2454.00,0.00
+Friday,DL,OGG,"Kahului, HI",08:05,305.00,2485.00,0.00
+Tuesday,OO,MRY,"Monterey, CA",10:20,49.00,266.00,0.00
+Thursday,B6,JFK,"New York, NY",08:00,285.00,2475.00,0.00
+Monday,DL,ATL,"Atlanta, GA",12:10,237.00,1947.00,0.00
+Thursday,OO,BOI,"Boise, ID",18:57,94.00,674.00,0.00
+Monday,DL,ATL,"Atlanta, GA",21:45,237.00,1947.00,0.00
+Saturday,WN,BNA,"Nashville, TN",09:50,209.00,1798.00,1.00
+Tuesday,OO,FAT,"Fresno, CA",10:30,44.00,209.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",10:00,60.00,370.00,0.00
+Saturday,UA,BWI,"Baltimore, MD",09:33,275.00,2329.00,0.00
+Thursday,WN,TUS,"Tucson, AZ",10:40,66.00,451.00,0.00
+Friday,WN,MCI,"Kansas City, MO",08:10,164.00,1363.00,1.00
+Saturday,B6,JFK,"New York, NY",16:20,294.00,2475.00,0.00
+Monday,UA,EWR,"Newark, NJ",11:15,306.00,2454.00,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",10:55,43.00,236.00,0.00
+Monday,WN,MDW,"Chicago, IL",23:55,213.00,1751.00,1.00
+Sunday,DL,RDU,"Raleigh/Durham, NC",10:00,264.00,2239.00,0.00
+Monday,OO,TUL,"Tulsa, OK",09:59,169.00,1283.00,0.00
+Tuesday,UA,AUS,"Austin, TX",10:55,157.00,1242.00,0.00
+Wednesday,UA,OGG,"Kahului, HI",09:00,311.00,2485.00,0.00
+Thursday,UA,ORD,"Chicago, IL",12:50,211.00,1744.00,0.00
+Sunday,WN,BWI,"Baltimore, MD",21:50,264.00,2329.00,1.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",13:55,275.00,2343.00,0.00
+Wednesday,OO,AUS,"Austin, TX",17:57,149.00,1242.00,0.00
+Sunday,AS,SEA,"Seattle, WA",19:47,147.00,954.00,0.00
+Thursday,OO,DSM,"Des Moines, IA",12:50,181.00,1447.00,0.00
+Tuesday,OO,RNO,"Reno, NV",12:59,66.00,390.00,0.00
+Wednesday,WN,BNA,"Nashville, TN",12:10,214.00,1798.00,0.00
+Thursday,AA,CLT,"Charlotte, NC",06:05,240.00,2125.00,0.00
+Tuesday,UA,DEN,"Denver, CO",18:32,113.00,862.00,0.00
+Friday,DL,MCI,"Kansas City, MO",09:45,168.00,1363.00,0.00
+Friday,AS,PDX,"Portland, OR",18:03,122.00,833.00,0.00
+Thursday,DL,OGG,"Kahului, HI",16:55,301.00,2485.00,0.00
+Tuesday,DL,BOS,"Boston, MA",21:05,301.00,2611.00,0.00
+Thursday,AA,PHL,"Philadelphia, PA",12:19,282.00,2402.00,1.00
+Sunday,AA,PHL,"Philadelphia, PA",21:40,279.00,2402.00,0.00
+Monday,DL,SLC,"Salt Lake City, UT",07:35,84.00,590.00,0.00
+Monday,DL,LAS,"Las Vegas, NV",07:35,48.00,236.00,0.00
+Saturday,AA,ORD,"Chicago, IL",15:15,210.00,1744.00,0.00
+Monday,WN,AUS,"Austin, TX",16:10,158.00,1242.00,1.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",06:00,167.00,1235.00,0.00
+Friday,F9,PDX,"Portland, OR",09:20,116.00,833.00,0.00
+Tuesday,UA,OGG,"Kahului, HI",09:00,323.00,2485.00,0.00
+Tuesday,DL,SEA,"Seattle, WA",07:59,145.00,954.00,0.00
+Saturday,AA,CMH,"Columbus, OH",10:00,228.00,1995.00,1.00
+Monday,DL,SJC,"San Jose, CA",09:30,46.00,308.00,1.00
+Friday,DL,LAS,"Las Vegas, NV",11:59,39.00,236.00,0.00
+Thursday,DL,ATL,"Atlanta, GA",14:30,234.00,1947.00,0.00
+Sunday,UA,EWR,"Newark, NJ",12:15,265.00,2454.00,0.00
+Thursday,OO,SJC,"San Jose, CA",07:58,49.00,308.00,0.00
+Friday,AA,LAS,"Las Vegas, NV",19:40,43.00,236.00,1.00
+Tuesday,AA,LAS,"Las Vegas, NV",19:40,45.00,236.00,0.00
+Wednesday,WN,OAK,"Oakland, CA",08:15,53.00,337.00,0.00
+Monday,WN,OAK,"Oakland, CA",18:40,56.00,337.00,1.00
+Tuesday,OO,DSM,"Des Moines, IA",12:50,180.00,1447.00,0.00
+Friday,DL,MSY,"New Orleans, LA",07:05,197.00,1671.00,0.00
+Tuesday,DL,KOA,"Kona, HI",16:45,302.00,2504.00,1.00
+Tuesday,DL,ATL,"Atlanta, GA",12:30,203.00,1947.00,0.00
+Thursday,OO,RNO,"Reno, NV",12:56,60.00,390.00,0.00
+Thursday,UA,EWR,"Newark, NJ",08:50,275.00,2454.00,0.00
+Friday,DL,BOS,"Boston, MA",07:40,285.00,2611.00,0.00
+Sunday,UA,IAH,"Houston, TX",07:05,167.00,1379.00,0.00
+Wednesday,AA,DCA,"Washington, DC",07:48,262.00,2311.00,0.00
+Thursday,UA,HNL,"Honolulu, HI",13:15,319.00,2556.00,0.00
+Sunday,UA,BOS,"Boston, MA",22:43,304.00,2611.00,0.00
+Thursday,AS,HNL,"Honolulu, HI",20:59,310.00,2556.00,1.00
+Monday,OO,RNO,"Reno, NV",12:56,64.00,390.00,1.00
+Saturday,OO,MCI,"Kansas City, MO",10:04,173.00,1363.00,0.00
+Friday,OO,SBP,"San Luis Obispo, CA",16:10,31.00,155.00,0.00
+Sunday,AA,JFK,"New York, NY",07:00,286.00,2475.00,0.00
+Monday,AS,SEA,"Seattle, WA",12:31,148.00,954.00,1.00
+Thursday,DL,ATL,"Atlanta, GA",06:00,233.00,1947.00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",13:33,158.00,1235.00,0.00
+Monday,UA,EWR,"Newark, NJ",12:15,297.00,2454.00,0.00
+Thursday,DL,ATL,"Atlanta, GA",17:15,238.00,1947.00,0.00
+Wednesday,DL,DTW,"Detroit, MI",15:54,227.00,1979.00,1.00
+Saturday,DL,PDX,"Portland, OR",14:00,118.00,833.00,0.00
+Saturday,OO,PHX,"Phoenix, AZ",13:15,61.00,370.00,0.00
+Wednesday,UA,PHX,"Phoenix, AZ",08:37,52.00,370.00,0.00
+Sunday,UA,LAS,"Las Vegas, NV",22:58,46.00,236.00,0.00
+Wednesday,UA,IAH,"Houston, TX",23:59,170.00,1379.00,0.00
+Tuesday,OO,TUS,"Tucson, AZ",19:14,69.00,451.00,1.00
+Thursday,DL,SJC,"San Jose, CA",20:59,49.00,308.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",11:10,155.00,1235.00,1.00
+Tuesday,DL,SFO,"San Francisco, CA",14:35,56.00,337.00,1.00
+Saturday,WN,SFO,"San Francisco, CA",15:55,56.00,337.00,1.00
+Wednesday,DL,DEN,"Denver, CO",14:09,115.00,862.00,0.00
+Sunday,AA,CLT,"Charlotte, NC",13:53,256.00,2125.00,0.00
+Sunday,OO,RDM,"Bend/Redmond, OR",10:23,102.00,726.00,0.00
+Sunday,OO,RNO,"Reno, NV",17:03,57.00,390.00,1.00
+Wednesday,AA,LIH,"Lihue, HI",08:29,328.00,2615.00,0.00
+Thursday,UA,DEN,"Denver, CO",12:58,116.00,862.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",00:36,155.00,1235.00,1.00
+Friday,DL,AUS,"Austin, TX",18:40,148.00,1242.00,0.00
+Tuesday,OO,BOI,"Boise, ID",19:55,104.00,674.00,0.00
+Saturday,WN,BNA,"Nashville, TN",23:30,211.00,1798.00,1.00
+Friday,OO,SEA,"Seattle, WA",15:09,129.00,954.00,0.00
+Saturday,DL,DCA,"Washington, DC",07:35,276.00,2311.00,0.00
+Friday,WN,SMF,"Sacramento, CA",18:20,58.00,373.00,1.00
+Saturday,OO,TUL,"Tulsa, OK",09:59,159.00,1283.00,0.00
+Friday,AS,SEA,"Seattle, WA",19:50,125.00,954.00,0.00
+Wednesday,AA,JFK,"New York, NY",12:30,287.00,2475.00,1.00
+Saturday,OO,SAN,"San Diego, CA",09:00,29.00,109.00,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",06:00,163.00,1235.00,1.00
+Tuesday,UA,CLE,"Cleveland, OH",09:00,226.00,2052.00,0.00
+Friday,AS,SEA,"Seattle, WA",15:59,138.00,954.00,0.00
+Tuesday,WN,MCO,"Orlando, FL",23:15,264.00,2218.00,1.00
+Tuesday,UA,LAS,"Las Vegas, NV",08:20,44.00,236.00,0.00
+Friday,AA,HNL,"Honolulu, HI",10:49,321.00,2556.00,0.00
+Friday,WN,DEN,"Denver, CO",09:05,110.00,862.00,1.00
+Monday,DL,PDX,"Portland, OR",10:10,110.00,833.00,0.00
+Saturday,UA,EWR,"Newark, NJ",10:15,289.00,2454.00,0.00
+Thursday,AA,BOS,"Boston, MA",07:00,291.00,2611.00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",14:35,83.00,337.00,0.00
+Monday,DL,DFW,"Dallas/Fort Worth, TX",18:55,158.00,1235.00,1.00
+Monday,WN,MCI,"Kansas City, MO",08:10,147.00,1363.00,0.00
+Tuesday,QX,BOI,"Boise, ID",09:21,108.00,674.00,0.00
+Sunday,UA,LAS,"Las Vegas, NV",22:58,58.00,236.00,1.00
+Sunday,UA,BOS,"Boston, MA",23:59,300.00,2611.00,0.00
+Monday,AA,MIA,"Miami, FL",08:00,230.00,2342.00,0.00
+Monday,OO,RNO,"Reno, NV",17:27,62.00,390.00,0.00
+Saturday,AA,BOS,"Boston, MA",08:15,310.00,2611.00,0.00
+Thursday,DL,LAS,"Las Vegas, NV",11:15,46.00,236.00,0.00
+Monday,AS,SFO,"San Francisco, CA",19:50,53.00,337.00,1.00
+Saturday,OO,SMF,"Sacramento, CA",12:30,63.00,373.00,0.00
+Thursday,OO,AUS,"Austin, TX",09:25,167.00,1242.00,0.00
+Saturday,DL,HNL,"Honolulu, HI",18:15,301.00,2556.00,0.00
+Monday,WN,SFO,"San Francisco, CA",11:10,66.00,337.00,1.00
+Saturday,OO,GEG,"Spokane, WA",12:54,131.00,945.00,1.00
+Friday,UA,IAH,"Houston, TX",00:51,168.00,1379.00,0.00
+Friday,DL,HNL,"Honolulu, HI",08:45,309.00,2556.00,1.00
+Saturday,UA,EWR,"Newark, NJ",21:00,274.00,2454.00,0.00
+Sunday,UA,LIH,"Lihue, HI",08:33,327.00,2615.00,0.00
+Saturday,AA,PHX,"Phoenix, AZ",18:46,57.00,370.00,0.00
+Monday,OO,DEN,"Denver, CO",08:40,103.00,862.00,0.00
+Sunday,DL,CVG,"Cincinnati, OH",22:46,224.00,1900.00,0.00
+Saturday,WN,PHX,"Phoenix, AZ",14:45,58.00,370.00,1.00
+Friday,OO,XNA,"Fayetteville, AR",17:49,185.00,1371.00,1.00
+Tuesday,UA,SFO,"San Francisco, CA",09:15,74.00,337.00,0.00
+Friday,OO,RNO,"Reno, NV",21:59,65.00,390.00,0.00
+Friday,UA,ORD,"Chicago, IL",19:17,215.00,1744.00,0.00
+Wednesday,OO,IAH,"Houston, TX",13:46,167.00,1379.00,1.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",07:00,146.00,1235.00,0.00
+Monday,OO,SEA,"Seattle, WA",18:55,147.00,954.00,0.00
+Saturday,B6,JFK,"New York, NY",08:00,316.00,2475.00,0.00
+Sunday,AA,HNL,"Honolulu, HI",17:53,305.00,2556.00,0.00
+Thursday,AS,PDX,"Portland, OR",18:05,122.00,833.00,0.00
+Friday,AA,JFK,"New York, NY",15:35,280.00,2475.00,1.00
+Sunday,F9,PDX,"Portland, OR",09:20,114.00,833.00,0.00
+Monday,UA,SFO,"San Francisco, CA",06:00,52.00,337.00,0.00
+Saturday,WN,LAS,"Las Vegas, NV",12:50,44.00,236.00,0.00
+Friday,UA,CMH,"Columbus, OH",10:45,226.00,1995.00,0.00
+Thursday,UA,CLE,"Cleveland, OH",22:35,241.00,2052.00,1.00
+Friday,AA,BOS,"Boston, MA",13:30,296.00,2611.00,0.00
+Wednesday,OO,BOI,"Boise, ID",19:45,92.00,674.00,0.00
+Thursday,AA,LIH,"Lihue, HI",08:29,309.00,2615.00,0.00
+Wednesday,DL,BNA,"Nashville, TN",18:40,212.00,1798.00,0.00
+Friday,DL,MCI,"Kansas City, MO",18:45,164.00,1363.00,1.00
+Wednesday,DL,PDX,"Portland, OR",07:35,125.00,833.00,0.00
+Sunday,WN,HNL,"Honolulu, HI",18:20,316.00,2556.00,0.00
+Sunday,DL,JFK,"New York, NY",11:25,290.00,2475.00,1.00
+Tuesday,AA,HNL,"Honolulu, HI",15:48,299.00,2556.00,0.00
+Tuesday,OO,TUS,"Tucson, AZ",09:35,65.00,451.00,0.00
+Sunday,AA,JFK,"New York, NY",06:00,281.00,2475.00,0.00
+Wednesday,DL,ATL,"Atlanta, GA",22:55,233.00,1947.00,0.00
+Thursday,WN,BWI,"Baltimore, MD",06:05,268.00,2329.00,0.00
+Friday,DL,HNL,"Honolulu, HI",18:15,320.00,2556.00,0.00
+Saturday,OO,BOI,"Boise, ID",18:57,103.00,674.00,0.00
+Sunday,DL,HNL,"Honolulu, HI",13:55,318.00,2556.00,0.00
+Sunday,DL,MSY,"New Orleans, LA",07:05,193.00,1671.00,0.00
+Thursday,DL,SFO,"San Francisco, CA",17:59,57.00,337.00,0.00
+Monday,B6,JFK,"New York, NY",09:00,294.00,2475.00,0.00
+Thursday,DL,MSP,"Minneapolis, MN",15:26,190.00,1535.00,0.00
+Thursday,WN,ELP,"El Paso, TX",08:15,96.00,715.00,0.00
+Sunday,OO,GEG,"Spokane, WA",18:59,125.00,945.00,0.00
+Friday,WN,TPA,"Tampa, FL",11:45,252.00,2158.00,1.00
+Friday,UA,PHX,"Phoenix, AZ",08:37,58.00,370.00,0.00
+Friday,UA,SFO,"San Francisco, CA",09:10,71.00,337.00,0.00
+Tuesday,OO,DEN,"Denver, CO",14:19,104.00,862.00,0.00
+Sunday,DL,JFK,"New York, NY",07:00,273.00,2475.00,1.00
+Friday,AS,SFO,"San Francisco, CA",19:50,57.00,337.00,1.00
+Sunday,OO,RNO,"Reno, NV",17:27,57.00,390.00,0.00
+Sunday,WN,PHX,"Phoenix, AZ",21:15,56.00,370.00,1.00
+Wednesday,AA,CMH,"Columbus, OH",10:00,216.00,1995.00,0.00
+Thursday,UA,SFO,"San Francisco, CA",20:22,68.00,337.00,1.00
+Saturday,B6,BOS,"Boston, MA",06:25,313.00,2611.00,0.00
+Thursday,UA,MRY,"Monterey, CA",16:43,50.00,266.00,0.00
+Monday,DL,JFK,"New York, NY",15:20,280.00,2475.00,1.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",16:40,157.00,1235.00,1.00
+Monday,AA,ORD,"Chicago, IL",22:45,214.00,1744.00,0.00
+Monday,OO,DEN,"Denver, CO",16:34,112.00,862.00,1.00
+Sunday,AA,DFW,"Dallas/Fort Worth, TX",07:00,160.00,1235.00,0.00
+Sunday,DL,MSY,"New Orleans, LA",11:10,193.00,1671.00,0.00
+Sunday,AS,ANC,"Anchorage, AK",19:55,298.00,2345.00,0.00
+Sunday,DL,CVG,"Cincinnati, OH",22:46,226.00,1900.00,0.00
+Saturday,B6,JFK,"New York, NY",09:00,297.00,2475.00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",00:40,145.00,1235.00,0.00
+Monday,AA,MCO,"Orlando, FL",21:41,286.00,2218.00,0.00
+Friday,OO,SFO,"San Francisco, CA",22:18,59.00,337.00,1.00
+Sunday,DL,ATL,"Atlanta, GA",08:15,233.00,1947.00,0.00
+Sunday,OO,RNO,"Reno, NV",21:59,69.00,390.00,0.00
+Thursday,WN,PHX,"Phoenix, AZ",19:50,63.00,370.00,1.00
+Monday,AS,SEA,"Seattle, WA",09:00,134.00,954.00,0.00
+Friday,WN,PHX,"Phoenix, AZ",11:10,62.00,370.00,0.00
+Sunday,OO,ACV,"Arcata/Eureka, CA",16:55,83.00,577.00,0.00
+Thursday,WN,OAK,"Oakland, CA",21:25,57.00,337.00,1.00
+Tuesday,DL,JFK,"New York, NY",21:15,292.00,2475.00,1.00
+Thursday,UA,IAH,"Houston, TX",00:55,161.00,1379.00,0.00
+Friday,WN,MCO,"Orlando, FL",23:15,242.00,2218.00,0.00
+Monday,WN,PHX,"Phoenix, AZ",17:30,61.00,370.00,1.00
+Friday,OO,BOI,"Boise, ID",19:55,96.00,674.00,0.00
+Sunday,WN,SFO,"San Francisco, CA",06:35,53.00,337.00,0.00
+Thursday,UA,IAD,"Washington, DC",12:43,265.00,2288.00,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",08:30,288.00,2343.00,0.00
+Wednesday,WN,MDW,"Chicago, IL",05:15,211.00,1751.00,0.00
+Sunday,DL,LIH,"Lihue, HI",14:50,296.00,2615.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",19:53,59.00,370.00,0.00
+Saturday,OO,BOI,"Boise, ID",07:00,101.00,674.00,0.00
+Sunday,OO,ASE,"Aspen, CO",10:20,113.00,737.00,0.00
+Sunday,UA,ORD,"Chicago, IL",17:15,214.00,1744.00,0.00
+Thursday,WN,DEN,"Denver, CO",11:00,120.00,862.00,1.00
+Saturday,WN,MDW,"Chicago, IL",05:40,217.00,1751.00,0.00
+Wednesday,WN,TPA,"Tampa, FL",07:40,256.00,2158.00,0.00
+Monday,UA,CLE,"Cleveland, OH",22:35,242.00,2052.00,0.00
+Saturday,DL,JFK,"New York, NY",10:05,287.00,2475.00,0.00
+Friday,OO,SFO,"San Francisco, CA",20:35,61.00,337.00,0.00
+Sunday,AA,JFK,"New York, NY",11:35,286.00,2475.00,1.00
+Friday,B6,FLL,"Fort Lauderdale, FL",08:25,265.00,2343.00,0.00
+Saturday,WN,MCO,"Orlando, FL",23:15,257.00,2218.00,0.00
+Sunday,UA,IAH,"Houston, TX",15:20,178.00,1379.00,0.00
+Friday,DL,MSP,"Minneapolis, MN",06:15,183.00,1535.00,0.00
+Sunday,DL,BOS,"Boston, MA",21:05,300.00,2611.00,0.00
+Sunday,AA,MIA,"Miami, FL",23:59,256.00,2342.00,0.00
+Thursday,UA,IAH,"Houston, TX",07:05,165.00,1379.00,0.00
+Monday,OO,GEG,"Spokane, WA",18:59,131.00,945.00,1.00
+Wednesday,B6,FLL,"Fort Lauderdale, FL",13:55,280.00,2343.00,0.00
+Sunday,AA,BOS,"Boston, MA",23:30,306.00,2611.00,0.00
+Thursday,QX,RDM,"Bend/Redmond, OR",20:00,107.00,726.00,0.00
+Monday,OO,OMA,"Omaha, NE",09:49,167.00,1330.00,0.00
+Thursday,DL,SFO,"San Francisco, CA",17:59,54.00,337.00,0.00
+Sunday,UA,AUS,"Austin, TX",23:59,153.00,1242.00,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",05:50,94.00,590.00,0.00
+Tuesday,OO,SMF,"Sacramento, CA",21:20,66.00,373.00,1.00
+Friday,DL,DTW,"Detroit, MI",09:35,231.00,1979.00,0.00
+Monday,OO,SBA,"Santa Barbara, CA",22:45,28.00,89.00,0.00
+Sunday,AS,SEA,"Seattle, WA",19:50,126.00,954.00,0.00
+Monday,UA,SFO,"San Francisco, CA",20:22,55.00,337.00,0.00
+Wednesday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,121.00,851.00,0.00
+Thursday,DL,AUS,"Austin, TX",18:40,151.00,1242.00,1.00
+Friday,DL,MSP,"Minneapolis, MN",08:25,184.00,1535.00,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",21:40,50.00,236.00,1.00
+Monday,AA,CLT,"Charlotte, NC",06:00,257.00,2125.00,0.00
+Monday,OO,SFO,"San Francisco, CA",21:30,69.00,337.00,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",11:10,143.00,1235.00,0.00
+Tuesday,AS,PDX,"Portland, OR",14:08,124.00,833.00,0.00
+Wednesday,F9,SFO,"San Francisco, CA",18:04,58.00,337.00,0.00
+Thursday,AA,IND,"Indianapolis, IN",10:35,217.00,1814.00,1.00
+Sunday,DL,SEA,"Seattle, WA",19:59,146.00,954.00,0.00
+Friday,OO,SAN,"San Diego, CA",14:05,30.00,109.00,0.00
+Friday,AA,PIT,"Pittsburgh, PA",09:03,253.00,2136.00,1.00
+Tuesday,OO,SFO,"San Francisco, CA",17:50,58.00,337.00,0.00
+Wednesday,B6,FLL,"Fort Lauderdale, FL",13:02,286.00,2343.00,0.00
+Monday,AA,PHL,"Philadelphia, PA",12:06,275.00,2402.00,0.00
+Wednesday,B6,BOS,"Boston, MA",06:25,280.00,2611.00,0.00
+Tuesday,AA,JFK,"New York, NY",22:30,283.00,2475.00,1.00
+Thursday,DL,SAT,"San Antonio, TX",18:59,136.00,1211.00,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",01:22,150.00,1235.00,0.00
+Saturday,WN,RNO,"Reno, NV",11:05,62.00,390.00,0.00
+Friday,UA,EWR,"Newark, NJ",23:15,265.00,2454.00,0.00
+Sunday,UA,EWR,"Newark, NJ",13:25,255.00,2454.00,1.00
+Thursday,UA,IAD,"Washington, DC",08:15,271.00,2288.00,0.00
+Monday,OO,SAT,"San Antonio, TX",10:31,136.00,1211.00,0.00
+Friday,WN,DAL,"Dallas, TX",07:55,151.00,1246.00,0.00
+Sunday,UA,BOS,"Boston, MA",08:15,304.00,2611.00,0.00
+Tuesday,DL,AUS,"Austin, TX",15:47,157.00,1242.00,0.00
+Thursday,B6,BOS,"Boston, MA",22:09,294.00,2611.00,0.00
+Thursday,DL,MIA,"Miami, FL",22:55,280.00,2342.00,0.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",22:08,260.00,2343.00,0.00
+Tuesday,AS,GEG,"Spokane, WA",20:13,136.00,945.00,0.00
+Tuesday,WN,TUS,"Tucson, AZ",14:20,63.00,451.00,0.00
+Monday,UA,EWR,"Newark, NJ",08:25,282.00,2454.00,0.00
+Saturday,WN,BNA,"Nashville, TN",09:50,217.00,1798.00,0.00
+Monday,UA,SFO,"San Francisco, CA",20:15,60.00,337.00,1.00
+Wednesday,OO,PHX,"Phoenix, AZ",10:01,67.00,370.00,0.00
+Friday,AA,ATL,"Atlanta, GA",09:36,225.00,1947.00,0.00
+Wednesday,AS,SEA,"Seattle, WA",07:00,139.00,954.00,0.00
+Monday,AA,JFK,"New York, NY",14:20,302.00,2475.00,0.00
+Tuesday,AS,HNL,"Honolulu, HI",07:00,333.00,2556.00,0.00
+Friday,AA,PHX,"Phoenix, AZ",06:15,58.00,370.00,0.00
+Thursday,DL,MCO,"Orlando, FL",16:10,250.00,2218.00,0.00
+Saturday,OO,PDX,"Portland, OR",19:57,120.00,833.00,0.00
+Monday,B6,BOS,"Boston, MA",07:00,303.00,2611.00,0.00
+Sunday,F9,LAS,"Las Vegas, NV",12:08,41.00,236.00,0.00
+Friday,WN,DEN,"Denver, CO",19:55,116.00,862.00,0.00
+Thursday,DL,SEA,"Seattle, WA",19:59,139.00,954.00,1.00
+Thursday,UA,CLE,"Cleveland, OH",13:20,236.00,2052.00,0.00
+Friday,UA,IAD,"Washington, DC",23:30,262.00,2288.00,0.00
+Friday,DL,JFK,"New York, NY",06:20,286.00,2475.00,0.00
+Thursday,UA,FAT,"Fresno, CA",16:48,40.00,209.00,0.00
+Thursday,AA,CLE,"Cleveland, OH",09:50,243.00,2052.00,1.00
+Friday,B6,FLL,"Fort Lauderdale, FL",22:08,254.00,2343.00,0.00
+Monday,OO,SJC,"San Jose, CA",12:01,49.00,308.00,0.00
+Saturday,F9,DEN,"Denver, CO",20:59,102.00,862.00,0.00
+Monday,DL,AUS,"Austin, TX",10:35,135.00,1242.00,0.00
+Tuesday,B6,FLL,"Fort Lauderdale, FL",10:39,268.00,2343.00,0.00
+Sunday,F9,SLC,"Salt Lake City, UT",09:48,82.00,590.00,0.00
+Sunday,B6,JFK,"New York, NY",22:35,302.00,2475.00,0.00
+Saturday,UA,EWR,"Newark, NJ",08:50,274.00,2454.00,0.00
+Thursday,DL,MSY,"New Orleans, LA",11:10,196.00,1671.00,0.00
+Monday,AA,JFK,"New York, NY",06:00,294.00,2475.00,0.00
+Friday,OO,DEN,"Denver, CO",08:35,112.00,862.00,0.00
+Wednesday,DL,PDX,"Portland, OR",17:00,116.00,833.00,1.00
+Sunday,OO,MRY,"Monterey, CA",10:20,46.00,266.00,0.00
+Friday,UA,IAH,"Houston, TX",08:15,174.00,1379.00,0.00
+Monday,UA,DEN,"Denver, CO",19:45,118.00,862.00,0.00
+Tuesday,UA,IAH,"Houston, TX",15:20,197.00,1379.00,0.00
+Monday,UA,ORD,"Chicago, IL",19:11,227.00,1744.00,0.00
+Friday,DL,DEN,"Denver, CO",08:50,118.00,862.00,0.00
+Wednesday,UA,KOA,"Kona, HI",17:10,293.00,2504.00,0.00
+Sunday,UA,BOS,"Boston, MA",08:15,295.00,2611.00,0.00
+Monday,UA,HNL,"Honolulu, HI",17:05,288.00,2556.00,0.00
+Friday,DL,SFO,"San Francisco, CA",12:15,56.00,337.00,1.00
+Tuesday,DL,MSP,"Minneapolis, MN",15:26,191.00,1535.00,0.00
+Friday,WN,SJC,"San Jose, CA",17:00,48.00,308.00,1.00
+Saturday,DL,AUS,"Austin, TX",10:04,145.00,1242.00,1.00
+Saturday,UA,HNL,"Honolulu, HI",13:15,319.00,2556.00,1.00
+Thursday,UA,HNL,"Honolulu, HI",09:05,311.00,2556.00,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",10:00,62.00,370.00,0.00
+Monday,OO,RNO,"Reno, NV",12:59,61.00,390.00,0.00
+Wednesday,AA,LAS,"Las Vegas, NV",12:32,42.00,236.00,0.00
+Thursday,OO,SMF,"Sacramento, CA",16:16,64.00,373.00,0.00
+Wednesday,DL,ATL,"Atlanta, GA",17:15,234.00,1947.00,0.00
+Monday,DL,CVG,"Cincinnati, OH",22:46,227.00,1900.00,0.00
+Saturday,OO,OKC,"Oklahoma City, OK",13:43,152.00,1187.00,0.00
+Saturday,AA,MCO,"Orlando, FL",21:53,250.00,2218.00,0.00
+Monday,AA,JFK,"New York, NY",22:30,285.00,2475.00,0.00
+Sunday,OO,PSP,"Palm Springs, CA",18:45,30.00,110.00,0.00
+Thursday,UA,IAH,"Houston, TX",08:10,171.00,1379.00,0.00
+Friday,DL,SLC,"Salt Lake City, UT",07:35,87.00,590.00,0.00
+Wednesday,UA,HNL,"Honolulu, HI",18:45,305.00,2556.00,0.00
+Sunday,AA,CLT,"Charlotte, NC",22:00,254.00,2125.00,0.00
+Sunday,DL,JFK,"New York, NY",08:00,278.00,2475.00,0.00
+Thursday,DL,SJC,"San Jose, CA",15:45,49.00,308.00,0.00
+Sunday,DL,JFK,"New York, NY",11:20,287.00,2475.00,0.00
+Friday,AS,SEA,"Seattle, WA",07:00,130.00,954.00,1.00
+Friday,DL,MSY,"New Orleans, LA",07:10,194.00,1671.00,1.00
+Wednesday,F9,DFW,"Dallas/Fort Worth, TX",05:45,155.00,1235.00,0.00
+Friday,UA,SFO,"San Francisco, CA",18:45,56.00,337.00,1.00
+Sunday,UA,SFO,"San Francisco, CA",11:43,59.00,337.00,0.00
+Thursday,OO,AUS,"Austin, TX",08:09,160.00,1242.00,0.00
+Saturday,DL,LAS,"Las Vegas, NV",11:15,46.00,236.00,0.00
+Sunday,AA,BNA,"Nashville, TN",10:38,217.00,1798.00,0.00
+Sunday,AA,MCO,"Orlando, FL",21:41,269.00,2218.00,0.00
+Monday,DL,PDX,"Portland, OR",14:00,112.00,833.00,0.00
+Friday,UA,IAH,"Houston, TX",18:45,158.00,1379.00,0.00
+Monday,DL,SJC,"San Jose, CA",09:30,46.00,308.00,0.00
+Monday,UA,RNO,"Reno, NV",16:29,60.00,390.00,0.00
+Sunday,OO,SJC,"San Jose, CA",12:53,53.00,308.00,1.00
+Thursday,WN,LAS,"Las Vegas, NV",08:05,48.00,236.00,0.00
+Friday,AA,BOS,"Boston, MA",13:10,300.00,2611.00,1.00
+Wednesday,OO,SFO,"San Francisco, CA",07:00,63.00,337.00,0.00
+Friday,OO,SBP,"San Luis Obispo, CA",22:43,30.00,155.00,0.00
+Friday,DL,JFK,"New York, NY",15:20,282.00,2475.00,1.00
+Saturday,OO,SAT,"San Antonio, TX",10:31,148.00,1211.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",13:41,69.00,370.00,0.00
+Wednesday,UA,IAD,"Washington, DC",22:00,262.00,2288.00,0.00
+Thursday,UA,IAH,"Houston, TX",23:59,165.00,1379.00,1.00
+Saturday,UA,EWR,"Newark, NJ",23:15,268.00,2454.00,1.00
+Monday,OO,SAT,"San Antonio, TX",10:31,161.00,1211.00,0.00
+Thursday,OO,SMF,"Sacramento, CA",07:00,68.00,373.00,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",10:13,57.00,370.00,0.00
+Friday,AS,SFO,"San Francisco, CA",06:00,66.00,337.00,0.00
+Friday,UA,AUS,"Austin, TX",10:55,149.00,1242.00,0.00
+Sunday,UA,DEN,"Denver, CO",05:00,120.00,862.00,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",13:05,60.00,370.00,0.00
+Sunday,OO,ELP,"El Paso, TX",20:49,100.00,715.00,0.00
+Friday,WN,AUS,"Austin, TX",11:15,149.00,1242.00,0.00
+Friday,WN,STL,"St. Louis, MO",05:00,195.00,1592.00,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",08:25,87.00,677.00,0.00
+Tuesday,WN,BNA,"Nashville, TN",12:10,220.00,1798.00,0.00
+Saturday,UA,SFO,"San Francisco, CA",20:22,63.00,337.00,0.00
+Saturday,WN,DEN,"Denver, CO",09:25,110.00,862.00,0.00
+Thursday,OO,SFO,"San Francisco, CA",17:45,60.00,337.00,0.00
+Tuesday,UA,ORD,"Chicago, IL",10:52,195.00,1744.00,0.00
+Saturday,UA,SEA,"Seattle, WA",19:15,133.00,954.00,0.00
+Tuesday,AS,HNL,"Honolulu, HI",07:00,325.00,2556.00,0.00
+Wednesday,UA,EWR,"Newark, NJ",10:15,259.00,2454.00,0.00
+Wednesday,UA,HNL,"Honolulu, HI",11:06,317.00,2556.00,0.00
+Thursday,OO,SAN,"San Diego, CA",17:11,34.00,109.00,0.00
+Thursday,AA,ORD,"Chicago, IL",01:06,204.00,1744.00,0.00
+Saturday,OO,SBP,"San Luis Obispo, CA",09:17,35.00,155.00,0.00
+Wednesday,UA,CLE,"Cleveland, OH",09:00,239.00,2052.00,0.00
+Friday,AS,LIH,"Lihue, HI",09:40,325.00,2615.00,1.00
+Friday,AA,PHL,"Philadelphia, PA",23:05,269.00,2402.00,0.00
+Thursday,WN,SMF,"Sacramento, CA",06:35,62.00,373.00,0.00
+Wednesday,AA,HNL,"Honolulu, HI",19:25,307.00,2556.00,0.00
+Friday,DL,SJC,"San Jose, CA",09:30,49.00,308.00,0.00
+Saturday,UA,ORD,"Chicago, IL",08:10,207.00,1744.00,0.00
+Sunday,UA,IAD,"Washington, DC",12:55,271.00,2288.00,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",19:30,59.00,370.00,0.00
+Monday,F9,LAS,"Las Vegas, NV",12:08,46.00,236.00,0.00
+Saturday,AA,RDU,"Raleigh/Durham, NC",08:47,271.00,2239.00,0.00
+Sunday,UA,SEA,"Seattle, WA",11:46,126.00,954.00,0.00
+Monday,OO,SMF,"Sacramento, CA",09:23,61.00,373.00,1.00
+Sunday,DL,SEA,"Seattle, WA",20:55,127.00,954.00,0.00
+Tuesday,DL,PDX,"Portland, OR",20:39,120.00,833.00,0.00
+Sunday,DL,KOA,"Kona, HI",16:45,306.00,2504.00,0.00
+Saturday,UA,KOA,"Kona, HI",17:10,305.00,2504.00,0.00
+Friday,QX,MFR,"Medford, OR",10:04,93.00,630.00,0.00
+Thursday,DL,ATL,"Atlanta, GA",11:05,227.00,1947.00,1.00
+Tuesday,UA,BOS,"Boston, MA",08:15,294.00,2611.00,0.00
+Monday,DL,AUS,"Austin, TX",07:35,158.00,1242.00,0.00
+Friday,OO,PHX,"Phoenix, AZ",21:45,57.00,370.00,0.00
+Saturday,UA,LAS,"Las Vegas, NV",13:00,45.00,236.00,0.00
+Monday,DL,IAH,"Houston, TX",09:10,152.00,1379.00,0.00
+Sunday,AS,SEA,"Seattle, WA",13:39,126.00,954.00,0.00
+Thursday,OO,FAT,"Fresno, CA",09:17,39.00,209.00,0.00
+Saturday,OO,AUS,"Austin, TX",08:09,162.00,1242.00,0.00
+Sunday,OO,SMF,"Sacramento, CA",12:00,62.00,373.00,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",21:40,254.00,2402.00,0.00
+Friday,WN,LAS,"Las Vegas, NV",15:25,46.00,236.00,0.00
+Monday,DL,ATL,"Atlanta, GA",08:15,204.00,1947.00,1.00
+Tuesday,OO,PHX,"Phoenix, AZ",08:18,58.00,370.00,0.00
+Wednesday,OO,SBA,"Santa Barbara, CA",22:45,29.00,89.00,0.00
+Wednesday,OO,SJC,"San Jose, CA",07:58,59.00,308.00,0.00
+Friday,WN,MCI,"Kansas City, MO",17:45,168.00,1363.00,1.00
+Monday,UA,DEN,"Denver, CO",14:30,115.00,862.00,0.00
+Thursday,AA,MCO,"Orlando, FL",21:53,249.00,2218.00,0.00
+Thursday,AA,PHL,"Philadelphia, PA",08:05,277.00,2402.00,0.00
+Thursday,OO,DEN,"Denver, CO",08:35,118.00,862.00,1.00
+Tuesday,UA,IAH,"Houston, TX",06:47,162.00,1379.00,0.00
+Saturday,AA,CMH,"Columbus, OH",10:00,251.00,1995.00,0.00
+Friday,AA,HNL,"Honolulu, HI",08:20,334.00,2556.00,0.00
+Thursday,DL,DEN,"Denver, CO",20:19,119.00,862.00,0.00
+Sunday,OO,TUL,"Tulsa, OK",09:36,178.00,1283.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",13:33,159.00,1235.00,0.00
+Thursday,DL,LAS,"Las Vegas, NV",15:59,43.00,236.00,1.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",13:55,288.00,2343.00,0.00
+Saturday,OO,GEG,"Spokane, WA",14:45,139.00,945.00,0.00
+Monday,OO,SBA,"Santa Barbara, CA",22:45,26.00,89.00,0.00
+Friday,OO,TUL,"Tulsa, OK",09:36,164.00,1283.00,0.00
+Wednesday,F9,PHX,"Phoenix, AZ",22:05,56.00,370.00,0.00
+Thursday,OO,SMF,"Sacramento, CA",21:50,65.00,373.00,0.00
+Friday,OO,PHX,"Phoenix, AZ",08:15,59.00,370.00,0.00
+Friday,OO,OKC,"Oklahoma City, OK",08:36,144.00,1187.00,0.00
+Tuesday,AA,MIA,"Miami, FL",13:51,258.00,2342.00,0.00
+Tuesday,AA,CLT,"Charlotte, NC",12:39,241.00,2125.00,1.00
+Wednesday,WN,DEN,"Denver, CO",14:05,112.00,862.00,0.00
+Sunday,UA,BWI,"Baltimore, MD",20:58,272.00,2329.00,0.00
+Monday,WN,SMF,"Sacramento, CA",20:40,58.00,373.00,1.00
+Thursday,WN,OAK,"Oakland, CA",12:00,54.00,337.00,0.00
+Friday,F9,ORD,"Chicago, IL",23:36,223.00,1744.00,0.00
+Sunday,AS,SEA,"Seattle, WA",11:00,131.00,954.00,0.00
+Wednesday,AA,CLT,"Charlotte, NC",09:20,251.00,2125.00,1.00
+Friday,DL,ATL,"Atlanta, GA",22:55,217.00,1947.00,0.00
+Wednesday,AA,PHX,"Phoenix, AZ",18:46,63.00,370.00,1.00
+Thursday,F9,DFW,"Dallas/Fort Worth, TX",18:56,166.00,1235.00,0.00
+Friday,WN,AUS,"Austin, TX",16:10,147.00,1242.00,1.00
+Friday,DL,ATL,"Atlanta, GA",09:30,213.00,1947.00,0.00
+Monday,WN,SFO,"San Francisco, CA",06:00,53.00,337.00,1.00
+Friday,UA,EWR,"Newark, NJ",07:15,298.00,2454.00,0.00
+Wednesday,AA,ORD,"Chicago, IL",11:35,212.00,1744.00,0.00
+Saturday,UA,ORD,"Chicago, IL",22:35,211.00,1744.00,0.00
+Saturday,OO,SMF,"Sacramento, CA",18:30,65.00,373.00,1.00
+Thursday,OO,SAN,"San Diego, CA",09:00,31.00,109.00,0.00
+Wednesday,DL,JFK,"New York, NY",12:25,327.00,2475.00,0.00
+Thursday,B6,BUF,"Buffalo, NY",23:59,262.00,2218.00,0.00
+Thursday,OO,PHX,"Phoenix, AZ",13:41,59.00,370.00,0.00
+Sunday,WN,LAS,"Las Vegas, NV",21:40,44.00,236.00,1.00
+Monday,UA,IAH,"Houston, TX",08:15,168.00,1379.00,0.00
+Thursday,DL,AUS,"Austin, TX",10:04,144.00,1242.00,0.00
+Sunday,WN,SJC,"San Jose, CA",09:55,46.00,308.00,0.00
+Thursday,DL,DEN,"Denver, CO",08:50,118.00,862.00,0.00
+Monday,DL,JFK,"New York, NY",21:15,288.00,2475.00,1.00
+Tuesday,AS,PDX,"Portland, OR",14:08,130.00,833.00,0.00
+Tuesday,DL,MSY,"New Orleans, LA",13:00,204.00,1671.00,0.00
+Friday,OO,TUS,"Tucson, AZ",14:38,76.00,451.00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",14:15,59.00,370.00,0.00
+Saturday,DL,ATL,"Atlanta, GA",08:15,236.00,1947.00,0.00
+Wednesday,AS,HNL,"Honolulu, HI",07:00,314.00,2556.00,0.00
+Friday,AA,BOS,"Boston, MA",08:15,299.00,2611.00,1.00
+Monday,WN,PHX,"Phoenix, AZ",17:30,61.00,370.00,1.00
+Monday,WN,OAK,"Oakland, CA",21:25,58.00,337.00,1.00
+Saturday,AA,ORD,"Chicago, IL",09:31,222.00,1744.00,0.00
+Sunday,OO,TUS,"Tucson, AZ",19:14,81.00,451.00,1.00
+Sunday,WN,TPA,"Tampa, FL",12:30,254.00,2158.00,1.00
+Monday,DL,JFK,"New York, NY",22:55,293.00,2475.00,0.00
+Thursday,DL,MSP,"Minneapolis, MN",06:15,186.00,1535.00,0.00
+Sunday,UA,EWR,"Newark, NJ",12:15,296.00,2454.00,0.00
+Saturday,WN,OAK,"Oakland, CA",13:50,57.00,337.00,0.00
+Thursday,AA,LAS,"Las Vegas, NV",09:40,47.00,236.00,0.00
+Sunday,OO,SFO,"San Francisco, CA",20:35,59.00,337.00,0.00
+Friday,DL,PDX,"Portland, OR",07:40,117.00,833.00,0.00
+Wednesday,UA,SFO,"San Francisco, CA",09:10,55.00,337.00,0.00
+Wednesday,DL,DTW,"Detroit, MI",07:15,236.00,1979.00,0.00
+Monday,DL,SFO,"San Francisco, CA",06:20,57.00,337.00,0.00
+Monday,WN,RNO,"Reno, NV",17:40,59.00,390.00,1.00
+Friday,F9,SFO,"San Francisco, CA",16:52,59.00,337.00,1.00
+Thursday,DL,FLL,"Fort Lauderdale, FL",22:40,265.00,2343.00,0.00
+Wednesday,UA,RNO,"Reno, NV",16:10,58.00,390.00,0.00
+Wednesday,UA,BZN,"Bozeman, MT",08:50,138.00,902.00,0.00
+Tuesday,WN,OAK,"Oakland, CA",19:00,54.00,337.00,1.00
+Saturday,UA,LIH,"Lihue, HI",08:15,340.00,2615.00,0.00
+Tuesday,DL,SEA,"Seattle, WA",21:05,126.00,954.00,0.00
+Friday,WN,DEN,"Denver, CO",11:00,111.00,862.00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",15:20,161.00,1235.00,0.00
+Sunday,DL,AUS,"Austin, TX",10:04,148.00,1242.00,0.00
+Tuesday,DL,FLL,"Fort Lauderdale, FL",22:55,266.00,2343.00,0.00
+Thursday,B6,JFK,"New York, NY",22:35,292.00,2475.00,0.00
+Friday,DL,SFO,"San Francisco, CA",19:59,54.00,337.00,0.00
+Saturday,AA,HNL,"Honolulu, HI",15:48,330.00,2556.00,0.00
+Thursday,DL,MCO,"Orlando, FL",22:15,249.00,2218.00,0.00
+Friday,UA,SFO,"San Francisco, CA",17:10,52.00,337.00,1.00
+Monday,UA,BOS,"Boston, MA",22:43,284.00,2611.00,0.00
+Saturday,AA,ORD,"Chicago, IL",17:50,224.00,1744.00,0.00
+Saturday,AA,RDU,"Raleigh/Durham, NC",09:05,272.00,2239.00,0.00
+Saturday,AA,PHL,"Philadelphia, PA",08:15,273.00,2402.00,0.00
+Thursday,OO,SEA,"Seattle, WA",15:09,150.00,954.00,1.00
+Tuesday,DL,BNA,"Nashville, TN",18:04,192.00,1798.00,0.00
+Friday,WN,AUS,"Austin, TX",06:45,151.00,1242.00,0.00
+Monday,WN,AUS,"Austin, TX",11:15,156.00,1242.00,1.00
+Monday,DL,PDX,"Portland, OR",10:10,121.00,833.00,0.00
+Friday,WN,DAL,"Dallas, TX",10:45,157.00,1246.00,1.00
+Monday,WN,TUS,"Tucson, AZ",21:00,64.00,451.00,1.00
+Thursday,AS,PDX,"Portland, OR",21:14,118.00,833.00,1.00
+Monday,DL,SFO,"San Francisco, CA",21:00,56.00,337.00,0.00
+Sunday,OO,SMF,"Sacramento, CA",07:00,66.00,373.00,0.00
+Thursday,AA,PHL,"Philadelphia, PA",10:36,287.00,2402.00,0.00
+Saturday,AA,PHL,"Philadelphia, PA",21:40,276.00,2402.00,1.00
+Thursday,WN,SJC,"San Jose, CA",17:00,47.00,308.00,0.00
+Thursday,DL,MSY,"New Orleans, LA",11:10,197.00,1671.00,0.00
+Saturday,F9,ORD,"Chicago, IL",00:26,211.00,1744.00,1.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",10:30,148.00,1235.00,0.00
+Sunday,DL,JFK,"New York, NY",23:55,292.00,2475.00,1.00
+Wednesday,AA,PHX,"Phoenix, AZ",06:10,67.00,370.00,0.00
+Friday,OO,SBP,"San Luis Obispo, CA",22:43,37.00,155.00,0.00
+Monday,UA,IAD,"Washington, DC",12:55,268.00,2288.00,0.00
+Monday,AA,ORD,"Chicago, IL",10:39,190.00,1744.00,1.00
+Monday,UA,DEN,"Denver, CO",10:54,106.00,862.00,0.00
+Friday,DL,SEA,"Seattle, WA",19:59,136.00,954.00,0.00
+Thursday,DL,AUS,"Austin, TX",15:47,155.00,1242.00,0.00
+Saturday,UA,SFO,"San Francisco, CA",07:15,62.00,337.00,0.00
+Sunday,AA,JFK,"New York, NY",22:35,277.00,2475.00,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",08:05,292.00,2402.00,0.00
+Wednesday,AA,HNL,"Honolulu, HI",10:49,337.00,2556.00,0.00
+Sunday,F9,DFW,"Dallas/Fort Worth, TX",18:56,149.00,1235.00,0.00
+Saturday,DL,SAT,"San Antonio, TX",10:15,146.00,1211.00,0.00
+Friday,OO,RNO,"Reno, NV",08:56,64.00,390.00,0.00
+Saturday,WN,DEN,"Denver, CO",13:20,142.00,862.00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",19:59,60.00,337.00,0.00
+Friday,AA,PHL,"Philadelphia, PA",22:45,272.00,2402.00,0.00
+Saturday,UA,IAD,"Washington, DC",08:15,273.00,2288.00,0.00
+Sunday,OO,PRC,"Prescott, AZ",13:25,57.00,346.00,0.00
+Friday,OO,STL,"St. Louis, MO",18:16,194.00,1592.00,0.00
+Wednesday,WN,HNL,"Honolulu, HI",07:00,310.00,2556.00,0.00
+Monday,DL,SLC,"Salt Lake City, UT",09:55,85.00,590.00,0.00
+Wednesday,DL,SEA,"Seattle, WA",20:50,136.00,954.00,0.00
+Monday,AA,ORD,"Chicago, IL",15:01,193.00,1744.00,1.00
+Friday,UA,IAH,"Houston, TX",07:05,171.00,1379.00,0.00
+Thursday,WN,DEN,"Denver, CO",19:55,113.00,862.00,1.00
+Monday,OO,RNO,"Reno, NV",21:59,62.00,390.00,0.00
+Thursday,AS,SFO,"San Francisco, CA",06:00,60.00,337.00,0.00
+Monday,UA,BWI,"Baltimore, MD",20:58,255.00,2329.00,0.00
+Thursday,AS,OGG,"Kahului, HI",08:30,302.00,2485.00,1.00
+Saturday,OO,ABQ,"Albuquerque, NM",08:23,83.00,677.00,0.00
+Monday,OO,GEG,"Spokane, WA",14:45,128.00,945.00,0.00
+Thursday,B6,BOS,"Boston, MA",10:50,305.00,2611.00,0.00
+Tuesday,AS,SFO,"San Francisco, CA",18:51,58.00,337.00,0.00
+Saturday,AS,SEA,"Seattle, WA",15:45,129.00,954.00,0.00
+Sunday,DL,BOS,"Boston, MA",10:45,306.00,2611.00,0.00
+Friday,WN,AUS,"Austin, TX",19:55,153.00,1242.00,1.00
+Saturday,UA,DEN,"Denver, CO",18:32,110.00,862.00,0.00
+Friday,OO,SEA,"Seattle, WA",15:09,139.00,954.00,0.00
+Wednesday,OO,FCA,"Kalispell, MT",08:28,133.00,1015.00,0.00
+Wednesday,OO,TUS,"Tucson, AZ",15:23,81.00,451.00,0.00
+Saturday,F9,SMF,"Sacramento, CA",17:57,63.00,373.00,1.00
+Sunday,OO,SEA,"Seattle, WA",18:48,132.00,954.00,0.00
+Thursday,AA,PHX,"Phoenix, AZ",06:15,59.00,370.00,0.00
+Monday,UA,HNL,"Honolulu, HI",09:05,323.00,2556.00,0.00
+Thursday,WN,DEN,"Denver, CO",15:45,137.00,862.00,1.00
+Saturday,AA,PIT,"Pittsburgh, PA",09:03,243.00,2136.00,1.00
+Saturday,DL,SLC,"Salt Lake City, UT",05:50,85.00,590.00,0.00
+Saturday,WN,SMF,"Sacramento, CA",08:10,62.00,373.00,0.00
+Friday,AA,JFK,"New York, NY",06:00,324.00,2475.00,0.00
+Friday,WN,STL,"St. Louis, MO",05:00,193.00,1592.00,0.00
+Tuesday,AA,MIA,"Miami, FL",13:51,246.00,2342.00,1.00
+Friday,AS,SFO,"San Francisco, CA",13:44,62.00,337.00,1.00
+Friday,UA,HNL,"Honolulu, HI",13:15,308.00,2556.00,1.00
+Friday,DL,SLC,"Salt Lake City, UT",17:10,86.00,590.00,0.00
+Tuesday,UA,IAD,"Washington, DC",22:10,255.00,2288.00,0.00
+Sunday,AA,KOA,"Kona, HI",09:06,306.00,2504.00,0.00
+Sunday,UA,IAH,"Houston, TX",00:55,163.00,1379.00,0.00
+Friday,AA,PHL,"Philadelphia, PA",07:02,285.00,2402.00,0.00
+Wednesday,UA,EWR,"Newark, NJ",13:15,293.00,2454.00,0.00
+Sunday,F9,SEA,"Seattle, WA",15:15,138.00,954.00,0.00
+Thursday,AA,HNL,"Honolulu, HI",17:53,313.00,2556.00,1.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",18:50,141.00,1235.00,0.00
+Tuesday,WN,MCI,"Kansas City, MO",07:50,184.00,1363.00,0.00
+Friday,DL,ATL,"Atlanta, GA",12:10,261.00,1947.00,0.00
+Thursday,UA,LAS,"Las Vegas, NV",19:26,51.00,236.00,0.00
+Wednesday,OO,TUS,"Tucson, AZ",19:14,92.00,451.00,0.00
+Tuesday,AA,MIA,"Miami, FL",23:17,284.00,2342.00,0.00
+Sunday,OO,TUS,"Tucson, AZ",18:08,66.00,451.00,0.00
+Friday,AS,SEA,"Seattle, WA",12:54,130.00,954.00,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",20:55,95.00,677.00,1.00
+Monday,WN,LAS,"Las Vegas, NV",13:20,57.00,236.00,0.00
+Thursday,UA,IAD,"Washington, DC",21:30,269.00,2288.00,0.00
+Tuesday,B6,FLL,"Fort Lauderdale, FL",08:30,295.00,2343.00,0.00
+Friday,UA,AUS,"Austin, TX",10:55,142.00,1242.00,1.00
+Wednesday,F9,ATL,"Atlanta, GA",15:28,235.00,1947.00,0.00
+Monday,UA,BWI,"Baltimore, MD",09:33,284.00,2329.00,0.00
+Wednesday,AA,CLT,"Charlotte, NC",09:20,233.00,2125.00,0.00
+Friday,WN,AUS,"Austin, TX",19:55,152.00,1242.00,0.00
+Tuesday,OO,SFO,"San Francisco, CA",16:05,52.00,337.00,0.00
+Tuesday,UA,IAD,"Washington, DC",12:55,271.00,2288.00,0.00
+Saturday,UA,PHX,"Phoenix, AZ",08:37,56.00,370.00,0.00
+Saturday,DL,MSP,"Minneapolis, MN",11:26,178.00,1535.00,0.00
+Tuesday,DL,SLC,"Salt Lake City, UT",13:16,80.00,590.00,0.00
+Friday,AS,SEA,"Seattle, WA",16:57,140.00,954.00,1.00
+Sunday,OO,RNO,"Reno, NV",08:20,63.00,390.00,0.00
+Saturday,AA,PHX,"Phoenix, AZ",12:50,61.00,370.00,0.00
+Tuesday,OO,SFO,"San Francisco, CA",08:45,56.00,337.00,1.00
+Sunday,OO,TUS,"Tucson, AZ",18:08,72.00,451.00,0.00
+Friday,DL,ATL,"Atlanta, GA",11:05,260.00,1947.00,0.00
+Sunday,OO,ACV,"Arcata/Eureka, CA",12:45,84.00,577.00,0.00
+Thursday,UA,ORD,"Chicago, IL",17:00,215.00,1744.00,0.00
+Saturday,UA,IAH,"Houston, TX",19:21,158.00,1379.00,0.00
+Tuesday,DL,LAS,"Las Vegas, NV",07:35,42.00,236.00,1.00
+Saturday,AS,PDX,"Portland, OR",19:45,114.00,833.00,0.00
+Sunday,OO,PSP,"Palm Springs, CA",20:20,31.00,110.00,0.00
+Saturday,OO,RDD,"Redding, CA",16:55,85.00,501.00,0.00
+Tuesday,UA,IAH,"Houston, TX",00:55,154.00,1379.00,0.00
+Saturday,AS,LIH,"Lihue, HI",09:46,323.00,2615.00,0.00
+Sunday,DL,ATL,"Atlanta, GA",17:15,236.00,1947.00,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",08:25,297.00,2343.00,1.00
+Saturday,DL,JFK,"New York, NY",21:15,279.00,2475.00,0.00
+Tuesday,UA,SFO,"San Francisco, CA",15:40,55.00,337.00,0.00
+Sunday,WN,BNA,"Nashville, TN",13:25,214.00,1798.00,0.00
+Saturday,OO,SMF,"Sacramento, CA",08:00,61.00,373.00,0.00
+Thursday,UA,ORD,"Chicago, IL",12:50,207.00,1744.00,1.00
+Saturday,AS,SFO,"San Francisco, CA",19:45,63.00,337.00,0.00
+Sunday,AS,PDX,"Portland, OR",21:14,124.00,833.00,0.00
+Sunday,WN,HOU,"Houston, TX",07:45,170.00,1390.00,0.00
+Thursday,DL,ATL,"Atlanta, GA",06:00,219.00,1947.00,0.00
+Saturday,WN,SJC,"San Jose, CA",17:35,49.00,308.00,0.00
+Thursday,UA,IAH,"Houston, TX",10:10,172.00,1379.00,0.00
+Tuesday,QX,RDM,"Bend/Redmond, OR",21:11,96.00,726.00,0.00
+Thursday,WN,BNA,"Nashville, TN",07:10,210.00,1798.00,0.00
+Friday,DL,JFK,"New York, NY",21:45,269.00,2475.00,0.00
+Wednesday,UA,SFO,"San Francisco, CA",20:15,64.00,337.00,0.00
+Monday,UA,HNL,"Honolulu, HI",18:45,300.00,2556.00,0.00
+Monday,AA,PHL,"Philadelphia, PA",23:05,282.00,2402.00,0.00
+Monday,WN,ELP,"El Paso, TX",19:45,84.00,715.00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",01:22,171.00,1235.00,0.00
+Saturday,OO,SJC,"San Jose, CA",07:58,51.00,308.00,0.00
+Sunday,UA,ORD,"Chicago, IL",22:35,202.00,1744.00,0.00
+Saturday,WN,ABQ,"Albuquerque, NM",17:10,84.00,677.00,0.00
+Friday,AS,PDX,"Portland, OR",14:08,122.00,833.00,0.00
+Saturday,WN,DEN,"Denver, CO",06:00,119.00,862.00,0.00
+Monday,OO,ABQ,"Albuquerque, NM",15:03,88.00,677.00,0.00
+Tuesday,OO,SEA,"Seattle, WA",12:45,123.00,954.00,0.00
+Wednesday,WN,OAK,"Oakland, CA",06:00,56.00,337.00,0.00
+Friday,DL,PDX,"Portland, OR",17:00,124.00,833.00,0.00
+Friday,UA,DEN,"Denver, CO",18:51,116.00,862.00,0.00
+Friday,UA,EWR,"Newark, NJ",08:25,276.00,2454.00,0.00
+Friday,AA,PHX,"Phoenix, AZ",18:46,59.00,370.00,0.00
+Monday,DL,FLL,"Fort Lauderdale, FL",23:45,246.00,2343.00,1.00
+Friday,AA,BOS,"Boston, MA",13:30,297.00,2611.00,0.00
+Monday,UA,SAN,"San Diego, CA",23:01,30.00,109.00,0.00
+Saturday,UA,SMF,"Sacramento, CA",08:50,65.00,373.00,0.00
+Wednesday,UA,RNO,"Reno, NV",16:37,59.00,390.00,0.00
+Tuesday,AS,EWR,"Newark, NJ",07:00,290.00,2454.00,0.00
+Friday,OO,JAC,"Jackson, WY",09:02,116.00,784.00,0.00
+Thursday,DL,MSP,"Minneapolis, MN",11:30,204.00,1535.00,0.00
+Wednesday,OO,PSP,"Palm Springs, CA",20:20,33.00,110.00,0.00
+Friday,DL,SJC,"San Jose, CA",09:30,51.00,308.00,0.00
+Tuesday,AS,PDX,"Portland, OR",10:53,110.00,833.00,0.00
+Wednesday,WN,HNL,"Honolulu, HI",18:20,309.00,2556.00,0.00
+Thursday,OO,BOI,"Boise, ID",19:45,91.00,674.00,0.00
+Sunday,WN,MDW,"Chicago, IL",06:05,204.00,1751.00,0.00
+Wednesday,B6,BOS,"Boston, MA",12:58,316.00,2611.00,0.00
+Monday,AA,MIA,"Miami, FL",06:00,240.00,2342.00,0.00
+Wednesday,OO,TUS,"Tucson, AZ",09:15,70.00,451.00,0.00
+Friday,DL,SEA,"Seattle, WA",14:05,137.00,954.00,0.00
+Monday,DL,LIH,"Lihue, HI",14:50,300.00,2615.00,0.00
+Friday,OO,SMF,"Sacramento, CA",18:30,64.00,373.00,0.00
+Monday,DL,LAS,"Las Vegas, NV",07:10,41.00,236.00,0.00
+Sunday,UA,KOA,"Kona, HI",09:10,311.00,2504.00,0.00
+Wednesday,WN,SMF,"Sacramento, CA",11:05,62.00,373.00,0.00
+Friday,OO,SMF,"Sacramento, CA",21:59,61.00,373.00,1.00
+Wednesday,AA,PHL,"Philadelphia, PA",08:05,286.00,2402.00,0.00
+Sunday,AA,JFK,"New York, NY",07:00,312.00,2475.00,0.00
+Thursday,AS,SEA,"Seattle, WA",19:47,139.00,954.00,0.00
+Friday,WN,SJC,"San Jose, CA",19:20,46.00,308.00,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",08:00,153.00,1235.00,0.00
+Saturday,AA,PHL,"Philadelphia, PA",21:40,280.00,2402.00,0.00
+Sunday,UA,SMF,"Sacramento, CA",19:09,61.00,373.00,0.00
+Thursday,DL,BOS,"Boston, MA",10:45,305.00,2611.00,0.00
+Wednesday,AS,SEA,"Seattle, WA",08:00,132.00,954.00,0.00
+Monday,UA,SFO,"San Francisco, CA",10:27,54.00,337.00,1.00
+Saturday,WN,DEN,"Denver, CO",09:25,104.00,862.00,0.00
+Saturday,DL,SLC,"Salt Lake City, UT",13:16,82.00,590.00,1.00
+Tuesday,OO,FAT,"Fresno, CA",09:17,40.00,209.00,0.00
+Monday,UA,MCO,"Orlando, FL",23:04,229.00,2218.00,0.00
+Friday,DL,ATL,"Atlanta, GA",08:15,220.00,1947.00,0.00
+Wednesday,AS,KOA,"Kona, HI",08:30,290.00,2504.00,0.00
+Tuesday,OO,DEN,"Denver, CO",14:19,119.00,862.00,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",23:59,136.00,1235.00,0.00
+Monday,AA,MIA,"Miami, FL",22:59,247.00,2342.00,0.00
+Monday,AS,DCA,"Washington, DC",11:54,278.00,2311.00,1.00
+Tuesday,OO,PHX,"Phoenix, AZ",13:41,61.00,370.00,0.00
+Sunday,DL,KOA,"Kona, HI",16:45,299.00,2504.00,0.00
+Saturday,DL,SFO,"San Francisco, CA",19:59,66.00,337.00,0.00
+Thursday,OO,RNO,"Reno, NV",08:20,62.00,390.00,0.00
+Friday,DL,RDU,"Raleigh/Durham, NC",10:00,258.00,2239.00,0.00
+Friday,OO,ABQ,"Albuquerque, NM",20:05,87.00,677.00,0.00
+Sunday,WN,LAS,"Las Vegas, NV",09:10,46.00,236.00,0.00
+Monday,OO,RNO,"Reno, NV",08:20,60.00,390.00,0.00
+Saturday,AS,GEG,"Spokane, WA",20:13,137.00,945.00,0.00
+Friday,UA,SAN,"San Diego, CA",22:56,30.00,109.00,0.00
+Monday,UA,DEN,"Denver, CO",07:00,114.00,862.00,0.00
+Wednesday,UA,SFO,"San Francisco, CA",10:15,60.00,337.00,1.00
+Saturday,UA,EWR,"Newark, NJ",07:15,308.00,2454.00,0.00
+Sunday,UA,LAS,"Las Vegas, NV",22:58,40.00,236.00,1.00
+Sunday,WN,AUS,"Austin, TX",05:00,148.00,1242.00,0.00
+Friday,AS,HNL,"Honolulu, HI",17:55,332.00,2556.00,1.00
+Tuesday,DL,LIH,"Lihue, HI",14:50,321.00,2615.00,1.00
+Wednesday,UA,EWR,"Newark, NJ",06:00,281.00,2454.00,0.00
+Thursday,OO,SMF,"Sacramento, CA",12:00,59.00,373.00,0.00
+Monday,AA,CLE,"Cleveland, OH",08:30,246.00,2052.00,0.00
+Thursday,WN,BNA,"Nashville, TN",23:30,209.00,1798.00,0.00
+Friday,AA,CLT,"Charlotte, NC",12:58,242.00,2125.00,0.00
+Saturday,UA,EWR,"Newark, NJ",13:15,278.00,2454.00,0.00
+Monday,OO,SBP,"San Luis Obispo, CA",16:10,31.00,155.00,0.00
+Thursday,DL,SEA,"Seattle, WA",12:10,132.00,954.00,0.00
+Wednesday,UA,MCO,"Orlando, FL",16:27,256.00,2218.00,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",06:10,58.00,370.00,0.00
+Wednesday,DL,AUS,"Austin, TX",13:16,150.00,1242.00,0.00
+Monday,UA,IAH,"Houston, TX",18:45,168.00,1379.00,0.00
+Sunday,B6,FLL,"Fort Lauderdale, FL",15:00,276.00,2343.00,1.00
+Wednesday,OO,DEN,"Denver, CO",08:35,117.00,862.00,0.00
+Thursday,DL,BOS,"Boston, MA",06:45,311.00,2611.00,0.00
+Thursday,OO,SEA,"Seattle, WA",20:00,144.00,954.00,0.00
+Sunday,AA,ORD,"Chicago, IL",17:59,211.00,1744.00,0.00
+Wednesday,WN,OAK,"Oakland, CA",13:40,53.00,337.00,1.00
+Tuesday,OO,SAF,"Santa Fe, NM",14:19,101.00,710.00,0.00
+Wednesday,OO,DEN,"Denver, CO",14:19,116.00,862.00,0.00
+Wednesday,DL,MIA,"Miami, FL",09:05,294.00,2342.00,0.00
+Friday,OO,PRC,"Prescott, AZ",13:35,59.00,346.00,0.00
+Friday,DL,PDX,"Portland, OR",14:00,120.00,833.00,1.00
+Saturday,OO,SFO,"San Francisco, CA",07:00,58.00,337.00,0.00
+Thursday,WN,HNL,"Honolulu, HI",18:20,311.00,2556.00,1.00
+Friday,DL,OGG,"Kahului, HI",16:55,309.00,2485.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",10:15,290.00,2454.00,0.00
+Thursday,UA,SFO,"San Francisco, CA",07:30,60.00,337.00,0.00
+Wednesday,OO,TUS,"Tucson, AZ",14:38,75.00,451.00,1.00
+Tuesday,OO,SAN,"San Diego, CA",22:20,29.00,109.00,0.00
+Saturday,UA,ORD,"Chicago, IL",15:05,209.00,1744.00,0.00
+Sunday,UA,HNL,"Honolulu, HI",17:05,309.00,2556.00,0.00
+Friday,OO,ABQ,"Albuquerque, NM",20:55,90.00,677.00,0.00
+Monday,UA,SFO,"San Francisco, CA",15:40,65.00,337.00,0.00
+Thursday,AA,LAS,"Las Vegas, NV",19:40,49.00,236.00,0.00
+Thursday,WN,OAK,"Oakland, CA",18:40,53.00,337.00,1.00
+Tuesday,UA,ORD,"Chicago, IL",00:15,212.00,1744.00,0.00
+Monday,AA,ORD,"Chicago, IL",13:21,212.00,1744.00,1.00
+Wednesday,AS,SFO,"San Francisco, CA",18:30,58.00,337.00,1.00
+Wednesday,OO,PDX,"Portland, OR",12:27,114.00,833.00,1.00
+Sunday,WN,LAS,"Las Vegas, NV",15:50,45.00,236.00,1.00
+Saturday,AA,CLT,"Charlotte, NC",22:00,245.00,2125.00,0.00
+Friday,OO,RDM,"Bend/Redmond, OR",20:20,103.00,726.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",16:40,161.00,1235.00,0.00
+Sunday,UA,IAH,"Houston, TX",15:20,178.00,1379.00,0.00
+Sunday,OO,PDX,"Portland, OR",19:57,120.00,833.00,0.00
+Wednesday,DL,MIA,"Miami, FL",22:00,260.00,2342.00,0.00
+Friday,WN,SMF,"Sacramento, CA",10:50,61.00,373.00,0.00
+Wednesday,OO,SAN,"San Diego, CA",09:07,30.00,109.00,0.00
+Monday,AA,PIT,"Pittsburgh, PA",09:03,254.00,2136.00,0.00
+Friday,DL,JFK,"New York, NY",13:25,287.00,2475.00,0.00
+Thursday,WN,SFO,"San Francisco, CA",20:45,53.00,337.00,1.00
+Tuesday,WN,TUS,"Tucson, AZ",14:20,69.00,451.00,0.00
+Monday,OO,PHX,"Phoenix, AZ",08:00,58.00,370.00,0.00
+Monday,AA,JFK,"New York, NY",07:00,296.00,2475.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",23:59,145.00,1235.00,0.00
+Tuesday,OO,SJC,"San Jose, CA",18:04,52.00,308.00,0.00
+Tuesday,DL,SEA,"Seattle, WA",19:59,142.00,954.00,1.00
+Wednesday,AS,SEA,"Seattle, WA",19:47,149.00,954.00,0.00
+Friday,DL,DTW,"Detroit, MI",05:35,230.00,1979.00,0.00
+Wednesday,OO,SAF,"Santa Fe, NM",08:18,105.00,710.00,0.00
+Saturday,DL,LIH,"Lihue, HI",14:50,308.00,2615.00,0.00
+Thursday,DL,MSP,"Minneapolis, MN",23:59,194.00,1535.00,0.00
+Monday,WN,ELP,"El Paso, TX",08:15,94.00,715.00,0.00
+Tuesday,OO,PHX,"Phoenix, AZ",18:45,60.00,370.00,0.00
+Tuesday,WN,OAK,"Oakland, CA",08:15,55.00,337.00,0.00
+Sunday,WN,OAK,"Oakland, CA",22:15,51.00,337.00,0.00
+Monday,DL,LAS,"Las Vegas, NV",19:55,39.00,236.00,1.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",00:36,153.00,1235.00,0.00
+Monday,WN,DAL,"Dallas, TX",06:00,154.00,1246.00,0.00
+Tuesday,DL,SLC,"Salt Lake City, UT",19:24,86.00,590.00,0.00
+Friday,WN,BNA,"Nashville, TN",07:10,261.00,1798.00,1.00
+Tuesday,UA,BWI,"Baltimore, MD",09:00,250.00,2329.00,0.00
+Saturday,OO,SBA,"Santa Barbara, CA",12:40,28.00,89.00,0.00
+Saturday,OO,SMF,"Sacramento, CA",14:00,62.00,373.00,0.00
+Thursday,AS,SEA,"Seattle, WA",13:39,127.00,954.00,1.00
+Wednesday,AA,MIA,"Miami, FL",07:20,278.00,2342.00,0.00
+Thursday,WN,PHX,"Phoenix, AZ",08:15,56.00,370.00,1.00
+Monday,AA,MIA,"Miami, FL",12:25,280.00,2342.00,0.00
+Monday,AA,JFK,"New York, NY",21:15,266.00,2475.00,1.00
+Tuesday,WN,STL,"St. Louis, MO",12:25,193.00,1592.00,1.00
+Wednesday,UA,LAS,"Las Vegas, NV",10:50,49.00,236.00,0.00
+Saturday,WN,OAK,"Oakland, CA",10:50,52.00,337.00,0.00
+Saturday,OO,TUL,"Tulsa, OK",09:59,162.00,1283.00,0.00
+Saturday,WN,TUS,"Tucson, AZ",14:00,67.00,451.00,1.00
+Friday,AA,HNL,"Honolulu, HI",18:50,310.00,2556.00,0.00
+Friday,WN,HOU,"Houston, TX",08:30,169.00,1390.00,0.00
+Monday,QX,GEG,"Spokane, WA",12:48,130.00,945.00,0.00
+Friday,DL,LIH,"Lihue, HI",14:50,326.00,2615.00,0.00
+Wednesday,DL,LAS,"Las Vegas, NV",21:30,47.00,236.00,1.00
+Monday,AS,HNL,"Honolulu, HI",10:00,329.00,2556.00,0.00
+Wednesday,WN,STL,"St. Louis, MO",12:25,176.00,1592.00,1.00
+Wednesday,DL,DTW,"Detroit, MI",09:35,237.00,1979.00,0.00
+Sunday,DL,SDF,"Louisville, KY",08:20,208.00,1843.00,1.00
+Tuesday,UA,HNL,"Honolulu, HI",09:05,301.00,2556.00,0.00
+Friday,WN,MCI,"Kansas City, MO",17:45,171.00,1363.00,0.00
+Sunday,UA,IAH,"Houston, TX",08:15,168.00,1379.00,0.00
+Tuesday,AS,PDX,"Portland, OR",07:15,135.00,833.00,0.00
+Sunday,WN,HOU,"Houston, TX",12:20,172.00,1390.00,0.00
+Friday,AA,ORD,"Chicago, IL",13:50,201.00,1744.00,0.00
+Sunday,OO,EUG,"Eugene, OR",17:43,106.00,748.00,1.00
+Friday,OO,JAC,"Jackson, WY",12:31,106.00,784.00,0.00
+Saturday,DL,LAS,"Las Vegas, NV",11:59,40.00,236.00,1.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",09:00,155.00,1235.00,1.00
+Thursday,DL,MSP,"Minneapolis, MN",23:59,179.00,1535.00,1.00
+Friday,WN,SFO,"San Francisco, CA",15:35,60.00,337.00,1.00
+Sunday,AA,DCA,"Washington, DC",08:26,269.00,2311.00,0.00
+Thursday,OO,GEG,"Spokane, WA",12:54,135.00,945.00,0.00
+Saturday,OO,FCA,"Kalispell, MT",08:28,137.00,1015.00,0.00
+Tuesday,OO,SLC,"Salt Lake City, UT",19:00,83.00,590.00,0.00
+Saturday,DL,SFO,"San Francisco, CA",12:15,61.00,337.00,1.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",08:00,146.00,1235.00,0.00
+Tuesday,AS,SFO,"San Francisco, CA",18:30,61.00,337.00,0.00
+Wednesday,UA,DEN,"Denver, CO",19:45,110.00,862.00,0.00
+Monday,F9,DEN,"Denver, CO",20:59,98.00,862.00,0.00
+Tuesday,OO,RDD,"Redding, CA",10:15,79.00,501.00,0.00
+Sunday,AA,CLT,"Charlotte, NC",12:58,258.00,2125.00,0.00
+Saturday,OO,AUS,"Austin, TX",09:25,154.00,1242.00,0.00
+Saturday,AA,BOS,"Boston, MA",12:12,309.00,2611.00,0.00
+Saturday,UA,CMH,"Columbus, OH",10:45,230.00,1995.00,0.00
+Wednesday,AS,SEA,"Seattle, WA",12:54,140.00,954.00,0.00
+Wednesday,OO,SMF,"Sacramento, CA",21:50,67.00,373.00,0.00
+Saturday,OO,LAS,"Las Vegas, NV",14:30,44.00,236.00,0.00
+Friday,DL,MEM,"Memphis, TN",18:21,201.00,1619.00,1.00
+Thursday,AS,DCA,"Washington, DC",11:54,271.00,2311.00,0.00
+Wednesday,WN,DAL,"Dallas, TX",13:45,160.00,1246.00,1.00
+Saturday,AA,OGG,"Kahului, HI",08:53,312.00,2485.00,0.00
+Wednesday,DL,ATL,"Atlanta, GA",22:55,219.00,1947.00,0.00
+Sunday,OO,SGU,"St. George, UT",13:25,69.00,349.00,0.00
+Thursday,AA,RDU,"Raleigh/Durham, NC",09:05,271.00,2239.00,0.00
+Sunday,OO,RNO,"Reno, NV",12:59,59.00,390.00,0.00
+Friday,AA,MIA,"Miami, FL",10:20,266.00,2342.00,0.00
+Tuesday,WN,BWI,"Baltimore, MD",06:00,275.00,2329.00,0.00
+Saturday,WN,LAS,"Las Vegas, NV",05:20,46.00,236.00,0.00
+Thursday,WN,SFO,"San Francisco, CA",20:45,63.00,337.00,1.00
+Wednesday,WN,HOU,"Houston, TX",08:45,176.00,1390.00,0.00
+Wednesday,UA,IAD,"Washington, DC",12:43,271.00,2288.00,0.00
+Friday,AA,PHL,"Philadelphia, PA",22:45,279.00,2402.00,0.00
+Sunday,OO,OKC,"Oklahoma City, OK",08:36,155.00,1187.00,0.00
+Saturday,WN,LAS,"Las Vegas, NV",10:25,45.00,236.00,1.00
+Monday,OO,IAH,"Houston, TX",14:11,176.00,1379.00,1.00
+Monday,AA,JFK,"New York, NY",11:45,284.00,2475.00,1.00
+Sunday,WN,STL,"St. Louis, MO",13:35,184.00,1592.00,0.00
+Tuesday,WN,LAS,"Las Vegas, NV",06:35,47.00,236.00,0.00
+Monday,OO,PHX,"Phoenix, AZ",10:00,60.00,370.00,0.00
+Saturday,AA,BOS,"Boston, MA",08:00,305.00,2611.00,1.00
+Saturday,F9,SLC,"Salt Lake City, UT",10:55,87.00,590.00,0.00
+Friday,UA,SAN,"San Diego, CA",23:01,27.00,109.00,0.00
+Thursday,DL,DCA,"Washington, DC",07:40,268.00,2311.00,0.00
+Saturday,AA,PHL,"Philadelphia, PA",08:05,274.00,2402.00,0.00
+Thursday,WN,AUS,"Austin, TX",06:45,140.00,1242.00,0.00
+Friday,UA,IAH,"Houston, TX",08:10,164.00,1379.00,0.00
+Saturday,WN,ABQ,"Albuquerque, NM",17:10,86.00,677.00,0.00
+Wednesday,AS,SEA,"Seattle, WA",15:59,143.00,954.00,0.00
+Friday,F9,SMF,"Sacramento, CA",17:57,57.00,373.00,1.00
+Friday,UA,AUS,"Austin, TX",23:59,145.00,1242.00,1.00
+Friday,AA,PHL,"Philadelphia, PA",08:08,295.00,2402.00,0.00
+Sunday,AA,PHL,"Philadelphia, PA",22:45,282.00,2402.00,1.00
+Wednesday,UA,OGG,"Kahului, HI",09:00,315.00,2485.00,0.00
+Monday,F9,LAS,"Las Vegas, NV",12:08,60.00,236.00,0.00
+Monday,WN,LAS,"Las Vegas, NV",05:20,42.00,236.00,0.00
+Monday,DL,TPA,"Tampa, FL",22:48,251.00,2158.00,0.00
+Tuesday,OO,SEA,"Seattle, WA",18:48,128.00,954.00,1.00
+Tuesday,AS,SEA,"Seattle, WA",10:00,144.00,954.00,0.00
+Saturday,OO,MFR,"Medford, OR",19:45,92.00,630.00,0.00
+Wednesday,UA,ORD,"Chicago, IL",05:10,213.00,1744.00,0.00
+Friday,AA,PHL,"Philadelphia, PA",10:36,262.00,2402.00,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",00:40,149.00,1235.00,0.00
+Wednesday,WN,SJC,"San Jose, CA",10:55,47.00,308.00,0.00
+Friday,OO,SAN,"San Diego, CA",09:00,32.00,109.00,0.00
+Saturday,DL,JFK,"New York, NY",07:30,291.00,2475.00,0.00
+Thursday,WN,SJC,"San Jose, CA",17:00,47.00,308.00,1.00
+Thursday,UA,ORD,"Chicago, IL",14:41,199.00,1744.00,1.00
+Wednesday,UA,IAH,"Houston, TX",08:15,170.00,1379.00,0.00
+Saturday,OO,MCI,"Kansas City, MO",10:10,181.00,1363.00,0.00
+Friday,WN,STL,"St. Louis, MO",13:20,189.00,1592.00,0.00
+Monday,OO,RNO,"Reno, NV",21:59,63.00,390.00,1.00
+Monday,UA,FAT,"Fresno, CA",16:55,38.00,209.00,0.00
+Friday,F9,SMF,"Sacramento, CA",08:36,63.00,373.00,0.00
+Tuesday,UA,IAH,"Houston, TX",23:59,166.00,1379.00,0.00
+Monday,DL,BOS,"Boston, MA",21:00,280.00,2611.00,0.00
+Sunday,OO,SAN,"San Diego, CA",09:25,27.00,109.00,0.00
+Friday,WN,SMF,"Sacramento, CA",06:35,59.00,373.00,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",15:20,163.00,1235.00,1.00
+Monday,UA,DEN,"Denver, CO",16:10,99.00,862.00,1.00
+Sunday,OO,SMF,"Sacramento, CA",18:30,64.00,373.00,0.00
+Tuesday,OO,BOI,"Boise, ID",18:57,97.00,674.00,0.00
+Friday,OO,SAT,"San Antonio, TX",18:30,154.00,1211.00,0.00
+Friday,UA,DEN,"Denver, CO",14:20,110.00,862.00,0.00
+Tuesday,DL,TPA,"Tampa, FL",10:30,267.00,2158.00,0.00
+Sunday,OO,SBP,"San Luis Obispo, CA",16:10,32.00,155.00,1.00
+Friday,WN,SLC,"Salt Lake City, UT",10:35,84.00,590.00,0.00
+Sunday,DL,AUS,"Austin, TX",14:00,149.00,1242.00,0.00
+Monday,WN,OAK,"Oakland, CA",15:40,55.00,337.00,1.00
+Sunday,AA,ORD,"Chicago, IL",09:31,202.00,1744.00,0.00
+Monday,WN,BWI,"Baltimore, MD",21:50,276.00,2329.00,1.00
+Saturday,AA,PHX,"Phoenix, AZ",13:15,60.00,370.00,1.00
+Thursday,WN,OAK,"Oakland, CA",12:00,61.00,337.00,0.00
+Thursday,AA,MIA,"Miami, FL",21:41,256.00,2342.00,0.00
+Friday,UA,ORD,"Chicago, IL",08:10,209.00,1744.00,0.00
+Friday,UA,SFO,"San Francisco, CA",11:43,61.00,337.00,0.00
+Monday,WN,AUS,"Austin, TX",16:10,151.00,1242.00,1.00
+Saturday,UA,SFO,"San Francisco, CA",13:20,53.00,337.00,0.00
+Wednesday,UA,ORD,"Chicago, IL",07:00,217.00,1744.00,0.00
+Monday,UA,SFO,"San Francisco, CA",15:40,61.00,337.00,0.00
+Tuesday,AA,MCO,"Orlando, FL",15:18,277.00,2218.00,0.00
+Monday,B6,JFK,"New York, NY",10:40,291.00,2475.00,0.00
+Wednesday,DL,IND,"Indianapolis, IN",08:40,216.00,1814.00,0.00
+Sunday,WN,SFO,"San Francisco, CA",08:10,52.00,337.00,1.00
+Tuesday,DL,DEN,"Denver, CO",14:09,106.00,862.00,0.00
+Monday,DL,JFK,"New York, NY",23:55,272.00,2475.00,0.00
+Friday,QX,GEG,"Spokane, WA",12:48,138.00,945.00,0.00
+Monday,UA,SFO,"San Francisco, CA",11:43,78.00,337.00,0.00
+Sunday,UA,EWR,"Newark, NJ",06:00,286.00,2454.00,0.00
+Saturday,OO,ABQ,"Albuquerque, NM",17:45,93.00,677.00,0.00
+Thursday,B6,JFK,"New York, NY",14:20,295.00,2475.00,0.00
+Sunday,UA,SLC,"Salt Lake City, UT",19:03,84.00,590.00,0.00
+Tuesday,AS,PDX,"Portland, OR",14:17,109.00,833.00,0.00
+Tuesday,DL,ATL,"Atlanta, GA",08:15,237.00,1947.00,0.00
+Sunday,WN,MCO,"Orlando, FL",23:15,258.00,2218.00,1.00
+Monday,OO,SFO,"San Francisco, CA",17:45,58.00,337.00,0.00
+Friday,OO,AUS,"Austin, TX",08:09,153.00,1242.00,0.00
+Friday,UA,SFO,"San Francisco, CA",10:27,60.00,337.00,1.00
+Monday,AA,CLT,"Charlotte, NC",21:25,260.00,2125.00,1.00
+Wednesday,UA,ORD,"Chicago, IL",17:15,212.00,1744.00,0.00
+Sunday,WN,PHX,"Phoenix, AZ",08:10,57.00,370.00,0.00
+Wednesday,UA,CMH,"Columbus, OH",10:45,241.00,1995.00,0.00
+Sunday,WN,ABQ,"Albuquerque, NM",15:05,89.00,677.00,0.00
+Monday,DL,PDX,"Portland, OR",17:00,122.00,833.00,0.00
+Wednesday,UA,MCO,"Orlando, FL",23:04,258.00,2218.00,0.00
+Thursday,AA,CLT,"Charlotte, NC",00:17,252.00,2125.00,0.00
+Thursday,DL,ATL,"Atlanta, GA",14:30,229.00,1947.00,0.00
+Saturday,AA,ORD,"Chicago, IL",17:59,217.00,1744.00,0.00
+Tuesday,UA,SMF,"Sacramento, CA",08:50,57.00,373.00,0.00
+Wednesday,AA,MCO,"Orlando, FL",15:18,272.00,2218.00,0.00
+Wednesday,DL,SFO,"San Francisco, CA",14:35,54.00,337.00,0.00
+Friday,F9,ORD,"Chicago, IL",00:31,215.00,1744.00,1.00
+Wednesday,UA,LAS,"Las Vegas, NV",18:45,46.00,236.00,0.00
+Wednesday,OO,SAN,"San Diego, CA",14:05,28.00,109.00,0.00
+Saturday,DL,BOS,"Boston, MA",07:40,309.00,2611.00,0.00
+Tuesday,UA,ORD,"Chicago, IL",23:53,193.00,1744.00,1.00
+Friday,AS,SEA,"Seattle, WA",09:00,139.00,954.00,0.00
+Monday,WN,SMF,"Sacramento, CA",10:50,58.00,373.00,0.00
+Wednesday,UA,DEN,"Denver, CO",12:58,115.00,862.00,0.00
+Friday,DL,JFK,"New York, NY",07:20,281.00,2475.00,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",20:55,89.00,677.00,0.00
+Sunday,UA,IAD,"Washington, DC",22:10,272.00,2288.00,0.00
+Friday,DL,DEN,"Denver, CO",14:09,114.00,862.00,1.00
+Sunday,OO,TUL,"Tulsa, OK",09:36,163.00,1283.00,0.00
+Wednesday,F9,SFO,"San Francisco, CA",18:04,57.00,337.00,0.00
+Thursday,AA,PHX,"Phoenix, AZ",13:15,59.00,370.00,0.00
+Sunday,OO,OMA,"Omaha, NE",18:33,162.00,1330.00,1.00
+Wednesday,OO,SMF,"Sacramento, CA",12:00,59.00,373.00,1.00
+Sunday,OO,IAH,"Houston, TX",13:46,179.00,1379.00,0.00
+Monday,WN,PHX,"Phoenix, AZ",19:50,56.00,370.00,0.00
+Tuesday,DL,MSY,"New Orleans, LA",07:05,205.00,1671.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",06:00,281.00,2454.00,0.00
+Saturday,AA,AUS,"Austin, TX",18:52,158.00,1242.00,0.00
+Saturday,WN,TUS,"Tucson, AZ",14:00,61.00,451.00,0.00
+Friday,AA,CLT,"Charlotte, NC",23:00,250.00,2125.00,0.00
+Monday,UA,SFO,"San Francisco, CA",07:30,57.00,337.00,0.00
+Friday,OO,ABQ,"Albuquerque, NM",18:39,92.00,677.00,0.00
+Monday,WN,DAL,"Dallas, TX",10:45,183.00,1246.00,1.00
+Friday,UA,HNL,"Honolulu, HI",18:45,306.00,2556.00,0.00
+Tuesday,F9,LAS,"Las Vegas, NV",12:08,40.00,236.00,0.00
+Tuesday,B6,JFK,"New York, NY",20:36,256.00,2475.00,1.00
+Tuesday,DL,SEA,"Seattle, WA",21:05,119.00,954.00,0.00
+Saturday,AA,PHL,"Philadelphia, PA",06:35,297.00,2402.00,0.00
+Monday,DL,BNA,"Nashville, TN",18:40,215.00,1798.00,0.00
+Saturday,OO,SEA,"Seattle, WA",18:55,152.00,954.00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",07:00,157.00,1235.00,0.00
+Wednesday,OO,OMA,"Omaha, NE",09:30,165.00,1330.00,0.00
+Saturday,DL,TPA,"Tampa, FL",10:30,247.00,2158.00,0.00
+Friday,UA,DEN,"Denver, CO",14:30,111.00,862.00,1.00
+Tuesday,AA,JFK,"New York, NY",08:00,300.00,2475.00,1.00
+Monday,DL,AUS,"Austin, TX",18:40,157.00,1242.00,0.00
+Friday,DL,PDX,"Portland, OR",10:10,117.00,833.00,0.00
+Sunday,OO,TUS,"Tucson, AZ",15:23,59.00,451.00,1.00
+Monday,OO,FAT,"Fresno, CA",10:30,40.00,209.00,0.00
+Friday,AA,BOS,"Boston, MA",08:00,304.00,2611.00,1.00
+Monday,WN,DAL,"Dallas, TX",06:00,165.00,1246.00,0.00
+Saturday,AA,MCO,"Orlando, FL",21:53,250.00,2218.00,0.00
+Friday,F9,ATL,"Atlanta, GA",23:20,244.00,1947.00,0.00
+Wednesday,DL,DTW,"Detroit, MI",07:45,218.00,1979.00,0.00
+Sunday,OO,RDM,"Bend/Redmond, OR",10:15,96.00,726.00,0.00
+Wednesday,AS,SEA,"Seattle, WA",09:00,138.00,954.00,0.00
+Friday,WN,SFO,"San Francisco, CA",11:10,51.00,337.00,1.00
+Sunday,WN,BWI,"Baltimore, MD",13:15,273.00,2329.00,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",12:06,275.00,2402.00,0.00
+Monday,WN,OAK,"Oakland, CA",06:10,52.00,337.00,0.00
+Sunday,AS,STS,"Santa Rosa, CA",19:45,68.00,399.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",07:15,282.00,2454.00,0.00
+Friday,OO,SMF,"Sacramento, CA",20:45,65.00,373.00,0.00
+Monday,OO,PHX,"Phoenix, AZ",17:15,59.00,370.00,1.00
+Sunday,AA,PHX,"Phoenix, AZ",06:10,55.00,370.00,0.00
+Tuesday,OO,SAT,"San Antonio, TX",18:21,165.00,1211.00,1.00
+Wednesday,DL,DEN,"Denver, CO",08:50,114.00,862.00,0.00
+Friday,DL,TPA,"Tampa, FL",10:30,246.00,2158.00,0.00
+Wednesday,AA,BOS,"Boston, MA",08:15,306.00,2611.00,1.00
+Monday,WN,OAK,"Oakland, CA",21:25,52.00,337.00,1.00
+Saturday,DL,JFK,"New York, NY",06:20,292.00,2475.00,0.00
+Friday,WN,ABQ,"Albuquerque, NM",07:25,91.00,677.00,0.00
+Sunday,DL,AUS,"Austin, TX",15:47,149.00,1242.00,0.00
+Friday,B6,JFK,"New York, NY",16:20,292.00,2475.00,0.00
+Saturday,DL,BOS,"Boston, MA",15:25,291.00,2611.00,0.00
+Friday,UA,DEN,"Denver, CO",20:07,106.00,862.00,1.00
+Wednesday,DL,SAT,"San Antonio, TX",18:50,148.00,1211.00,0.00
+Wednesday,WN,OAK,"Oakland, CA",13:40,54.00,337.00,1.00
+Monday,DL,HNL,"Honolulu, HI",13:55,293.00,2556.00,1.00
+Saturday,DL,MIA,"Miami, FL",09:05,295.00,2342.00,1.00
+Monday,B6,BOS,"Boston, MA",10:50,333.00,2611.00,0.00
+Saturday,DL,DEN,"Denver, CO",14:09,112.00,862.00,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",18:50,149.00,1235.00,0.00
+Tuesday,DL,SLC,"Salt Lake City, UT",19:24,81.00,590.00,0.00
+Sunday,UA,IAH,"Houston, TX",05:45,171.00,1379.00,0.00
+Tuesday,AA,IAD,"Washington, DC",21:45,240.00,2288.00,0.00
+Tuesday,B6,JFK,"New York, NY",09:00,289.00,2475.00,0.00
+Sunday,DL,JFK,"New York, NY",08:35,294.00,2475.00,0.00
+Monday,OO,LAS,"Las Vegas, NV",14:30,46.00,236.00,0.00
+Sunday,WN,PHX,"Phoenix, AZ",18:35,57.00,370.00,0.00
+Saturday,OO,LAS,"Las Vegas, NV",08:28,48.00,236.00,0.00
+Monday,DL,LAS,"Las Vegas, NV",15:59,44.00,236.00,0.00
+Wednesday,DL,TPA,"Tampa, FL",10:30,259.00,2158.00,0.00
+Saturday,QX,STS,"Santa Rosa, CA",09:35,67.00,399.00,0.00
+Sunday,AA,KOA,"Kona, HI",09:06,317.00,2504.00,1.00
+Tuesday,UA,SLC,"Salt Lake City, UT",12:55,82.00,590.00,0.00
+Tuesday,WN,DEN,"Denver, CO",09:15,105.00,862.00,1.00
+Wednesday,AS,PDX,"Portland, OR",07:05,119.00,833.00,0.00
+Saturday,OO,SEA,"Seattle, WA",15:09,145.00,954.00,0.00
+Thursday,WN,SMF,"Sacramento, CA",18:20,63.00,373.00,1.00
+Thursday,WN,SJC,"San Jose, CA",12:10,50.00,308.00,1.00
+Friday,DL,OGG,"Kahului, HI",08:05,328.00,2485.00,0.00
+Sunday,UA,HNL,"Honolulu, HI",13:15,324.00,2556.00,0.00
+Thursday,DL,MSP,"Minneapolis, MN",06:15,186.00,1535.00,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",15:05,263.00,2402.00,0.00
+Saturday,UA,SFO,"San Francisco, CA",13:20,56.00,337.00,0.00
+Friday,UA,BOS,"Boston, MA",22:47,296.00,2611.00,0.00
+Saturday,WN,SJC,"San Jose, CA",07:00,50.00,308.00,0.00
+Sunday,DL,AUS,"Austin, TX",10:04,153.00,1242.00,0.00
+Friday,AS,PDX,"Portland, OR",11:00,120.00,833.00,0.00
+Sunday,DL,SJC,"San Jose, CA",15:45,51.00,308.00,1.00
+Saturday,OO,IAH,"Houston, TX",13:46,169.00,1379.00,0.00
+Friday,AA,DCA,"Washington, DC",12:32,267.00,2311.00,1.00
+Saturday,UA,EWR,"Newark, NJ",12:15,277.00,2454.00,0.00
+Sunday,DL,JFK,"New York, NY",15:20,280.00,2475.00,0.00
+Saturday,OO,ABQ,"Albuquerque, NM",20:05,81.00,677.00,0.00
+Tuesday,F9,ATL,"Atlanta, GA",23:20,222.00,1947.00,0.00
+Friday,B6,JFK,"New York, NY",13:59,279.00,2475.00,0.00
+Wednesday,DL,MCO,"Orlando, FL",07:35,270.00,2218.00,0.00
+Friday,OO,SEA,"Seattle, WA",10:57,141.00,954.00,0.00
+Friday,DL,BOS,"Boston, MA",21:00,294.00,2611.00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",13:58,152.00,1235.00,0.00
+Friday,DL,MCO,"Orlando, FL",07:35,253.00,2218.00,0.00
+Saturday,F9,SEA,"Seattle, WA",14:24,135.00,954.00,0.00
+Monday,UA,IAD,"Washington, DC",06:00,273.00,2288.00,0.00
+Wednesday,DL,RDU,"Raleigh/Durham, NC",10:00,257.00,2239.00,0.00
+Sunday,AS,PDX,"Portland, OR",21:12,115.00,833.00,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",13:38,157.00,1235.00,1.00
+Monday,AA,JFK,"New York, NY",12:36,269.00,2475.00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",15:20,157.00,1235.00,0.00
+Tuesday,AA,ORD,"Chicago, IL",06:00,218.00,1744.00,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",15:20,155.00,1235.00,0.00
+Monday,F9,DFW,"Dallas/Fort Worth, TX",07:00,138.00,1235.00,0.00
+Sunday,DL,ATL,"Atlanta, GA",17:15,220.00,1947.00,0.00
+Friday,F9,PHX,"Phoenix, AZ",22:05,58.00,370.00,0.00
+Tuesday,UA,TPA,"Tampa, FL",10:15,252.00,2158.00,0.00
+Tuesday,DL,JFK,"New York, NY",10:00,264.00,2475.00,1.00
+Friday,DL,LAS,"Las Vegas, NV",19:55,40.00,236.00,0.00
+Friday,UA,DEN,"Denver, CO",07:00,104.00,862.00,1.00
+Thursday,DL,DEN,"Denver, CO",20:19,122.00,862.00,0.00
+Wednesday,UA,EWR,"Newark, NJ",23:15,253.00,2454.00,0.00
+Friday,UA,ORD,"Chicago, IL",12:50,210.00,1744.00,0.00
+Sunday,AS,HNL,"Honolulu, HI",20:59,299.00,2556.00,0.00
+Sunday,B6,JFK,"New York, NY",09:37,286.00,2475.00,0.00
+Sunday,OO,SMF,"Sacramento, CA",12:00,60.00,373.00,0.00
+Wednesday,AS,HNL,"Honolulu, HI",10:00,323.00,2556.00,1.00
+Thursday,AA,JFK,"New York, NY",08:00,298.00,2475.00,0.00
+Wednesday,UA,SMF,"Sacramento, CA",19:09,64.00,373.00,0.00
+Sunday,WN,OAK,"Oakland, CA",14:35,55.00,337.00,0.00
+Saturday,OO,PHX,"Phoenix, AZ",13:05,68.00,370.00,0.00
+Friday,DL,PDX,"Portland, OR",07:35,119.00,833.00,0.00
+Friday,OO,RNO,"Reno, NV",21:55,62.00,390.00,0.00
+Monday,OO,DSM,"Des Moines, IA",12:50,175.00,1447.00,0.00
+Thursday,AA,ORD,"Chicago, IL",10:23,212.00,1744.00,0.00
+Thursday,DL,BNA,"Nashville, TN",12:15,224.00,1798.00,0.00
+Thursday,AA,CLT,"Charlotte, NC",22:00,239.00,2125.00,0.00
+Friday,OO,PDX,"Portland, OR",19:06,113.00,833.00,1.00
+Thursday,AA,HNL,"Honolulu, HI",14:59,321.00,2556.00,0.00
+Friday,WN,OAK,"Oakland, CA",09:15,53.00,337.00,0.00
+Tuesday,OO,SBP,"San Luis Obispo, CA",16:10,29.00,155.00,0.00
+Wednesday,QX,PAE,"Everett, WA",12:45,153.00,984.00,0.00
+Thursday,F9,DEN,"Denver, CO",16:31,110.00,862.00,1.00
+Saturday,DL,LIH,"Lihue, HI",15:45,315.00,2615.00,0.00
+Friday,OO,ABQ,"Albuquerque, NM",20:55,92.00,677.00,1.00
+Saturday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:35,113.00,851.00,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",17:00,43.00,236.00,1.00
+Wednesday,UA,EWR,"Newark, NJ",07:15,272.00,2454.00,0.00
+Sunday,DL,BOS,"Boston, MA",15:25,302.00,2611.00,1.00
+Wednesday,DL,IAH,"Houston, TX",18:45,161.00,1379.00,0.00
+Sunday,OO,XNA,"Fayetteville, AR",09:41,174.00,1371.00,0.00
+Wednesday,AA,MIA,"Miami, FL",07:20,269.00,2342.00,0.00
+Saturday,DL,AUS,"Austin, TX",14:00,148.00,1242.00,1.00
+Sunday,DL,ATL,"Atlanta, GA",09:25,205.00,1947.00,0.00
+Wednesday,OO,SMF,"Sacramento, CA",09:10,64.00,373.00,0.00
+Friday,AS,SFO,"San Francisco, CA",08:00,55.00,337.00,1.00
+Monday,DL,LAS,"Las Vegas, NV",21:55,44.00,236.00,0.00
+Tuesday,AA,ORD,"Chicago, IL",11:25,200.00,1744.00,1.00
+Wednesday,WN,DAL,"Dallas, TX",07:30,157.00,1246.00,0.00
+Wednesday,OO,SFO,"San Francisco, CA",21:30,54.00,337.00,0.00
+Tuesday,F9,SFO,"San Francisco, CA",19:22,66.00,337.00,0.00
+Sunday,UA,SEA,"Seattle, WA",19:15,130.00,954.00,0.00
+Monday,DL,HNL,"Honolulu, HI",08:55,322.00,2556.00,0.00
+Saturday,AS,PDX,"Portland, OR",14:08,115.00,833.00,0.00
+Friday,AA,MIA,"Miami, FL",20:56,269.00,2342.00,0.00
+Monday,WN,DAL,"Dallas, TX",18:30,165.00,1246.00,0.00
+Sunday,AA,HNL,"Honolulu, HI",15:48,315.00,2556.00,0.00
+Friday,OO,DEN,"Denver, CO",14:19,114.00,862.00,1.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",06:00,157.00,1235.00,0.00
+Saturday,AS,SFO,"San Francisco, CA",13:45,60.00,337.00,0.00
+Friday,AA,OGG,"Kahului, HI",17:19,310.00,2485.00,1.00
+Monday,DL,MSP,"Minneapolis, MN",23:59,168.00,1535.00,0.00
+Saturday,QX,RDM,"Bend/Redmond, OR",20:00,101.00,726.00,0.00
+Thursday,OO,AUS,"Austin, TX",18:45,154.00,1242.00,0.00
+Friday,DL,BOS,"Boston, MA",10:45,312.00,2611.00,0.00
+Sunday,AA,PHL,"Philadelphia, PA",15:05,278.00,2402.00,0.00
+Thursday,UA,KOA,"Kona, HI",09:00,313.00,2504.00,1.00
+Monday,WN,SJC,"San Jose, CA",09:15,49.00,308.00,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",09:04,159.00,1235.00,0.00
+Saturday,OO,BOI,"Boise, ID",11:28,102.00,674.00,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",13:58,151.00,1235.00,1.00
+Saturday,AS,SEA,"Seattle, WA",19:47,127.00,954.00,1.00
+Saturday,UA,TPA,"Tampa, FL",10:15,240.00,2158.00,0.00
+Saturday,WN,MDW,"Chicago, IL",23:55,209.00,1751.00,0.00
+Monday,DL,SFO,"San Francisco, CA",19:59,82.00,337.00,0.00
+Saturday,OO,SMF,"Sacramento, CA",09:23,66.00,373.00,0.00
+Thursday,OO,SMF,"Sacramento, CA",12:00,66.00,373.00,0.00
+Friday,UA,ORD,"Chicago, IL",12:50,222.00,1744.00,0.00
+Sunday,UA,HNL,"Honolulu, HI",17:00,321.00,2556.00,0.00
+Wednesday,F9,DEN,"Denver, CO",09:40,111.00,862.00,0.00
+Sunday,DL,DTW,"Detroit, MI",07:15,225.00,1979.00,0.00
+Friday,OO,SAN,"San Diego, CA",09:07,30.00,109.00,0.00
+Friday,DL,DTW,"Detroit, MI",21:35,245.00,1979.00,1.00
+Sunday,OO,ABQ,"Albuquerque, NM",08:25,91.00,677.00,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",10:13,63.00,370.00,0.00
+Sunday,UA,DEN,"Denver, CO",20:07,101.00,862.00,0.00
+Sunday,DL,IAH,"Houston, TX",18:40,150.00,1379.00,0.00
+Thursday,F9,SFO,"San Francisco, CA",19:22,52.00,337.00,1.00
+Saturday,OO,SFO,"San Francisco, CA",17:45,55.00,337.00,0.00
+Tuesday,OO,OKC,"Oklahoma City, OK",08:36,165.00,1187.00,1.00
+Sunday,UA,SMF,"Sacramento, CA",09:00,63.00,373.00,0.00
+Wednesday,DL,MSP,"Minneapolis, MN",08:25,195.00,1535.00,0.00
+Wednesday,OO,SAT,"San Antonio, TX",10:26,148.00,1211.00,1.00
+Sunday,WN,SFO,"San Francisco, CA",20:15,52.00,337.00,1.00
+Friday,UA,LAS,"Las Vegas, NV",10:50,45.00,236.00,0.00
+Monday,UA,DEN,"Denver, CO",10:55,126.00,862.00,1.00
+Monday,WN,LAS,"Las Vegas, NV",21:40,43.00,236.00,1.00
+Thursday,WN,LAS,"Las Vegas, NV",13:20,42.00,236.00,0.00
+Friday,DL,ATL,"Atlanta, GA",10:35,213.00,1947.00,1.00
+Monday,OO,SLC,"Salt Lake City, UT",12:55,85.00,590.00,0.00
+Friday,UA,SFO,"San Francisco, CA",19:04,58.00,337.00,1.00
+Monday,OO,OMA,"Omaha, NE",09:30,149.00,1330.00,0.00
+Sunday,OO,RNO,"Reno, NV",12:56,65.00,390.00,0.00
+Sunday,B6,JFK,"New York, NY",20:31,288.00,2475.00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",23:59,159.00,1235.00,0.00
+Sunday,DL,SFO,"San Francisco, CA",09:30,53.00,337.00,1.00
+Tuesday,DL,FLL,"Fort Lauderdale, FL",22:55,268.00,2343.00,0.00
+Thursday,DL,DFW,"Dallas/Fort Worth, TX",08:50,155.00,1235.00,0.00
+Wednesday,OO,DEN,"Denver, CO",15:59,126.00,862.00,0.00
+Friday,DL,PDX,"Portland, OR",20:39,118.00,833.00,0.00
+Wednesday,DL,PDX,"Portland, OR",07:40,120.00,833.00,0.00
+Thursday,WN,DEN,"Denver, CO",14:20,116.00,862.00,0.00
+Saturday,AA,ORD,"Chicago, IL",15:10,215.00,1744.00,0.00
+Friday,DL,PDX,"Portland, OR",07:35,121.00,833.00,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",20:55,87.00,677.00,0.00
+Thursday,OO,SFO,"San Francisco, CA",16:05,64.00,337.00,1.00
+Tuesday,OO,RNO,"Reno, NV",12:56,65.00,390.00,0.00
+Sunday,AA,DFW,"Dallas/Fort Worth, TX",23:59,143.00,1235.00,1.00
+Monday,UA,DEN,"Denver, CO",14:20,105.00,862.00,0.00
+Monday,OO,SFO,"San Francisco, CA",16:06,64.00,337.00,1.00
+Tuesday,OO,SAT,"San Antonio, TX",18:15,141.00,1211.00,0.00
+Tuesday,OO,TUS,"Tucson, AZ",15:05,75.00,451.00,0.00
+Sunday,WN,DEN,"Denver, CO",06:20,106.00,862.00,1.00
+Sunday,AA,MIA,"Miami, FL",21:41,241.00,2342.00,1.00
+Thursday,AS,STS,"Santa Rosa, CA",19:45,66.00,399.00,0.00
+Thursday,WN,OAK,"Oakland, CA",06:10,54.00,337.00,0.00
+Thursday,AS,HNL,"Honolulu, HI",10:00,322.00,2556.00,1.00
+Tuesday,AA,JFK,"New York, NY",08:00,298.00,2475.00,0.00
+Monday,DL,SEA,"Seattle, WA",19:59,148.00,954.00,1.00
+Monday,WN,BWI,"Baltimore, MD",21:50,250.00,2329.00,1.00
+Sunday,DL,JFK,"New York, NY",21:15,289.00,2475.00,0.00
+Thursday,DL,JFK,"New York, NY",07:20,290.00,2475.00,0.00
+Wednesday,OO,SMF,"Sacramento, CA",12:50,69.00,373.00,0.00
+Thursday,AA,ORD,"Chicago, IL",09:31,209.00,1744.00,1.00
+Monday,WN,MDW,"Chicago, IL",23:55,186.00,1751.00,0.00
+Saturday,UA,BZN,"Bozeman, MT",08:50,124.00,902.00,0.00
+Wednesday,B6,BOS,"Boston, MA",22:09,298.00,2611.00,0.00
+Tuesday,WN,DAL,"Dallas, TX",13:45,161.00,1246.00,1.00
+Tuesday,B6,FLL,"Fort Lauderdale, FL",23:35,289.00,2343.00,0.00
+Wednesday,UA,EWR,"Newark, NJ",06:00,278.00,2454.00,0.00
+Saturday,UA,ORD,"Chicago, IL",23:53,213.00,1744.00,0.00
+Saturday,OO,SFO,"San Francisco, CA",16:05,64.00,337.00,1.00
+Wednesday,B6,FLL,"Fort Lauderdale, FL",08:30,263.00,2343.00,0.00
+Wednesday,AA,ORD,"Chicago, IL",13:21,215.00,1744.00,0.00
+Thursday,AS,PDX,"Portland, OR",07:15,135.00,833.00,0.00
+Monday,F9,PHX,"Phoenix, AZ",22:59,58.00,370.00,0.00
+Sunday,UA,EWR,"Newark, NJ",13:15,274.00,2454.00,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",10:40,61.00,370.00,0.00
+Thursday,OO,SEA,"Seattle, WA",18:48,145.00,954.00,0.00
+Thursday,DL,BOS,"Boston, MA",21:05,305.00,2611.00,0.00
+Sunday,UA,SFO,"San Francisco, CA",06:00,53.00,337.00,0.00
+Wednesday,OO,SJC,"San Jose, CA",07:58,52.00,308.00,0.00
+Monday,AA,JFK,"New York, NY",08:00,292.00,2475.00,1.00
+Sunday,OO,PHX,"Phoenix, AZ",16:22,62.00,370.00,0.00
+Saturday,DL,AUS,"Austin, TX",14:00,151.00,1242.00,0.00
+Thursday,AA,PHX,"Phoenix, AZ",18:46,67.00,370.00,1.00
+Monday,DL,SEA,"Seattle, WA",12:10,123.00,954.00,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",05:50,86.00,590.00,0.00
+Sunday,DL,DEN,"Denver, CO",20:19,116.00,862.00,0.00
+Sunday,AA,BNA,"Nashville, TN",10:51,219.00,1798.00,0.00
+Sunday,AA,CLT,"Charlotte, NC",07:18,253.00,2125.00,0.00
+Tuesday,OO,BOI,"Boise, ID",18:57,122.00,674.00,0.00
+Monday,AS,PDX,"Portland, OR",21:14,116.00,833.00,0.00
+Sunday,UA,IAH,"Houston, TX",17:45,168.00,1379.00,1.00
+Friday,UA,HNL,"Honolulu, HI",17:00,316.00,2556.00,0.00
+Sunday,AA,PHL,"Philadelphia, PA",21:40,262.00,2402.00,0.00
+Friday,UA,ORD,"Chicago, IL",22:35,212.00,1744.00,0.00
+Thursday,DL,AUS,"Austin, TX",18:40,141.00,1242.00,0.00
+Sunday,UA,IAH,"Houston, TX",19:21,166.00,1379.00,0.00
+Wednesday,AA,LAS,"Las Vegas, NV",12:55,43.00,236.00,0.00
+Tuesday,OO,SBP,"San Luis Obispo, CA",16:10,32.00,155.00,0.00
+Tuesday,UA,DEN,"Denver, CO",14:30,113.00,862.00,0.00
+Sunday,WN,DAL,"Dallas, TX",08:20,191.00,1246.00,0.00
+Thursday,F9,SEA,"Seattle, WA",15:15,138.00,954.00,0.00
+Saturday,DL,LAS,"Las Vegas, NV",07:35,44.00,236.00,1.00
+Saturday,DL,MSY,"New Orleans, LA",18:29,213.00,1671.00,0.00
+Thursday,AA,MIA,"Miami, FL",23:17,274.00,2342.00,1.00
+Saturday,DL,MCO,"Orlando, FL",16:10,260.00,2218.00,0.00
+Saturday,DL,ATL,"Atlanta, GA",14:30,267.00,1947.00,0.00
+Wednesday,UA,EWR,"Newark, NJ",11:15,280.00,2454.00,0.00
+Wednesday,UA,DEN,"Denver, CO",20:07,113.00,862.00,0.00
+Thursday,OO,SEA,"Seattle, WA",12:45,137.00,954.00,0.00
+Saturday,UA,FAT,"Fresno, CA",16:48,38.00,209.00,0.00
+Thursday,AA,CLT,"Charlotte, NC",09:24,248.00,2125.00,0.00
+Monday,DL,JFK,"New York, NY",21:15,311.00,2475.00,0.00
+Sunday,DL,PDX,"Portland, OR",14:00,114.00,833.00,0.00
+Tuesday,DL,AUS,"Austin, TX",15:47,158.00,1242.00,0.00
+Saturday,WN,HOU,"Houston, TX",23:50,165.00,1390.00,0.00
+Thursday,AA,MCO,"Orlando, FL",21:41,269.00,2218.00,1.00
+Wednesday,B6,BUF,"Buffalo, NY",23:59,257.00,2218.00,0.00
+Wednesday,UA,ORD,"Chicago, IL",10:45,215.00,1744.00,0.00
+Saturday,UA,BOS,"Boston, MA",08:15,306.00,2611.00,0.00
+Thursday,AS,HNL,"Honolulu, HI",20:59,311.00,2556.00,1.00
+Tuesday,AA,MCO,"Orlando, FL",10:55,277.00,2218.00,0.00
+Saturday,DL,LAS,"Las Vegas, NV",07:35,47.00,236.00,0.00
+Friday,AA,MCO,"Orlando, FL",10:56,252.00,2218.00,1.00
+Friday,UA,ORD,"Chicago, IL",10:45,209.00,1744.00,1.00
+Tuesday,OO,BOI,"Boise, ID",19:55,91.00,674.00,0.00
+Monday,UA,AUS,"Austin, TX",16:38,157.00,1242.00,1.00
+Monday,DL,BNA,"Nashville, TN",18:40,219.00,1798.00,1.00
+Friday,WN,LAS,"Las Vegas, NV",15:25,42.00,236.00,1.00
+Thursday,UA,EWR,"Newark, NJ",08:00,283.00,2454.00,0.00
+Saturday,WN,DAL,"Dallas, TX",11:25,161.00,1246.00,1.00
+Thursday,WN,SMF,"Sacramento, CA",18:20,61.00,373.00,1.00
+Friday,OO,SFO,"San Francisco, CA",22:38,59.00,337.00,0.00
+Friday,AS,PDX,"Portland, OR",07:15,127.00,833.00,0.00
+Thursday,F9,ATL,"Atlanta, GA",15:28,247.00,1947.00,0.00
+Wednesday,UA,BWI,"Baltimore, MD",09:30,250.00,2329.00,0.00
+Thursday,OO,TUS,"Tucson, AZ",10:26,64.00,451.00,0.00
+Monday,AA,OGG,"Kahului, HI",17:19,314.00,2485.00,0.00
+Sunday,AS,HNL,"Honolulu, HI",10:00,292.00,2556.00,0.00
+Wednesday,OO,SMF,"Sacramento, CA",14:00,66.00,373.00,0.00
+Friday,OO,BOI,"Boise, ID",19:55,101.00,674.00,0.00
+Saturday,B6,BOS,"Boston, MA",08:00,320.00,2611.00,0.00
+Tuesday,F9,LAS,"Las Vegas, NV",12:08,58.00,236.00,0.00
+Tuesday,DL,JFK,"New York, NY",23:55,290.00,2475.00,0.00
+Sunday,WN,PHX,"Phoenix, AZ",05:35,57.00,370.00,0.00
+Saturday,OO,SMF,"Sacramento, CA",21:21,65.00,373.00,0.00
+Sunday,OO,GEG,"Spokane, WA",20:40,123.00,945.00,0.00
+Saturday,UA,SFO,"San Francisco, CA",13:20,56.00,337.00,0.00
+Tuesday,UA,EWR,"Newark, NJ",13:15,276.00,2454.00,0.00
+Thursday,UA,HNL,"Honolulu, HI",09:05,297.00,2556.00,0.00
+Tuesday,WN,OAK,"Oakland, CA",13:40,56.00,337.00,0.00
+Saturday,DL,SFO,"San Francisco, CA",14:35,52.00,337.00,0.00
+Monday,OO,MRY,"Monterey, CA",10:27,50.00,266.00,0.00
+Thursday,AA,JFK,"New York, NY",10:10,301.00,2475.00,0.00
+Monday,WN,LAS,"Las Vegas, NV",08:05,39.00,236.00,1.00
+Monday,DL,MSY,"New Orleans, LA",11:10,205.00,1671.00,1.00
+Friday,DL,MSP,"Minneapolis, MN",12:40,178.00,1535.00,1.00
+Saturday,QX,SFO,"San Francisco, CA",06:13,55.00,337.00,1.00
+Tuesday,UA,SFO,"San Francisco, CA",13:25,55.00,337.00,0.00
+Tuesday,AA,IND,"Indianapolis, IN",17:04,223.00,1814.00,1.00
+Wednesday,UA,SFO,"San Francisco, CA",09:15,62.00,337.00,1.00
+Wednesday,OO,TUS,"Tucson, AZ",16:01,63.00,451.00,0.00
+Saturday,OO,RNO,"Reno, NV",12:59,60.00,390.00,0.00
+Friday,DL,OGG,"Kahului, HI",08:05,289.00,2485.00,0.00
+Monday,AA,CLT,"Charlotte, NC",12:39,220.00,2125.00,0.00
+Monday,AA,JFK,"New York, NY",08:00,299.00,2475.00,0.00
+Thursday,UA,DEN,"Denver, CO",10:54,113.00,862.00,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",01:22,151.00,1235.00,0.00
+Sunday,UA,EWR,"Newark, NJ",23:15,265.00,2454.00,0.00
+Saturday,DL,ATL,"Atlanta, GA",09:30,212.00,1947.00,0.00
+Saturday,DL,MCO,"Orlando, FL",22:15,258.00,2218.00,1.00
+Saturday,OO,PHX,"Phoenix, AZ",16:35,63.00,370.00,0.00
+Saturday,QX,RDM,"Bend/Redmond, OR",20:00,106.00,726.00,0.00
+Friday,AA,JFK,"New York, NY",12:45,291.00,2475.00,0.00
+Friday,WN,MSY,"New Orleans, LA",08:35,186.00,1671.00,0.00
+Tuesday,UA,BOS,"Boston, MA",22:43,299.00,2611.00,0.00
+Wednesday,WN,OAK,"Oakland, CA",06:00,54.00,337.00,0.00
+Monday,F9,ATL,"Atlanta, GA",23:20,226.00,1947.00,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",01:22,155.00,1235.00,0.00
+Sunday,B6,BOS,"Boston, MA",07:00,301.00,2611.00,0.00
+Friday,WN,MCO,"Orlando, FL",23:15,244.00,2218.00,0.00
+Saturday,DL,ATL,"Atlanta, GA",07:00,230.00,1947.00,1.00
+Sunday,OO,GEG,"Spokane, WA",12:54,141.00,945.00,0.00
+Friday,DL,MCO,"Orlando, FL",22:15,270.00,2218.00,1.00
+Thursday,UA,MCO,"Orlando, FL",10:26,252.00,2218.00,0.00
+Wednesday,UA,KOA,"Kona, HI",09:00,308.00,2504.00,0.00
+Tuesday,OO,BOI,"Boise, ID",19:45,105.00,674.00,0.00
+Friday,WN,LAS,"Las Vegas, NV",05:20,50.00,236.00,0.00
+Friday,DL,SEA,"Seattle, WA",15:35,128.00,954.00,0.00
+Monday,DL,SEA,"Seattle, WA",15:35,130.00,954.00,0.00
+Sunday,AS,HNL,"Honolulu, HI",07:00,309.00,2556.00,0.00
+Thursday,UA,RNO,"Reno, NV",16:29,60.00,390.00,0.00
+Monday,AA,HNL,"Honolulu, HI",14:59,297.00,2556.00,0.00
+Monday,UA,SFO,"San Francisco, CA",07:15,56.00,337.00,0.00
+Thursday,OO,SJC,"San Jose, CA",18:04,49.00,308.00,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",17:45,63.00,370.00,0.00
+Wednesday,F9,SMF,"Sacramento, CA",17:57,64.00,373.00,0.00
+Wednesday,AA,HNL,"Honolulu, HI",08:20,309.00,2556.00,0.00
+Monday,AS,LIH,"Lihue, HI",09:46,321.00,2615.00,1.00
+Wednesday,AS,STS,"Santa Rosa, CA",18:22,65.00,399.00,0.00
+Sunday,WN,ELP,"El Paso, TX",14:45,83.00,715.00,1.00
+Saturday,B6,BUF,"Buffalo, NY",23:59,253.00,2218.00,1.00
+Friday,AS,ANC,"Anchorage, AK",19:55,311.00,2345.00,0.00
+Friday,AA,CLT,"Charlotte, NC",07:18,247.00,2125.00,0.00
+Saturday,UA,PIT,"Pittsburgh, PA",09:00,247.00,2136.00,0.00
+Friday,DL,ATL,"Atlanta, GA",21:55,210.00,1947.00,0.00
+Saturday,DL,BOS,"Boston, MA",15:25,306.00,2611.00,0.00
+Wednesday,UA,BOS,"Boston, MA",08:35,298.00,2611.00,0.00
+Thursday,AA,PHL,"Philadelphia, PA",22:45,280.00,2402.00,1.00
+Thursday,AA,BOS,"Boston, MA",13:30,307.00,2611.00,0.00
+Thursday,AS,SEA,"Seattle, WA",17:57,140.00,954.00,0.00
+Saturday,WN,DAL,"Dallas, TX",11:25,153.00,1246.00,0.00
+Sunday,UA,HNL,"Honolulu, HI",11:06,301.00,2556.00,0.00
+Wednesday,OO,SBP,"San Luis Obispo, CA",22:43,35.00,155.00,0.00
+Sunday,UA,ORD,"Chicago, IL",23:50,218.00,1744.00,0.00
+Sunday,UA,SFO,"San Francisco, CA",11:43,61.00,337.00,0.00
+Tuesday,DL,PDX,"Portland, OR",10:10,117.00,833.00,0.00
+Saturday,F9,DFW,"Dallas/Fort Worth, TX",18:56,163.00,1235.00,0.00
+Sunday,OO,SMF,"Sacramento, CA",09:15,61.00,373.00,0.00
+Tuesday,B6,JFK,"New York, NY",20:31,282.00,2475.00,0.00
+Sunday,DL,MCO,"Orlando, FL",07:35,272.00,2218.00,0.00
+Friday,WN,MDW,"Chicago, IL",23:55,213.00,1751.00,0.00
+Tuesday,DL,MCI,"Kansas City, MO",09:50,149.00,1363.00,0.00
+Saturday,OO,AUS,"Austin, TX",08:09,150.00,1242.00,0.00
+Thursday,UA,SFO,"San Francisco, CA",11:43,54.00,337.00,1.00
+Wednesday,AS,STS,"Santa Rosa, CA",18:22,64.00,399.00,0.00
+Saturday,OO,RNO,"Reno, NV",08:20,73.00,390.00,0.00
+Monday,UA,SMF,"Sacramento, CA",09:00,62.00,373.00,0.00
+Thursday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,115.00,851.00,0.00
+Monday,B6,BOS,"Boston, MA",21:45,286.00,2611.00,1.00
+Sunday,WN,SJC,"San Jose, CA",10:50,48.00,308.00,0.00
+Sunday,OO,TUS,"Tucson, AZ",09:35,67.00,451.00,1.00
+Tuesday,DL,MCO,"Orlando, FL",16:10,259.00,2218.00,0.00
+Monday,WN,BWI,"Baltimore, MD",21:50,275.00,2329.00,1.00
+Wednesday,AA,IND,"Indianapolis, IN",10:35,211.00,1814.00,0.00
+Thursday,AS,PDX,"Portland, OR",21:12,116.00,833.00,0.00
+Sunday,WN,AUS,"Austin, TX",07:05,152.00,1242.00,0.00
+Sunday,UA,DEN,"Denver, CO",16:10,108.00,862.00,0.00
+Tuesday,OO,SFO,"San Francisco, CA",21:16,57.00,337.00,0.00
+Thursday,DL,BNA,"Nashville, TN",18:40,212.00,1798.00,0.00

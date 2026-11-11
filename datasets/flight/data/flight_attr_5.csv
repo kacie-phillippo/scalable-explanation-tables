@@ -1,0 +1,3265 @@
+DayOfWeek,Operating_Airline,Dest,DestCityName,CRSDepTime,Delayed
+Thursday,AS,SEA,"Seattle, WA",19:47,0.00
+Saturday,OO,SFO,"San Francisco, CA",16:06,1.00
+Sunday,UA,IAH,"Houston, TX",15:20,0.00
+Monday,OO,SEA,"Seattle, WA",12:45,1.00
+Wednesday,UA,LAS,"Las Vegas, NV",10:50,0.00
+Wednesday,OO,BOI,"Boise, ID",19:57,0.00
+Friday,WN,MDW,"Chicago, IL",16:45,0.00
+Sunday,DL,SEA,"Seattle, WA",14:05,0.00
+Tuesday,WN,SFO,"San Francisco, CA",06:20,0.00
+Saturday,AA,ORD,"Chicago, IL",06:04,0.00
+Friday,QX,GEG,"Spokane, WA",12:48,1.00
+Thursday,OO,BOI,"Boise, ID",19:45,0.00
+Thursday,QX,SFO,"San Francisco, CA",06:13,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Saturday,DL,ATL,"Atlanta, GA",08:15,0.00
+Saturday,DL,DFW,"Dallas/Fort Worth, TX",18:55,0.00
+Wednesday,OO,SFO,"San Francisco, CA",11:31,1.00
+Wednesday,WN,ELP,"El Paso, TX",11:30,0.00
+Monday,AA,PHL,"Philadelphia, PA",10:36,0.00
+Thursday,WN,LAS,"Las Vegas, NV",17:05,1.00
+Saturday,UA,IAH,"Houston, TX",06:47,0.00
+Tuesday,F9,SFO,"San Francisco, CA",18:04,0.00
+Thursday,DL,SFO,"San Francisco, CA",21:00,0.00
+Saturday,DL,DEN,"Denver, CO",19:59,0.00
+Tuesday,DL,PDX,"Portland, OR",20:39,0.00
+Saturday,AA,MCO,"Orlando, FL",21:41,0.00
+Friday,DL,MSP,"Minneapolis, MN",08:25,1.00
+Saturday,UA,IAD,"Washington, DC",23:20,0.00
+Saturday,QX,MFR,"Medford, OR",12:51,0.00
+Wednesday,WN,BWI,"Baltimore, MD",11:45,1.00
+Wednesday,OO,OKC,"Oklahoma City, OK",17:22,0.00
+Thursday,UA,EWR,"Newark, NJ",23:15,1.00
+Wednesday,OO,ABQ,"Albuquerque, NM",14:34,0.00
+Sunday,AA,PHX,"Phoenix, AZ",16:40,0.00
+Saturday,OO,RDM,"Bend/Redmond, OR",20:20,0.00
+Wednesday,DL,DFW,"Dallas/Fort Worth, TX",08:50,0.00
+Wednesday,DL,PDX,"Portland, OR",20:39,0.00
+Thursday,DL,SEA,"Seattle, WA",19:59,1.00
+Friday,OO,ABQ,"Albuquerque, NM",14:34,0.00
+Sunday,DL,TPA,"Tampa, FL",10:30,0.00
+Thursday,OO,RNO,"Reno, NV",21:59,0.00
+Saturday,AS,OGG,"Kahului, HI",10:02,0.00
+Friday,UA,HNL,"Honolulu, HI",17:00,0.00
+Thursday,B6,JFK,"New York, NY",23:59,1.00
+Monday,AA,CLT,"Charlotte, NC",22:00,0.00
+Monday,B6,JFK,"New York, NY",08:06,0.00
+Monday,WN,AUS,"Austin, TX",11:15,0.00
+Monday,WN,AUS,"Austin, TX",11:15,1.00
+Saturday,F9,PDX,"Portland, OR",09:20,0.00
+Saturday,UA,SFO,"San Francisco, CA",20:22,0.00
+Thursday,AA,LAS,"Las Vegas, NV",20:19,0.00
+Tuesday,DL,SEA,"Seattle, WA",17:32,0.00
+Tuesday,DL,MSY,"New Orleans, LA",13:00,1.00
+Tuesday,OO,SJC,"San Jose, CA",07:58,0.00
+Friday,OO,DEN,"Denver, CO",14:19,0.00
+Sunday,OO,MFR,"Medford, OR",21:48,0.00
+Thursday,QX,MFR,"Medford, OR",10:04,0.00
+Tuesday,DL,SFO,"San Francisco, CA",09:30,1.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",11:10,1.00
+Sunday,WN,SFO,"San Francisco, CA",13:25,0.00
+Sunday,UA,DEN,"Denver, CO",18:32,0.00
+Sunday,UA,SMF,"Sacramento, CA",19:09,0.00
+Friday,QX,GEG,"Spokane, WA",12:48,0.00
+Monday,UA,MCO,"Orlando, FL",23:04,0.00
+Sunday,UA,IAH,"Houston, TX",10:18,0.00
+Wednesday,OO,STS,"Santa Rosa, CA",09:25,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",13:02,0.00
+Tuesday,UA,DEN,"Denver, CO",16:10,1.00
+Sunday,UA,BWI,"Baltimore, MD",09:00,0.00
+Wednesday,DL,BOS,"Boston, MA",15:35,0.00
+Sunday,F9,ATL,"Atlanta, GA",13:52,0.00
+Sunday,AA,JFK,"New York, NY",15:35,0.00
+Friday,WN,DAL,"Dallas, TX",10:45,1.00
+Tuesday,OO,STS,"Santa Rosa, CA",22:13,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",16:40,0.00
+Friday,WN,MDW,"Chicago, IL",23:55,0.00
+Friday,WN,OAK,"Oakland, CA",09:15,1.00
+Thursday,DL,DTW,"Detroit, MI",22:35,0.00
+Tuesday,OO,DEN,"Denver, CO",14:30,0.00
+Thursday,UA,LIH,"Lihue, HI",08:33,0.00
+Monday,AA,OGG,"Kahului, HI",17:19,0.00
+Tuesday,DL,PDX,"Portland, OR",17:00,0.00
+Friday,B6,BOS,"Boston, MA",07:00,0.00
+Wednesday,UA,ORD,"Chicago, IL",08:15,0.00
+Tuesday,AA,BOS,"Boston, MA",12:10,0.00
+Friday,OO,BOI,"Boise, ID",18:57,0.00
+Wednesday,OO,SBA,"Santa Barbara, CA",12:40,0.00
+Sunday,OO,SFO,"San Francisco, CA",11:31,1.00
+Thursday,AA,MIA,"Miami, FL",13:50,0.00
+Sunday,AA,BNA,"Nashville, TN",10:38,1.00
+Monday,WN,DAL,"Dallas, TX",18:30,1.00
+Sunday,AS,PDX,"Portland, OR",14:17,0.00
+Saturday,AA,PHX,"Phoenix, AZ",18:46,0.00
+Sunday,F9,DEN,"Denver, CO",20:59,0.00
+Tuesday,OO,SBA,"Santa Barbara, CA",22:45,0.00
+Monday,WN,DEN,"Denver, CO",15:45,0.00
+Sunday,OO,PHX,"Phoenix, AZ",16:35,0.00
+Wednesday,OO,SFO,"San Francisco, CA",17:45,0.00
+Saturday,AA,LAS,"Las Vegas, NV",20:19,0.00
+Sunday,DL,DEN,"Denver, CO",14:09,0.00
+Monday,DL,PDX,"Portland, OR",07:35,0.00
+Monday,AA,LAS,"Las Vegas, NV",12:55,0.00
+Friday,F9,ORD,"Chicago, IL",00:26,0.00
+Monday,OO,XNA,"Fayetteville, AR",17:49,1.00
+Tuesday,DL,SLC,"Salt Lake City, UT",13:16,0.00
+Sunday,UA,FAT,"Fresno, CA",16:48,0.00
+Sunday,OO,SMF,"Sacramento, CA",20:45,0.00
+Friday,OO,MRY,"Monterey, CA",10:27,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",12:15,0.00
+Tuesday,AS,SEA,"Seattle, WA",19:47,0.00
+Saturday,OO,ELP,"El Paso, TX",20:05,0.00
+Wednesday,AS,SEA,"Seattle, WA",08:00,0.00
+Wednesday,AA,MCO,"Orlando, FL",10:56,1.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",23:59,1.00
+Monday,AA,IND,"Indianapolis, IN",10:35,0.00
+Wednesday,F9,IAH,"Houston, TX",09:45,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",06:00,0.00
+Tuesday,WN,SJC,"San Jose, CA",06:15,0.00
+Friday,DL,MSP,"Minneapolis, MN",08:25,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",09:55,0.00
+Friday,UA,IAD,"Washington, DC",06:00,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Saturday,OO,SEA,"Seattle, WA",20:00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",23:59,0.00
+Thursday,DL,MSY,"New Orleans, LA",11:10,1.00
+Sunday,DL,SLC,"Salt Lake City, UT",09:55,0.00
+Friday,DL,FLL,"Fort Lauderdale, FL",22:40,0.00
+Monday,DL,BOS,"Boston, MA",10:45,0.00
+Thursday,WN,BNA,"Nashville, TN",07:10,0.00
+Wednesday,UA,IAH,"Houston, TX",06:47,0.00
+Wednesday,OO,TUS,"Tucson, AZ",15:05,0.00
+Tuesday,UA,MCO,"Orlando, FL",23:04,0.00
+Tuesday,AA,HNL,"Honolulu, HI",18:52,0.00
+Saturday,OO,SMF,"Sacramento, CA",18:30,0.00
+Saturday,DL,MSP,"Minneapolis, MN",11:26,1.00
+Friday,AA,JFK,"New York, NY",06:00,0.00
+Saturday,DL,AUS,"Austin, TX",07:35,0.00
+Thursday,OO,EUG,"Eugene, OR",17:43,0.00
+Friday,OO,SMF,"Sacramento, CA",09:10,0.00
+Wednesday,DL,MSP,"Minneapolis, MN",23:59,0.00
+Thursday,UA,DEN,"Denver, CO",05:00,0.00
+Sunday,OO,SUN,"Sun Valley/Hailey/Ketchum, ID",10:02,0.00
+Sunday,OO,DEN,"Denver, CO",07:30,0.00
+Wednesday,UA,SMF,"Sacramento, CA",19:09,0.00
+Sunday,DL,BOS,"Boston, MA",15:25,0.00
+Friday,F9,DEN,"Denver, CO",20:59,0.00
+Wednesday,AA,ORD,"Chicago, IL",01:01,0.00
+Thursday,AA,PHX,"Phoenix, AZ",19:44,1.00
+Thursday,DL,SLC,"Salt Lake City, UT",05:50,0.00
+Tuesday,AA,JFK,"New York, NY",12:30,0.00
+Thursday,WN,PHX,"Phoenix, AZ",17:30,1.00
+Wednesday,DL,DTW,"Detroit, MI",21:35,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",10:30,0.00
+Monday,DL,MSP,"Minneapolis, MN",15:00,1.00
+Sunday,OO,PHX,"Phoenix, AZ",13:41,0.00
+Tuesday,WN,OAK,"Oakland, CA",16:55,1.00
+Wednesday,DL,IND,"Indianapolis, IN",08:30,0.00
+Tuesday,UA,EWR,"Newark, NJ",21:00,0.00
+Saturday,WN,TPA,"Tampa, FL",10:30,0.00
+Friday,AA,ORD,"Chicago, IL",09:31,0.00
+Sunday,AS,SEA,"Seattle, WA",19:47,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",12:40,0.00
+Sunday,OO,TUS,"Tucson, AZ",19:25,0.00
+Saturday,AA,ORD,"Chicago, IL",08:00,0.00
+Sunday,WN,LAS,"Las Vegas, NV",11:10,0.00
+Tuesday,OO,SBA,"Santa Barbara, CA",12:40,1.00
+Friday,WN,LAS,"Las Vegas, NV",21:40,1.00
+Saturday,UA,IAD,"Washington, DC",22:10,0.00
+Sunday,WN,SMF,"Sacramento, CA",05:15,0.00
+Monday,OO,SJC,"San Jose, CA",20:45,0.00
+Friday,F9,DEN,"Denver, CO",06:30,0.00
+Tuesday,DL,JFK,"New York, NY",06:00,0.00
+Saturday,AA,PHX,"Phoenix, AZ",16:32,0.00
+Sunday,AS,HNL,"Honolulu, HI",07:00,0.00
+Saturday,AS,HNL,"Honolulu, HI",10:00,1.00
+Sunday,AS,LIH,"Lihue, HI",09:46,0.00
+Tuesday,UA,SFO,"San Francisco, CA",10:15,1.00
+Wednesday,WN,AUS,"Austin, TX",12:55,1.00
+Friday,DL,BOS,"Boston, MA",10:50,0.00
+Saturday,AA,MIA,"Miami, FL",23:59,1.00
+Saturday,UA,IAH,"Houston, TX",08:15,0.00
+Friday,WN,LAS,"Las Vegas, NV",21:40,0.00
+Sunday,UA,ORD,"Chicago, IL",10:52,0.00
+Sunday,WN,LAS,"Las Vegas, NV",11:10,0.00
+Friday,WN,LAS,"Las Vegas, NV",09:50,0.00
+Wednesday,DL,ATL,"Atlanta, GA",13:20,0.00
+Thursday,WN,PHX,"Phoenix, AZ",17:30,0.00
+Friday,WN,SJC,"San Jose, CA",17:00,1.00
+Wednesday,OO,FAT,"Fresno, CA",21:31,0.00
+Sunday,UA,ORD,"Chicago, IL",07:00,0.00
+Saturday,AS,SEA,"Seattle, WA",12:54,0.00
+Sunday,UA,ORD,"Chicago, IL",10:45,1.00
+Thursday,WN,BWI,"Baltimore, MD",21:50,1.00
+Saturday,AA,BNA,"Nashville, TN",10:51,0.00
+Friday,OO,RNO,"Reno, NV",12:56,0.00
+Monday,OO,SMF,"Sacramento, CA",14:00,1.00
+Saturday,OO,RNO,"Reno, NV",21:25,0.00
+Tuesday,B6,JFK,"New York, NY",15:30,0.00
+Sunday,WN,HOU,"Houston, TX",23:50,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",06:00,0.00
+Sunday,OO,SAT,"San Antonio, TX",09:30,0.00
+Friday,OO,PDX,"Portland, OR",19:06,1.00
+Wednesday,F9,ORD,"Chicago, IL",00:31,1.00
+Friday,UA,SFO,"San Francisco, CA",17:27,0.00
+Saturday,OO,GEG,"Spokane, WA",12:54,0.00
+Friday,DL,SFO,"San Francisco, CA",16:00,0.00
+Monday,OO,SJC,"San Jose, CA",14:05,0.00
+Monday,B6,JFK,"New York, NY",12:30,0.00
+Tuesday,OO,PHX,"Phoenix, AZ",22:20,0.00
+Saturday,OO,RDD,"Redding, CA",20:00,0.00
+Thursday,WN,MCI,"Kansas City, MO",08:10,1.00
+Friday,OO,SJC,"San Jose, CA",14:19,1.00
+Friday,DL,CVG,"Cincinnati, OH",22:46,1.00
+Monday,WN,PHX,"Phoenix, AZ",21:35,1.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",06:00,0.00
+Friday,UA,KOA,"Kona, HI",09:10,0.00
+Friday,WN,LAS,"Las Vegas, NV",17:05,1.00
+Sunday,DL,PDX,"Portland, OR",07:35,0.00
+Monday,OO,BOI,"Boise, ID",18:57,0.00
+Monday,DL,LAS,"Las Vegas, NV",19:55,0.00
+Monday,B6,BOS,"Boston, MA",10:50,0.00
+Monday,OO,GEG,"Spokane, WA",14:45,0.00
+Friday,DL,JFK,"New York, NY",06:25,0.00
+Thursday,OO,RNO,"Reno, NV",08:20,0.00
+Tuesday,OO,ACV,"Arcata/Eureka, CA",12:45,0.00
+Wednesday,UA,SLC,"Salt Lake City, UT",12:55,0.00
+Wednesday,WN,HNL,"Honolulu, HI",07:00,0.00
+Saturday,AA,JFK,"New York, NY",22:25,0.00
+Thursday,AA,JFK,"New York, NY",06:00,1.00
+Friday,UA,CLE,"Cleveland, OH",22:53,1.00
+Friday,AS,DCA,"Washington, DC",11:54,0.00
+Friday,DL,SJC,"San Jose, CA",20:59,0.00
+Friday,UA,AUS,"Austin, TX",16:38,0.00
+Sunday,DL,IND,"Indianapolis, IN",08:40,0.00
+Wednesday,OO,SBA,"Santa Barbara, CA",12:40,0.00
+Friday,AA,ORD,"Chicago, IL",17:50,0.00
+Thursday,UA,IAH,"Houston, TX",13:10,1.00
+Friday,DL,JFK,"New York, NY",06:00,0.00
+Saturday,AA,CLT,"Charlotte, NC",09:24,1.00
+Monday,AS,HNL,"Honolulu, HI",08:30,0.00
+Wednesday,DL,DTW,"Detroit, MI",05:35,0.00
+Monday,WN,HOU,"Houston, TX",18:15,1.00
+Thursday,B6,JFK,"New York, NY",15:30,0.00
+Wednesday,OO,RNO,"Reno, NV",08:20,0.00
+Tuesday,DL,SFO,"San Francisco, CA",06:20,0.00
+Wednesday,DL,JFK,"New York, NY",21:15,0.00
+Thursday,UA,ORD,"Chicago, IL",05:10,0.00
+Sunday,F9,LAS,"Las Vegas, NV",22:07,1.00
+Friday,UA,SFO,"San Francisco, CA",19:04,1.00
+Sunday,OO,ABQ,"Albuquerque, NM",14:34,0.00
+Monday,WN,PHX,"Phoenix, AZ",19:50,0.00
+Friday,WN,LAS,"Las Vegas, NV",11:15,0.00
+Sunday,AA,JFK,"New York, NY",10:32,0.00
+Thursday,AS,OGG,"Kahului, HI",10:02,0.00
+Thursday,UA,CLE,"Cleveland, OH",09:00,0.00
+Wednesday,WN,DAL,"Dallas, TX",13:45,1.00
+Thursday,DL,BOS,"Boston, MA",15:25,0.00
+Wednesday,UA,IAH,"Houston, TX",00:51,0.00
+Friday,WN,AUS,"Austin, TX",06:45,0.00
+Sunday,DL,MIA,"Miami, FL",22:55,0.00
+Thursday,OO,PHX,"Phoenix, AZ",21:22,0.00
+Monday,DL,SFO,"San Francisco, CA",21:45,0.00
+Monday,WN,MSY,"New Orleans, LA",08:35,0.00
+Monday,UA,DEN,"Denver, CO",18:32,0.00
+Thursday,AA,ORD,"Chicago, IL",15:10,0.00
+Sunday,UA,DEN,"Denver, CO",14:20,0.00
+Thursday,UA,ORD,"Chicago, IL",23:30,0.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",10:39,0.00
+Monday,WN,MCI,"Kansas City, MO",08:10,0.00
+Monday,OO,SMF,"Sacramento, CA",18:30,0.00
+Friday,UA,RNO,"Reno, NV",20:18,0.00
+Sunday,F9,ATL,"Atlanta, GA",15:28,0.00
+Saturday,DL,AUS,"Austin, TX",07:35,0.00
+Thursday,UA,DEN,"Denver, CO",20:07,0.00
+Thursday,UA,IAD,"Washington, DC",22:36,1.00
+Tuesday,OO,ABQ,"Albuquerque, NM",09:00,0.00
+Thursday,WN,SFO,"San Francisco, CA",06:00,0.00
+Tuesday,AS,HNL,"Honolulu, HI",17:55,1.00
+Saturday,OO,SAT,"San Antonio, TX",10:31,0.00
+Monday,UA,BZN,"Bozeman, MT",12:55,0.00
+Tuesday,AA,JFK,"New York, NY",13:29,0.00
+Monday,WN,LAS,"Las Vegas, NV",21:40,1.00
+Monday,UA,IAH,"Houston, TX",18:45,0.00
+Friday,NK,LAS,"Las Vegas, NV",08:30,0.00
+Monday,OO,SAN,"San Diego, CA",22:20,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",06:10,0.00
+Saturday,DL,ATL,"Atlanta, GA",22:55,0.00
+Wednesday,AA,ORD,"Chicago, IL",11:25,0.00
+Friday,UA,SFO,"San Francisco, CA",07:30,0.00
+Sunday,AS,PDX,"Portland, OR",21:12,0.00
+Wednesday,DL,DCA,"Washington, DC",07:40,0.00
+Wednesday,DL,MSP,"Minneapolis, MN",08:25,0.00
+Friday,AA,PHL,"Philadelphia, PA",06:35,1.00
+Friday,UA,SFO,"San Francisco, CA",09:15,0.00
+Thursday,DL,OGG,"Kahului, HI",08:05,0.00
+Saturday,WN,OAK,"Oakland, CA",10:50,0.00
+Wednesday,AA,ORD,"Chicago, IL",11:25,0.00
+Monday,UA,EWR,"Newark, NJ",08:50,0.00
+Sunday,OO,STS,"Santa Rosa, CA",09:25,0.00
+Sunday,DL,DTW,"Detroit, MI",12:00,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",11:40,0.00
+Monday,DL,KOA,"Kona, HI",16:45,0.00
+Friday,UA,EWR,"Newark, NJ",12:15,0.00
+Wednesday,DL,AUS,"Austin, TX",10:04,0.00
+Monday,AA,PHL,"Philadelphia, PA",08:05,0.00
+Thursday,F9,ORD,"Chicago, IL",00:31,1.00
+Friday,UA,IAH,"Houston, TX",05:45,0.00
+Friday,AS,HNL,"Honolulu, HI",10:00,1.00
+Wednesday,AA,CLE,"Cleveland, OH",09:50,0.00
+Saturday,DL,TPA,"Tampa, FL",10:30,0.00
+Sunday,AA,CLT,"Charlotte, NC",00:17,0.00
+Wednesday,UA,EWR,"Newark, NJ",16:30,0.00
+Saturday,WN,LAS,"Las Vegas, NV",15:20,0.00
+Friday,OO,FCA,"Kalispell, MT",08:28,0.00
+Tuesday,UA,EWR,"Newark, NJ",10:15,0.00
+Tuesday,AS,EWR,"Newark, NJ",07:00,0.00
+Sunday,UA,DEN,"Denver, CO",20:07,0.00
+Wednesday,WN,AUS,"Austin, TX",18:05,0.00
+Sunday,AA,DFW,"Dallas/Fort Worth, TX",23:55,0.00
+Monday,OO,GEG,"Spokane, WA",12:54,0.00
+Tuesday,WN,HOU,"Houston, TX",13:00,1.00
+Thursday,DL,KOA,"Kona, HI",16:45,0.00
+Thursday,OO,SAN,"San Diego, CA",18:50,0.00
+Monday,DL,MSY,"New Orleans, LA",11:10,0.00
+Tuesday,WN,HNL,"Honolulu, HI",07:00,0.00
+Saturday,UA,ORD,"Chicago, IL",07:00,0.00
+Friday,AS,EWR,"Newark, NJ",07:00,0.00
+Thursday,OO,SFO,"San Francisco, CA",09:22,1.00
+Monday,AA,ORD,"Chicago, IL",17:59,1.00
+Wednesday,OO,ELP,"El Paso, TX",08:00,0.00
+Tuesday,UA,MCO,"Orlando, FL",23:04,0.00
+Wednesday,DL,SFO,"San Francisco, CA",17:59,0.00
+Tuesday,WN,DEN,"Denver, CO",19:30,1.00
+Wednesday,OO,TUS,"Tucson, AZ",09:35,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",06:00,0.00
+Sunday,DL,OGG,"Kahului, HI",16:50,1.00
+Tuesday,WN,LAS,"Las Vegas, NV",21:40,1.00
+Thursday,UA,LAS,"Las Vegas, NV",18:59,0.00
+Saturday,AA,ATL,"Atlanta, GA",09:29,0.00
+Wednesday,WN,SFO,"San Francisco, CA",06:20,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Saturday,DL,MSP,"Minneapolis, MN",11:26,1.00
+Wednesday,AS,OGG,"Kahului, HI",08:30,0.00
+Monday,UA,PHX,"Phoenix, AZ",08:37,0.00
+Saturday,AA,CMH,"Columbus, OH",09:18,0.00
+Saturday,UA,KOA,"Kona, HI",09:10,0.00
+Friday,AA,RDU,"Raleigh/Durham, NC",08:47,0.00
+Thursday,F9,ATL,"Atlanta, GA",23:20,0.00
+Sunday,AA,CMH,"Columbus, OH",10:00,0.00
+Tuesday,WN,PHX,"Phoenix, AZ",10:45,1.00
+Thursday,OO,PHX,"Phoenix, AZ",08:18,0.00
+Monday,AA,PHL,"Philadelphia, PA",23:05,0.00
+Thursday,DL,MSY,"New Orleans, LA",18:29,1.00
+Friday,WN,LAS,"Las Vegas, NV",17:05,1.00
+Saturday,F9,DEN,"Denver, CO",16:31,0.00
+Friday,OO,SAN,"San Diego, CA",14:05,0.00
+Friday,DL,LAS,"Las Vegas, NV",19:55,0.00
+Saturday,AS,SFO,"San Francisco, CA",13:45,0.00
+Thursday,DL,ATL,"Atlanta, GA",13:20,1.00
+Saturday,AS,SEA,"Seattle, WA",12:31,0.00
+Wednesday,OO,BOI,"Boise, ID",18:57,0.00
+Wednesday,WN,SMF,"Sacramento, CA",11:05,0.00
+Wednesday,UA,IAH,"Houston, TX",00:55,0.00
+Friday,DL,MIA,"Miami, FL",09:05,0.00
+Tuesday,OO,TUS,"Tucson, AZ",14:38,0.00
+Friday,AA,MIA,"Miami, FL",23:59,1.00
+Tuesday,WN,DEN,"Denver, CO",06:35,0.00
+Saturday,DL,ATL,"Atlanta, GA",07:00,0.00
+Friday,OO,JAC,"Jackson, WY",09:02,0.00
+Saturday,WN,PHX,"Phoenix, AZ",10:30,0.00
+Friday,DL,SEA,"Seattle, WA",07:00,0.00
+Tuesday,DL,JFK,"New York, NY",07:30,0.00
+Thursday,UA,LAS,"Las Vegas, NV",19:26,0.00
+Tuesday,UA,DEN,"Denver, CO",20:07,0.00
+Sunday,UA,ORD,"Chicago, IL",10:45,1.00
+Monday,WN,SJC,"San Jose, CA",12:10,1.00
+Thursday,OO,IAH,"Houston, TX",14:11,0.00
+Friday,WN,HOU,"Houston, TX",08:30,0.00
+Wednesday,AA,KOA,"Kona, HI",09:06,0.00
+Wednesday,OO,SFO,"San Francisco, CA",22:18,0.00
+Sunday,OO,EUG,"Eugene, OR",09:31,0.00
+Friday,UA,SFO,"San Francisco, CA",07:30,0.00
+Saturday,UA,LAS,"Las Vegas, NV",10:50,0.00
+Friday,WN,TPA,"Tampa, FL",11:45,0.00
+Sunday,DL,SEA,"Seattle, WA",07:00,0.00
+Friday,DL,BOS,"Boston, MA",15:25,0.00
+Wednesday,WN,OAK,"Oakland, CA",16:55,0.00
+Friday,OO,SMF,"Sacramento, CA",16:18,0.00
+Thursday,OO,OKC,"Oklahoma City, OK",17:31,0.00
+Sunday,DL,SJC,"San Jose, CA",15:45,0.00
+Sunday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:35,0.00
+Sunday,QX,MFR,"Medford, OR",12:51,0.00
+Friday,OO,SFO,"San Francisco, CA",17:45,0.00
+Wednesday,OO,BOI,"Boise, ID",12:00,0.00
+Friday,AA,JFK,"New York, NY",10:28,0.00
+Friday,DL,ATL,"Atlanta, GA",06:00,0.00
+Tuesday,OO,SAN,"San Diego, CA",09:25,0.00
+Friday,WN,SFO,"San Francisco, CA",15:35,0.00
+Monday,UA,BOS,"Boston, MA",08:35,1.00
+Sunday,DL,ATL,"Atlanta, GA",09:30,0.00
+Tuesday,DL,BOS,"Boston, MA",10:50,0.00
+Thursday,AA,ATL,"Atlanta, GA",09:36,1.00
+Wednesday,AS,SEA,"Seattle, WA",18:10,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",00:40,0.00
+Monday,OO,PHX,"Phoenix, AZ",22:20,0.00
+Sunday,AA,MIA,"Miami, FL",20:56,0.00
+Tuesday,AA,CLT,"Charlotte, NC",09:20,0.00
+Sunday,OO,BOI,"Boise, ID",19:45,0.00
+Thursday,OO,GEG,"Spokane, WA",12:54,0.00
+Thursday,OO,PHX,"Phoenix, AZ",08:18,1.00
+Sunday,F9,ORD,"Chicago, IL",23:59,0.00
+Thursday,OO,SAF,"Santa Fe, NM",15:02,0.00
+Sunday,WN,MDW,"Chicago, IL",23:55,1.00
+Thursday,DL,MIA,"Miami, FL",22:55,0.00
+Wednesday,UA,SMF,"Sacramento, CA",19:09,0.00
+Saturday,UA,EWR,"Newark, NJ",10:15,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",14:34,0.00
+Wednesday,AA,PHX,"Phoenix, AZ",12:50,1.00
+Monday,DL,MSP,"Minneapolis, MN",15:26,0.00
+Tuesday,AA,JFK,"New York, NY",10:28,0.00
+Tuesday,WN,SAT,"San Antonio, TX",09:35,0.00
+Monday,OO,SMF,"Sacramento, CA",16:18,0.00
+Friday,B6,JFK,"New York, NY",07:05,0.00
+Friday,DL,ATL,"Atlanta, GA",17:15,1.00
+Monday,DL,SEA,"Seattle, WA",07:59,0.00
+Friday,UA,MRY,"Monterey, CA",19:22,1.00
+Wednesday,AA,ORD,"Chicago, IL",23:41,0.00
+Sunday,DL,SJC,"San Jose, CA",17:51,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",14:35,0.00
+Friday,DL,LAS,"Las Vegas, NV",21:30,0.00
+Monday,OO,SAN,"San Diego, CA",09:07,0.00
+Thursday,DL,DTW,"Detroit, MI",12:00,0.00
+Tuesday,UA,EWR,"Newark, NJ",21:00,0.00
+Friday,WN,LAS,"Las Vegas, NV",17:05,1.00
+Friday,AS,PDX,"Portland, OR",18:05,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",17:10,0.00
+Tuesday,UA,SFO,"San Francisco, CA",07:15,0.00
+Sunday,OO,TUS,"Tucson, AZ",19:00,1.00
+Tuesday,DL,AUS,"Austin, TX",18:46,1.00
+Tuesday,UA,LIH,"Lihue, HI",08:35,0.00
+Sunday,AS,SFO,"San Francisco, CA",15:36,0.00
+Tuesday,DL,ATL,"Atlanta, GA",12:10,0.00
+Sunday,WN,RNO,"Reno, NV",12:55,0.00
+Tuesday,DL,JFK,"New York, NY",15:20,0.00
+Friday,OO,ABQ,"Albuquerque, NM",09:00,0.00
+Saturday,UA,DEN,"Denver, CO",07:00,1.00
+Saturday,OO,PHX,"Phoenix, AZ",08:15,0.00
+Friday,WN,MDW,"Chicago, IL",16:45,1.00
+Friday,WN,HNL,"Honolulu, HI",07:00,0.00
+Tuesday,UA,IAD,"Washington, DC",12:55,0.00
+Sunday,OO,STS,"Santa Rosa, CA",21:15,0.00
+Sunday,WN,SMF,"Sacramento, CA",11:15,1.00
+Thursday,AA,JFK,"New York, NY",21:54,0.00
+Saturday,AS,PDX,"Portland, OR",18:03,0.00
+Wednesday,AA,DCA,"Washington, DC",07:47,0.00
+Friday,WN,OAK,"Oakland, CA",21:25,1.00
+Wednesday,AS,SFO,"San Francisco, CA",10:00,1.00
+Tuesday,AA,BOS,"Boston, MA",22:30,0.00
+Saturday,WN,LAS,"Las Vegas, NV",20:25,1.00
+Thursday,WN,AUS,"Austin, TX",11:15,1.00
+Saturday,DL,SFO,"San Francisco, CA",09:30,0.00
+Monday,UA,EWR,"Newark, NJ",21:00,0.00
+Friday,AA,LAS,"Las Vegas, NV",09:40,0.00
+Friday,B6,BOS,"Boston, MA",10:50,0.00
+Friday,F9,DEN,"Denver, CO",06:30,0.00
+Sunday,WN,MCI,"Kansas City, MO",11:55,0.00
+Friday,DL,BNA,"Nashville, TN",12:15,0.00
+Tuesday,DL,HNL,"Honolulu, HI",18:15,0.00
+Thursday,OO,SBP,"San Luis Obispo, CA",16:23,0.00
+Thursday,OO,SMF,"Sacramento, CA",08:00,0.00
+Thursday,UA,IAH,"Houston, TX",10:10,0.00
+Saturday,UA,DEN,"Denver, CO",05:00,0.00
+Tuesday,OO,SAN,"San Diego, CA",17:11,0.00
+Friday,AA,PHX,"Phoenix, AZ",10:13,0.00
+Friday,AA,MIA,"Miami, FL",23:17,0.00
+Wednesday,OO,SJC,"San Jose, CA",18:04,0.00
+Saturday,DL,SEA,"Seattle, WA",14:05,0.00
+Sunday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,0.00
+Tuesday,UA,ORD,"Chicago, IL",00:13,0.00
+Friday,WN,AUS,"Austin, TX",06:45,1.00
+Thursday,AA,PHL,"Philadelphia, PA",23:50,0.00
+Saturday,WN,OAK,"Oakland, CA",13:50,0.00
+Monday,OO,SBP,"San Luis Obispo, CA",22:43,0.00
+Monday,UA,TPA,"Tampa, FL",10:15,0.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",10:42,0.00
+Friday,B6,JFK,"New York, NY",07:05,0.00
+Saturday,AS,SEA,"Seattle, WA",06:00,0.00
+Saturday,UA,IAD,"Washington, DC",23:20,0.00
+Thursday,F9,IAH,"Houston, TX",09:46,0.00
+Monday,OO,BOI,"Boise, ID",18:57,0.00
+Thursday,AS,PDX,"Portland, OR",14:17,0.00
+Sunday,OO,RNO,"Reno, NV",08:56,1.00
+Wednesday,WN,DAL,"Dallas, TX",09:35,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Sunday,AA,PHL,"Philadelphia, PA",06:35,0.00
+Saturday,UA,SFO,"San Francisco, CA",11:43,0.00
+Monday,AA,JFK,"New York, NY",07:00,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",11:40,0.00
+Friday,UA,DEN,"Denver, CO",19:45,0.00
+Friday,B6,JFK,"New York, NY",21:03,0.00
+Monday,AA,MIA,"Miami, FL",07:20,0.00
+Thursday,AS,SFO,"San Francisco, CA",21:12,1.00
+Monday,OO,AUS,"Austin, TX",08:09,0.00
+Sunday,UA,LAS,"Las Vegas, NV",16:37,1.00
+Sunday,F9,MCO,"Orlando, FL",23:21,1.00
+Tuesday,AA,ATL,"Atlanta, GA",09:50,1.00
+Tuesday,AA,ORD,"Chicago, IL",15:10,1.00
+Wednesday,WN,OAK,"Oakland, CA",06:00,0.00
+Saturday,UA,EWR,"Newark, NJ",23:15,1.00
+Sunday,UA,SFO,"San Francisco, CA",19:04,1.00
+Wednesday,AA,CMH,"Columbus, OH",10:00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",23:55,0.00
+Thursday,UA,ORD,"Chicago, IL",07:00,0.00
+Thursday,AA,PHL,"Philadelphia, PA",10:13,0.00
+Tuesday,OO,EUG,"Eugene, OR",09:31,1.00
+Sunday,AA,PHX,"Phoenix, AZ",16:32,1.00
+Saturday,B6,JFK,"New York, NY",21:35,0.00
+Saturday,DL,DFW,"Dallas/Fort Worth, TX",10:10,0.00
+Sunday,WN,SMF,"Sacramento, CA",09:00,0.00
+Thursday,DL,LIH,"Lihue, HI",14:50,0.00
+Sunday,WN,SJC,"San Jose, CA",09:00,1.00
+Sunday,AA,PHX,"Phoenix, AZ",21:08,0.00
+Thursday,OO,BOI,"Boise, ID",11:28,0.00
+Thursday,UA,SFO,"San Francisco, CA",06:00,0.00
+Friday,WN,MCO,"Orlando, FL",23:15,1.00
+Sunday,WN,LAS,"Las Vegas, NV",18:30,1.00
+Friday,UA,DEN,"Denver, CO",05:00,0.00
+Saturday,WN,HOU,"Houston, TX",23:50,0.00
+Monday,WN,PHX,"Phoenix, AZ",05:10,0.00
+Friday,AS,HNL,"Honolulu, HI",07:00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",07:00,0.00
+Tuesday,DL,SJC,"San Jose, CA",20:59,0.00
+Friday,AA,ORD,"Chicago, IL",15:15,0.00
+Friday,WN,LAS,"Las Vegas, NV",15:25,1.00
+Friday,AA,HNL,"Honolulu, HI",19:25,0.00
+Friday,UA,IAD,"Washington, DC",21:30,0.00
+Friday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Monday,AS,SEA,"Seattle, WA",09:00,0.00
+Thursday,WN,DAL,"Dallas, TX",07:55,1.00
+Wednesday,AA,JFK,"New York, NY",12:30,1.00
+Saturday,F9,DFW,"Dallas/Fort Worth, TX",05:45,0.00
+Friday,B6,JFK,"New York, NY",09:37,0.00
+Friday,DL,IAH,"Houston, TX",09:54,0.00
+Monday,WN,MSY,"New Orleans, LA",08:35,0.00
+Sunday,AA,IND,"Indianapolis, IN",10:35,1.00
+Tuesday,OO,TUS,"Tucson, AZ",19:14,0.00
+Thursday,OO,ABQ,"Albuquerque, NM",20:55,0.00
+Monday,OO,SFO,"San Francisco, CA",16:05,1.00
+Monday,WN,DAL,"Dallas, TX",07:55,0.00
+Monday,UA,IAH,"Houston, TX",18:45,0.00
+Friday,OO,EUG,"Eugene, OR",17:43,0.00
+Friday,AS,SEA,"Seattle, WA",12:31,0.00
+Friday,OO,PHX,"Phoenix, AZ",19:53,0.00
+Monday,WN,SJC,"San Jose, CA",17:00,0.00
+Saturday,OO,SAN,"San Diego, CA",09:25,0.00
+Sunday,WN,HNL,"Honolulu, HI",07:00,0.00
+Friday,DL,BOS,"Boston, MA",10:45,0.00
+Saturday,DL,ATL,"Atlanta, GA",10:35,0.00
+Friday,UA,SFO,"San Francisco, CA",20:15,0.00
+Wednesday,UA,MCO,"Orlando, FL",10:26,0.00
+Monday,B6,FLL,"Fort Lauderdale, FL",10:42,0.00
+Tuesday,DL,ATL,"Atlanta, GA",07:15,1.00
+Saturday,OO,ELP,"El Paso, TX",20:49,0.00
+Saturday,UA,DEN,"Denver, CO",05:00,0.00
+Tuesday,AA,ORD,"Chicago, IL",17:59,0.00
+Sunday,OO,SFO,"San Francisco, CA",17:45,0.00
+Friday,AA,HNL,"Honolulu, HI",15:48,0.00
+Monday,OO,TUS,"Tucson, AZ",19:00,1.00
+Saturday,B6,JFK,"New York, NY",20:36,1.00
+Thursday,DL,MCO,"Orlando, FL",07:40,0.00
+Tuesday,UA,AUS,"Austin, TX",10:55,0.00
+Monday,UA,LAS,"Las Vegas, NV",19:26,0.00
+Friday,AA,MCO,"Orlando, FL",10:56,0.00
+Tuesday,DL,AUS,"Austin, TX",07:35,0.00
+Sunday,DL,ATL,"Atlanta, GA",08:15,1.00
+Monday,OO,PDX,"Portland, OR",19:06,1.00
+Wednesday,UA,IAH,"Houston, TX",12:03,0.00
+Wednesday,AA,AUS,"Austin, TX",14:30,0.00
+Thursday,AA,PHX,"Phoenix, AZ",10:00,0.00
+Tuesday,DL,MCO,"Orlando, FL",07:35,0.00
+Saturday,UA,IAD,"Washington, DC",22:10,0.00
+Friday,UA,BWI,"Baltimore, MD",20:58,0.00
+Wednesday,AA,ORD,"Chicago, IL",17:59,1.00
+Friday,AS,OGG,"Kahului, HI",08:30,0.00
+Saturday,AS,SEA,"Seattle, WA",18:10,0.00
+Saturday,UA,DEN,"Denver, CO",14:20,0.00
+Friday,WN,ELP,"El Paso, TX",19:45,0.00
+Sunday,DL,TPA,"Tampa, FL",10:30,0.00
+Tuesday,UA,EWR,"Newark, NJ",23:15,0.00
+Friday,DL,SFO,"San Francisco, CA",12:15,0.00
+Tuesday,AA,JFK,"New York, NY",07:00,0.00
+Friday,AA,PHX,"Phoenix, AZ",19:44,0.00
+Saturday,AA,ORD,"Chicago, IL",22:45,0.00
+Thursday,OO,ABQ,"Albuquerque, NM",15:03,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",01:22,0.00
+Tuesday,DL,LAS,"Las Vegas, NV",21:30,0.00
+Saturday,AA,MCO,"Orlando, FL",10:56,0.00
+Thursday,WN,OAK,"Oakland, CA",09:15,0.00
+Friday,B6,FLL,"Fort Lauderdale, FL",08:30,0.00
+Friday,OO,SAN,"San Diego, CA",17:11,0.00
+Saturday,OO,SJC,"San Jose, CA",12:53,0.00
+Tuesday,AS,LIH,"Lihue, HI",09:40,0.00
+Saturday,WN,SMF,"Sacramento, CA",14:40,1.00
+Sunday,DL,DCA,"Washington, DC",07:40,0.00
+Wednesday,OO,SAT,"San Antonio, TX",10:26,1.00
+Saturday,AS,SFO,"San Francisco, CA",06:00,0.00
+Friday,UA,IAD,"Washington, DC",10:20,0.00
+Monday,OO,SFO,"San Francisco, CA",11:31,0.00
+Tuesday,UA,SMF,"Sacramento, CA",19:09,0.00
+Tuesday,UA,LAS,"Las Vegas, NV",18:45,0.00
+Friday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Friday,UA,FAT,"Fresno, CA",16:55,0.00
+Thursday,AA,BOS,"Boston, MA",08:00,0.00
+Monday,OO,SMF,"Sacramento, CA",17:25,0.00
+Thursday,DL,AUS,"Austin, TX",07:35,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",13:33,1.00
+Sunday,F9,SMF,"Sacramento, CA",17:57,1.00
+Thursday,UA,ORD,"Chicago, IL",00:15,0.00
+Tuesday,OO,SAN,"San Diego, CA",16:22,0.00
+Friday,OO,DSM,"Des Moines, IA",12:50,1.00
+Tuesday,DL,DTW,"Detroit, MI",22:35,0.00
+Thursday,UA,EWR,"Newark, NJ",12:15,0.00
+Sunday,OO,AUS,"Austin, TX",17:57,1.00
+Friday,AS,SFO,"San Francisco, CA",10:53,0.00
+Friday,UA,AUS,"Austin, TX",23:59,1.00
+Sunday,AS,OGG,"Kahului, HI",08:30,0.00
+Sunday,F9,ATL,"Atlanta, GA",15:28,0.00
+Thursday,DL,JFK,"New York, NY",10:05,0.00
+Thursday,WN,STL,"St. Louis, MO",13:20,1.00
+Saturday,UA,MRY,"Monterey, CA",19:22,0.00
+Friday,AS,SEA,"Seattle, WA",18:10,0.00
+Friday,UA,DEN,"Denver, CO",14:30,0.00
+Thursday,UA,BWI,"Baltimore, MD",20:58,0.00
+Sunday,OO,RDM,"Bend/Redmond, OR",21:30,1.00
+Saturday,OO,SJC,"San Jose, CA",12:55,0.00
+Sunday,OO,RNO,"Reno, NV",16:12,1.00
+Monday,WN,SJC,"San Jose, CA",09:15,0.00
+Sunday,AA,JFK,"New York, NY",08:00,1.00
+Friday,OO,STS,"Santa Rosa, CA",08:09,0.00
+Saturday,UA,LAS,"Las Vegas, NV",10:50,0.00
+Thursday,DL,DTW,"Detroit, MI",22:35,0.00
+Sunday,UA,SFO,"San Francisco, CA",19:04,1.00
+Sunday,UA,EWR,"Newark, NJ",23:15,0.00
+Monday,OO,SAT,"San Antonio, TX",18:30,1.00
+Monday,WN,PHX,"Phoenix, AZ",21:35,0.00
+Monday,DL,OGG,"Kahului, HI",16:55,1.00
+Friday,DL,JFK,"New York, NY",08:35,1.00
+Tuesday,OO,SAN,"San Diego, CA",18:10,0.00
+Wednesday,DL,BNA,"Nashville, TN",12:15,0.00
+Saturday,WN,PHX,"Phoenix, AZ",10:30,0.00
+Wednesday,OO,SAT,"San Antonio, TX",18:10,1.00
+Saturday,DL,ATL,"Atlanta, GA",12:10,0.00
+Thursday,OO,RNO,"Reno, NV",08:56,0.00
+Sunday,B6,FLL,"Fort Lauderdale, FL",08:30,0.00
+Friday,DL,MSY,"New Orleans, LA",18:29,0.00
+Tuesday,UA,MRY,"Monterey, CA",16:43,0.00
+Thursday,DL,BOS,"Boston, MA",21:05,0.00
+Sunday,DL,JFK,"New York, NY",13:25,0.00
+Thursday,WN,PHX,"Phoenix, AZ",05:10,0.00
+Tuesday,WN,DEN,"Denver, CO",14:05,1.00
+Wednesday,DL,MSY,"New Orleans, LA",13:00,0.00
+Friday,DL,AUS,"Austin, TX",18:40,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",06:00,0.00
+Saturday,UA,EWR,"Newark, NJ",12:15,0.00
+Tuesday,AA,ORD,"Chicago, IL",11:25,0.00
+Saturday,DL,BNA,"Nashville, TN",15:00,1.00
+Saturday,DL,MSP,"Minneapolis, MN",06:00,0.00
+Saturday,OO,STS,"Santa Rosa, CA",08:09,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",13:55,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Wednesday,WN,TUS,"Tucson, AZ",14:20,1.00
+Tuesday,OO,SAN,"San Diego, CA",09:25,1.00
+Monday,AS,SEA,"Seattle, WA",17:57,0.00
+Tuesday,AA,MIA,"Miami, FL",23:59,1.00
+Friday,AA,JFK,"New York, NY",11:45,1.00
+Monday,DL,DTW,"Detroit, MI",23:20,0.00
+Sunday,OO,SAN,"San Diego, CA",17:11,0.00
+Wednesday,QX,PAE,"Everett, WA",12:45,0.00
+Wednesday,UA,EWR,"Newark, NJ",08:50,0.00
+Thursday,WN,OAK,"Oakland, CA",06:10,0.00
+Wednesday,B6,BOS,"Boston, MA",14:10,0.00
+Thursday,AA,ORD,"Chicago, IL",17:59,0.00
+Sunday,OO,DEN,"Denver, CO",08:35,0.00
+Saturday,OO,PDX,"Portland, OR",19:57,0.00
+Saturday,AA,HNL,"Honolulu, HI",14:59,0.00
+Tuesday,OO,DEN,"Denver, CO",08:35,0.00
+Monday,UA,DEN,"Denver, CO",14:20,0.00
+Friday,UA,IAH,"Houston, TX",10:18,1.00
+Sunday,DL,LIH,"Lihue, HI",15:45,0.00
+Friday,UA,MRY,"Monterey, CA",16:43,0.00
+Sunday,OO,DEN,"Denver, CO",16:34,1.00
+Friday,DL,SLC,"Salt Lake City, UT",13:16,0.00
+Sunday,UA,IAH,"Houston, TX",23:59,0.00
+Thursday,UA,SFO,"San Francisco, CA",17:27,1.00
+Tuesday,OO,SMF,"Sacramento, CA",18:30,0.00
+Monday,AA,CMH,"Columbus, OH",10:00,1.00
+Wednesday,UA,EWR,"Newark, NJ",12:15,0.00
+Saturday,DL,SLC,"Salt Lake City, UT",11:40,0.00
+Wednesday,AA,MIA,"Miami, FL",21:30,0.00
+Tuesday,AS,SEA,"Seattle, WA",19:50,0.00
+Monday,AA,RDU,"Raleigh/Durham, NC",09:05,1.00
+Friday,UA,IAD,"Washington, DC",08:15,0.00
+Monday,DL,SEA,"Seattle, WA",14:05,1.00
+Saturday,WN,AUS,"Austin, TX",05:45,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",16:40,0.00
+Friday,UA,ORD,"Chicago, IL",07:00,0.00
+Saturday,UA,CLE,"Cleveland, OH",13:20,0.00
+Friday,OO,PHX,"Phoenix, AZ",08:18,0.00
+Friday,AS,SEA,"Seattle, WA",14:43,0.00
+Monday,UA,LAS,"Las Vegas, NV",19:26,0.00
+Friday,UA,IAH,"Houston, TX",05:45,0.00
+Tuesday,UA,IAH,"Houston, TX",13:13,0.00
+Thursday,DL,SEA,"Seattle, WA",14:05,0.00
+Sunday,DL,SEA,"Seattle, WA",07:59,0.00
+Thursday,DL,TPA,"Tampa, FL",10:30,1.00
+Tuesday,UA,SFO,"San Francisco, CA",18:45,1.00
+Sunday,OO,SAN,"San Diego, CA",09:07,0.00
+Saturday,DL,MSP,"Minneapolis, MN",15:00,0.00
+Friday,WN,SJC,"San Jose, CA",14:50,0.00
+Wednesday,OO,ELP,"El Paso, TX",20:49,1.00
+Friday,AA,ATL,"Atlanta, GA",09:36,1.00
+Saturday,AA,MIA,"Miami, FL",08:00,0.00
+Wednesday,AS,PDX,"Portland, OR",14:08,0.00
+Saturday,UA,SMF,"Sacramento, CA",19:09,1.00
+Monday,DL,DFW,"Dallas/Fort Worth, TX",08:50,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",00:36,0.00
+Friday,AA,LAS,"Las Vegas, NV",09:42,0.00
+Wednesday,DL,ATL,"Atlanta, GA",13:20,1.00
+Tuesday,OO,MCI,"Kansas City, MO",10:04,0.00
+Wednesday,DL,PDX,"Portland, OR",17:00,0.00
+Tuesday,AS,PDX,"Portland, OR",18:03,0.00
+Friday,UA,ORD,"Chicago, IL",12:50,0.00
+Thursday,AA,MIA,"Miami, FL",06:00,0.00
+Tuesday,OO,BOI,"Boise, ID",18:57,0.00
+Thursday,AA,OGG,"Kahului, HI",17:19,0.00
+Thursday,WN,SLC,"Salt Lake City, UT",10:35,0.00
+Friday,UA,SFO,"San Francisco, CA",19:04,1.00
+Friday,WN,DEN,"Denver, CO",09:05,1.00
+Sunday,WN,HOU,"Houston, TX",23:50,0.00
+Sunday,WN,PHX,"Phoenix, AZ",21:15,1.00
+Friday,WN,HNL,"Honolulu, HI",18:20,1.00
+Tuesday,OO,TUS,"Tucson, AZ",18:08,0.00
+Wednesday,UA,SFO,"San Francisco, CA",15:40,1.00
+Sunday,AA,ATL,"Atlanta, GA",09:36,1.00
+Sunday,WN,SMF,"Sacramento, CA",21:45,0.00
+Monday,AA,CLT,"Charlotte, NC",23:17,0.00
+Wednesday,DL,SAT,"San Antonio, TX",10:15,0.00
+Friday,AA,MIA,"Miami, FL",13:50,0.00
+Monday,UA,IAD,"Washington, DC",21:35,0.00
+Sunday,OO,MSO,"Missoula, MT",19:00,0.00
+Sunday,DL,SEA,"Seattle, WA",09:25,0.00
+Monday,OO,PHX,"Phoenix, AZ",16:22,0.00
+Tuesday,UA,IAH,"Houston, TX",08:15,0.00
+Wednesday,DL,MSY,"New Orleans, LA",07:05,0.00
+Monday,UA,SLC,"Salt Lake City, UT",19:03,0.00
+Wednesday,WN,AUS,"Austin, TX",18:05,0.00
+Sunday,DL,HNL,"Honolulu, HI",08:55,1.00
+Friday,OO,SEA,"Seattle, WA",18:55,0.00
+Thursday,OO,FCA,"Kalispell, MT",08:28,0.00
+Tuesday,WN,BWI,"Baltimore, MD",06:00,0.00
+Saturday,DL,RDU,"Raleigh/Durham, NC",10:00,0.00
+Friday,AA,JFK,"New York, NY",10:28,1.00
+Thursday,WN,BNA,"Nashville, TN",13:00,0.00
+Thursday,DL,DFW,"Dallas/Fort Worth, TX",08:50,0.00
+Wednesday,UA,BOS,"Boston, MA",08:15,0.00
+Saturday,OO,PHX,"Phoenix, AZ",08:18,0.00
+Sunday,WN,ELP,"El Paso, TX",14:45,0.00
+Wednesday,AA,CLT,"Charlotte, NC",06:00,0.00
+Thursday,OO,STS,"Santa Rosa, CA",09:25,0.00
+Monday,DL,LAS,"Las Vegas, NV",15:59,1.00
+Saturday,OO,ABQ,"Albuquerque, NM",14:34,0.00
+Thursday,UA,ORD,"Chicago, IL",17:00,0.00
+Monday,WN,TUS,"Tucson, AZ",21:00,0.00
+Wednesday,DL,HNL,"Honolulu, HI",18:15,0.00
+Tuesday,AA,MIA,"Miami, FL",21:41,0.00
+Wednesday,DL,ATL,"Atlanta, GA",12:10,0.00
+Monday,AS,SEA,"Seattle, WA",10:00,1.00
+Tuesday,AA,CMH,"Columbus, OH",09:36,0.00
+Friday,WN,SMF,"Sacramento, CA",14:40,1.00
+Tuesday,DL,DEN,"Denver, CO",08:50,0.00
+Saturday,UA,DEN,"Denver, CO",10:54,0.00
+Thursday,AS,EWR,"Newark, NJ",07:00,0.00
+Thursday,DL,SFO,"San Francisco, CA",14:35,1.00
+Wednesday,DL,MSY,"New Orleans, LA",07:05,0.00
+Sunday,B6,FLL,"Fort Lauderdale, FL",08:30,0.00
+Monday,DL,ATL,"Atlanta, GA",22:55,0.00
+Saturday,F9,SLC,"Salt Lake City, UT",09:48,0.00
+Friday,DL,AUS,"Austin, TX",07:35,0.00
+Thursday,AA,HNL,"Honolulu, HI",18:50,0.00
+Tuesday,AA,LAS,"Las Vegas, NV",09:40,0.00
+Monday,DL,MCO,"Orlando, FL",16:10,1.00
+Sunday,UA,HNL,"Honolulu, HI",11:06,0.00
+Sunday,OO,PHX,"Phoenix, AZ",17:45,0.00
+Thursday,DL,SJC,"San Jose, CA",15:45,0.00
+Friday,AA,ORD,"Chicago, IL",23:41,0.00
+Sunday,OO,DEN,"Denver, CO",08:40,0.00
+Saturday,UA,ORD,"Chicago, IL",10:52,0.00
+Tuesday,OO,ELP,"El Paso, TX",08:00,0.00
+Wednesday,DL,DTW,"Detroit, MI",15:50,0.00
+Monday,AA,PHX,"Phoenix, AZ",19:44,1.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",15:00,0.00
+Thursday,WN,DEN,"Denver, CO",06:10,0.00
+Friday,DL,BNA,"Nashville, TN",18:40,1.00
+Thursday,DL,JFK,"New York, NY",11:20,0.00
+Thursday,WN,DEN,"Denver, CO",14:20,0.00
+Tuesday,DL,DTW,"Detroit, MI",15:50,0.00
+Friday,B6,JFK,"New York, NY",15:20,0.00
+Monday,UA,ORD,"Chicago, IL",07:00,0.00
+Saturday,UA,IAD,"Washington, DC",10:20,0.00
+Sunday,DL,MSP,"Minneapolis, MN",08:25,1.00
+Monday,UA,AUS,"Austin, TX",23:59,0.00
+Tuesday,UA,DEN,"Denver, CO",08:45,0.00
+Saturday,AA,DCA,"Washington, DC",07:48,1.00
+Monday,UA,ORD,"Chicago, IL",10:52,0.00
+Tuesday,UA,EWR,"Newark, NJ",16:30,0.00
+Friday,UA,EWR,"Newark, NJ",06:00,0.00
+Saturday,OO,XNA,"Fayetteville, AR",09:41,0.00
+Sunday,OO,OMA,"Omaha, NE",18:33,0.00
+Sunday,DL,DEN,"Denver, CO",19:59,1.00
+Sunday,OO,SJC,"San Jose, CA",07:58,0.00
+Thursday,DL,DTW,"Detroit, MI",07:15,0.00
+Wednesday,DL,LAS,"Las Vegas, NV",19:55,1.00
+Monday,B6,FLL,"Fort Lauderdale, FL",10:39,1.00
+Friday,WN,LAS,"Las Vegas, NV",05:20,0.00
+Friday,OO,MCI,"Kansas City, MO",10:04,0.00
+Saturday,F9,ATL,"Atlanta, GA",15:28,0.00
+Wednesday,DL,TPA,"Tampa, FL",22:48,0.00
+Wednesday,OO,TUS,"Tucson, AZ",19:25,0.00
+Sunday,UA,SFO,"San Francisco, CA",09:15,1.00
+Sunday,DL,JFK,"New York, NY",11:30,1.00
+Monday,DL,SAT,"San Antonio, TX",10:15,0.00
+Thursday,OO,PSP,"Palm Springs, CA",20:20,0.00
+Tuesday,F9,SEA,"Seattle, WA",15:15,0.00
+Sunday,OO,SMF,"Sacramento, CA",07:00,0.00
+Friday,OO,SEA,"Seattle, WA",18:55,0.00
+Monday,UA,ORD,"Chicago, IL",08:15,0.00
+Tuesday,OO,GEG,"Spokane, WA",18:59,0.00
+Wednesday,DL,ATL,"Atlanta, GA",07:00,0.00
+Monday,OO,TUS,"Tucson, AZ",19:14,0.00
+Thursday,AA,RDU,"Raleigh/Durham, NC",08:47,0.00
+Tuesday,DL,HNL,"Honolulu, HI",08:45,1.00
+Wednesday,WN,OAK,"Oakland, CA",16:55,0.00
+Sunday,OO,OMA,"Omaha, NE",09:49,0.00
+Wednesday,UA,EWR,"Newark, NJ",16:30,0.00
+Tuesday,OO,TUL,"Tulsa, OK",09:59,0.00
+Saturday,AA,MIA,"Miami, FL",12:25,0.00
+Saturday,AA,JFK,"New York, NY",08:00,0.00
+Thursday,DL,MSP,"Minneapolis, MN",06:15,0.00
+Friday,WN,SMF,"Sacramento, CA",14:40,1.00
+Thursday,DL,SEA,"Seattle, WA",12:10,0.00
+Wednesday,WN,OAK,"Oakland, CA",13:40,1.00
+Friday,DL,SAT,"San Antonio, TX",18:59,0.00
+Thursday,DL,LAS,"Las Vegas, NV",07:35,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",07:00,0.00
+Saturday,UA,ORD,"Chicago, IL",22:35,0.00
+Tuesday,WN,AUS,"Austin, TX",12:55,1.00
+Friday,UA,EWR,"Newark, NJ",08:50,1.00
+Wednesday,AA,MIA,"Miami, FL",06:00,0.00
+Wednesday,OO,GEG,"Spokane, WA",12:54,0.00
+Wednesday,AA,JFK,"New York, NY",11:45,0.00
+Sunday,DL,SFO,"San Francisco, CA",07:00,0.00
+Wednesday,OO,OKC,"Oklahoma City, OK",08:36,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",08:40,0.00
+Saturday,DL,DEN,"Denver, CO",14:09,0.00
+Saturday,DL,JFK,"New York, NY",07:20,0.00
+Wednesday,DL,LAS,"Las Vegas, NV",11:15,0.00
+Saturday,OO,ELP,"El Paso, TX",08:29,0.00
+Tuesday,UA,DEN,"Denver, CO",19:45,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",20:55,0.00
+Monday,DL,SEA,"Seattle, WA",17:32,0.00
+Friday,WN,DEN,"Denver, CO",06:10,0.00
+Saturday,OO,BOI,"Boise, ID",11:28,0.00
+Sunday,OO,PHX,"Phoenix, AZ",17:15,0.00
+Saturday,UA,EWR,"Newark, NJ",07:15,0.00
+Sunday,B6,JFK,"New York, NY",16:20,0.00
+Friday,WN,DAL,"Dallas, TX",18:30,0.00
+Sunday,AA,PHL,"Philadelphia, PA",08:15,1.00
+Sunday,OO,FCA,"Kalispell, MT",08:28,0.00
+Friday,WN,LAS,"Las Vegas, NV",08:05,0.00
+Thursday,OO,SFO,"San Francisco, CA",16:06,1.00
+Sunday,WN,MDW,"Chicago, IL",23:55,0.00
+Monday,DL,RDU,"Raleigh/Durham, NC",08:20,0.00
+Friday,AA,JFK,"New York, NY",12:30,1.00
+Tuesday,DL,SEA,"Seattle, WA",14:05,0.00
+Saturday,AA,PHX,"Phoenix, AZ",16:40,0.00
+Friday,QX,RDM,"Bend/Redmond, OR",20:00,0.00
+Thursday,WN,ABQ,"Albuquerque, NM",20:50,0.00
+Thursday,UA,HNL,"Honolulu, HI",17:05,0.00
+Friday,UA,EWR,"Newark, NJ",13:25,0.00
+Sunday,F9,SMF,"Sacramento, CA",08:36,0.00
+Wednesday,DL,SEA,"Seattle, WA",12:00,0.00
+Sunday,OO,PHX,"Phoenix, AZ",21:22,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",07:00,0.00
+Sunday,AA,CLT,"Charlotte, NC",13:53,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",12:40,0.00
+Sunday,QX,PAE,"Everett, WA",19:06,1.00
+Friday,F9,IAH,"Houston, TX",12:46,1.00
+Friday,DL,ATL,"Atlanta, GA",22:55,0.00
+Tuesday,AA,MIA,"Miami, FL",08:00,0.00
+Wednesday,AS,SEA,"Seattle, WA",06:30,0.00
+Sunday,UA,SFO,"San Francisco, CA",13:20,0.00
+Saturday,WN,SFO,"San Francisco, CA",15:55,0.00
+Monday,DL,TPA,"Tampa, FL",22:48,0.00
+Sunday,OO,PHX,"Phoenix, AZ",21:45,1.00
+Saturday,OO,ELP,"El Paso, TX",08:00,0.00
+Sunday,AS,SEA,"Seattle, WA",06:30,0.00
+Friday,DL,AUS,"Austin, TX",07:35,0.00
+Tuesday,DL,SAT,"San Antonio, TX",09:45,0.00
+Saturday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Sunday,UA,EWR,"Newark, NJ",07:15,0.00
+Saturday,WN,SFO,"San Francisco, CA",11:10,1.00
+Wednesday,AA,ORD,"Chicago, IL",01:01,0.00
+Tuesday,UA,EWR,"Newark, NJ",13:15,0.00
+Saturday,AA,ORD,"Chicago, IL",00:56,0.00
+Saturday,AA,CLT,"Charlotte, NC",07:10,0.00
+Saturday,AS,SEA,"Seattle, WA",12:54,1.00
+Thursday,WN,OAK,"Oakland, CA",21:25,1.00
+Friday,B6,JFK,"New York, NY",08:00,0.00
+Sunday,AA,JFK,"New York, NY",21:36,0.00
+Thursday,DL,MCI,"Kansas City, MO",18:46,0.00
+Monday,WN,SJC,"San Jose, CA",06:15,0.00
+Sunday,AS,SFO,"San Francisco, CA",10:00,0.00
+Monday,AS,DCA,"Washington, DC",11:54,0.00
+Saturday,AA,MIA,"Miami, FL",00:30,0.00
+Friday,UA,HNL,"Honolulu, HI",17:00,0.00
+Thursday,AA,JFK,"New York, NY",08:00,0.00
+Friday,AA,MIA,"Miami, FL",13:51,0.00
+Wednesday,AA,KOA,"Kona, HI",09:06,1.00
+Wednesday,DL,DEN,"Denver, CO",08:50,0.00
+Thursday,AA,LIH,"Lihue, HI",08:29,0.00
+Wednesday,QX,GEG,"Spokane, WA",12:48,1.00
+Sunday,DL,HNL,"Honolulu, HI",18:55,0.00
+Thursday,OO,SJC,"San Jose, CA",12:53,0.00
+Saturday,OO,RDM,"Bend/Redmond, OR",20:20,0.00
+Sunday,WN,SAT,"San Antonio, TX",13:05,0.00
+Sunday,OO,ASE,"Aspen, CO",16:57,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",13:00,0.00
+Saturday,AS,SEA,"Seattle, WA",19:50,0.00
+Saturday,DL,SJC,"San Jose, CA",09:30,0.00
+Friday,UA,LAS,"Las Vegas, NV",22:58,0.00
+Monday,DL,PDX,"Portland, OR",14:00,0.00
+Friday,DL,BNA,"Nashville, TN",12:15,0.00
+Friday,WN,AUS,"Austin, TX",06:40,0.00
+Saturday,UA,DEN,"Denver, CO",10:55,1.00
+Wednesday,UA,CLE,"Cleveland, OH",22:35,0.00
+Sunday,DL,JFK,"New York, NY",09:40,0.00
+Friday,UA,HNL,"Honolulu, HI",11:06,0.00
+Friday,DL,ATL,"Atlanta, GA",14:40,1.00
+Wednesday,DL,MCO,"Orlando, FL",10:50,0.00
+Wednesday,AS,PDX,"Portland, OR",19:45,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",13:41,0.00
+Tuesday,WN,SJC,"San Jose, CA",10:55,0.00
+Friday,UA,BWI,"Baltimore, MD",20:58,0.00
+Tuesday,UA,ORD,"Chicago, IL",10:52,0.00
+Monday,DL,SFO,"San Francisco, CA",09:30,0.00
+Thursday,OO,ACV,"Arcata/Eureka, CA",20:15,0.00
+Thursday,OO,OKC,"Oklahoma City, OK",17:31,0.00
+Saturday,AA,JFK,"New York, NY",07:00,1.00
+Friday,AA,PHX,"Phoenix, AZ",10:13,0.00
+Thursday,DL,DEN,"Denver, CO",14:09,1.00
+Sunday,AA,PHL,"Philadelphia, PA",08:08,0.00
+Monday,DL,SLC,"Salt Lake City, UT",13:25,0.00
+Friday,UA,IAH,"Houston, TX",10:18,0.00
+Wednesday,OO,SEA,"Seattle, WA",08:30,0.00
+Monday,UA,DEN,"Denver, CO",08:47,0.00
+Friday,DL,LAS,"Las Vegas, NV",11:15,0.00
+Friday,WN,SMF,"Sacramento, CA",20:40,1.00
+Saturday,OO,DSM,"Des Moines, IA",12:50,1.00
+Thursday,OO,SMF,"Sacramento, CA",09:23,0.00
+Sunday,DL,JFK,"New York, NY",21:15,0.00
+Tuesday,DL,ATL,"Atlanta, GA",12:10,0.00
+Saturday,DL,JFK,"New York, NY",07:30,0.00
+Wednesday,UA,AUS,"Austin, TX",10:50,0.00
+Monday,DL,DCA,"Washington, DC",07:40,0.00
+Sunday,AA,ORD,"Chicago, IL",10:23,1.00
+Sunday,B6,BOS,"Boston, MA",22:09,0.00
+Friday,WN,DEN,"Denver, CO",19:55,1.00
+Saturday,AS,PDX,"Portland, OR",18:03,0.00
+Monday,AA,IAD,"Washington, DC",21:45,0.00
+Wednesday,OO,SAN,"San Diego, CA",17:11,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",16:40,0.00
+Wednesday,DL,ATL,"Atlanta, GA",12:10,0.00
+Wednesday,OO,SFO,"San Francisco, CA",16:05,1.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",13:33,0.00
+Sunday,AS,PDX,"Portland, OR",18:05,0.00
+Friday,B6,BOS,"Boston, MA",10:45,0.00
+Tuesday,DL,IAH,"Houston, TX",18:45,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",23:55,1.00
+Sunday,OO,XNA,"Fayetteville, AR",09:41,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",19:48,1.00
+Sunday,OO,SAN,"San Diego, CA",18:50,1.00
+Thursday,UA,ORD,"Chicago, IL",17:15,0.00
+Sunday,DL,HNL,"Honolulu, HI",13:55,0.00
+Thursday,AS,GEG,"Spokane, WA",20:09,0.00
+Thursday,AA,HNL,"Honolulu, HI",15:48,0.00
+Saturday,WN,SAT,"San Antonio, TX",11:50,1.00
+Saturday,DL,MCO,"Orlando, FL",22:15,0.00
+Saturday,UA,SFO,"San Francisco, CA",20:15,1.00
+Thursday,DL,SFO,"San Francisco, CA",09:30,1.00
+Tuesday,WN,DEN,"Denver, CO",09:15,0.00
+Friday,DL,DEN,"Denver, CO",14:09,0.00
+Sunday,DL,DTW,"Detroit, MI",23:20,0.00
+Tuesday,DL,JFK,"New York, NY",08:20,0.00
+Thursday,OO,STL,"St. Louis, MO",18:16,0.00
+Tuesday,DL,PDX,"Portland, OR",20:20,0.00
+Friday,B6,BOS,"Boston, MA",07:00,0.00
+Friday,OO,ELP,"El Paso, TX",20:49,0.00
+Tuesday,AS,ANC,"Anchorage, AK",20:00,0.00
+Thursday,AA,CLT,"Charlotte, NC",13:53,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",19:24,0.00
+Monday,OO,OKC,"Oklahoma City, OK",13:43,0.00
+Thursday,OO,STL,"St. Louis, MO",18:16,1.00
+Tuesday,DL,AUS,"Austin, TX",13:16,0.00
+Monday,UA,IAH,"Houston, TX",23:59,0.00
+Tuesday,DL,AUS,"Austin, TX",15:47,0.00
+Friday,UA,CMH,"Columbus, OH",10:45,0.00
+Friday,OO,SFO,"San Francisco, CA",16:05,0.00
+Saturday,OO,RDM,"Bend/Redmond, OR",10:15,0.00
+Tuesday,AA,JFK,"New York, NY",14:20,0.00
+Friday,DL,JFK,"New York, NY",23:55,0.00
+Tuesday,OO,PRC,"Prescott, AZ",13:25,0.00
+Tuesday,UA,EWR,"Newark, NJ",10:15,0.00
+Saturday,WN,BWI,"Baltimore, MD",12:55,1.00
+Thursday,OO,RNO,"Reno, NV",09:17,0.00
+Friday,OO,STS,"Santa Rosa, CA",08:09,0.00
+Thursday,F9,MCO,"Orlando, FL",23:21,1.00
+Sunday,DL,DTW,"Detroit, MI",22:35,0.00
+Wednesday,AA,JFK,"New York, NY",21:36,0.00
+Sunday,AA,JFK,"New York, NY",08:00,0.00
+Thursday,WN,ABQ,"Albuquerque, NM",07:25,0.00
+Thursday,AA,JFK,"New York, NY",07:00,0.00
+Sunday,AA,MIA,"Miami, FL",21:41,0.00
+Thursday,OO,SMF,"Sacramento, CA",16:23,0.00
+Tuesday,WN,PHX,"Phoenix, AZ",15:35,0.00
+Sunday,AA,JFK,"New York, NY",12:36,0.00
+Sunday,AS,SEA,"Seattle, WA",18:10,0.00
+Thursday,UA,IAD,"Washington, DC",10:27,0.00
+Monday,WN,SAT,"San Antonio, TX",08:05,1.00
+Friday,DL,SEA,"Seattle, WA",14:05,0.00
+Wednesday,AA,PHX,"Phoenix, AZ",21:08,0.00
+Sunday,UA,SEA,"Seattle, WA",19:15,0.00
+Sunday,DL,SFO,"San Francisco, CA",17:59,0.00
+Wednesday,OO,DEN,"Denver, CO",14:19,0.00
+Sunday,B6,BOS,"Boston, MA",21:40,0.00
+Sunday,DL,OGG,"Kahului, HI",08:05,0.00
+Wednesday,AA,ORD,"Chicago, IL",15:10,0.00
+Saturday,DL,SLC,"Salt Lake City, UT",11:00,0.00
+Tuesday,B6,JFK,"New York, NY",10:32,0.00
+Monday,AA,PHL,"Philadelphia, PA",07:02,0.00
+Wednesday,OO,DSM,"Des Moines, IA",12:50,0.00
+Sunday,F9,DEN,"Denver, CO",06:30,0.00
+Monday,DL,DCA,"Washington, DC",07:35,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",00:40,0.00
+Thursday,OO,SFO,"San Francisco, CA",08:45,1.00
+Sunday,QX,PAE,"Everett, WA",15:30,0.00
+Friday,UA,LAS,"Las Vegas, NV",16:37,0.00
+Tuesday,UA,BOS,"Boston, MA",08:15,0.00
+Tuesday,WN,SMF,"Sacramento, CA",07:50,0.00
+Wednesday,UA,IAH,"Houston, TX",12:03,0.00
+Tuesday,DL,LAS,"Las Vegas, NV",07:35,0.00
+Tuesday,F9,SEA,"Seattle, WA",15:15,1.00
+Sunday,OO,SMF,"Sacramento, CA",16:18,0.00
+Wednesday,AA,ATL,"Atlanta, GA",09:36,1.00
+Thursday,DL,BNA,"Nashville, TN",06:50,0.00
+Tuesday,DL,ATL,"Atlanta, GA",12:10,0.00
+Friday,AA,ORD,"Chicago, IL",09:31,0.00
+Wednesday,OO,IAH,"Houston, TX",13:46,0.00
+Tuesday,DL,MCO,"Orlando, FL",22:15,0.00
+Wednesday,UA,MRY,"Monterey, CA",16:43,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",13:15,0.00
+Wednesday,AS,DCA,"Washington, DC",11:54,1.00
+Saturday,DL,JFK,"New York, NY",07:00,0.00
+Saturday,DL,MIA,"Miami, FL",09:05,0.00
+Monday,AA,DCA,"Washington, DC",07:48,0.00
+Sunday,OO,SBA,"Santa Barbara, CA",22:45,0.00
+Tuesday,DL,SFO,"San Francisco, CA",17:59,1.00
+Tuesday,AA,JFK,"New York, NY",06:00,0.00
+Wednesday,DL,PDX,"Portland, OR",13:15,0.00
+Saturday,WN,DEN,"Denver, CO",16:35,1.00
+Monday,WN,BWI,"Baltimore, MD",06:05,0.00
+Friday,OO,PDX,"Portland, OR",19:57,0.00
+Saturday,WN,HNL,"Honolulu, HI",07:00,0.00
+Sunday,DL,DTW,"Detroit, MI",05:35,0.00
+Sunday,UA,ORD,"Chicago, IL",22:35,0.00
+Friday,UA,LAS,"Las Vegas, NV",18:59,0.00
+Friday,WN,OAK,"Oakland, CA",12:00,0.00
+Friday,UA,ORD,"Chicago, IL",10:52,0.00
+Tuesday,AA,MCO,"Orlando, FL",21:29,0.00
+Friday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Tuesday,WN,MSY,"New Orleans, LA",11:10,1.00
+Thursday,OO,SMF,"Sacramento, CA",09:10,0.00
+Sunday,OO,PHX,"Phoenix, AZ",17:45,0.00
+Sunday,DL,JFK,"New York, NY",23:55,0.00
+Friday,OO,RDM,"Bend/Redmond, OR",10:15,0.00
+Friday,UA,MCO,"Orlando, FL",16:27,0.00
+Thursday,DL,SEA,"Seattle, WA",19:59,1.00
+Wednesday,DL,SAT,"San Antonio, TX",10:15,0.00
+Sunday,OO,SMF,"Sacramento, CA",16:23,0.00
+Friday,WN,SFO,"San Francisco, CA",06:00,0.00
+Tuesday,UA,IAD,"Washington, DC",22:36,0.00
+Friday,UA,DEN,"Denver, CO",07:00,0.00
+Thursday,DL,JFK,"New York, NY",21:15,0.00
+Monday,OO,SFO,"San Francisco, CA",22:18,1.00
+Saturday,WN,AUS,"Austin, TX",05:45,0.00
+Saturday,AS,HNL,"Honolulu, HI",08:30,0.00
+Sunday,DL,DTW,"Detroit, MI",15:47,0.00
+Wednesday,B6,JFK,"New York, NY",10:40,1.00
+Friday,AA,JFK,"New York, NY",14:20,0.00
+Saturday,AA,PHX,"Phoenix, AZ",06:10,0.00
+Sunday,DL,ATL,"Atlanta, GA",13:20,0.00
+Wednesday,OO,RDM,"Bend/Redmond, OR",16:10,0.00
+Monday,AA,MIA,"Miami, FL",23:59,0.00
+Saturday,F9,DEN,"Denver, CO",09:40,0.00
+Wednesday,DL,PDX,"Portland, OR",09:45,0.00
+Tuesday,AA,AUS,"Austin, TX",18:52,1.00
+Thursday,UA,BWI,"Baltimore, MD",20:58,0.00
+Thursday,AA,MIA,"Miami, FL",08:10,0.00
+Monday,UA,IAH,"Houston, TX",15:20,0.00
+Friday,OO,BOI,"Boise, ID",19:45,0.00
+Friday,AA,ORD,"Chicago, IL",10:39,0.00
+Monday,OO,SBA,"Santa Barbara, CA",08:15,0.00
+Saturday,DL,PDX,"Portland, OR",07:35,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",14:35,0.00
+Thursday,WN,SMF,"Sacramento, CA",10:50,0.00
+Saturday,UA,CLE,"Cleveland, OH",22:35,0.00
+Wednesday,AA,DCA,"Washington, DC",12:32,0.00
+Sunday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,0.00
+Saturday,UA,IAD,"Washington, DC",12:55,0.00
+Monday,DL,PDX,"Portland, OR",20:20,0.00
+Friday,DL,SAT,"San Antonio, TX",10:15,0.00
+Monday,WN,OAK,"Oakland, CA",15:40,1.00
+Monday,OO,SJC,"San Jose, CA",18:04,0.00
+Thursday,OO,SJC,"San Jose, CA",14:19,0.00
+Monday,WN,DEN,"Denver, CO",15:45,1.00
+Thursday,OO,TUS,"Tucson, AZ",19:14,0.00
+Monday,F9,SJC,"San Jose, CA",10:43,0.00
+Monday,WN,MCO,"Orlando, FL",23:15,1.00
+Wednesday,WN,DEN,"Denver, CO",19:30,1.00
+Friday,UA,SFO,"San Francisco, CA",06:00,0.00
+Saturday,WN,MCO,"Orlando, FL",23:15,0.00
+Monday,WN,DEN,"Denver, CO",14:20,0.00
+Sunday,AS,DCA,"Washington, DC",11:52,0.00
+Monday,WN,SFO,"San Francisco, CA",11:10,1.00
+Friday,WN,SFO,"San Francisco, CA",11:10,1.00
+Thursday,DL,ATL,"Atlanta, GA",21:45,0.00
+Tuesday,OO,TUS,"Tucson, AZ",19:25,0.00
+Wednesday,OO,SBP,"San Luis Obispo, CA",16:10,0.00
+Tuesday,WN,OAK,"Oakland, CA",19:00,0.00
+Wednesday,DL,DEN,"Denver, CO",14:09,0.00
+Wednesday,UA,EWR,"Newark, NJ",21:00,0.00
+Thursday,F9,ATL,"Atlanta, GA",23:20,0.00
+Sunday,AA,ORD,"Chicago, IL",08:00,0.00
+Wednesday,AA,CLT,"Charlotte, NC",06:05,0.00
+Friday,F9,SJC,"San Jose, CA",18:02,1.00
+Wednesday,AS,HNL,"Honolulu, HI",17:35,1.00
+Saturday,DL,HNL,"Honolulu, HI",13:55,1.00
+Wednesday,WN,SJC,"San Jose, CA",16:10,0.00
+Sunday,AS,EUG,"Eugene, OR",19:40,0.00
+Tuesday,DL,SFO,"San Francisco, CA",12:15,1.00
+Tuesday,OO,PSP,"Palm Springs, CA",20:20,0.00
+Friday,DL,DTW,"Detroit, MI",09:35,1.00
+Friday,AA,AUS,"Austin, TX",14:30,1.00
+Tuesday,UA,IAH,"Houston, TX",10:18,0.00
+Saturday,DL,RDU,"Raleigh/Durham, NC",10:00,0.00
+Thursday,WN,DAL,"Dallas, TX",10:45,1.00
+Monday,WN,PHX,"Phoenix, AZ",11:10,1.00
+Tuesday,WN,ELP,"El Paso, TX",11:30,0.00
+Sunday,AA,DCA,"Washington, DC",08:26,0.00
+Saturday,OO,XNA,"Fayetteville, AR",09:41,0.00
+Sunday,OO,RNO,"Reno, NV",09:17,0.00
+Thursday,UA,SFO,"San Francisco, CA",06:00,0.00
+Monday,AA,IAD,"Washington, DC",20:50,0.00
+Monday,WN,BNA,"Nashville, TN",23:30,1.00
+Wednesday,DL,MIA,"Miami, FL",09:05,0.00
+Thursday,AS,LIH,"Lihue, HI",09:40,0.00
+Friday,WN,OAK,"Oakland, CA",15:40,1.00
+Sunday,AA,ORD,"Chicago, IL",00:56,0.00
+Monday,DL,MCO,"Orlando, FL",22:15,0.00
+Sunday,UA,ORD,"Chicago, IL",17:00,0.00
+Wednesday,UA,ORD,"Chicago, IL",14:20,0.00
+Friday,OO,SEA,"Seattle, WA",08:30,0.00
+Friday,OO,SAN,"San Diego, CA",22:20,0.00
+Wednesday,AA,RDU,"Raleigh/Durham, NC",09:05,1.00
+Sunday,WN,HOU,"Houston, TX",07:45,0.00
+Sunday,DL,ATL,"Atlanta, GA",07:00,0.00
+Thursday,B6,JFK,"New York, NY",23:59,1.00
+Wednesday,AA,JFK,"New York, NY",22:35,0.00
+Saturday,DL,BNA,"Nashville, TN",06:50,0.00
+Thursday,UA,DEN,"Denver, CO",08:45,0.00
+Thursday,DL,MCO,"Orlando, FL",22:15,0.00
+Saturday,WN,STL,"St. Louis, MO",07:35,0.00
+Friday,F9,IAH,"Houston, TX",09:46,0.00
+Tuesday,WN,PHX,"Phoenix, AZ",10:45,0.00
+Sunday,AA,PHL,"Philadelphia, PA",12:06,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",09:00,0.00
+Friday,WN,MDW,"Chicago, IL",12:00,1.00
+Monday,WN,HNL,"Honolulu, HI",07:00,1.00
+Sunday,UA,JAC,"Jackson, WY",10:28,0.00
+Thursday,AA,MCO,"Orlando, FL",09:02,0.00
+Saturday,UA,HNL,"Honolulu, HI",09:05,0.00
+Sunday,UA,AUS,"Austin, TX",10:55,0.00
+Thursday,F9,LAS,"Las Vegas, NV",12:08,0.00
+Thursday,UA,DEN,"Denver, CO",07:00,0.00
+Sunday,AS,KOA,"Kona, HI",08:30,0.00
+Tuesday,DL,RDU,"Raleigh/Durham, NC",10:00,0.00
+Sunday,OO,ELP,"El Paso, TX",14:04,0.00
+Monday,F9,MCO,"Orlando, FL",23:21,1.00
+Thursday,WN,DAL,"Dallas, TX",17:00,1.00
+Thursday,WN,DEN,"Denver, CO",11:00,0.00
+Tuesday,DL,JFK,"New York, NY",06:20,0.00
+Friday,AS,OGG,"Kahului, HI",08:30,1.00
+Tuesday,OO,SMF,"Sacramento, CA",16:23,1.00
+Friday,UA,DEN,"Denver, CO",10:54,0.00
+Tuesday,OO,PHX,"Phoenix, AZ",19:53,0.00
+Thursday,OO,PHX,"Phoenix, AZ",10:00,1.00
+Monday,DL,ATL,"Atlanta, GA",17:15,0.00
+Thursday,AA,JFK,"New York, NY",06:00,0.00
+Friday,WN,OAK,"Oakland, CA",06:10,0.00
+Saturday,AA,LAS,"Las Vegas, NV",12:55,1.00
+Sunday,UA,IAD,"Washington, DC",21:35,0.00
+Saturday,OO,SMF,"Sacramento, CA",22:22,0.00
+Friday,AA,HNL,"Honolulu, HI",19:25,0.00
+Tuesday,OO,ABQ,"Albuquerque, NM",20:55,0.00
+Thursday,WN,SMF,"Sacramento, CA",10:50,0.00
+Saturday,OO,PDX,"Portland, OR",19:06,1.00
+Sunday,UA,SFO,"San Francisco, CA",15:40,0.00
+Wednesday,DL,BOS,"Boston, MA",21:00,0.00
+Tuesday,AA,CLT,"Charlotte, NC",13:53,1.00
+Monday,OO,SBA,"Santa Barbara, CA",22:44,0.00
+Sunday,AA,IND,"Indianapolis, IN",10:35,0.00
+Thursday,WN,DEN,"Denver, CO",09:05,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",23:35,0.00
+Friday,DL,TPA,"Tampa, FL",10:30,0.00
+Tuesday,OO,OKC,"Oklahoma City, OK",13:43,0.00
+Thursday,UA,EWR,"Newark, NJ",11:15,0.00
+Saturday,UA,DEN,"Denver, CO",08:47,0.00
+Tuesday,OO,TUS,"Tucson, AZ",14:38,1.00
+Wednesday,DL,DFW,"Dallas/Fort Worth, TX",18:55,0.00
+Monday,AA,BNA,"Nashville, TN",23:59,0.00
+Sunday,AS,GEG,"Spokane, WA",20:09,0.00
+Monday,UA,EWR,"Newark, NJ",11:15,1.00
+Sunday,OO,RDD,"Redding, CA",20:00,0.00
+Sunday,WN,LAS,"Las Vegas, NV",12:45,0.00
+Thursday,DL,IND,"Indianapolis, IN",08:40,0.00
+Friday,WN,DEN,"Denver, CO",11:00,0.00
+Saturday,OO,MSO,"Missoula, MT",19:02,0.00
+Friday,DL,JFK,"New York, NY",06:20,0.00
+Friday,F9,SFO,"San Francisco, CA",19:22,1.00
+Friday,DL,ATL,"Atlanta, GA",23:55,0.00
+Tuesday,AA,MIA,"Miami, FL",07:20,0.00
+Wednesday,F9,SEA,"Seattle, WA",15:15,0.00
+Sunday,OO,BOI,"Boise, ID",12:00,0.00
+Monday,B6,FLL,"Fort Lauderdale, FL",22:08,0.00
+Tuesday,AA,CLT,"Charlotte, NC",22:00,0.00
+Friday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Wednesday,OO,STS,"Santa Rosa, CA",22:13,0.00
+Monday,AA,AUS,"Austin, TX",18:52,0.00
+Sunday,WN,PHX,"Phoenix, AZ",18:35,1.00
+Tuesday,AA,MCO,"Orlando, FL",09:02,0.00
+Sunday,UA,LAS,"Las Vegas, NV",22:59,0.00
+Saturday,DL,JFK,"New York, NY",13:25,0.00
+Sunday,UA,BZN,"Bozeman, MT",12:55,0.00
+Wednesday,B6,JFK,"New York, NY",22:35,0.00
+Thursday,AS,GEG,"Spokane, WA",20:13,0.00
+Sunday,OO,XNA,"Fayetteville, AR",09:41,0.00
+Sunday,AS,HNL,"Honolulu, HI",17:35,1.00
+Thursday,WN,AUS,"Austin, TX",16:10,0.00
+Sunday,DL,ATL,"Atlanta, GA",07:15,0.00
+Friday,WN,DAL,"Dallas, TX",18:30,1.00
+Saturday,UA,MRY,"Monterey, CA",16:43,0.00
+Monday,UA,IAD,"Washington, DC",08:15,0.00
+Friday,DL,SLC,"Salt Lake City, UT",17:10,1.00
+Wednesday,AA,CLT,"Charlotte, NC",06:05,0.00
+Monday,WN,HOU,"Houston, TX",08:30,0.00
+Saturday,DL,HNL,"Honolulu, HI",08:55,0.00
+Thursday,WN,SJC,"San Jose, CA",09:15,0.00
+Sunday,DL,SEA,"Seattle, WA",21:05,1.00
+Wednesday,UA,IAH,"Houston, TX",13:10,1.00
+Tuesday,OO,PDX,"Portland, OR",19:57,0.00
+Thursday,DL,JFK,"New York, NY",23:55,0.00
+Sunday,DL,OGG,"Kahului, HI",16:55,0.00
+Wednesday,UA,KOA,"Kona, HI",09:10,1.00
+Sunday,DL,DTW,"Detroit, MI",07:45,0.00
+Saturday,AS,SEA,"Seattle, WA",14:30,0.00
+Saturday,UA,BWI,"Baltimore, MD",23:05,0.00
+Wednesday,DL,PDX,"Portland, OR",16:55,0.00
+Sunday,DL,DFW,"Dallas/Fort Worth, TX",18:55,0.00
+Sunday,OO,SAN,"San Diego, CA",19:00,0.00
+Tuesday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,0.00
+Wednesday,DL,OGG,"Kahului, HI",16:55,0.00
+Friday,AA,LAS,"Las Vegas, NV",20:19,0.00
+Tuesday,OO,RNO,"Reno, NV",08:20,0.00
+Wednesday,DL,JFK,"New York, NY",11:20,0.00
+Thursday,WN,AUS,"Austin, TX",11:15,0.00
+Monday,OO,SLC,"Salt Lake City, UT",12:55,0.00
+Saturday,AA,MIA,"Miami, FL",13:56,1.00
+Sunday,WN,BNA,"Nashville, TN",12:05,0.00
+Thursday,OO,XNA,"Fayetteville, AR",17:49,0.00
+Thursday,AS,HNL,"Honolulu, HI",08:30,0.00
+Sunday,UA,SFO,"San Francisco, CA",15:40,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",15:26,0.00
+Sunday,OO,SBP,"San Luis Obispo, CA",22:43,0.00
+Saturday,UA,EWR,"Newark, NJ",06:00,0.00
+Saturday,UA,BWI,"Baltimore, MD",12:40,0.00
+Saturday,AA,DCA,"Washington, DC",08:26,0.00
+Wednesday,OO,OMA,"Omaha, NE",09:30,0.00
+Sunday,OO,SBA,"Santa Barbara, CA",08:15,0.00
+Sunday,AS,SFO,"San Francisco, CA",08:25,1.00
+Saturday,UA,RNO,"Reno, NV",20:09,0.00
+Monday,DL,HNL,"Honolulu, HI",13:55,0.00
+Thursday,DL,MIA,"Miami, FL",09:05,0.00
+Saturday,AS,SFO,"San Francisco, CA",13:45,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",05:50,0.00
+Thursday,DL,LAS,"Las Vegas, NV",15:59,1.00
+Thursday,F9,SFO,"San Francisco, CA",19:22,0.00
+Saturday,WN,SFO,"San Francisco, CA",15:55,0.00
+Tuesday,QX,GEG,"Spokane, WA",12:48,0.00
+Monday,UA,SAN,"San Diego, CA",23:01,0.00
+Wednesday,OO,RNO,"Reno, NV",21:30,0.00
+Sunday,DL,MSP,"Minneapolis, MN",15:00,1.00
+Thursday,UA,BWI,"Baltimore, MD",23:05,0.00
+Sunday,UA,IAH,"Houston, TX",10:18,0.00
+Friday,OO,PDX,"Portland, OR",10:06,0.00
+Friday,DL,OGG,"Kahului, HI",08:20,0.00
+Saturday,DL,MCO,"Orlando, FL",10:50,0.00
+Saturday,DL,DTW,"Detroit, MI",22:25,0.00
+Tuesday,UA,KOA,"Kona, HI",09:10,0.00
+Sunday,WN,LAS,"Las Vegas, NV",17:05,0.00
+Tuesday,UA,IAH,"Houston, TX",10:18,0.00
+Saturday,AA,ORD,"Chicago, IL",15:15,0.00
+Friday,B6,FLL,"Fort Lauderdale, FL",08:25,0.00
+Wednesday,AS,SEA,"Seattle, WA",06:00,0.00
+Friday,DL,ATL,"Atlanta, GA",17:15,1.00
+Monday,AS,HNL,"Honolulu, HI",10:00,0.00
+Tuesday,DL,CVG,"Cincinnati, OH",22:46,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",17:53,0.00
+Tuesday,OO,EUG,"Eugene, OR",17:43,0.00
+Saturday,OO,SAN,"San Diego, CA",13:53,0.00
+Friday,OO,BOI,"Boise, ID",07:00,1.00
+Wednesday,DL,ATL,"Atlanta, GA",21:45,0.00
+Thursday,DL,SEA,"Seattle, WA",07:59,0.00
+Sunday,AA,PHL,"Philadelphia, PA",07:02,0.00
+Sunday,DL,SFO,"San Francisco, CA",19:59,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",23:59,0.00
+Thursday,UA,DEN,"Denver, CO",14:30,0.00
+Wednesday,AS,STS,"Santa Rosa, CA",18:22,0.00
+Thursday,OO,PHX,"Phoenix, AZ",17:45,0.00
+Tuesday,OO,SFO,"San Francisco, CA",21:30,0.00
+Tuesday,OO,PDX,"Portland, OR",19:06,1.00
+Monday,DL,DEN,"Denver, CO",08:50,0.00
+Monday,OO,PHX,"Phoenix, AZ",19:53,0.00
+Tuesday,DL,JFK,"New York, NY",23:55,0.00
+Friday,DL,SEA,"Seattle, WA",19:59,0.00
+Thursday,UA,LAS,"Las Vegas, NV",22:59,0.00
+Friday,OO,OMA,"Omaha, NE",09:30,0.00
+Thursday,UA,LAS,"Las Vegas, NV",10:50,0.00
+Wednesday,UA,DEN,"Denver, CO",07:00,0.00
+Friday,OO,BOI,"Boise, ID",19:57,0.00
+Monday,AA,PHL,"Philadelphia, PA",21:40,0.00
+Saturday,OO,SEA,"Seattle, WA",15:09,0.00
+Sunday,AA,CLT,"Charlotte, NC",23:00,0.00
+Friday,DL,SJC,"San Jose, CA",15:45,0.00
+Monday,DL,PDX,"Portland, OR",17:00,0.00
+Thursday,DL,MIA,"Miami, FL",09:05,0.00
+Monday,WN,AUS,"Austin, TX",19:55,1.00
+Friday,B6,JFK,"New York, NY",14:20,0.00
+Thursday,AA,HNL,"Honolulu, HI",10:49,0.00
+Monday,OO,TUS,"Tucson, AZ",19:14,0.00
+Thursday,OO,SMF,"Sacramento, CA",21:50,0.00
+Wednesday,F9,ATL,"Atlanta, GA",23:20,0.00
+Wednesday,AA,ORD,"Chicago, IL",06:04,0.00
+Wednesday,DL,IAH,"Houston, TX",09:54,0.00
+Thursday,DL,IAH,"Houston, TX",18:45,0.00
+Saturday,OO,LAS,"Las Vegas, NV",08:28,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",13:33,1.00
+Friday,DL,SJC,"San Jose, CA",15:45,0.00
+Wednesday,DL,SFO,"San Francisco, CA",14:35,1.00
+Friday,AA,PHL,"Philadelphia, PA",08:15,1.00
+Thursday,DL,JFK,"New York, NY",11:20,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",17:10,1.00
+Wednesday,DL,MSP,"Minneapolis, MN",23:59,0.00
+Sunday,WN,SMF,"Sacramento, CA",05:15,0.00
+Thursday,OO,BOI,"Boise, ID",07:00,0.00
+Saturday,DL,HNL,"Honolulu, HI",18:55,0.00
+Saturday,AS,STS,"Santa Rosa, CA",18:29,0.00
+Monday,DL,SLC,"Salt Lake City, UT",19:24,0.00
+Friday,DL,OGG,"Kahului, HI",16:55,1.00
+Wednesday,DL,MSP,"Minneapolis, MN",08:10,0.00
+Saturday,DL,MIA,"Miami, FL",09:15,0.00
+Saturday,WN,PHX,"Phoenix, AZ",05:35,1.00
+Friday,OO,SBA,"Santa Barbara, CA",12:40,1.00
+Thursday,WN,MCO,"Orlando, FL",23:15,1.00
+Wednesday,AS,HNL,"Honolulu, HI",20:59,1.00
+Tuesday,AA,JFK,"New York, NY",13:29,1.00
+Sunday,AA,IND,"Indianapolis, IN",09:39,0.00
+Sunday,AA,BOS,"Boston, MA",22:30,0.00
+Saturday,OO,SAN,"San Diego, CA",22:20,0.00
+Thursday,OO,SJC,"San Jose, CA",12:53,0.00
+Saturday,OO,SFO,"San Francisco, CA",20:35,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",00:40,1.00
+Monday,OO,ABQ,"Albuquerque, NM",08:25,1.00
+Sunday,F9,DFW,"Dallas/Fort Worth, TX",05:45,0.00
+Friday,UA,SFO,"San Francisco, CA",10:27,0.00
+Saturday,OO,SAN,"San Diego, CA",09:07,0.00
+Saturday,OO,SFO,"San Francisco, CA",21:30,0.00
+Friday,B6,FLL,"Fort Lauderdale, FL",10:39,1.00
+Tuesday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Wednesday,UA,IAD,"Washington, DC",22:10,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",13:33,1.00
+Tuesday,DL,AUS,"Austin, TX",10:35,0.00
+Friday,OO,SMF,"Sacramento, CA",16:18,0.00
+Sunday,OO,BOI,"Boise, ID",19:55,0.00
+Sunday,DL,SJC,"San Jose, CA",15:45,0.00
+Sunday,DL,SEA,"Seattle, WA",12:00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",09:04,0.00
+Sunday,QX,PAE,"Everett, WA",19:06,1.00
+Tuesday,DL,MCO,"Orlando, FL",23:15,0.00
+Thursday,AA,KOA,"Kona, HI",14:16,0.00
+Monday,AA,JFK,"New York, NY",21:36,0.00
+Wednesday,WN,MCO,"Orlando, FL",23:15,1.00
+Friday,OO,GEG,"Spokane, WA",14:45,0.00
+Sunday,UA,HNL,"Honolulu, HI",13:15,0.00
+Thursday,DL,DTW,"Detroit, MI",09:35,0.00
+Tuesday,DL,MSP,"Minneapolis, MN",15:00,0.00
+Sunday,DL,TPA,"Tampa, FL",10:30,0.00
+Sunday,OO,ELP,"El Paso, TX",08:29,0.00
+Sunday,WN,TUS,"Tucson, AZ",21:30,1.00
+Monday,WN,DAL,"Dallas, TX",17:00,0.00
+Saturday,OO,SMF,"Sacramento, CA",09:15,0.00
+Monday,DL,MCO,"Orlando, FL",07:40,0.00
+Friday,WN,HOU,"Houston, TX",18:15,0.00
+Wednesday,UA,BOS,"Boston, MA",22:43,0.00
+Saturday,F9,LAS,"Las Vegas, NV",12:08,0.00
+Tuesday,DL,SLC,"Salt Lake City, UT",13:16,0.00
+Monday,F9,SJC,"San Jose, CA",10:43,0.00
+Friday,UA,ORD,"Chicago, IL",12:50,0.00
+Monday,DL,JFK,"New York, NY",22:55,0.00
+Saturday,UA,IAD,"Washington, DC",12:55,0.00
+Friday,DL,MSP,"Minneapolis, MN",08:10,0.00
+Friday,WN,BWI,"Baltimore, MD",12:40,0.00
+Thursday,OO,RDM,"Bend/Redmond, OR",10:15,0.00
+Sunday,AA,CLT,"Charlotte, NC",22:00,0.00
+Saturday,AA,HNL,"Honolulu, HI",10:49,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",23:59,0.00
+Thursday,DL,LAS,"Las Vegas, NV",11:15,1.00
+Wednesday,UA,IAH,"Houston, TX",11:30,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",15:26,0.00
+Wednesday,DL,OGG,"Kahului, HI",08:05,0.00
+Friday,AA,HNL,"Honolulu, HI",14:59,0.00
+Monday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Friday,DL,DTW,"Detroit, MI",22:35,0.00
+Saturday,WN,HNL,"Honolulu, HI",18:20,0.00
+Sunday,DL,JFK,"New York, NY",13:25,0.00
+Sunday,AA,DCA,"Washington, DC",07:48,0.00
+Thursday,OO,OMA,"Omaha, NE",09:49,0.00
+Saturday,WN,DEN,"Denver, CO",16:35,1.00
+Thursday,WN,SJC,"San Jose, CA",17:00,1.00
+Sunday,DL,FLL,"Fort Lauderdale, FL",22:40,1.00
+Saturday,UA,ORD,"Chicago, IL",07:00,0.00
+Saturday,AA,DCA,"Washington, DC",12:32,1.00
+Monday,OO,PHX,"Phoenix, AZ",17:45,0.00
+Friday,DL,MCO,"Orlando, FL",07:35,0.00
+Thursday,WN,SFO,"San Francisco, CA",15:35,1.00
+Saturday,OO,SBP,"San Luis Obispo, CA",16:10,0.00
+Monday,UA,IAH,"Houston, TX",05:45,0.00
+Tuesday,UA,IAD,"Washington, DC",08:25,0.00
+Tuesday,DL,TPA,"Tampa, FL",10:50,0.00
+Thursday,AA,CLT,"Charlotte, NC",09:24,1.00
+Wednesday,DL,ATL,"Atlanta, GA",14:40,1.00
+Monday,UA,IAD,"Washington, DC",22:10,0.00
+Monday,DL,JFK,"New York, NY",23:55,0.00
+Thursday,DL,SEA,"Seattle, WA",07:59,0.00
+Sunday,UA,CLE,"Cleveland, OH",13:20,0.00
+Friday,OO,PHX,"Phoenix, AZ",08:00,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",14:34,0.00
+Wednesday,B6,JFK,"New York, NY",23:31,0.00
+Sunday,OO,BOI,"Boise, ID",11:28,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",15:20,0.00
+Saturday,OO,DSM,"Des Moines, IA",12:50,0.00
+Friday,OO,SEA,"Seattle, WA",12:45,0.00
+Monday,WN,SJC,"San Jose, CA",14:50,1.00
+Saturday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Monday,OO,SJC,"San Jose, CA",07:58,0.00
+Friday,OO,BOI,"Boise, ID",19:55,0.00
+Monday,UA,IAH,"Houston, TX",10:18,0.00
+Friday,DL,SJC,"San Jose, CA",17:51,1.00
+Saturday,UA,BOS,"Boston, MA",08:15,0.00
+Friday,OO,SAN,"San Diego, CA",09:25,0.00
+Thursday,OO,TUS,"Tucson, AZ",15:21,0.00
+Wednesday,OO,SEA,"Seattle, WA",12:45,0.00
+Wednesday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Thursday,WN,ELP,"El Paso, TX",08:15,0.00
+Sunday,DL,TPA,"Tampa, FL",10:30,0.00
+Sunday,DL,SJC,"San Jose, CA",09:30,0.00
+Friday,OO,RNO,"Reno, NV",16:12,0.00
+Thursday,OO,SLC,"Salt Lake City, UT",12:55,0.00
+Monday,OO,ABQ,"Albuquerque, NM",08:23,0.00
+Saturday,WN,ABQ,"Albuquerque, NM",17:10,0.00
+Sunday,OO,SBP,"San Luis Obispo, CA",19:30,0.00
+Monday,AA,LAS,"Las Vegas, NV",09:40,0.00
+Monday,DL,RDU,"Raleigh/Durham, NC",10:00,0.00
+Tuesday,DL,BOS,"Boston, MA",10:45,0.00
+Tuesday,DL,ATL,"Atlanta, GA",22:55,1.00
+Wednesday,WN,TPA,"Tampa, FL",07:40,1.00
+Thursday,AS,SFO,"San Francisco, CA",06:00,0.00
+Monday,DL,JFK,"New York, NY",12:25,1.00
+Thursday,UA,IAH,"Houston, TX",00:51,0.00
+Wednesday,DL,LIH,"Lihue, HI",14:50,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",18:50,1.00
+Saturday,OO,SMF,"Sacramento, CA",07:00,0.00
+Sunday,OO,SMF,"Sacramento, CA",09:23,0.00
+Sunday,F9,ORD,"Chicago, IL",00:26,0.00
+Wednesday,AA,MIA,"Miami, FL",20:56,0.00
+Wednesday,DL,DFW,"Dallas/Fort Worth, TX",18:55,0.00
+Wednesday,WN,BWI,"Baltimore, MD",06:00,0.00
+Saturday,DL,MCO,"Orlando, FL",10:50,0.00
+Friday,OO,DEN,"Denver, CO",16:34,0.00
+Thursday,WN,MDW,"Chicago, IL",23:55,0.00
+Friday,DL,SJC,"San Jose, CA",15:45,0.00
+Saturday,DL,MSY,"New Orleans, LA",18:29,0.00
+Thursday,F9,SMF,"Sacramento, CA",17:57,0.00
+Sunday,AA,IAD,"Washington, DC",21:45,0.00
+Monday,OO,SMF,"Sacramento, CA",21:21,0.00
+Thursday,B6,BOS,"Boston, MA",11:04,0.00
+Saturday,WN,HOU,"Houston, TX",23:50,0.00
+Sunday,DL,BOS,"Boston, MA",10:45,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",01:22,0.00
+Friday,AS,SEA,"Seattle, WA",06:00,0.00
+Saturday,F9,IAH,"Houston, TX",09:46,0.00
+Friday,UA,ORD,"Chicago, IL",23:30,1.00
+Friday,DL,AUS,"Austin, TX",07:35,0.00
+Monday,UA,EWR,"Newark, NJ",06:00,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",07:02,0.00
+Wednesday,UA,DEN,"Denver, CO",08:45,0.00
+Saturday,F9,PDX,"Portland, OR",09:20,0.00
+Monday,AA,MIA,"Miami, FL",13:50,0.00
+Wednesday,DL,SLC,"Salt Lake City, UT",05:50,0.00
+Friday,WN,DAL,"Dallas, TX",17:00,0.00
+Thursday,B6,JFK,"New York, NY",22:00,0.00
+Friday,OO,SMF,"Sacramento, CA",12:30,0.00
+Thursday,AA,ORD,"Chicago, IL",08:00,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",19:24,1.00
+Tuesday,OO,SLC,"Salt Lake City, UT",12:55,0.00
+Monday,UA,BZN,"Bozeman, MT",08:50,0.00
+Sunday,AA,PHX,"Phoenix, AZ",18:46,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",16:15,0.00
+Saturday,AA,BOS,"Boston, MA",23:30,0.00
+Thursday,WN,OAK,"Oakland, CA",06:10,0.00
+Monday,DL,MSP,"Minneapolis, MN",11:26,0.00
+Monday,DL,BNA,"Nashville, TN",11:20,0.00
+Monday,B6,JFK,"New York, NY",12:11,0.00
+Friday,UA,RNO,"Reno, NV",16:29,0.00
+Sunday,DL,ATL,"Atlanta, GA",17:15,0.00
+Thursday,WN,SMF,"Sacramento, CA",14:40,0.00
+Tuesday,OO,SJC,"San Jose, CA",14:05,0.00
+Thursday,DL,MCI,"Kansas City, MO",09:45,0.00
+Monday,AA,HNL,"Honolulu, HI",15:48,0.00
+Wednesday,UA,SFO,"San Francisco, CA",20:15,1.00
+Tuesday,OO,SAF,"Santa Fe, NM",08:18,0.00
+Tuesday,OO,AUS,"Austin, TX",17:57,0.00
+Wednesday,AA,JFK,"New York, NY",15:35,0.00
+Saturday,UA,DEN,"Denver, CO",07:00,0.00
+Saturday,DL,BOS,"Boston, MA",07:15,0.00
+Saturday,DL,PDX,"Portland, OR",14:00,1.00
+Thursday,AS,KOA,"Kona, HI",08:30,0.00
+Sunday,DL,MIA,"Miami, FL",22:00,0.00
+Saturday,OO,SAN,"San Diego, CA",14:05,0.00
+Monday,UA,LIH,"Lihue, HI",08:33,0.00
+Monday,OO,GEG,"Spokane, WA",20:40,0.00
+Saturday,OO,PDX,"Portland, OR",10:05,0.00
+Sunday,UA,SFO,"San Francisco, CA",20:00,1.00
+Sunday,OO,SAN,"San Diego, CA",09:07,0.00
+Monday,WN,BWI,"Baltimore, MD",12:40,1.00
+Sunday,UA,IAD,"Washington, DC",22:10,1.00
+Sunday,WN,PHX,"Phoenix, AZ",17:00,1.00
+Thursday,UA,IAD,"Washington, DC",21:30,1.00
+Thursday,UA,ORD,"Chicago, IL",07:00,0.00
+Saturday,UA,SFO,"San Francisco, CA",09:10,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",11:40,0.00
+Monday,OO,SMF,"Sacramento, CA",09:23,0.00
+Wednesday,UA,HNL,"Honolulu, HI",09:05,0.00
+Wednesday,UA,LAS,"Las Vegas, NV",13:00,0.00
+Saturday,DL,ATL,"Atlanta, GA",22:55,0.00
+Saturday,UA,MRY,"Monterey, CA",16:43,0.00
+Monday,OO,PDX,"Portland, OR",19:57,0.00
+Friday,AA,PHX,"Phoenix, AZ",12:50,0.00
+Friday,AS,HNL,"Honolulu, HI",17:35,1.00
+Monday,AA,CLT,"Charlotte, NC",11:00,0.00
+Tuesday,F9,SMF,"Sacramento, CA",17:57,0.00
+Tuesday,AA,MIA,"Miami, FL",22:25,0.00
+Friday,DL,MSY,"New Orleans, LA",18:29,0.00
+Saturday,WN,RNO,"Reno, NV",11:05,0.00
+Friday,QX,RDM,"Bend/Redmond, OR",21:11,0.00
+Friday,AA,IND,"Indianapolis, IN",17:04,1.00
+Friday,AS,SFO,"San Francisco, CA",06:00,0.00
+Wednesday,OO,SJC,"San Jose, CA",14:19,0.00
+Thursday,F9,PHX,"Phoenix, AZ",22:05,1.00
+Wednesday,AA,PHL,"Philadelphia, PA",10:36,0.00
+Friday,AA,OGG,"Kahului, HI",08:53,0.00
+Thursday,AA,PHX,"Phoenix, AZ",19:30,0.00
+Saturday,UA,HNL,"Honolulu, HI",09:05,0.00
+Sunday,UA,EWR,"Newark, NJ",13:25,0.00
+Tuesday,AA,CLT,"Charlotte, NC",06:05,1.00
+Sunday,UA,IAH,"Houston, TX",08:10,0.00
+Monday,OO,SEA,"Seattle, WA",15:09,1.00
+Thursday,DL,DTW,"Detroit, MI",05:35,0.00
+Sunday,AA,MIA,"Miami, FL",23:59,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",21:40,1.00
+Sunday,DL,SJC,"San Jose, CA",18:14,0.00
+Tuesday,WN,SMF,"Sacramento, CA",16:50,1.00
+Thursday,AA,PHX,"Phoenix, AZ",06:10,0.00
+Wednesday,OO,DEN,"Denver, CO",08:35,0.00
+Thursday,B6,BOS,"Boston, MA",07:00,0.00
+Sunday,DL,ATL,"Atlanta, GA",12:30,0.00
+Sunday,AA,PHX,"Phoenix, AZ",10:13,1.00
+Saturday,DL,ATL,"Atlanta, GA",08:15,1.00
+Sunday,OO,SAF,"Santa Fe, NM",08:18,0.00
+Monday,OO,TUL,"Tulsa, OK",09:59,0.00
+Friday,AS,SFO,"San Francisco, CA",10:53,0.00
+Tuesday,AA,ORD,"Chicago, IL",17:59,1.00
+Friday,AS,PDX,"Portland, OR",21:14,1.00
+Monday,WN,LAS,"Las Vegas, NV",11:15,1.00
+Thursday,UA,SFO,"San Francisco, CA",09:10,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",08:05,0.00
+Thursday,WN,SMF,"Sacramento, CA",06:35,1.00
+Friday,B6,JFK,"New York, NY",21:35,0.00
+Friday,WN,SJC,"San Jose, CA",14:50,1.00
+Saturday,DL,MCO,"Orlando, FL",07:35,0.00
+Sunday,AA,HNL,"Honolulu, HI",18:50,1.00
+Saturday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Thursday,DL,CVG,"Cincinnati, OH",22:46,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",12:15,0.00
+Monday,OO,PDX,"Portland, OR",10:06,0.00
+Monday,AA,MCO,"Orlando, FL",09:02,0.00
+Tuesday,OO,EUG,"Eugene, OR",17:43,0.00
+Sunday,DL,SFO,"San Francisco, CA",10:35,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",16:35,1.00
+Tuesday,OO,PHX,"Phoenix, AZ",10:40,0.00
+Saturday,WN,HNL,"Honolulu, HI",07:00,0.00
+Tuesday,AA,MIA,"Miami, FL",22:59,0.00
+Sunday,UA,EWR,"Newark, NJ",23:15,0.00
+Friday,AA,MIA,"Miami, FL",12:25,1.00
+Sunday,DL,MCI,"Kansas City, MO",09:45,0.00
+Wednesday,DL,SFO,"San Francisco, CA",07:00,0.00
+Tuesday,WN,HOU,"Houston, TX",23:50,0.00
+Tuesday,OO,SFO,"San Francisco, CA",07:00,0.00
+Thursday,WN,MCI,"Kansas City, MO",08:10,0.00
+Sunday,AA,CMH,"Columbus, OH",09:18,0.00
+Saturday,UA,ORD,"Chicago, IL",12:50,0.00
+Wednesday,AS,SFO,"San Francisco, CA",13:44,1.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",09:04,0.00
+Monday,AA,ORD,"Chicago, IL",08:00,0.00
+Saturday,UA,IAD,"Washington, DC",10:25,0.00
+Monday,DL,MSY,"New Orleans, LA",18:29,1.00
+Monday,AA,BOS,"Boston, MA",12:10,0.00
+Friday,OO,SBP,"San Luis Obispo, CA",16:10,0.00
+Wednesday,AA,CLE,"Cleveland, OH",08:30,0.00
+Monday,DL,ATL,"Atlanta, GA",09:30,0.00
+Friday,UA,EWR,"Newark, NJ",08:50,0.00
+Sunday,DL,MSP,"Minneapolis, MN",12:40,0.00
+Tuesday,AA,JFK,"New York, NY",15:35,1.00
+Monday,DL,RDU,"Raleigh/Durham, NC",10:00,0.00
+Thursday,AA,MIA,"Miami, FL",07:20,0.00
+Saturday,AA,LAS,"Las Vegas, NV",19:40,0.00
+Monday,DL,SFO,"San Francisco, CA",19:59,0.00
+Saturday,F9,ATL,"Atlanta, GA",15:28,0.00
+Sunday,DL,AUS,"Austin, TX",10:04,0.00
+Saturday,DL,IAH,"Houston, TX",09:54,0.00
+Thursday,UA,OGG,"Kahului, HI",09:00,0.00
+Friday,OO,AUS,"Austin, TX",16:27,0.00
+Wednesday,DL,DTW,"Detroit, MI",07:15,0.00
+Thursday,DL,JFK,"New York, NY",10:05,1.00
+Monday,UA,DEN,"Denver, CO",08:45,0.00
+Thursday,UA,JAC,"Jackson, WY",10:28,1.00
+Friday,B6,JFK,"New York, NY",23:59,1.00
+Wednesday,OO,ASE,"Aspen, CO",16:57,0.00
+Friday,WN,MCI,"Kansas City, MO",08:10,0.00
+Friday,F9,DEN,"Denver, CO",06:15,0.00
+Friday,AA,LAS,"Las Vegas, NV",09:40,0.00
+Wednesday,AA,PHL,"Philadelphia, PA",10:36,1.00
+Friday,WN,SFO,"San Francisco, CA",06:00,0.00
+Saturday,AS,OGG,"Kahului, HI",10:02,0.00
+Monday,UA,RNO,"Reno, NV",16:29,0.00
+Friday,AA,MIA,"Miami, FL",11:03,1.00
+Wednesday,B6,FLL,"Fort Lauderdale, FL",13:02,0.00
+Tuesday,WN,SMF,"Sacramento, CA",19:55,0.00
+Saturday,UA,BOS,"Boston, MA",08:35,0.00
+Sunday,UA,IAH,"Houston, TX",18:45,0.00
+Friday,DL,SLC,"Salt Lake City, UT",11:40,0.00
+Sunday,OO,SAN,"San Diego, CA",09:25,1.00
+Monday,AA,ATL,"Atlanta, GA",09:36,1.00
+Sunday,WN,HNL,"Honolulu, HI",18:20,1.00
+Sunday,OO,TUS,"Tucson, AZ",18:08,0.00
+Sunday,OO,SAN,"San Diego, CA",19:00,0.00
+Monday,DL,MIA,"Miami, FL",09:05,0.00
+Sunday,UA,SFO,"San Francisco, CA",13:25,0.00
+Friday,DL,SLC,"Salt Lake City, UT",13:16,0.00
+Wednesday,UA,SFO,"San Francisco, CA",17:27,0.00
+Saturday,UA,EWR,"Newark, NJ",08:50,0.00
+Friday,UA,ORD,"Chicago, IL",19:17,1.00
+Friday,OO,DEN,"Denver, CO",16:34,1.00
+Monday,AA,JFK,"New York, NY",07:00,0.00
+Wednesday,DL,HNL,"Honolulu, HI",08:55,0.00
+Monday,UA,DEN,"Denver, CO",05:00,0.00
+Wednesday,DL,SEA,"Seattle, WA",07:59,0.00
+Sunday,UA,EWR,"Newark, NJ",07:00,0.00
+Wednesday,DL,DEN,"Denver, CO",20:19,0.00
+Friday,DL,RDU,"Raleigh/Durham, NC",10:00,0.00
+Sunday,DL,DTW,"Detroit, MI",12:00,0.00
+Monday,F9,ORD,"Chicago, IL",00:31,1.00
+Sunday,F9,PHX,"Phoenix, AZ",22:05,1.00
+Friday,UA,SFO,"San Francisco, CA",20:22,0.00
+Tuesday,OO,AUS,"Austin, TX",09:25,0.00
+Friday,WN,MCI,"Kansas City, MO",17:45,1.00
+Sunday,OO,XNA,"Fayetteville, AR",13:00,0.00
+Tuesday,UA,IAD,"Washington, DC",10:39,0.00
+Monday,WN,STL,"St. Louis, MO",13:20,1.00
+Friday,OO,PSP,"Palm Springs, CA",20:20,0.00
+Friday,AS,PDX,"Portland, OR",18:05,1.00
+Tuesday,WN,DEN,"Denver, CO",14:05,0.00
+Thursday,DL,ATL,"Atlanta, GA",22:55,1.00
+Tuesday,WN,BNA,"Nashville, TN",12:10,1.00
+Monday,DL,JFK,"New York, NY",13:25,1.00
+Monday,OO,BOI,"Boise, ID",19:45,0.00
+Friday,UA,OGG,"Kahului, HI",09:00,0.00
+Friday,B6,JFK,"New York, NY",23:05,0.00
+Saturday,WN,OAK,"Oakland, CA",07:30,0.00
+Sunday,OO,PHX,"Phoenix, AZ",14:30,0.00
+Saturday,OO,BOI,"Boise, ID",19:45,0.00
+Sunday,OO,BOI,"Boise, ID",07:00,0.00
+Sunday,AS,EWR,"Newark, NJ",07:00,0.00
+Friday,AS,EWR,"Newark, NJ",07:00,1.00
+Friday,DL,PDX,"Portland, OR",20:39,0.00
+Friday,OO,SFO,"San Francisco, CA",11:31,1.00
+Tuesday,B6,JFK,"New York, NY",08:00,0.00
+Friday,AA,CLT,"Charlotte, NC",11:00,1.00
+Saturday,AA,LAS,"Las Vegas, NV",19:40,0.00
+Thursday,UA,IAH,"Houston, TX",08:15,0.00
+Friday,AS,SFO,"San Francisco, CA",13:44,1.00
+Saturday,AA,LIH,"Lihue, HI",08:29,0.00
+Tuesday,DL,SJC,"San Jose, CA",09:30,0.00
+Monday,AA,PHX,"Phoenix, AZ",06:10,0.00
+Saturday,DL,DTW,"Detroit, MI",05:35,0.00
+Monday,B6,JFK,"New York, NY",22:35,0.00
+Saturday,DL,CVG,"Cincinnati, OH",22:46,0.00
+Friday,OO,SMF,"Sacramento, CA",16:23,0.00
+Sunday,AA,ORD,"Chicago, IL",17:50,1.00
+Wednesday,WN,SAT,"San Antonio, TX",09:35,0.00
+Tuesday,OO,SFO,"San Francisco, CA",11:31,1.00
+Tuesday,B6,JFK,"New York, NY",22:35,0.00
+Friday,OO,PRC,"Prescott, AZ",13:35,0.00
+Wednesday,UA,IAD,"Washington, DC",08:25,0.00
+Tuesday,AA,CLE,"Cleveland, OH",09:50,0.00
+Thursday,OO,ELP,"El Paso, TX",08:29,0.00
+Saturday,DL,OGG,"Kahului, HI",08:05,0.00
+Friday,OO,SFO,"San Francisco, CA",09:22,1.00
+Friday,UA,DEN,"Denver, CO",14:20,0.00
+Friday,OO,SMF,"Sacramento, CA",09:10,0.00
+Tuesday,UA,DEN,"Denver, CO",10:55,0.00
+Friday,WN,SMF,"Sacramento, CA",20:40,1.00
+Saturday,DL,ATL,"Atlanta, GA",12:10,0.00
+Thursday,DL,FLL,"Fort Lauderdale, FL",22:40,1.00
+Monday,DL,MCO,"Orlando, FL",15:35,1.00
+Monday,OO,EUG,"Eugene, OR",09:31,0.00
+Thursday,DL,MSP,"Minneapolis, MN",15:26,1.00
+Thursday,AA,CLT,"Charlotte, NC",06:00,0.00
+Friday,AA,ORD,"Chicago, IL",23:41,1.00
+Wednesday,DL,SJC,"San Jose, CA",15:45,0.00
+Sunday,AS,SEA,"Seattle, WA",18:10,1.00
+Friday,UA,SMF,"Sacramento, CA",19:09,1.00
+Tuesday,OO,SJC,"San Jose, CA",14:19,0.00
+Friday,DL,MCO,"Orlando, FL",07:35,0.00
+Wednesday,DL,DTW,"Detroit, MI",22:35,0.00
+Wednesday,OO,OKC,"Oklahoma City, OK",17:31,0.00
+Friday,UA,IAD,"Washington, DC",08:25,0.00
+Thursday,OO,SBA,"Santa Barbara, CA",22:44,0.00
+Monday,DL,IAH,"Houston, TX",18:40,1.00
+Saturday,WN,STL,"St. Louis, MO",07:35,0.00
+Monday,DL,JFK,"New York, NY",21:45,0.00
+Sunday,UA,IAH,"Houston, TX",05:45,0.00
+Tuesday,DL,SFO,"San Francisco, CA",21:00,0.00
+Monday,UA,MCO,"Orlando, FL",10:26,0.00
+Tuesday,AA,MIA,"Miami, FL",12:25,0.00
+Wednesday,F9,ORD,"Chicago, IL",00:31,0.00
+Monday,AA,RDU,"Raleigh/Durham, NC",09:05,0.00
+Sunday,AA,JFK,"New York, NY",22:30,0.00
+Thursday,AA,PHX,"Phoenix, AZ",10:13,0.00
+Sunday,DL,IAH,"Houston, TX",18:45,1.00
+Monday,OO,SAN,"San Diego, CA",21:35,1.00
+Wednesday,OO,MRY,"Monterey, CA",10:27,0.00
+Wednesday,AA,PHL,"Philadelphia, PA",23:05,0.00
+Sunday,AA,MIA,"Miami, FL",11:03,0.00
+Saturday,AA,JFK,"New York, NY",21:54,0.00
+Saturday,AA,PHL,"Philadelphia, PA",23:05,0.00
+Friday,AA,MCO,"Orlando, FL",15:18,0.00
+Friday,AS,SFO,"San Francisco, CA",18:30,1.00
+Tuesday,OO,GEG,"Spokane, WA",12:54,0.00
+Sunday,DL,MCI,"Kansas City, MO",09:45,0.00
+Monday,WN,SMF,"Sacramento, CA",06:35,0.00
+Saturday,B6,BOS,"Boston, MA",21:40,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",23:45,0.00
+Tuesday,DL,LAS,"Las Vegas, NV",11:59,0.00
+Friday,OO,RDM,"Bend/Redmond, OR",10:23,1.00
+Monday,AA,DCA,"Washington, DC",07:48,0.00
+Friday,UA,TPA,"Tampa, FL",10:15,0.00
+Monday,B6,BUF,"Buffalo, NY",23:59,0.00
+Wednesday,WN,PHX,"Phoenix, AZ",15:35,1.00
+Friday,AA,CLT,"Charlotte, NC",13:53,1.00
+Saturday,OO,SBA,"Santa Barbara, CA",22:45,0.00
+Friday,WN,SFO,"San Francisco, CA",15:35,1.00
+Thursday,OO,DEN,"Denver, CO",16:34,0.00
+Monday,UA,EWR,"Newark, NJ",23:15,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",14:35,0.00
+Tuesday,OO,ACV,"Arcata/Eureka, CA",20:15,0.00
+Sunday,OO,RNO,"Reno, NV",08:20,0.00
+Saturday,AA,AUS,"Austin, TX",18:52,1.00
+Sunday,UA,EWR,"Newark, NJ",10:15,0.00
+Wednesday,UA,ORD,"Chicago, IL",22:35,1.00
+Saturday,DL,MIA,"Miami, FL",09:05,0.00
+Monday,B6,BOS,"Boston, MA",09:12,1.00
+Sunday,WN,SJC,"San Jose, CA",16:05,1.00
+Monday,UA,DEN,"Denver, CO",08:45,0.00
+Sunday,DL,MCO,"Orlando, FL",10:50,1.00
+Saturday,AA,CLT,"Charlotte, NC",09:20,1.00
+Wednesday,UA,ORD,"Chicago, IL",12:50,0.00
+Thursday,UA,RNO,"Reno, NV",20:09,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",00:40,0.00
+Sunday,OO,BOI,"Boise, ID",19:55,0.00
+Wednesday,DL,SFO,"San Francisco, CA",07:00,0.00
+Sunday,WN,SJC,"San Jose, CA",09:00,0.00
+Friday,AA,BNA,"Nashville, TN",10:38,0.00
+Monday,WN,ABQ,"Albuquerque, NM",07:25,0.00
+Saturday,WN,DEN,"Denver, CO",09:25,1.00
+Sunday,WN,MDW,"Chicago, IL",23:55,0.00
+Thursday,OO,SMF,"Sacramento, CA",21:20,0.00
+Wednesday,WN,MDW,"Chicago, IL",05:15,1.00
+Sunday,DL,MIA,"Miami, FL",22:55,1.00
+Monday,DL,BNA,"Nashville, TN",06:50,0.00
+Thursday,AS,ANC,"Anchorage, AK",20:00,0.00
+Monday,WN,BWI,"Baltimore, MD",12:40,0.00
+Thursday,UA,ORD,"Chicago, IL",00:15,0.00
+Friday,OO,RNO,"Reno, NV",17:27,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",06:00,0.00
+Thursday,DL,JFK,"New York, NY",15:20,0.00
+Sunday,AA,MIA,"Miami, FL",08:00,0.00
+Monday,AS,PDX,"Portland, OR",07:05,0.00
+Sunday,WN,SFO,"San Francisco, CA",15:50,1.00
+Tuesday,WN,SJC,"San Jose, CA",06:15,0.00
+Friday,DL,CVG,"Cincinnati, OH",22:46,0.00
+Sunday,AS,SFO,"San Francisco, CA",08:00,1.00
+Sunday,UA,ORD,"Chicago, IL",15:20,0.00
+Sunday,OO,PDX,"Portland, OR",19:06,0.00
+Tuesday,OO,SJC,"San Jose, CA",18:04,0.00
+Sunday,OO,SFO,"San Francisco, CA",16:06,1.00
+Sunday,UA,DEN,"Denver, CO",16:10,0.00
+Monday,WN,MDW,"Chicago, IL",16:45,1.00
+Thursday,OO,FAT,"Fresno, CA",10:30,0.00
+Friday,WN,OAK,"Oakland, CA",12:00,1.00
+Thursday,AA,IND,"Indianapolis, IN",17:04,1.00
+Thursday,OO,SAN,"San Diego, CA",16:22,0.00
+Tuesday,UA,DEN,"Denver, CO",12:46,0.00
+Friday,OO,GEG,"Spokane, WA",12:54,0.00
+Monday,WN,SMF,"Sacramento, CA",06:35,0.00
+Sunday,DL,DTW,"Detroit, MI",12:20,0.00
+Sunday,UA,EWR,"Newark, NJ",08:50,0.00
+Friday,DL,OGG,"Kahului, HI",08:05,0.00
+Tuesday,OO,MRY,"Monterey, CA",10:20,0.00
+Thursday,B6,JFK,"New York, NY",08:00,0.00
+Monday,DL,ATL,"Atlanta, GA",12:10,0.00
+Thursday,OO,BOI,"Boise, ID",18:57,0.00
+Monday,DL,ATL,"Atlanta, GA",21:45,0.00
+Saturday,WN,BNA,"Nashville, TN",09:50,1.00
+Tuesday,OO,FAT,"Fresno, CA",10:30,0.00
+Sunday,OO,PHX,"Phoenix, AZ",10:00,0.00
+Saturday,UA,BWI,"Baltimore, MD",09:33,0.00
+Thursday,WN,TUS,"Tucson, AZ",10:40,0.00
+Friday,WN,MCI,"Kansas City, MO",08:10,1.00
+Saturday,B6,JFK,"New York, NY",16:20,0.00
+Monday,UA,EWR,"Newark, NJ",11:15,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",10:55,0.00
+Monday,WN,MDW,"Chicago, IL",23:55,1.00
+Sunday,DL,RDU,"Raleigh/Durham, NC",10:00,0.00
+Monday,OO,TUL,"Tulsa, OK",09:59,0.00
+Tuesday,UA,AUS,"Austin, TX",10:55,0.00
+Wednesday,UA,OGG,"Kahului, HI",09:00,0.00
+Thursday,UA,ORD,"Chicago, IL",12:50,0.00
+Sunday,WN,BWI,"Baltimore, MD",21:50,1.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",13:55,0.00
+Wednesday,OO,AUS,"Austin, TX",17:57,0.00
+Sunday,AS,SEA,"Seattle, WA",19:47,0.00
+Thursday,OO,DSM,"Des Moines, IA",12:50,0.00
+Tuesday,OO,RNO,"Reno, NV",12:59,0.00
+Wednesday,WN,BNA,"Nashville, TN",12:10,0.00
+Thursday,AA,CLT,"Charlotte, NC",06:05,0.00
+Tuesday,UA,DEN,"Denver, CO",18:32,0.00
+Friday,DL,MCI,"Kansas City, MO",09:45,0.00
+Friday,AS,PDX,"Portland, OR",18:03,0.00
+Thursday,DL,OGG,"Kahului, HI",16:55,0.00
+Tuesday,DL,BOS,"Boston, MA",21:05,0.00
+Thursday,AA,PHL,"Philadelphia, PA",12:19,1.00
+Sunday,AA,PHL,"Philadelphia, PA",21:40,0.00
+Monday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Monday,DL,LAS,"Las Vegas, NV",07:35,0.00
+Saturday,AA,ORD,"Chicago, IL",15:15,0.00
+Monday,WN,AUS,"Austin, TX",16:10,1.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",06:00,0.00
+Friday,F9,PDX,"Portland, OR",09:20,0.00
+Tuesday,UA,OGG,"Kahului, HI",09:00,0.00
+Tuesday,DL,SEA,"Seattle, WA",07:59,0.00
+Saturday,AA,CMH,"Columbus, OH",10:00,1.00
+Monday,DL,SJC,"San Jose, CA",09:30,1.00
+Friday,DL,LAS,"Las Vegas, NV",11:59,0.00
+Thursday,DL,ATL,"Atlanta, GA",14:30,0.00
+Sunday,UA,EWR,"Newark, NJ",12:15,0.00
+Thursday,OO,SJC,"San Jose, CA",07:58,0.00
+Friday,AA,LAS,"Las Vegas, NV",19:40,1.00
+Tuesday,AA,LAS,"Las Vegas, NV",19:40,0.00
+Wednesday,WN,OAK,"Oakland, CA",08:15,0.00
+Monday,WN,OAK,"Oakland, CA",18:40,1.00
+Tuesday,OO,DSM,"Des Moines, IA",12:50,0.00
+Friday,DL,MSY,"New Orleans, LA",07:05,0.00
+Tuesday,DL,KOA,"Kona, HI",16:45,1.00
+Tuesday,DL,ATL,"Atlanta, GA",12:30,0.00
+Thursday,OO,RNO,"Reno, NV",12:56,0.00
+Thursday,UA,EWR,"Newark, NJ",08:50,0.00
+Friday,DL,BOS,"Boston, MA",07:40,0.00
+Sunday,UA,IAH,"Houston, TX",07:05,0.00
+Wednesday,AA,DCA,"Washington, DC",07:48,0.00
+Thursday,UA,HNL,"Honolulu, HI",13:15,0.00
+Sunday,UA,BOS,"Boston, MA",22:43,0.00
+Thursday,AS,HNL,"Honolulu, HI",20:59,1.00
+Monday,OO,RNO,"Reno, NV",12:56,1.00
+Saturday,OO,MCI,"Kansas City, MO",10:04,0.00
+Friday,OO,SBP,"San Luis Obispo, CA",16:10,0.00
+Sunday,AA,JFK,"New York, NY",07:00,0.00
+Monday,AS,SEA,"Seattle, WA",12:31,1.00
+Thursday,DL,ATL,"Atlanta, GA",06:00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",13:33,0.00
+Monday,UA,EWR,"Newark, NJ",12:15,0.00
+Thursday,DL,ATL,"Atlanta, GA",17:15,0.00
+Wednesday,DL,DTW,"Detroit, MI",15:54,1.00
+Saturday,DL,PDX,"Portland, OR",14:00,0.00
+Saturday,OO,PHX,"Phoenix, AZ",13:15,0.00
+Wednesday,UA,PHX,"Phoenix, AZ",08:37,0.00
+Sunday,UA,LAS,"Las Vegas, NV",22:58,0.00
+Wednesday,UA,IAH,"Houston, TX",23:59,0.00
+Tuesday,OO,TUS,"Tucson, AZ",19:14,1.00
+Thursday,DL,SJC,"San Jose, CA",20:59,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",11:10,1.00
+Tuesday,DL,SFO,"San Francisco, CA",14:35,1.00
+Saturday,WN,SFO,"San Francisco, CA",15:55,1.00
+Wednesday,DL,DEN,"Denver, CO",14:09,0.00
+Sunday,AA,CLT,"Charlotte, NC",13:53,0.00
+Sunday,OO,RDM,"Bend/Redmond, OR",10:23,0.00
+Sunday,OO,RNO,"Reno, NV",17:03,1.00
+Wednesday,AA,LIH,"Lihue, HI",08:29,0.00
+Thursday,UA,DEN,"Denver, CO",12:58,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",00:36,1.00
+Friday,DL,AUS,"Austin, TX",18:40,0.00
+Tuesday,OO,BOI,"Boise, ID",19:55,0.00
+Saturday,WN,BNA,"Nashville, TN",23:30,1.00
+Friday,OO,SEA,"Seattle, WA",15:09,0.00
+Saturday,DL,DCA,"Washington, DC",07:35,0.00
+Friday,WN,SMF,"Sacramento, CA",18:20,1.00
+Saturday,OO,TUL,"Tulsa, OK",09:59,0.00
+Friday,AS,SEA,"Seattle, WA",19:50,0.00
+Wednesday,AA,JFK,"New York, NY",12:30,1.00
+Saturday,OO,SAN,"San Diego, CA",09:00,0.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",06:00,1.00
+Tuesday,UA,CLE,"Cleveland, OH",09:00,0.00
+Friday,AS,SEA,"Seattle, WA",15:59,0.00
+Tuesday,WN,MCO,"Orlando, FL",23:15,1.00
+Tuesday,UA,LAS,"Las Vegas, NV",08:20,0.00
+Friday,AA,HNL,"Honolulu, HI",10:49,0.00
+Friday,WN,DEN,"Denver, CO",09:05,1.00
+Monday,DL,PDX,"Portland, OR",10:10,0.00
+Saturday,UA,EWR,"Newark, NJ",10:15,0.00
+Thursday,AA,BOS,"Boston, MA",07:00,0.00
+Tuesday,DL,SFO,"San Francisco, CA",14:35,0.00
+Monday,DL,DFW,"Dallas/Fort Worth, TX",18:55,1.00
+Monday,WN,MCI,"Kansas City, MO",08:10,0.00
+Tuesday,QX,BOI,"Boise, ID",09:21,0.00
+Sunday,UA,LAS,"Las Vegas, NV",22:58,1.00
+Sunday,UA,BOS,"Boston, MA",23:59,0.00
+Monday,AA,MIA,"Miami, FL",08:00,0.00
+Monday,OO,RNO,"Reno, NV",17:27,0.00
+Saturday,AA,BOS,"Boston, MA",08:15,0.00
+Thursday,DL,LAS,"Las Vegas, NV",11:15,0.00
+Monday,AS,SFO,"San Francisco, CA",19:50,1.00
+Saturday,OO,SMF,"Sacramento, CA",12:30,0.00
+Thursday,OO,AUS,"Austin, TX",09:25,0.00
+Saturday,DL,HNL,"Honolulu, HI",18:15,0.00
+Monday,WN,SFO,"San Francisco, CA",11:10,1.00
+Saturday,OO,GEG,"Spokane, WA",12:54,1.00
+Friday,UA,IAH,"Houston, TX",00:51,0.00
+Friday,DL,HNL,"Honolulu, HI",08:45,1.00
+Saturday,UA,EWR,"Newark, NJ",21:00,0.00
+Sunday,UA,LIH,"Lihue, HI",08:33,0.00
+Saturday,AA,PHX,"Phoenix, AZ",18:46,0.00
+Monday,OO,DEN,"Denver, CO",08:40,0.00
+Sunday,DL,CVG,"Cincinnati, OH",22:46,0.00
+Saturday,WN,PHX,"Phoenix, AZ",14:45,1.00
+Friday,OO,XNA,"Fayetteville, AR",17:49,1.00
+Tuesday,UA,SFO,"San Francisco, CA",09:15,0.00
+Friday,OO,RNO,"Reno, NV",21:59,0.00
+Friday,UA,ORD,"Chicago, IL",19:17,0.00
+Wednesday,OO,IAH,"Houston, TX",13:46,1.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",07:00,0.00
+Monday,OO,SEA,"Seattle, WA",18:55,0.00
+Saturday,B6,JFK,"New York, NY",08:00,0.00
+Sunday,AA,HNL,"Honolulu, HI",17:53,0.00
+Thursday,AS,PDX,"Portland, OR",18:05,0.00
+Friday,AA,JFK,"New York, NY",15:35,1.00
+Sunday,F9,PDX,"Portland, OR",09:20,0.00
+Monday,UA,SFO,"San Francisco, CA",06:00,0.00
+Saturday,WN,LAS,"Las Vegas, NV",12:50,0.00
+Friday,UA,CMH,"Columbus, OH",10:45,0.00
+Thursday,UA,CLE,"Cleveland, OH",22:35,1.00
+Friday,AA,BOS,"Boston, MA",13:30,0.00
+Wednesday,OO,BOI,"Boise, ID",19:45,0.00
+Thursday,AA,LIH,"Lihue, HI",08:29,0.00
+Wednesday,DL,BNA,"Nashville, TN",18:40,0.00
+Friday,DL,MCI,"Kansas City, MO",18:45,1.00
+Wednesday,DL,PDX,"Portland, OR",07:35,0.00
+Sunday,WN,HNL,"Honolulu, HI",18:20,0.00
+Sunday,DL,JFK,"New York, NY",11:25,1.00
+Tuesday,AA,HNL,"Honolulu, HI",15:48,0.00
+Tuesday,OO,TUS,"Tucson, AZ",09:35,0.00
+Sunday,AA,JFK,"New York, NY",06:00,0.00
+Wednesday,DL,ATL,"Atlanta, GA",22:55,0.00
+Thursday,WN,BWI,"Baltimore, MD",06:05,0.00
+Friday,DL,HNL,"Honolulu, HI",18:15,0.00
+Saturday,OO,BOI,"Boise, ID",18:57,0.00
+Sunday,DL,HNL,"Honolulu, HI",13:55,0.00
+Sunday,DL,MSY,"New Orleans, LA",07:05,0.00
+Thursday,DL,SFO,"San Francisco, CA",17:59,0.00
+Monday,B6,JFK,"New York, NY",09:00,0.00
+Thursday,DL,MSP,"Minneapolis, MN",15:26,0.00
+Thursday,WN,ELP,"El Paso, TX",08:15,0.00
+Sunday,OO,GEG,"Spokane, WA",18:59,0.00
+Friday,WN,TPA,"Tampa, FL",11:45,1.00
+Friday,UA,PHX,"Phoenix, AZ",08:37,0.00
+Friday,UA,SFO,"San Francisco, CA",09:10,0.00
+Tuesday,OO,DEN,"Denver, CO",14:19,0.00
+Sunday,DL,JFK,"New York, NY",07:00,1.00
+Friday,AS,SFO,"San Francisco, CA",19:50,1.00
+Sunday,OO,RNO,"Reno, NV",17:27,0.00
+Sunday,WN,PHX,"Phoenix, AZ",21:15,1.00
+Wednesday,AA,CMH,"Columbus, OH",10:00,0.00
+Thursday,UA,SFO,"San Francisco, CA",20:22,1.00
+Saturday,B6,BOS,"Boston, MA",06:25,0.00
+Thursday,UA,MRY,"Monterey, CA",16:43,0.00
+Monday,DL,JFK,"New York, NY",15:20,1.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",16:40,1.00
+Monday,AA,ORD,"Chicago, IL",22:45,0.00
+Monday,OO,DEN,"Denver, CO",16:34,1.00
+Sunday,AA,DFW,"Dallas/Fort Worth, TX",07:00,0.00
+Sunday,DL,MSY,"New Orleans, LA",11:10,0.00
+Sunday,AS,ANC,"Anchorage, AK",19:55,0.00
+Sunday,DL,CVG,"Cincinnati, OH",22:46,0.00
+Saturday,B6,JFK,"New York, NY",09:00,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",00:40,0.00
+Monday,AA,MCO,"Orlando, FL",21:41,0.00
+Friday,OO,SFO,"San Francisco, CA",22:18,1.00
+Sunday,DL,ATL,"Atlanta, GA",08:15,0.00
+Sunday,OO,RNO,"Reno, NV",21:59,0.00
+Thursday,WN,PHX,"Phoenix, AZ",19:50,1.00
+Monday,AS,SEA,"Seattle, WA",09:00,0.00
+Friday,WN,PHX,"Phoenix, AZ",11:10,0.00
+Sunday,OO,ACV,"Arcata/Eureka, CA",16:55,0.00
+Thursday,WN,OAK,"Oakland, CA",21:25,1.00
+Tuesday,DL,JFK,"New York, NY",21:15,1.00
+Thursday,UA,IAH,"Houston, TX",00:55,0.00
+Friday,WN,MCO,"Orlando, FL",23:15,0.00
+Monday,WN,PHX,"Phoenix, AZ",17:30,1.00
+Friday,OO,BOI,"Boise, ID",19:55,0.00
+Sunday,WN,SFO,"San Francisco, CA",06:35,0.00
+Thursday,UA,IAD,"Washington, DC",12:43,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",08:30,0.00
+Wednesday,WN,MDW,"Chicago, IL",05:15,0.00
+Sunday,DL,LIH,"Lihue, HI",14:50,0.00
+Sunday,OO,PHX,"Phoenix, AZ",19:53,0.00
+Saturday,OO,BOI,"Boise, ID",07:00,0.00
+Sunday,OO,ASE,"Aspen, CO",10:20,0.00
+Sunday,UA,ORD,"Chicago, IL",17:15,0.00
+Thursday,WN,DEN,"Denver, CO",11:00,1.00
+Saturday,WN,MDW,"Chicago, IL",05:40,0.00
+Wednesday,WN,TPA,"Tampa, FL",07:40,0.00
+Monday,UA,CLE,"Cleveland, OH",22:35,0.00
+Saturday,DL,JFK,"New York, NY",10:05,0.00
+Friday,OO,SFO,"San Francisco, CA",20:35,0.00
+Sunday,AA,JFK,"New York, NY",11:35,1.00
+Friday,B6,FLL,"Fort Lauderdale, FL",08:25,0.00
+Saturday,WN,MCO,"Orlando, FL",23:15,0.00
+Sunday,UA,IAH,"Houston, TX",15:20,0.00
+Friday,DL,MSP,"Minneapolis, MN",06:15,0.00
+Sunday,DL,BOS,"Boston, MA",21:05,0.00
+Sunday,AA,MIA,"Miami, FL",23:59,0.00
+Thursday,UA,IAH,"Houston, TX",07:05,0.00
+Monday,OO,GEG,"Spokane, WA",18:59,1.00
+Wednesday,B6,FLL,"Fort Lauderdale, FL",13:55,0.00
+Sunday,AA,BOS,"Boston, MA",23:30,0.00
+Thursday,QX,RDM,"Bend/Redmond, OR",20:00,0.00
+Monday,OO,OMA,"Omaha, NE",09:49,0.00
+Thursday,DL,SFO,"San Francisco, CA",17:59,0.00
+Sunday,UA,AUS,"Austin, TX",23:59,0.00
+Thursday,DL,SLC,"Salt Lake City, UT",05:50,0.00
+Tuesday,OO,SMF,"Sacramento, CA",21:20,1.00
+Friday,DL,DTW,"Detroit, MI",09:35,0.00
+Monday,OO,SBA,"Santa Barbara, CA",22:45,0.00
+Sunday,AS,SEA,"Seattle, WA",19:50,0.00
+Monday,UA,SFO,"San Francisco, CA",20:22,0.00
+Wednesday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,0.00
+Thursday,DL,AUS,"Austin, TX",18:40,1.00
+Friday,DL,MSP,"Minneapolis, MN",08:25,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",21:40,1.00
+Monday,AA,CLT,"Charlotte, NC",06:00,0.00
+Monday,OO,SFO,"San Francisco, CA",21:30,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",11:10,0.00
+Tuesday,AS,PDX,"Portland, OR",14:08,0.00
+Wednesday,F9,SFO,"San Francisco, CA",18:04,0.00
+Thursday,AA,IND,"Indianapolis, IN",10:35,1.00
+Sunday,DL,SEA,"Seattle, WA",19:59,0.00
+Friday,OO,SAN,"San Diego, CA",14:05,0.00
+Friday,AA,PIT,"Pittsburgh, PA",09:03,1.00
+Tuesday,OO,SFO,"San Francisco, CA",17:50,0.00
+Wednesday,B6,FLL,"Fort Lauderdale, FL",13:02,0.00
+Monday,AA,PHL,"Philadelphia, PA",12:06,0.00
+Wednesday,B6,BOS,"Boston, MA",06:25,0.00
+Tuesday,AA,JFK,"New York, NY",22:30,1.00
+Thursday,DL,SAT,"San Antonio, TX",18:59,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",01:22,0.00
+Saturday,WN,RNO,"Reno, NV",11:05,0.00
+Friday,UA,EWR,"Newark, NJ",23:15,0.00
+Sunday,UA,EWR,"Newark, NJ",13:25,1.00
+Thursday,UA,IAD,"Washington, DC",08:15,0.00
+Monday,OO,SAT,"San Antonio, TX",10:31,0.00
+Friday,WN,DAL,"Dallas, TX",07:55,0.00
+Sunday,UA,BOS,"Boston, MA",08:15,0.00
+Tuesday,DL,AUS,"Austin, TX",15:47,0.00
+Thursday,B6,BOS,"Boston, MA",22:09,0.00
+Thursday,DL,MIA,"Miami, FL",22:55,0.00
+Thursday,B6,FLL,"Fort Lauderdale, FL",22:08,0.00
+Tuesday,AS,GEG,"Spokane, WA",20:13,0.00
+Tuesday,WN,TUS,"Tucson, AZ",14:20,0.00
+Monday,UA,EWR,"Newark, NJ",08:25,0.00
+Saturday,WN,BNA,"Nashville, TN",09:50,0.00
+Monday,UA,SFO,"San Francisco, CA",20:15,1.00
+Wednesday,OO,PHX,"Phoenix, AZ",10:01,0.00
+Friday,AA,ATL,"Atlanta, GA",09:36,0.00
+Wednesday,AS,SEA,"Seattle, WA",07:00,0.00
+Monday,AA,JFK,"New York, NY",14:20,0.00
+Tuesday,AS,HNL,"Honolulu, HI",07:00,0.00
+Friday,AA,PHX,"Phoenix, AZ",06:15,0.00
+Thursday,DL,MCO,"Orlando, FL",16:10,0.00
+Saturday,OO,PDX,"Portland, OR",19:57,0.00
+Monday,B6,BOS,"Boston, MA",07:00,0.00
+Sunday,F9,LAS,"Las Vegas, NV",12:08,0.00
+Friday,WN,DEN,"Denver, CO",19:55,0.00
+Thursday,DL,SEA,"Seattle, WA",19:59,1.00
+Thursday,UA,CLE,"Cleveland, OH",13:20,0.00
+Friday,UA,IAD,"Washington, DC",23:30,0.00
+Friday,DL,JFK,"New York, NY",06:20,0.00
+Thursday,UA,FAT,"Fresno, CA",16:48,0.00
+Thursday,AA,CLE,"Cleveland, OH",09:50,1.00
+Friday,B6,FLL,"Fort Lauderdale, FL",22:08,0.00
+Monday,OO,SJC,"San Jose, CA",12:01,0.00
+Saturday,F9,DEN,"Denver, CO",20:59,0.00
+Monday,DL,AUS,"Austin, TX",10:35,0.00
+Tuesday,B6,FLL,"Fort Lauderdale, FL",10:39,0.00
+Sunday,F9,SLC,"Salt Lake City, UT",09:48,0.00
+Sunday,B6,JFK,"New York, NY",22:35,0.00
+Saturday,UA,EWR,"Newark, NJ",08:50,0.00
+Thursday,DL,MSY,"New Orleans, LA",11:10,0.00
+Monday,AA,JFK,"New York, NY",06:00,0.00
+Friday,OO,DEN,"Denver, CO",08:35,0.00
+Wednesday,DL,PDX,"Portland, OR",17:00,1.00
+Sunday,OO,MRY,"Monterey, CA",10:20,0.00
+Friday,UA,IAH,"Houston, TX",08:15,0.00
+Monday,UA,DEN,"Denver, CO",19:45,0.00
+Tuesday,UA,IAH,"Houston, TX",15:20,0.00
+Monday,UA,ORD,"Chicago, IL",19:11,0.00
+Friday,DL,DEN,"Denver, CO",08:50,0.00
+Wednesday,UA,KOA,"Kona, HI",17:10,0.00
+Sunday,UA,BOS,"Boston, MA",08:15,0.00
+Monday,UA,HNL,"Honolulu, HI",17:05,0.00
+Friday,DL,SFO,"San Francisco, CA",12:15,1.00
+Tuesday,DL,MSP,"Minneapolis, MN",15:26,0.00
+Friday,WN,SJC,"San Jose, CA",17:00,1.00
+Saturday,DL,AUS,"Austin, TX",10:04,1.00
+Saturday,UA,HNL,"Honolulu, HI",13:15,1.00
+Thursday,UA,HNL,"Honolulu, HI",09:05,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",10:00,0.00
+Monday,OO,RNO,"Reno, NV",12:59,0.00
+Wednesday,AA,LAS,"Las Vegas, NV",12:32,0.00
+Thursday,OO,SMF,"Sacramento, CA",16:16,0.00
+Wednesday,DL,ATL,"Atlanta, GA",17:15,0.00
+Monday,DL,CVG,"Cincinnati, OH",22:46,0.00
+Saturday,OO,OKC,"Oklahoma City, OK",13:43,0.00
+Saturday,AA,MCO,"Orlando, FL",21:53,0.00
+Monday,AA,JFK,"New York, NY",22:30,0.00
+Sunday,OO,PSP,"Palm Springs, CA",18:45,0.00
+Thursday,UA,IAH,"Houston, TX",08:10,0.00
+Friday,DL,SLC,"Salt Lake City, UT",07:35,0.00
+Wednesday,UA,HNL,"Honolulu, HI",18:45,0.00
+Sunday,AA,CLT,"Charlotte, NC",22:00,0.00
+Sunday,DL,JFK,"New York, NY",08:00,0.00
+Thursday,DL,SJC,"San Jose, CA",15:45,0.00
+Sunday,DL,JFK,"New York, NY",11:20,0.00
+Friday,AS,SEA,"Seattle, WA",07:00,1.00
+Friday,DL,MSY,"New Orleans, LA",07:10,1.00
+Wednesday,F9,DFW,"Dallas/Fort Worth, TX",05:45,0.00
+Friday,UA,SFO,"San Francisco, CA",18:45,1.00
+Sunday,UA,SFO,"San Francisco, CA",11:43,0.00
+Thursday,OO,AUS,"Austin, TX",08:09,0.00
+Saturday,DL,LAS,"Las Vegas, NV",11:15,0.00
+Sunday,AA,BNA,"Nashville, TN",10:38,0.00
+Sunday,AA,MCO,"Orlando, FL",21:41,0.00
+Monday,DL,PDX,"Portland, OR",14:00,0.00
+Friday,UA,IAH,"Houston, TX",18:45,0.00
+Monday,DL,SJC,"San Jose, CA",09:30,0.00
+Monday,UA,RNO,"Reno, NV",16:29,0.00
+Sunday,OO,SJC,"San Jose, CA",12:53,1.00
+Thursday,WN,LAS,"Las Vegas, NV",08:05,0.00
+Friday,AA,BOS,"Boston, MA",13:10,1.00
+Wednesday,OO,SFO,"San Francisco, CA",07:00,0.00
+Friday,OO,SBP,"San Luis Obispo, CA",22:43,0.00
+Friday,DL,JFK,"New York, NY",15:20,1.00
+Saturday,OO,SAT,"San Antonio, TX",10:31,0.00
+Sunday,OO,PHX,"Phoenix, AZ",13:41,0.00
+Wednesday,UA,IAD,"Washington, DC",22:00,0.00
+Thursday,UA,IAH,"Houston, TX",23:59,1.00
+Saturday,UA,EWR,"Newark, NJ",23:15,1.00
+Monday,OO,SAT,"San Antonio, TX",10:31,0.00
+Thursday,OO,SMF,"Sacramento, CA",07:00,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",10:13,0.00
+Friday,AS,SFO,"San Francisco, CA",06:00,0.00
+Friday,UA,AUS,"Austin, TX",10:55,0.00
+Sunday,UA,DEN,"Denver, CO",05:00,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",13:05,0.00
+Sunday,OO,ELP,"El Paso, TX",20:49,0.00
+Friday,WN,AUS,"Austin, TX",11:15,0.00
+Friday,WN,STL,"St. Louis, MO",05:00,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Tuesday,WN,BNA,"Nashville, TN",12:10,0.00
+Saturday,UA,SFO,"San Francisco, CA",20:22,0.00
+Saturday,WN,DEN,"Denver, CO",09:25,0.00
+Thursday,OO,SFO,"San Francisco, CA",17:45,0.00
+Tuesday,UA,ORD,"Chicago, IL",10:52,0.00
+Saturday,UA,SEA,"Seattle, WA",19:15,0.00
+Tuesday,AS,HNL,"Honolulu, HI",07:00,0.00
+Wednesday,UA,EWR,"Newark, NJ",10:15,0.00
+Wednesday,UA,HNL,"Honolulu, HI",11:06,0.00
+Thursday,OO,SAN,"San Diego, CA",17:11,0.00
+Thursday,AA,ORD,"Chicago, IL",01:06,0.00
+Saturday,OO,SBP,"San Luis Obispo, CA",09:17,0.00
+Wednesday,UA,CLE,"Cleveland, OH",09:00,0.00
+Friday,AS,LIH,"Lihue, HI",09:40,1.00
+Friday,AA,PHL,"Philadelphia, PA",23:05,0.00
+Thursday,WN,SMF,"Sacramento, CA",06:35,0.00
+Wednesday,AA,HNL,"Honolulu, HI",19:25,0.00
+Friday,DL,SJC,"San Jose, CA",09:30,0.00
+Saturday,UA,ORD,"Chicago, IL",08:10,0.00
+Sunday,UA,IAD,"Washington, DC",12:55,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",19:30,0.00
+Monday,F9,LAS,"Las Vegas, NV",12:08,0.00
+Saturday,AA,RDU,"Raleigh/Durham, NC",08:47,0.00
+Sunday,UA,SEA,"Seattle, WA",11:46,0.00
+Monday,OO,SMF,"Sacramento, CA",09:23,1.00
+Sunday,DL,SEA,"Seattle, WA",20:55,0.00
+Tuesday,DL,PDX,"Portland, OR",20:39,0.00
+Sunday,DL,KOA,"Kona, HI",16:45,0.00
+Saturday,UA,KOA,"Kona, HI",17:10,0.00
+Friday,QX,MFR,"Medford, OR",10:04,0.00
+Thursday,DL,ATL,"Atlanta, GA",11:05,1.00
+Tuesday,UA,BOS,"Boston, MA",08:15,0.00
+Monday,DL,AUS,"Austin, TX",07:35,0.00
+Friday,OO,PHX,"Phoenix, AZ",21:45,0.00
+Saturday,UA,LAS,"Las Vegas, NV",13:00,0.00
+Monday,DL,IAH,"Houston, TX",09:10,0.00
+Sunday,AS,SEA,"Seattle, WA",13:39,0.00
+Thursday,OO,FAT,"Fresno, CA",09:17,0.00
+Saturday,OO,AUS,"Austin, TX",08:09,0.00
+Sunday,OO,SMF,"Sacramento, CA",12:00,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",21:40,0.00
+Friday,WN,LAS,"Las Vegas, NV",15:25,0.00
+Monday,DL,ATL,"Atlanta, GA",08:15,1.00
+Tuesday,OO,PHX,"Phoenix, AZ",08:18,0.00
+Wednesday,OO,SBA,"Santa Barbara, CA",22:45,0.00
+Wednesday,OO,SJC,"San Jose, CA",07:58,0.00
+Friday,WN,MCI,"Kansas City, MO",17:45,1.00
+Monday,UA,DEN,"Denver, CO",14:30,0.00
+Thursday,AA,MCO,"Orlando, FL",21:53,0.00
+Thursday,AA,PHL,"Philadelphia, PA",08:05,0.00
+Thursday,OO,DEN,"Denver, CO",08:35,1.00
+Tuesday,UA,IAH,"Houston, TX",06:47,0.00
+Saturday,AA,CMH,"Columbus, OH",10:00,0.00
+Friday,AA,HNL,"Honolulu, HI",08:20,0.00
+Thursday,DL,DEN,"Denver, CO",20:19,0.00
+Sunday,OO,TUL,"Tulsa, OK",09:36,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",13:33,0.00
+Thursday,DL,LAS,"Las Vegas, NV",15:59,1.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",13:55,0.00
+Saturday,OO,GEG,"Spokane, WA",14:45,0.00
+Monday,OO,SBA,"Santa Barbara, CA",22:45,0.00
+Friday,OO,TUL,"Tulsa, OK",09:36,0.00
+Wednesday,F9,PHX,"Phoenix, AZ",22:05,0.00
+Thursday,OO,SMF,"Sacramento, CA",21:50,0.00
+Friday,OO,PHX,"Phoenix, AZ",08:15,0.00
+Friday,OO,OKC,"Oklahoma City, OK",08:36,0.00
+Tuesday,AA,MIA,"Miami, FL",13:51,0.00
+Tuesday,AA,CLT,"Charlotte, NC",12:39,1.00
+Wednesday,WN,DEN,"Denver, CO",14:05,0.00
+Sunday,UA,BWI,"Baltimore, MD",20:58,0.00
+Monday,WN,SMF,"Sacramento, CA",20:40,1.00
+Thursday,WN,OAK,"Oakland, CA",12:00,0.00
+Friday,F9,ORD,"Chicago, IL",23:36,0.00
+Sunday,AS,SEA,"Seattle, WA",11:00,0.00
+Wednesday,AA,CLT,"Charlotte, NC",09:20,1.00
+Friday,DL,ATL,"Atlanta, GA",22:55,0.00
+Wednesday,AA,PHX,"Phoenix, AZ",18:46,1.00
+Thursday,F9,DFW,"Dallas/Fort Worth, TX",18:56,0.00
+Friday,WN,AUS,"Austin, TX",16:10,1.00
+Friday,DL,ATL,"Atlanta, GA",09:30,0.00
+Monday,WN,SFO,"San Francisco, CA",06:00,1.00
+Friday,UA,EWR,"Newark, NJ",07:15,0.00
+Wednesday,AA,ORD,"Chicago, IL",11:35,0.00
+Saturday,UA,ORD,"Chicago, IL",22:35,0.00
+Saturday,OO,SMF,"Sacramento, CA",18:30,1.00
+Thursday,OO,SAN,"San Diego, CA",09:00,0.00
+Wednesday,DL,JFK,"New York, NY",12:25,0.00
+Thursday,B6,BUF,"Buffalo, NY",23:59,0.00
+Thursday,OO,PHX,"Phoenix, AZ",13:41,0.00
+Sunday,WN,LAS,"Las Vegas, NV",21:40,1.00
+Monday,UA,IAH,"Houston, TX",08:15,0.00
+Thursday,DL,AUS,"Austin, TX",10:04,0.00
+Sunday,WN,SJC,"San Jose, CA",09:55,0.00
+Thursday,DL,DEN,"Denver, CO",08:50,0.00
+Monday,DL,JFK,"New York, NY",21:15,1.00
+Tuesday,AS,PDX,"Portland, OR",14:08,0.00
+Tuesday,DL,MSY,"New Orleans, LA",13:00,0.00
+Friday,OO,TUS,"Tucson, AZ",14:38,0.00
+Sunday,OO,PHX,"Phoenix, AZ",14:15,0.00
+Saturday,DL,ATL,"Atlanta, GA",08:15,0.00
+Wednesday,AS,HNL,"Honolulu, HI",07:00,0.00
+Friday,AA,BOS,"Boston, MA",08:15,1.00
+Monday,WN,PHX,"Phoenix, AZ",17:30,1.00
+Monday,WN,OAK,"Oakland, CA",21:25,1.00
+Saturday,AA,ORD,"Chicago, IL",09:31,0.00
+Sunday,OO,TUS,"Tucson, AZ",19:14,1.00
+Sunday,WN,TPA,"Tampa, FL",12:30,1.00
+Monday,DL,JFK,"New York, NY",22:55,0.00
+Thursday,DL,MSP,"Minneapolis, MN",06:15,0.00
+Sunday,UA,EWR,"Newark, NJ",12:15,0.00
+Saturday,WN,OAK,"Oakland, CA",13:50,0.00
+Thursday,AA,LAS,"Las Vegas, NV",09:40,0.00
+Sunday,OO,SFO,"San Francisco, CA",20:35,0.00
+Friday,DL,PDX,"Portland, OR",07:40,0.00
+Wednesday,UA,SFO,"San Francisco, CA",09:10,0.00
+Wednesday,DL,DTW,"Detroit, MI",07:15,0.00
+Monday,DL,SFO,"San Francisco, CA",06:20,0.00
+Monday,WN,RNO,"Reno, NV",17:40,1.00
+Friday,F9,SFO,"San Francisco, CA",16:52,1.00
+Thursday,DL,FLL,"Fort Lauderdale, FL",22:40,0.00
+Wednesday,UA,RNO,"Reno, NV",16:10,0.00
+Wednesday,UA,BZN,"Bozeman, MT",08:50,0.00
+Tuesday,WN,OAK,"Oakland, CA",19:00,1.00
+Saturday,UA,LIH,"Lihue, HI",08:15,0.00
+Tuesday,DL,SEA,"Seattle, WA",21:05,0.00
+Friday,WN,DEN,"Denver, CO",11:00,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",15:20,0.00
+Sunday,DL,AUS,"Austin, TX",10:04,0.00
+Tuesday,DL,FLL,"Fort Lauderdale, FL",22:55,0.00
+Thursday,B6,JFK,"New York, NY",22:35,0.00
+Friday,DL,SFO,"San Francisco, CA",19:59,0.00
+Saturday,AA,HNL,"Honolulu, HI",15:48,0.00
+Thursday,DL,MCO,"Orlando, FL",22:15,0.00
+Friday,UA,SFO,"San Francisco, CA",17:10,1.00
+Monday,UA,BOS,"Boston, MA",22:43,0.00
+Saturday,AA,ORD,"Chicago, IL",17:50,0.00
+Saturday,AA,RDU,"Raleigh/Durham, NC",09:05,0.00
+Saturday,AA,PHL,"Philadelphia, PA",08:15,0.00
+Thursday,OO,SEA,"Seattle, WA",15:09,1.00
+Tuesday,DL,BNA,"Nashville, TN",18:04,0.00
+Friday,WN,AUS,"Austin, TX",06:45,0.00
+Monday,WN,AUS,"Austin, TX",11:15,1.00
+Monday,DL,PDX,"Portland, OR",10:10,0.00
+Friday,WN,DAL,"Dallas, TX",10:45,1.00
+Monday,WN,TUS,"Tucson, AZ",21:00,1.00
+Thursday,AS,PDX,"Portland, OR",21:14,1.00
+Monday,DL,SFO,"San Francisco, CA",21:00,0.00
+Sunday,OO,SMF,"Sacramento, CA",07:00,0.00
+Thursday,AA,PHL,"Philadelphia, PA",10:36,0.00
+Saturday,AA,PHL,"Philadelphia, PA",21:40,1.00
+Thursday,WN,SJC,"San Jose, CA",17:00,0.00
+Thursday,DL,MSY,"New Orleans, LA",11:10,0.00
+Saturday,F9,ORD,"Chicago, IL",00:26,1.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",10:30,0.00
+Sunday,DL,JFK,"New York, NY",23:55,1.00
+Wednesday,AA,PHX,"Phoenix, AZ",06:10,0.00
+Friday,OO,SBP,"San Luis Obispo, CA",22:43,0.00
+Monday,UA,IAD,"Washington, DC",12:55,0.00
+Monday,AA,ORD,"Chicago, IL",10:39,1.00
+Monday,UA,DEN,"Denver, CO",10:54,0.00
+Friday,DL,SEA,"Seattle, WA",19:59,0.00
+Thursday,DL,AUS,"Austin, TX",15:47,0.00
+Saturday,UA,SFO,"San Francisco, CA",07:15,0.00
+Sunday,AA,JFK,"New York, NY",22:35,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",08:05,0.00
+Wednesday,AA,HNL,"Honolulu, HI",10:49,0.00
+Sunday,F9,DFW,"Dallas/Fort Worth, TX",18:56,0.00
+Saturday,DL,SAT,"San Antonio, TX",10:15,0.00
+Friday,OO,RNO,"Reno, NV",08:56,0.00
+Saturday,WN,DEN,"Denver, CO",13:20,0.00
+Tuesday,DL,SFO,"San Francisco, CA",19:59,0.00
+Friday,AA,PHL,"Philadelphia, PA",22:45,0.00
+Saturday,UA,IAD,"Washington, DC",08:15,0.00
+Sunday,OO,PRC,"Prescott, AZ",13:25,0.00
+Friday,OO,STL,"St. Louis, MO",18:16,0.00
+Wednesday,WN,HNL,"Honolulu, HI",07:00,0.00
+Monday,DL,SLC,"Salt Lake City, UT",09:55,0.00
+Wednesday,DL,SEA,"Seattle, WA",20:50,0.00
+Monday,AA,ORD,"Chicago, IL",15:01,1.00
+Friday,UA,IAH,"Houston, TX",07:05,0.00
+Thursday,WN,DEN,"Denver, CO",19:55,1.00
+Monday,OO,RNO,"Reno, NV",21:59,0.00
+Thursday,AS,SFO,"San Francisco, CA",06:00,0.00
+Monday,UA,BWI,"Baltimore, MD",20:58,0.00
+Thursday,AS,OGG,"Kahului, HI",08:30,1.00
+Saturday,OO,ABQ,"Albuquerque, NM",08:23,0.00
+Monday,OO,GEG,"Spokane, WA",14:45,0.00
+Thursday,B6,BOS,"Boston, MA",10:50,0.00
+Tuesday,AS,SFO,"San Francisco, CA",18:51,0.00
+Saturday,AS,SEA,"Seattle, WA",15:45,0.00
+Sunday,DL,BOS,"Boston, MA",10:45,0.00
+Friday,WN,AUS,"Austin, TX",19:55,1.00
+Saturday,UA,DEN,"Denver, CO",18:32,0.00
+Friday,OO,SEA,"Seattle, WA",15:09,0.00
+Wednesday,OO,FCA,"Kalispell, MT",08:28,0.00
+Wednesday,OO,TUS,"Tucson, AZ",15:23,0.00
+Saturday,F9,SMF,"Sacramento, CA",17:57,1.00
+Sunday,OO,SEA,"Seattle, WA",18:48,0.00
+Thursday,AA,PHX,"Phoenix, AZ",06:15,0.00
+Monday,UA,HNL,"Honolulu, HI",09:05,0.00
+Thursday,WN,DEN,"Denver, CO",15:45,1.00
+Saturday,AA,PIT,"Pittsburgh, PA",09:03,1.00
+Saturday,DL,SLC,"Salt Lake City, UT",05:50,0.00
+Saturday,WN,SMF,"Sacramento, CA",08:10,0.00
+Friday,AA,JFK,"New York, NY",06:00,0.00
+Friday,WN,STL,"St. Louis, MO",05:00,0.00
+Tuesday,AA,MIA,"Miami, FL",13:51,1.00
+Friday,AS,SFO,"San Francisco, CA",13:44,1.00
+Friday,UA,HNL,"Honolulu, HI",13:15,1.00
+Friday,DL,SLC,"Salt Lake City, UT",17:10,0.00
+Tuesday,UA,IAD,"Washington, DC",22:10,0.00
+Sunday,AA,KOA,"Kona, HI",09:06,0.00
+Sunday,UA,IAH,"Houston, TX",00:55,0.00
+Friday,AA,PHL,"Philadelphia, PA",07:02,0.00
+Wednesday,UA,EWR,"Newark, NJ",13:15,0.00
+Sunday,F9,SEA,"Seattle, WA",15:15,0.00
+Thursday,AA,HNL,"Honolulu, HI",17:53,1.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",18:50,0.00
+Tuesday,WN,MCI,"Kansas City, MO",07:50,0.00
+Friday,DL,ATL,"Atlanta, GA",12:10,0.00
+Thursday,UA,LAS,"Las Vegas, NV",19:26,0.00
+Wednesday,OO,TUS,"Tucson, AZ",19:14,0.00
+Tuesday,AA,MIA,"Miami, FL",23:17,0.00
+Sunday,OO,TUS,"Tucson, AZ",18:08,0.00
+Friday,AS,SEA,"Seattle, WA",12:54,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",20:55,1.00
+Monday,WN,LAS,"Las Vegas, NV",13:20,0.00
+Thursday,UA,IAD,"Washington, DC",21:30,0.00
+Tuesday,B6,FLL,"Fort Lauderdale, FL",08:30,0.00
+Friday,UA,AUS,"Austin, TX",10:55,1.00
+Wednesday,F9,ATL,"Atlanta, GA",15:28,0.00
+Monday,UA,BWI,"Baltimore, MD",09:33,0.00
+Wednesday,AA,CLT,"Charlotte, NC",09:20,0.00
+Friday,WN,AUS,"Austin, TX",19:55,0.00
+Tuesday,OO,SFO,"San Francisco, CA",16:05,0.00
+Tuesday,UA,IAD,"Washington, DC",12:55,0.00
+Saturday,UA,PHX,"Phoenix, AZ",08:37,0.00
+Saturday,DL,MSP,"Minneapolis, MN",11:26,0.00
+Tuesday,DL,SLC,"Salt Lake City, UT",13:16,0.00
+Friday,AS,SEA,"Seattle, WA",16:57,1.00
+Sunday,OO,RNO,"Reno, NV",08:20,0.00
+Saturday,AA,PHX,"Phoenix, AZ",12:50,0.00
+Tuesday,OO,SFO,"San Francisco, CA",08:45,1.00
+Sunday,OO,TUS,"Tucson, AZ",18:08,0.00
+Friday,DL,ATL,"Atlanta, GA",11:05,0.00
+Sunday,OO,ACV,"Arcata/Eureka, CA",12:45,0.00
+Thursday,UA,ORD,"Chicago, IL",17:00,0.00
+Saturday,UA,IAH,"Houston, TX",19:21,0.00
+Tuesday,DL,LAS,"Las Vegas, NV",07:35,1.00
+Saturday,AS,PDX,"Portland, OR",19:45,0.00
+Sunday,OO,PSP,"Palm Springs, CA",20:20,0.00
+Saturday,OO,RDD,"Redding, CA",16:55,0.00
+Tuesday,UA,IAH,"Houston, TX",00:55,0.00
+Saturday,AS,LIH,"Lihue, HI",09:46,0.00
+Sunday,DL,ATL,"Atlanta, GA",17:15,0.00
+Saturday,B6,FLL,"Fort Lauderdale, FL",08:25,1.00
+Saturday,DL,JFK,"New York, NY",21:15,0.00
+Tuesday,UA,SFO,"San Francisco, CA",15:40,0.00
+Sunday,WN,BNA,"Nashville, TN",13:25,0.00
+Saturday,OO,SMF,"Sacramento, CA",08:00,0.00
+Thursday,UA,ORD,"Chicago, IL",12:50,1.00
+Saturday,AS,SFO,"San Francisco, CA",19:45,0.00
+Sunday,AS,PDX,"Portland, OR",21:14,0.00
+Sunday,WN,HOU,"Houston, TX",07:45,0.00
+Thursday,DL,ATL,"Atlanta, GA",06:00,0.00
+Saturday,WN,SJC,"San Jose, CA",17:35,0.00
+Thursday,UA,IAH,"Houston, TX",10:10,0.00
+Tuesday,QX,RDM,"Bend/Redmond, OR",21:11,0.00
+Thursday,WN,BNA,"Nashville, TN",07:10,0.00
+Friday,DL,JFK,"New York, NY",21:45,0.00
+Wednesday,UA,SFO,"San Francisco, CA",20:15,0.00
+Monday,UA,HNL,"Honolulu, HI",18:45,0.00
+Monday,AA,PHL,"Philadelphia, PA",23:05,0.00
+Monday,WN,ELP,"El Paso, TX",19:45,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",01:22,0.00
+Saturday,OO,SJC,"San Jose, CA",07:58,0.00
+Sunday,UA,ORD,"Chicago, IL",22:35,0.00
+Saturday,WN,ABQ,"Albuquerque, NM",17:10,0.00
+Friday,AS,PDX,"Portland, OR",14:08,0.00
+Saturday,WN,DEN,"Denver, CO",06:00,0.00
+Monday,OO,ABQ,"Albuquerque, NM",15:03,0.00
+Tuesday,OO,SEA,"Seattle, WA",12:45,0.00
+Wednesday,WN,OAK,"Oakland, CA",06:00,0.00
+Friday,DL,PDX,"Portland, OR",17:00,0.00
+Friday,UA,DEN,"Denver, CO",18:51,0.00
+Friday,UA,EWR,"Newark, NJ",08:25,0.00
+Friday,AA,PHX,"Phoenix, AZ",18:46,0.00
+Monday,DL,FLL,"Fort Lauderdale, FL",23:45,1.00
+Friday,AA,BOS,"Boston, MA",13:30,0.00
+Monday,UA,SAN,"San Diego, CA",23:01,0.00
+Saturday,UA,SMF,"Sacramento, CA",08:50,0.00
+Wednesday,UA,RNO,"Reno, NV",16:37,0.00
+Tuesday,AS,EWR,"Newark, NJ",07:00,0.00
+Friday,OO,JAC,"Jackson, WY",09:02,0.00
+Thursday,DL,MSP,"Minneapolis, MN",11:30,0.00
+Wednesday,OO,PSP,"Palm Springs, CA",20:20,0.00
+Friday,DL,SJC,"San Jose, CA",09:30,0.00
+Tuesday,AS,PDX,"Portland, OR",10:53,0.00
+Wednesday,WN,HNL,"Honolulu, HI",18:20,0.00
+Thursday,OO,BOI,"Boise, ID",19:45,0.00
+Sunday,WN,MDW,"Chicago, IL",06:05,0.00
+Wednesday,B6,BOS,"Boston, MA",12:58,0.00
+Monday,AA,MIA,"Miami, FL",06:00,0.00
+Wednesday,OO,TUS,"Tucson, AZ",09:15,0.00
+Friday,DL,SEA,"Seattle, WA",14:05,0.00
+Monday,DL,LIH,"Lihue, HI",14:50,0.00
+Friday,OO,SMF,"Sacramento, CA",18:30,0.00
+Monday,DL,LAS,"Las Vegas, NV",07:10,0.00
+Sunday,UA,KOA,"Kona, HI",09:10,0.00
+Wednesday,WN,SMF,"Sacramento, CA",11:05,0.00
+Friday,OO,SMF,"Sacramento, CA",21:59,1.00
+Wednesday,AA,PHL,"Philadelphia, PA",08:05,0.00
+Sunday,AA,JFK,"New York, NY",07:00,0.00
+Thursday,AS,SEA,"Seattle, WA",19:47,0.00
+Friday,WN,SJC,"San Jose, CA",19:20,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",08:00,0.00
+Saturday,AA,PHL,"Philadelphia, PA",21:40,0.00
+Sunday,UA,SMF,"Sacramento, CA",19:09,0.00
+Thursday,DL,BOS,"Boston, MA",10:45,0.00
+Wednesday,AS,SEA,"Seattle, WA",08:00,0.00
+Monday,UA,SFO,"San Francisco, CA",10:27,1.00
+Saturday,WN,DEN,"Denver, CO",09:25,0.00
+Saturday,DL,SLC,"Salt Lake City, UT",13:16,1.00
+Tuesday,OO,FAT,"Fresno, CA",09:17,0.00
+Monday,UA,MCO,"Orlando, FL",23:04,0.00
+Friday,DL,ATL,"Atlanta, GA",08:15,0.00
+Wednesday,AS,KOA,"Kona, HI",08:30,0.00
+Tuesday,OO,DEN,"Denver, CO",14:19,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",23:59,0.00
+Monday,AA,MIA,"Miami, FL",22:59,0.00
+Monday,AS,DCA,"Washington, DC",11:54,1.00
+Tuesday,OO,PHX,"Phoenix, AZ",13:41,0.00
+Sunday,DL,KOA,"Kona, HI",16:45,0.00
+Saturday,DL,SFO,"San Francisco, CA",19:59,0.00
+Thursday,OO,RNO,"Reno, NV",08:20,0.00
+Friday,DL,RDU,"Raleigh/Durham, NC",10:00,0.00
+Friday,OO,ABQ,"Albuquerque, NM",20:05,0.00
+Sunday,WN,LAS,"Las Vegas, NV",09:10,0.00
+Monday,OO,RNO,"Reno, NV",08:20,0.00
+Saturday,AS,GEG,"Spokane, WA",20:13,0.00
+Friday,UA,SAN,"San Diego, CA",22:56,0.00
+Monday,UA,DEN,"Denver, CO",07:00,0.00
+Wednesday,UA,SFO,"San Francisco, CA",10:15,1.00
+Saturday,UA,EWR,"Newark, NJ",07:15,0.00
+Sunday,UA,LAS,"Las Vegas, NV",22:58,1.00
+Sunday,WN,AUS,"Austin, TX",05:00,0.00
+Friday,AS,HNL,"Honolulu, HI",17:55,1.00
+Tuesday,DL,LIH,"Lihue, HI",14:50,1.00
+Wednesday,UA,EWR,"Newark, NJ",06:00,0.00
+Thursday,OO,SMF,"Sacramento, CA",12:00,0.00
+Monday,AA,CLE,"Cleveland, OH",08:30,0.00
+Thursday,WN,BNA,"Nashville, TN",23:30,0.00
+Friday,AA,CLT,"Charlotte, NC",12:58,0.00
+Saturday,UA,EWR,"Newark, NJ",13:15,0.00
+Monday,OO,SBP,"San Luis Obispo, CA",16:10,0.00
+Thursday,DL,SEA,"Seattle, WA",12:10,0.00
+Wednesday,UA,MCO,"Orlando, FL",16:27,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",06:10,0.00
+Wednesday,DL,AUS,"Austin, TX",13:16,0.00
+Monday,UA,IAH,"Houston, TX",18:45,0.00
+Sunday,B6,FLL,"Fort Lauderdale, FL",15:00,1.00
+Wednesday,OO,DEN,"Denver, CO",08:35,0.00
+Thursday,DL,BOS,"Boston, MA",06:45,0.00
+Thursday,OO,SEA,"Seattle, WA",20:00,0.00
+Sunday,AA,ORD,"Chicago, IL",17:59,0.00
+Wednesday,WN,OAK,"Oakland, CA",13:40,1.00
+Tuesday,OO,SAF,"Santa Fe, NM",14:19,0.00
+Wednesday,OO,DEN,"Denver, CO",14:19,0.00
+Wednesday,DL,MIA,"Miami, FL",09:05,0.00
+Friday,OO,PRC,"Prescott, AZ",13:35,0.00
+Friday,DL,PDX,"Portland, OR",14:00,1.00
+Saturday,OO,SFO,"San Francisco, CA",07:00,0.00
+Thursday,WN,HNL,"Honolulu, HI",18:20,1.00
+Friday,DL,OGG,"Kahului, HI",16:55,0.00
+Tuesday,UA,EWR,"Newark, NJ",10:15,0.00
+Thursday,UA,SFO,"San Francisco, CA",07:30,0.00
+Wednesday,OO,TUS,"Tucson, AZ",14:38,1.00
+Tuesday,OO,SAN,"San Diego, CA",22:20,0.00
+Saturday,UA,ORD,"Chicago, IL",15:05,0.00
+Sunday,UA,HNL,"Honolulu, HI",17:05,0.00
+Friday,OO,ABQ,"Albuquerque, NM",20:55,0.00
+Monday,UA,SFO,"San Francisco, CA",15:40,0.00
+Thursday,AA,LAS,"Las Vegas, NV",19:40,0.00
+Thursday,WN,OAK,"Oakland, CA",18:40,1.00
+Tuesday,UA,ORD,"Chicago, IL",00:15,0.00
+Monday,AA,ORD,"Chicago, IL",13:21,1.00
+Wednesday,AS,SFO,"San Francisco, CA",18:30,1.00
+Wednesday,OO,PDX,"Portland, OR",12:27,1.00
+Sunday,WN,LAS,"Las Vegas, NV",15:50,1.00
+Saturday,AA,CLT,"Charlotte, NC",22:00,0.00
+Friday,OO,RDM,"Bend/Redmond, OR",20:20,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",16:40,0.00
+Sunday,UA,IAH,"Houston, TX",15:20,0.00
+Sunday,OO,PDX,"Portland, OR",19:57,0.00
+Wednesday,DL,MIA,"Miami, FL",22:00,0.00
+Friday,WN,SMF,"Sacramento, CA",10:50,0.00
+Wednesday,OO,SAN,"San Diego, CA",09:07,0.00
+Monday,AA,PIT,"Pittsburgh, PA",09:03,0.00
+Friday,DL,JFK,"New York, NY",13:25,0.00
+Thursday,WN,SFO,"San Francisco, CA",20:45,1.00
+Tuesday,WN,TUS,"Tucson, AZ",14:20,0.00
+Monday,OO,PHX,"Phoenix, AZ",08:00,0.00
+Monday,AA,JFK,"New York, NY",07:00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",23:59,0.00
+Tuesday,OO,SJC,"San Jose, CA",18:04,0.00
+Tuesday,DL,SEA,"Seattle, WA",19:59,1.00
+Wednesday,AS,SEA,"Seattle, WA",19:47,0.00
+Friday,DL,DTW,"Detroit, MI",05:35,0.00
+Wednesday,OO,SAF,"Santa Fe, NM",08:18,0.00
+Saturday,DL,LIH,"Lihue, HI",14:50,0.00
+Thursday,DL,MSP,"Minneapolis, MN",23:59,0.00
+Monday,WN,ELP,"El Paso, TX",08:15,0.00
+Tuesday,OO,PHX,"Phoenix, AZ",18:45,0.00
+Tuesday,WN,OAK,"Oakland, CA",08:15,0.00
+Sunday,WN,OAK,"Oakland, CA",22:15,0.00
+Monday,DL,LAS,"Las Vegas, NV",19:55,1.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",00:36,0.00
+Monday,WN,DAL,"Dallas, TX",06:00,0.00
+Tuesday,DL,SLC,"Salt Lake City, UT",19:24,0.00
+Friday,WN,BNA,"Nashville, TN",07:10,1.00
+Tuesday,UA,BWI,"Baltimore, MD",09:00,0.00
+Saturday,OO,SBA,"Santa Barbara, CA",12:40,0.00
+Saturday,OO,SMF,"Sacramento, CA",14:00,0.00
+Thursday,AS,SEA,"Seattle, WA",13:39,1.00
+Wednesday,AA,MIA,"Miami, FL",07:20,0.00
+Thursday,WN,PHX,"Phoenix, AZ",08:15,1.00
+Monday,AA,MIA,"Miami, FL",12:25,0.00
+Monday,AA,JFK,"New York, NY",21:15,1.00
+Tuesday,WN,STL,"St. Louis, MO",12:25,1.00
+Wednesday,UA,LAS,"Las Vegas, NV",10:50,0.00
+Saturday,WN,OAK,"Oakland, CA",10:50,0.00
+Saturday,OO,TUL,"Tulsa, OK",09:59,0.00
+Saturday,WN,TUS,"Tucson, AZ",14:00,1.00
+Friday,AA,HNL,"Honolulu, HI",18:50,0.00
+Friday,WN,HOU,"Houston, TX",08:30,0.00
+Monday,QX,GEG,"Spokane, WA",12:48,0.00
+Friday,DL,LIH,"Lihue, HI",14:50,0.00
+Wednesday,DL,LAS,"Las Vegas, NV",21:30,1.00
+Monday,AS,HNL,"Honolulu, HI",10:00,0.00
+Wednesday,WN,STL,"St. Louis, MO",12:25,1.00
+Wednesday,DL,DTW,"Detroit, MI",09:35,0.00
+Sunday,DL,SDF,"Louisville, KY",08:20,1.00
+Tuesday,UA,HNL,"Honolulu, HI",09:05,0.00
+Friday,WN,MCI,"Kansas City, MO",17:45,0.00
+Sunday,UA,IAH,"Houston, TX",08:15,0.00
+Tuesday,AS,PDX,"Portland, OR",07:15,0.00
+Sunday,WN,HOU,"Houston, TX",12:20,0.00
+Friday,AA,ORD,"Chicago, IL",13:50,0.00
+Sunday,OO,EUG,"Eugene, OR",17:43,1.00
+Friday,OO,JAC,"Jackson, WY",12:31,0.00
+Saturday,DL,LAS,"Las Vegas, NV",11:59,1.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",09:00,1.00
+Thursday,DL,MSP,"Minneapolis, MN",23:59,1.00
+Friday,WN,SFO,"San Francisco, CA",15:35,1.00
+Sunday,AA,DCA,"Washington, DC",08:26,0.00
+Thursday,OO,GEG,"Spokane, WA",12:54,0.00
+Saturday,OO,FCA,"Kalispell, MT",08:28,0.00
+Tuesday,OO,SLC,"Salt Lake City, UT",19:00,0.00
+Saturday,DL,SFO,"San Francisco, CA",12:15,1.00
+Tuesday,AA,DFW,"Dallas/Fort Worth, TX",08:00,0.00
+Tuesday,AS,SFO,"San Francisco, CA",18:30,0.00
+Wednesday,UA,DEN,"Denver, CO",19:45,0.00
+Monday,F9,DEN,"Denver, CO",20:59,0.00
+Tuesday,OO,RDD,"Redding, CA",10:15,0.00
+Sunday,AA,CLT,"Charlotte, NC",12:58,0.00
+Saturday,OO,AUS,"Austin, TX",09:25,0.00
+Saturday,AA,BOS,"Boston, MA",12:12,0.00
+Saturday,UA,CMH,"Columbus, OH",10:45,0.00
+Wednesday,AS,SEA,"Seattle, WA",12:54,0.00
+Wednesday,OO,SMF,"Sacramento, CA",21:50,0.00
+Saturday,OO,LAS,"Las Vegas, NV",14:30,0.00
+Friday,DL,MEM,"Memphis, TN",18:21,1.00
+Thursday,AS,DCA,"Washington, DC",11:54,0.00
+Wednesday,WN,DAL,"Dallas, TX",13:45,1.00
+Saturday,AA,OGG,"Kahului, HI",08:53,0.00
+Wednesday,DL,ATL,"Atlanta, GA",22:55,0.00
+Sunday,OO,SGU,"St. George, UT",13:25,0.00
+Thursday,AA,RDU,"Raleigh/Durham, NC",09:05,0.00
+Sunday,OO,RNO,"Reno, NV",12:59,0.00
+Friday,AA,MIA,"Miami, FL",10:20,0.00
+Tuesday,WN,BWI,"Baltimore, MD",06:00,0.00
+Saturday,WN,LAS,"Las Vegas, NV",05:20,0.00
+Thursday,WN,SFO,"San Francisco, CA",20:45,1.00
+Wednesday,WN,HOU,"Houston, TX",08:45,0.00
+Wednesday,UA,IAD,"Washington, DC",12:43,0.00
+Friday,AA,PHL,"Philadelphia, PA",22:45,0.00
+Sunday,OO,OKC,"Oklahoma City, OK",08:36,0.00
+Saturday,WN,LAS,"Las Vegas, NV",10:25,1.00
+Monday,OO,IAH,"Houston, TX",14:11,1.00
+Monday,AA,JFK,"New York, NY",11:45,1.00
+Sunday,WN,STL,"St. Louis, MO",13:35,0.00
+Tuesday,WN,LAS,"Las Vegas, NV",06:35,0.00
+Monday,OO,PHX,"Phoenix, AZ",10:00,0.00
+Saturday,AA,BOS,"Boston, MA",08:00,1.00
+Saturday,F9,SLC,"Salt Lake City, UT",10:55,0.00
+Friday,UA,SAN,"San Diego, CA",23:01,0.00
+Thursday,DL,DCA,"Washington, DC",07:40,0.00
+Saturday,AA,PHL,"Philadelphia, PA",08:05,0.00
+Thursday,WN,AUS,"Austin, TX",06:45,0.00
+Friday,UA,IAH,"Houston, TX",08:10,0.00
+Saturday,WN,ABQ,"Albuquerque, NM",17:10,0.00
+Wednesday,AS,SEA,"Seattle, WA",15:59,0.00
+Friday,F9,SMF,"Sacramento, CA",17:57,1.00
+Friday,UA,AUS,"Austin, TX",23:59,1.00
+Friday,AA,PHL,"Philadelphia, PA",08:08,0.00
+Sunday,AA,PHL,"Philadelphia, PA",22:45,1.00
+Wednesday,UA,OGG,"Kahului, HI",09:00,0.00
+Monday,F9,LAS,"Las Vegas, NV",12:08,0.00
+Monday,WN,LAS,"Las Vegas, NV",05:20,0.00
+Monday,DL,TPA,"Tampa, FL",22:48,0.00
+Tuesday,OO,SEA,"Seattle, WA",18:48,1.00
+Tuesday,AS,SEA,"Seattle, WA",10:00,0.00
+Saturday,OO,MFR,"Medford, OR",19:45,0.00
+Wednesday,UA,ORD,"Chicago, IL",05:10,0.00
+Friday,AA,PHL,"Philadelphia, PA",10:36,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",00:40,0.00
+Wednesday,WN,SJC,"San Jose, CA",10:55,0.00
+Friday,OO,SAN,"San Diego, CA",09:00,0.00
+Saturday,DL,JFK,"New York, NY",07:30,0.00
+Thursday,WN,SJC,"San Jose, CA",17:00,1.00
+Thursday,UA,ORD,"Chicago, IL",14:41,1.00
+Wednesday,UA,IAH,"Houston, TX",08:15,0.00
+Saturday,OO,MCI,"Kansas City, MO",10:10,0.00
+Friday,WN,STL,"St. Louis, MO",13:20,0.00
+Monday,OO,RNO,"Reno, NV",21:59,1.00
+Monday,UA,FAT,"Fresno, CA",16:55,0.00
+Friday,F9,SMF,"Sacramento, CA",08:36,0.00
+Tuesday,UA,IAH,"Houston, TX",23:59,0.00
+Monday,DL,BOS,"Boston, MA",21:00,0.00
+Sunday,OO,SAN,"San Diego, CA",09:25,0.00
+Friday,WN,SMF,"Sacramento, CA",06:35,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",15:20,1.00
+Monday,UA,DEN,"Denver, CO",16:10,1.00
+Sunday,OO,SMF,"Sacramento, CA",18:30,0.00
+Tuesday,OO,BOI,"Boise, ID",18:57,0.00
+Friday,OO,SAT,"San Antonio, TX",18:30,0.00
+Friday,UA,DEN,"Denver, CO",14:20,0.00
+Tuesday,DL,TPA,"Tampa, FL",10:30,0.00
+Sunday,OO,SBP,"San Luis Obispo, CA",16:10,1.00
+Friday,WN,SLC,"Salt Lake City, UT",10:35,0.00
+Sunday,DL,AUS,"Austin, TX",14:00,0.00
+Monday,WN,OAK,"Oakland, CA",15:40,1.00
+Sunday,AA,ORD,"Chicago, IL",09:31,0.00
+Monday,WN,BWI,"Baltimore, MD",21:50,1.00
+Saturday,AA,PHX,"Phoenix, AZ",13:15,1.00
+Thursday,WN,OAK,"Oakland, CA",12:00,0.00
+Thursday,AA,MIA,"Miami, FL",21:41,0.00
+Friday,UA,ORD,"Chicago, IL",08:10,0.00
+Friday,UA,SFO,"San Francisco, CA",11:43,0.00
+Monday,WN,AUS,"Austin, TX",16:10,1.00
+Saturday,UA,SFO,"San Francisco, CA",13:20,0.00
+Wednesday,UA,ORD,"Chicago, IL",07:00,0.00
+Monday,UA,SFO,"San Francisco, CA",15:40,0.00
+Tuesday,AA,MCO,"Orlando, FL",15:18,0.00
+Monday,B6,JFK,"New York, NY",10:40,0.00
+Wednesday,DL,IND,"Indianapolis, IN",08:40,0.00
+Sunday,WN,SFO,"San Francisco, CA",08:10,1.00
+Tuesday,DL,DEN,"Denver, CO",14:09,0.00
+Monday,DL,JFK,"New York, NY",23:55,0.00
+Friday,QX,GEG,"Spokane, WA",12:48,0.00
+Monday,UA,SFO,"San Francisco, CA",11:43,0.00
+Sunday,UA,EWR,"Newark, NJ",06:00,0.00
+Saturday,OO,ABQ,"Albuquerque, NM",17:45,0.00
+Thursday,B6,JFK,"New York, NY",14:20,0.00
+Sunday,UA,SLC,"Salt Lake City, UT",19:03,0.00
+Tuesday,AS,PDX,"Portland, OR",14:17,0.00
+Tuesday,DL,ATL,"Atlanta, GA",08:15,0.00
+Sunday,WN,MCO,"Orlando, FL",23:15,1.00
+Monday,OO,SFO,"San Francisco, CA",17:45,0.00
+Friday,OO,AUS,"Austin, TX",08:09,0.00
+Friday,UA,SFO,"San Francisco, CA",10:27,1.00
+Monday,AA,CLT,"Charlotte, NC",21:25,1.00
+Wednesday,UA,ORD,"Chicago, IL",17:15,0.00
+Sunday,WN,PHX,"Phoenix, AZ",08:10,0.00
+Wednesday,UA,CMH,"Columbus, OH",10:45,0.00
+Sunday,WN,ABQ,"Albuquerque, NM",15:05,0.00
+Monday,DL,PDX,"Portland, OR",17:00,0.00
+Wednesday,UA,MCO,"Orlando, FL",23:04,0.00
+Thursday,AA,CLT,"Charlotte, NC",00:17,0.00
+Thursday,DL,ATL,"Atlanta, GA",14:30,0.00
+Saturday,AA,ORD,"Chicago, IL",17:59,0.00
+Tuesday,UA,SMF,"Sacramento, CA",08:50,0.00
+Wednesday,AA,MCO,"Orlando, FL",15:18,0.00
+Wednesday,DL,SFO,"San Francisco, CA",14:35,0.00
+Friday,F9,ORD,"Chicago, IL",00:31,1.00
+Wednesday,UA,LAS,"Las Vegas, NV",18:45,0.00
+Wednesday,OO,SAN,"San Diego, CA",14:05,0.00
+Saturday,DL,BOS,"Boston, MA",07:40,0.00
+Tuesday,UA,ORD,"Chicago, IL",23:53,1.00
+Friday,AS,SEA,"Seattle, WA",09:00,0.00
+Monday,WN,SMF,"Sacramento, CA",10:50,0.00
+Wednesday,UA,DEN,"Denver, CO",12:58,0.00
+Friday,DL,JFK,"New York, NY",07:20,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",20:55,0.00
+Sunday,UA,IAD,"Washington, DC",22:10,0.00
+Friday,DL,DEN,"Denver, CO",14:09,1.00
+Sunday,OO,TUL,"Tulsa, OK",09:36,0.00
+Wednesday,F9,SFO,"San Francisco, CA",18:04,0.00
+Thursday,AA,PHX,"Phoenix, AZ",13:15,0.00
+Sunday,OO,OMA,"Omaha, NE",18:33,1.00
+Wednesday,OO,SMF,"Sacramento, CA",12:00,1.00
+Sunday,OO,IAH,"Houston, TX",13:46,0.00
+Monday,WN,PHX,"Phoenix, AZ",19:50,0.00
+Tuesday,DL,MSY,"New Orleans, LA",07:05,0.00
+Tuesday,UA,EWR,"Newark, NJ",06:00,0.00
+Saturday,AA,AUS,"Austin, TX",18:52,0.00
+Saturday,WN,TUS,"Tucson, AZ",14:00,0.00
+Friday,AA,CLT,"Charlotte, NC",23:00,0.00
+Monday,UA,SFO,"San Francisco, CA",07:30,0.00
+Friday,OO,ABQ,"Albuquerque, NM",18:39,0.00
+Monday,WN,DAL,"Dallas, TX",10:45,1.00
+Friday,UA,HNL,"Honolulu, HI",18:45,0.00
+Tuesday,F9,LAS,"Las Vegas, NV",12:08,0.00
+Tuesday,B6,JFK,"New York, NY",20:36,1.00
+Tuesday,DL,SEA,"Seattle, WA",21:05,0.00
+Saturday,AA,PHL,"Philadelphia, PA",06:35,0.00
+Monday,DL,BNA,"Nashville, TN",18:40,0.00
+Saturday,OO,SEA,"Seattle, WA",18:55,0.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",07:00,0.00
+Wednesday,OO,OMA,"Omaha, NE",09:30,0.00
+Saturday,DL,TPA,"Tampa, FL",10:30,0.00
+Friday,UA,DEN,"Denver, CO",14:30,1.00
+Tuesday,AA,JFK,"New York, NY",08:00,1.00
+Monday,DL,AUS,"Austin, TX",18:40,0.00
+Friday,DL,PDX,"Portland, OR",10:10,0.00
+Sunday,OO,TUS,"Tucson, AZ",15:23,1.00
+Monday,OO,FAT,"Fresno, CA",10:30,0.00
+Friday,AA,BOS,"Boston, MA",08:00,1.00
+Monday,WN,DAL,"Dallas, TX",06:00,0.00
+Saturday,AA,MCO,"Orlando, FL",21:53,0.00
+Friday,F9,ATL,"Atlanta, GA",23:20,0.00
+Wednesday,DL,DTW,"Detroit, MI",07:45,0.00
+Sunday,OO,RDM,"Bend/Redmond, OR",10:15,0.00
+Wednesday,AS,SEA,"Seattle, WA",09:00,0.00
+Friday,WN,SFO,"San Francisco, CA",11:10,1.00
+Sunday,WN,BWI,"Baltimore, MD",13:15,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",12:06,0.00
+Monday,WN,OAK,"Oakland, CA",06:10,0.00
+Sunday,AS,STS,"Santa Rosa, CA",19:45,0.00
+Tuesday,UA,EWR,"Newark, NJ",07:15,0.00
+Friday,OO,SMF,"Sacramento, CA",20:45,0.00
+Monday,OO,PHX,"Phoenix, AZ",17:15,1.00
+Sunday,AA,PHX,"Phoenix, AZ",06:10,0.00
+Tuesday,OO,SAT,"San Antonio, TX",18:21,1.00
+Wednesday,DL,DEN,"Denver, CO",08:50,0.00
+Friday,DL,TPA,"Tampa, FL",10:30,0.00
+Wednesday,AA,BOS,"Boston, MA",08:15,1.00
+Monday,WN,OAK,"Oakland, CA",21:25,1.00
+Saturday,DL,JFK,"New York, NY",06:20,0.00
+Friday,WN,ABQ,"Albuquerque, NM",07:25,0.00
+Sunday,DL,AUS,"Austin, TX",15:47,0.00
+Friday,B6,JFK,"New York, NY",16:20,0.00
+Saturday,DL,BOS,"Boston, MA",15:25,0.00
+Friday,UA,DEN,"Denver, CO",20:07,1.00
+Wednesday,DL,SAT,"San Antonio, TX",18:50,0.00
+Wednesday,WN,OAK,"Oakland, CA",13:40,1.00
+Monday,DL,HNL,"Honolulu, HI",13:55,1.00
+Saturday,DL,MIA,"Miami, FL",09:05,1.00
+Monday,B6,BOS,"Boston, MA",10:50,0.00
+Saturday,DL,DEN,"Denver, CO",14:09,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",18:50,0.00
+Tuesday,DL,SLC,"Salt Lake City, UT",19:24,0.00
+Sunday,UA,IAH,"Houston, TX",05:45,0.00
+Tuesday,AA,IAD,"Washington, DC",21:45,0.00
+Tuesday,B6,JFK,"New York, NY",09:00,0.00
+Sunday,DL,JFK,"New York, NY",08:35,0.00
+Monday,OO,LAS,"Las Vegas, NV",14:30,0.00
+Sunday,WN,PHX,"Phoenix, AZ",18:35,0.00
+Saturday,OO,LAS,"Las Vegas, NV",08:28,0.00
+Monday,DL,LAS,"Las Vegas, NV",15:59,0.00
+Wednesday,DL,TPA,"Tampa, FL",10:30,0.00
+Saturday,QX,STS,"Santa Rosa, CA",09:35,0.00
+Sunday,AA,KOA,"Kona, HI",09:06,1.00
+Tuesday,UA,SLC,"Salt Lake City, UT",12:55,0.00
+Tuesday,WN,DEN,"Denver, CO",09:15,1.00
+Wednesday,AS,PDX,"Portland, OR",07:05,0.00
+Saturday,OO,SEA,"Seattle, WA",15:09,0.00
+Thursday,WN,SMF,"Sacramento, CA",18:20,1.00
+Thursday,WN,SJC,"San Jose, CA",12:10,1.00
+Friday,DL,OGG,"Kahului, HI",08:05,0.00
+Sunday,UA,HNL,"Honolulu, HI",13:15,0.00
+Thursday,DL,MSP,"Minneapolis, MN",06:15,0.00
+Tuesday,AA,PHL,"Philadelphia, PA",15:05,0.00
+Saturday,UA,SFO,"San Francisco, CA",13:20,0.00
+Friday,UA,BOS,"Boston, MA",22:47,0.00
+Saturday,WN,SJC,"San Jose, CA",07:00,0.00
+Sunday,DL,AUS,"Austin, TX",10:04,0.00
+Friday,AS,PDX,"Portland, OR",11:00,0.00
+Sunday,DL,SJC,"San Jose, CA",15:45,1.00
+Saturday,OO,IAH,"Houston, TX",13:46,0.00
+Friday,AA,DCA,"Washington, DC",12:32,1.00
+Saturday,UA,EWR,"Newark, NJ",12:15,0.00
+Sunday,DL,JFK,"New York, NY",15:20,0.00
+Saturday,OO,ABQ,"Albuquerque, NM",20:05,0.00
+Tuesday,F9,ATL,"Atlanta, GA",23:20,0.00
+Friday,B6,JFK,"New York, NY",13:59,0.00
+Wednesday,DL,MCO,"Orlando, FL",07:35,0.00
+Friday,OO,SEA,"Seattle, WA",10:57,0.00
+Friday,DL,BOS,"Boston, MA",21:00,0.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",13:58,0.00
+Friday,DL,MCO,"Orlando, FL",07:35,0.00
+Saturday,F9,SEA,"Seattle, WA",14:24,0.00
+Monday,UA,IAD,"Washington, DC",06:00,0.00
+Wednesday,DL,RDU,"Raleigh/Durham, NC",10:00,0.00
+Sunday,AS,PDX,"Portland, OR",21:12,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",13:38,1.00
+Monday,AA,JFK,"New York, NY",12:36,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",15:20,0.00
+Tuesday,AA,ORD,"Chicago, IL",06:00,1.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",15:20,0.00
+Monday,F9,DFW,"Dallas/Fort Worth, TX",07:00,0.00
+Sunday,DL,ATL,"Atlanta, GA",17:15,0.00
+Friday,F9,PHX,"Phoenix, AZ",22:05,0.00
+Tuesday,UA,TPA,"Tampa, FL",10:15,0.00
+Tuesday,DL,JFK,"New York, NY",10:00,1.00
+Friday,DL,LAS,"Las Vegas, NV",19:55,0.00
+Friday,UA,DEN,"Denver, CO",07:00,1.00
+Thursday,DL,DEN,"Denver, CO",20:19,0.00
+Wednesday,UA,EWR,"Newark, NJ",23:15,0.00
+Friday,UA,ORD,"Chicago, IL",12:50,0.00
+Sunday,AS,HNL,"Honolulu, HI",20:59,0.00
+Sunday,B6,JFK,"New York, NY",09:37,0.00
+Sunday,OO,SMF,"Sacramento, CA",12:00,0.00
+Wednesday,AS,HNL,"Honolulu, HI",10:00,1.00
+Thursday,AA,JFK,"New York, NY",08:00,0.00
+Wednesday,UA,SMF,"Sacramento, CA",19:09,0.00
+Sunday,WN,OAK,"Oakland, CA",14:35,0.00
+Saturday,OO,PHX,"Phoenix, AZ",13:05,0.00
+Friday,DL,PDX,"Portland, OR",07:35,0.00
+Friday,OO,RNO,"Reno, NV",21:55,0.00
+Monday,OO,DSM,"Des Moines, IA",12:50,0.00
+Thursday,AA,ORD,"Chicago, IL",10:23,0.00
+Thursday,DL,BNA,"Nashville, TN",12:15,0.00
+Thursday,AA,CLT,"Charlotte, NC",22:00,0.00
+Friday,OO,PDX,"Portland, OR",19:06,1.00
+Thursday,AA,HNL,"Honolulu, HI",14:59,0.00
+Friday,WN,OAK,"Oakland, CA",09:15,0.00
+Tuesday,OO,SBP,"San Luis Obispo, CA",16:10,0.00
+Wednesday,QX,PAE,"Everett, WA",12:45,0.00
+Thursday,F9,DEN,"Denver, CO",16:31,1.00
+Saturday,DL,LIH,"Lihue, HI",15:45,0.00
+Friday,OO,ABQ,"Albuquerque, NM",20:55,1.00
+Saturday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:35,0.00
+Wednesday,WN,LAS,"Las Vegas, NV",17:00,1.00
+Wednesday,UA,EWR,"Newark, NJ",07:15,0.00
+Sunday,DL,BOS,"Boston, MA",15:25,1.00
+Wednesday,DL,IAH,"Houston, TX",18:45,0.00
+Sunday,OO,XNA,"Fayetteville, AR",09:41,0.00
+Wednesday,AA,MIA,"Miami, FL",07:20,0.00
+Saturday,DL,AUS,"Austin, TX",14:00,1.00
+Sunday,DL,ATL,"Atlanta, GA",09:25,0.00
+Wednesday,OO,SMF,"Sacramento, CA",09:10,0.00
+Friday,AS,SFO,"San Francisco, CA",08:00,1.00
+Monday,DL,LAS,"Las Vegas, NV",21:55,0.00
+Tuesday,AA,ORD,"Chicago, IL",11:25,1.00
+Wednesday,WN,DAL,"Dallas, TX",07:30,0.00
+Wednesday,OO,SFO,"San Francisco, CA",21:30,0.00
+Tuesday,F9,SFO,"San Francisco, CA",19:22,0.00
+Sunday,UA,SEA,"Seattle, WA",19:15,0.00
+Monday,DL,HNL,"Honolulu, HI",08:55,0.00
+Saturday,AS,PDX,"Portland, OR",14:08,0.00
+Friday,AA,MIA,"Miami, FL",20:56,0.00
+Monday,WN,DAL,"Dallas, TX",18:30,0.00
+Sunday,AA,HNL,"Honolulu, HI",15:48,0.00
+Friday,OO,DEN,"Denver, CO",14:19,1.00
+Friday,AA,DFW,"Dallas/Fort Worth, TX",06:00,0.00
+Saturday,AS,SFO,"San Francisco, CA",13:45,0.00
+Friday,AA,OGG,"Kahului, HI",17:19,1.00
+Monday,DL,MSP,"Minneapolis, MN",23:59,0.00
+Saturday,QX,RDM,"Bend/Redmond, OR",20:00,0.00
+Thursday,OO,AUS,"Austin, TX",18:45,0.00
+Friday,DL,BOS,"Boston, MA",10:45,0.00
+Sunday,AA,PHL,"Philadelphia, PA",15:05,0.00
+Thursday,UA,KOA,"Kona, HI",09:00,1.00
+Monday,WN,SJC,"San Jose, CA",09:15,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",09:04,0.00
+Saturday,OO,BOI,"Boise, ID",11:28,0.00
+Wednesday,AA,DFW,"Dallas/Fort Worth, TX",13:58,1.00
+Saturday,AS,SEA,"Seattle, WA",19:47,1.00
+Saturday,UA,TPA,"Tampa, FL",10:15,0.00
+Saturday,WN,MDW,"Chicago, IL",23:55,0.00
+Monday,DL,SFO,"San Francisco, CA",19:59,0.00
+Saturday,OO,SMF,"Sacramento, CA",09:23,0.00
+Thursday,OO,SMF,"Sacramento, CA",12:00,0.00
+Friday,UA,ORD,"Chicago, IL",12:50,0.00
+Sunday,UA,HNL,"Honolulu, HI",17:00,0.00
+Wednesday,F9,DEN,"Denver, CO",09:40,0.00
+Sunday,DL,DTW,"Detroit, MI",07:15,0.00
+Friday,OO,SAN,"San Diego, CA",09:07,0.00
+Friday,DL,DTW,"Detroit, MI",21:35,1.00
+Sunday,OO,ABQ,"Albuquerque, NM",08:25,0.00
+Tuesday,AA,PHX,"Phoenix, AZ",10:13,0.00
+Sunday,UA,DEN,"Denver, CO",20:07,0.00
+Sunday,DL,IAH,"Houston, TX",18:40,0.00
+Thursday,F9,SFO,"San Francisco, CA",19:22,1.00
+Saturday,OO,SFO,"San Francisco, CA",17:45,0.00
+Tuesday,OO,OKC,"Oklahoma City, OK",08:36,1.00
+Sunday,UA,SMF,"Sacramento, CA",09:00,0.00
+Wednesday,DL,MSP,"Minneapolis, MN",08:25,0.00
+Wednesday,OO,SAT,"San Antonio, TX",10:26,1.00
+Sunday,WN,SFO,"San Francisco, CA",20:15,1.00
+Friday,UA,LAS,"Las Vegas, NV",10:50,0.00
+Monday,UA,DEN,"Denver, CO",10:55,1.00
+Monday,WN,LAS,"Las Vegas, NV",21:40,1.00
+Thursday,WN,LAS,"Las Vegas, NV",13:20,0.00
+Friday,DL,ATL,"Atlanta, GA",10:35,1.00
+Monday,OO,SLC,"Salt Lake City, UT",12:55,0.00
+Friday,UA,SFO,"San Francisco, CA",19:04,1.00
+Monday,OO,OMA,"Omaha, NE",09:30,0.00
+Sunday,OO,RNO,"Reno, NV",12:56,0.00
+Sunday,B6,JFK,"New York, NY",20:31,0.00
+Thursday,AA,DFW,"Dallas/Fort Worth, TX",23:59,0.00
+Sunday,DL,SFO,"San Francisco, CA",09:30,1.00
+Tuesday,DL,FLL,"Fort Lauderdale, FL",22:55,0.00
+Thursday,DL,DFW,"Dallas/Fort Worth, TX",08:50,0.00
+Wednesday,OO,DEN,"Denver, CO",15:59,0.00
+Friday,DL,PDX,"Portland, OR",20:39,0.00
+Wednesday,DL,PDX,"Portland, OR",07:40,0.00
+Thursday,WN,DEN,"Denver, CO",14:20,0.00
+Saturday,AA,ORD,"Chicago, IL",15:10,0.00
+Friday,DL,PDX,"Portland, OR",07:35,0.00
+Sunday,OO,ABQ,"Albuquerque, NM",20:55,0.00
+Thursday,OO,SFO,"San Francisco, CA",16:05,1.00
+Tuesday,OO,RNO,"Reno, NV",12:56,0.00
+Sunday,AA,DFW,"Dallas/Fort Worth, TX",23:59,1.00
+Monday,UA,DEN,"Denver, CO",14:20,0.00
+Monday,OO,SFO,"San Francisco, CA",16:06,1.00
+Tuesday,OO,SAT,"San Antonio, TX",18:15,0.00
+Tuesday,OO,TUS,"Tucson, AZ",15:05,0.00
+Sunday,WN,DEN,"Denver, CO",06:20,1.00
+Sunday,AA,MIA,"Miami, FL",21:41,1.00
+Thursday,AS,STS,"Santa Rosa, CA",19:45,0.00
+Thursday,WN,OAK,"Oakland, CA",06:10,0.00
+Thursday,AS,HNL,"Honolulu, HI",10:00,1.00
+Tuesday,AA,JFK,"New York, NY",08:00,0.00
+Monday,DL,SEA,"Seattle, WA",19:59,1.00
+Monday,WN,BWI,"Baltimore, MD",21:50,1.00
+Sunday,DL,JFK,"New York, NY",21:15,0.00
+Thursday,DL,JFK,"New York, NY",07:20,0.00
+Wednesday,OO,SMF,"Sacramento, CA",12:50,0.00
+Thursday,AA,ORD,"Chicago, IL",09:31,1.00
+Monday,WN,MDW,"Chicago, IL",23:55,0.00
+Saturday,UA,BZN,"Bozeman, MT",08:50,0.00
+Wednesday,B6,BOS,"Boston, MA",22:09,0.00
+Tuesday,WN,DAL,"Dallas, TX",13:45,1.00
+Tuesday,B6,FLL,"Fort Lauderdale, FL",23:35,0.00
+Wednesday,UA,EWR,"Newark, NJ",06:00,0.00
+Saturday,UA,ORD,"Chicago, IL",23:53,0.00
+Saturday,OO,SFO,"San Francisco, CA",16:05,1.00
+Wednesday,B6,FLL,"Fort Lauderdale, FL",08:30,0.00
+Wednesday,AA,ORD,"Chicago, IL",13:21,0.00
+Thursday,AS,PDX,"Portland, OR",07:15,0.00
+Monday,F9,PHX,"Phoenix, AZ",22:59,0.00
+Sunday,UA,EWR,"Newark, NJ",13:15,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",10:40,0.00
+Thursday,OO,SEA,"Seattle, WA",18:48,0.00
+Thursday,DL,BOS,"Boston, MA",21:05,0.00
+Sunday,UA,SFO,"San Francisco, CA",06:00,0.00
+Wednesday,OO,SJC,"San Jose, CA",07:58,0.00
+Monday,AA,JFK,"New York, NY",08:00,1.00
+Sunday,OO,PHX,"Phoenix, AZ",16:22,0.00
+Saturday,DL,AUS,"Austin, TX",14:00,0.00
+Thursday,AA,PHX,"Phoenix, AZ",18:46,1.00
+Monday,DL,SEA,"Seattle, WA",12:10,0.00
+Sunday,DL,SLC,"Salt Lake City, UT",05:50,0.00
+Sunday,DL,DEN,"Denver, CO",20:19,0.00
+Sunday,AA,BNA,"Nashville, TN",10:51,0.00
+Sunday,AA,CLT,"Charlotte, NC",07:18,0.00
+Tuesday,OO,BOI,"Boise, ID",18:57,0.00
+Monday,AS,PDX,"Portland, OR",21:14,0.00
+Sunday,UA,IAH,"Houston, TX",17:45,1.00
+Friday,UA,HNL,"Honolulu, HI",17:00,0.00
+Sunday,AA,PHL,"Philadelphia, PA",21:40,0.00
+Friday,UA,ORD,"Chicago, IL",22:35,0.00
+Thursday,DL,AUS,"Austin, TX",18:40,0.00
+Sunday,UA,IAH,"Houston, TX",19:21,0.00
+Wednesday,AA,LAS,"Las Vegas, NV",12:55,0.00
+Tuesday,OO,SBP,"San Luis Obispo, CA",16:10,0.00
+Tuesday,UA,DEN,"Denver, CO",14:30,0.00
+Sunday,WN,DAL,"Dallas, TX",08:20,0.00
+Thursday,F9,SEA,"Seattle, WA",15:15,0.00
+Saturday,DL,LAS,"Las Vegas, NV",07:35,1.00
+Saturday,DL,MSY,"New Orleans, LA",18:29,0.00
+Thursday,AA,MIA,"Miami, FL",23:17,1.00
+Saturday,DL,MCO,"Orlando, FL",16:10,0.00
+Saturday,DL,ATL,"Atlanta, GA",14:30,0.00
+Wednesday,UA,EWR,"Newark, NJ",11:15,0.00
+Wednesday,UA,DEN,"Denver, CO",20:07,0.00
+Thursday,OO,SEA,"Seattle, WA",12:45,0.00
+Saturday,UA,FAT,"Fresno, CA",16:48,0.00
+Thursday,AA,CLT,"Charlotte, NC",09:24,0.00
+Monday,DL,JFK,"New York, NY",21:15,0.00
+Sunday,DL,PDX,"Portland, OR",14:00,0.00
+Tuesday,DL,AUS,"Austin, TX",15:47,0.00
+Saturday,WN,HOU,"Houston, TX",23:50,0.00
+Thursday,AA,MCO,"Orlando, FL",21:41,1.00
+Wednesday,B6,BUF,"Buffalo, NY",23:59,0.00
+Wednesday,UA,ORD,"Chicago, IL",10:45,0.00
+Saturday,UA,BOS,"Boston, MA",08:15,0.00
+Thursday,AS,HNL,"Honolulu, HI",20:59,1.00
+Tuesday,AA,MCO,"Orlando, FL",10:55,0.00
+Saturday,DL,LAS,"Las Vegas, NV",07:35,0.00
+Friday,AA,MCO,"Orlando, FL",10:56,1.00
+Friday,UA,ORD,"Chicago, IL",10:45,1.00
+Tuesday,OO,BOI,"Boise, ID",19:55,0.00
+Monday,UA,AUS,"Austin, TX",16:38,1.00
+Monday,DL,BNA,"Nashville, TN",18:40,1.00
+Friday,WN,LAS,"Las Vegas, NV",15:25,1.00
+Thursday,UA,EWR,"Newark, NJ",08:00,0.00
+Saturday,WN,DAL,"Dallas, TX",11:25,1.00
+Thursday,WN,SMF,"Sacramento, CA",18:20,1.00
+Friday,OO,SFO,"San Francisco, CA",22:38,0.00
+Friday,AS,PDX,"Portland, OR",07:15,0.00
+Thursday,F9,ATL,"Atlanta, GA",15:28,0.00
+Wednesday,UA,BWI,"Baltimore, MD",09:30,0.00
+Thursday,OO,TUS,"Tucson, AZ",10:26,0.00
+Monday,AA,OGG,"Kahului, HI",17:19,0.00
+Sunday,AS,HNL,"Honolulu, HI",10:00,0.00
+Wednesday,OO,SMF,"Sacramento, CA",14:00,0.00
+Friday,OO,BOI,"Boise, ID",19:55,0.00
+Saturday,B6,BOS,"Boston, MA",08:00,0.00
+Tuesday,F9,LAS,"Las Vegas, NV",12:08,0.00
+Tuesday,DL,JFK,"New York, NY",23:55,0.00
+Sunday,WN,PHX,"Phoenix, AZ",05:35,0.00
+Saturday,OO,SMF,"Sacramento, CA",21:21,0.00
+Sunday,OO,GEG,"Spokane, WA",20:40,0.00
+Saturday,UA,SFO,"San Francisco, CA",13:20,0.00
+Tuesday,UA,EWR,"Newark, NJ",13:15,0.00
+Thursday,UA,HNL,"Honolulu, HI",09:05,0.00
+Tuesday,WN,OAK,"Oakland, CA",13:40,0.00
+Saturday,DL,SFO,"San Francisco, CA",14:35,0.00
+Monday,OO,MRY,"Monterey, CA",10:27,0.00
+Thursday,AA,JFK,"New York, NY",10:10,0.00
+Monday,WN,LAS,"Las Vegas, NV",08:05,1.00
+Monday,DL,MSY,"New Orleans, LA",11:10,1.00
+Friday,DL,MSP,"Minneapolis, MN",12:40,1.00
+Saturday,QX,SFO,"San Francisco, CA",06:13,1.00
+Tuesday,UA,SFO,"San Francisco, CA",13:25,0.00
+Tuesday,AA,IND,"Indianapolis, IN",17:04,1.00
+Wednesday,UA,SFO,"San Francisco, CA",09:15,1.00
+Wednesday,OO,TUS,"Tucson, AZ",16:01,0.00
+Saturday,OO,RNO,"Reno, NV",12:59,0.00
+Friday,DL,OGG,"Kahului, HI",08:05,0.00
+Monday,AA,CLT,"Charlotte, NC",12:39,0.00
+Monday,AA,JFK,"New York, NY",08:00,0.00
+Thursday,UA,DEN,"Denver, CO",10:54,0.00
+Monday,AA,DFW,"Dallas/Fort Worth, TX",01:22,0.00
+Sunday,UA,EWR,"Newark, NJ",23:15,0.00
+Saturday,DL,ATL,"Atlanta, GA",09:30,0.00
+Saturday,DL,MCO,"Orlando, FL",22:15,1.00
+Saturday,OO,PHX,"Phoenix, AZ",16:35,0.00
+Saturday,QX,RDM,"Bend/Redmond, OR",20:00,0.00
+Friday,AA,JFK,"New York, NY",12:45,0.00
+Friday,WN,MSY,"New Orleans, LA",08:35,0.00
+Tuesday,UA,BOS,"Boston, MA",22:43,0.00
+Wednesday,WN,OAK,"Oakland, CA",06:00,0.00
+Monday,F9,ATL,"Atlanta, GA",23:20,1.00
+Saturday,AA,DFW,"Dallas/Fort Worth, TX",01:22,0.00
+Sunday,B6,BOS,"Boston, MA",07:00,0.00
+Friday,WN,MCO,"Orlando, FL",23:15,0.00
+Saturday,DL,ATL,"Atlanta, GA",07:00,1.00
+Sunday,OO,GEG,"Spokane, WA",12:54,0.00
+Friday,DL,MCO,"Orlando, FL",22:15,1.00
+Thursday,UA,MCO,"Orlando, FL",10:26,0.00
+Wednesday,UA,KOA,"Kona, HI",09:00,0.00
+Tuesday,OO,BOI,"Boise, ID",19:45,0.00
+Friday,WN,LAS,"Las Vegas, NV",05:20,0.00
+Friday,DL,SEA,"Seattle, WA",15:35,0.00
+Monday,DL,SEA,"Seattle, WA",15:35,0.00
+Sunday,AS,HNL,"Honolulu, HI",07:00,0.00
+Thursday,UA,RNO,"Reno, NV",16:29,0.00
+Monday,AA,HNL,"Honolulu, HI",14:59,0.00
+Monday,UA,SFO,"San Francisco, CA",07:15,0.00
+Thursday,OO,SJC,"San Jose, CA",18:04,0.00
+Wednesday,OO,PHX,"Phoenix, AZ",17:45,0.00
+Wednesday,F9,SMF,"Sacramento, CA",17:57,0.00
+Wednesday,AA,HNL,"Honolulu, HI",08:20,0.00
+Monday,AS,LIH,"Lihue, HI",09:46,1.00
+Wednesday,AS,STS,"Santa Rosa, CA",18:22,0.00
+Sunday,WN,ELP,"El Paso, TX",14:45,1.00
+Saturday,B6,BUF,"Buffalo, NY",23:59,1.00
+Friday,AS,ANC,"Anchorage, AK",19:55,0.00
+Friday,AA,CLT,"Charlotte, NC",07:18,0.00
+Saturday,UA,PIT,"Pittsburgh, PA",09:00,0.00
+Friday,DL,ATL,"Atlanta, GA",21:55,0.00
+Saturday,DL,BOS,"Boston, MA",15:25,0.00
+Wednesday,UA,BOS,"Boston, MA",08:35,0.00
+Thursday,AA,PHL,"Philadelphia, PA",22:45,1.00
+Thursday,AA,BOS,"Boston, MA",13:30,0.00
+Thursday,AS,SEA,"Seattle, WA",17:57,0.00
+Saturday,WN,DAL,"Dallas, TX",11:25,0.00
+Sunday,UA,HNL,"Honolulu, HI",11:06,0.00
+Wednesday,OO,SBP,"San Luis Obispo, CA",22:43,0.00
+Sunday,UA,ORD,"Chicago, IL",23:50,0.00
+Sunday,UA,SFO,"San Francisco, CA",11:43,0.00
+Tuesday,DL,PDX,"Portland, OR",10:10,0.00
+Saturday,F9,DFW,"Dallas/Fort Worth, TX",18:56,0.00
+Sunday,OO,SMF,"Sacramento, CA",09:15,0.00
+Tuesday,B6,JFK,"New York, NY",20:31,0.00
+Sunday,DL,MCO,"Orlando, FL",07:35,0.00
+Friday,WN,MDW,"Chicago, IL",23:55,0.00
+Tuesday,DL,MCI,"Kansas City, MO",09:50,0.00
+Saturday,OO,AUS,"Austin, TX",08:09,0.00
+Thursday,UA,SFO,"San Francisco, CA",11:43,1.00
+Wednesday,AS,STS,"Santa Rosa, CA",18:22,0.00
+Saturday,OO,RNO,"Reno, NV",08:20,0.00
+Monday,UA,SMF,"Sacramento, CA",09:00,0.00
+Thursday,OO,PSC,"Pasco/Kennewick/Richland, WA",19:45,0.00
+Monday,B6,BOS,"Boston, MA",21:45,1.00
+Sunday,WN,SJC,"San Jose, CA",10:50,0.00
+Sunday,OO,TUS,"Tucson, AZ",09:35,1.00
+Tuesday,DL,MCO,"Orlando, FL",16:10,0.00
+Monday,WN,BWI,"Baltimore, MD",21:50,1.00
+Wednesday,AA,IND,"Indianapolis, IN",10:35,0.00
+Thursday,AS,PDX,"Portland, OR",21:12,0.00
+Sunday,WN,AUS,"Austin, TX",07:05,0.00
+Sunday,UA,DEN,"Denver, CO",16:10,0.00
+Tuesday,OO,SFO,"San Francisco, CA",21:16,0.00
+Thursday,DL,BNA,"Nashville, TN",18:40,0.00

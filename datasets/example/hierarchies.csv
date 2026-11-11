@@ -1,0 +1,14 @@
+feature,node,parent,members,lower,upper,closed
+DayOfWeek,Weekday,,"[""Monday"", ""Tuesday"", ""Wednesday"", ""Thursday"", ""Friday""]",,,
+DayOfWeek,Weekend,,"[""Saturday"", ""Sunday""]",,,
+Distance,Short,,,,,
+Distance,Medium,,,,,
+Distance,Long,,,2001,2750,[]
+Distance,1-250,Short,,1,250,[]
+Distance,251-500,Short,,251,500,[]
+Distance,501-750,Short,,501,750,[]
+Distance,751-1000,Short,,751,1000,[]
+Distance,1001-1250,Medium,,1001,1250,[]
+Distance,1251-1500,Medium,,1251,1500,[]
+Distance,1501-1750,Medium,,1501,1750,[]
+Distance,1751-2000,Medium,,1751,2000,[]

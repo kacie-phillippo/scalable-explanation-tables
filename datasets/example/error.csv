@@ -1,0 +1,16 @@
+DayOfWeek,Destination,DepartureTime,Distance,Error
+Monday,Austin,12:50,1447,1
+Saturday,Phoenix,23:15,2454,1
+Saturday,Austin,17:57,1242,1
+Monday,Boston,18:16,1592,0
+Sunday,Austin,22:35,2052,1
+Friday,Phoenix,07:00,2463,0
+Friday,Boston,18:10,1211,0
+Saturday,Phoenix,12:43,2288,0
+Sunday,Austin,09:59,1283,1
+Monday,Boston,10:10,1363,0
+Sunday,Phoenix,23:04,2218,1
+Friday,Boston,22:43,1911,0
+Friday,Austin,18:45,1489,0
+Friday,Phoenix,22:20,370,1
+Sunday,Austin,19:45,630,0

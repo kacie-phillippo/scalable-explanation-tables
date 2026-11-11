@@ -1,0 +1,3 @@
+feature,node,parent,members,lower,upper,closed
+DayOfWeek,Weekday,,"[""Monday"", ""Tuesday"", ""Wednesday"", ""Thursday"", ""Friday""]",,,
+DayOfWeek,Weekend,,"[""Saturday"", ""Sunday""]",,,
